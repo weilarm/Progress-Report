@@ -1,0 +1,35 @@
+QRW25588.1	XP_037025833.1	XP_037025810.1	LOC119067131	NW_023503293.1	4667562	4676800	True	XP_037025810.1|LOC119067131|1302
+True
+XP_037025833.1
+XP_037025810.1
+XP_037025810.1|LOC119067131|1302
+XP_037025810_1_LOC119067131_1302
+Gene: XP_037025810_1_LOC119067131_1302
+fDOG reference species: BRACO@38358@014529535_1 
+
+Building a consensus sequence
+	 ...finished
+
+Searching for orthologs ...
+	 ...finished 
+
+Calculating FAS scores ...
+Error running FAS with  fas.run --seed /share/project/mieke/fdog_neighbor_regions/core_orthologs//XP_037025810_1_LOC119067131_1302/XP_037025810_1_LOC119067131_1302.fa --query /share/project/mieke/fdog_neighbor_regions/XP_037025833.1/output/XP_037025810_1_LOC119067131_1302//XP_037025810_1_LOC119067131_1302_og.fa --annotation_dir /share/project/mieke/fdog_neighbor_regions/XP_037025833.1/output/XP_037025810_1_LOC119067131_1302//tmp/anno_dir --bidirectional --tsv --phyloprofile /share/project/mieke/fdog_neighbor_regions/XP_037025833.1/output/XP_037025810_1_LOC119067131_1302//tmp/XP_037025810_1_LOC119067131_1302.mapping.txt --seed_id 'XP_037025810_1_LOC119067131_1302|BRACO@38358@014529535_1|XP_037025810.1' --out_dir /share/project/mieke/fdog_neighbor_regions/XP_037025833.1/output/XP_037025810_1_LOC119067131_1302/ --out_name XP_037025810_1_LOC119067131_1302
+Error during gene prediction with metaeuk, using miniprot predictions for species PSEHY@35572@1
+No gene predicted with augustus or metaeuk, using miniprot predictions for species PSEHY@35572@1
+Error during gene prediction with metaeuk, using miniprot predictions for species BRAPE@1817611@1
+No gene predicted with augustus or metaeuk, using miniprot predictions for species BRAPE@1817611@1
+Error during gene prediction with metaeuk, using miniprot predictions for species BRAAL@1260807@1
+No gene predicted with augustus or metaeuk, using miniprot predictions for species BRAAL@1260807@1
+Error during gene prediction with metaeuk, using miniprot predictions for species PHYFL@1260839@1
+No gene predicted with augustus or metaeuk, using miniprot predictions for species PHYFL@1260839@1
+Error during gene prediction with metaeuk, using miniprot predictions for species TRISP@1260884@1
+No gene predicted with augustus or metaeuk, using miniprot predictions for species TRISP@1260884@1
+Error during gene prediction with metaeuk, using miniprot predictions for species BRADE@3151524@1
+No gene predicted with augustus or metaeuk, using miniprot predictions for species BRADE@3151524@1
+Error during gene prediction with metaeuk, using miniprot predictions for species BRAOD@1564500@1
+No gene predicted with augustus or metaeuk, using miniprot predictions for species BRAOD@1564500@1
+Error during gene prediction with metaeuk, using miniprot predictions for species BRACO@1817600@1
+No gene predicted with augustus or metaeuk, using miniprot predictions for species BRACO@1817600@1
+Error during gene prediction with metaeuk, using miniprot predictions for species LYCIN@767460@1
+No gene predicted with augustus or metaeuk, using miniprot predictions for species LYCIN@767460@1

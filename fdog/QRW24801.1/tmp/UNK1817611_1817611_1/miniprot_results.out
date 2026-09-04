@@ -1,0 +1,5 @@
+##gff-version 3
+##PAF	QRW24801.1|FIBRA@599839@000313525_1|XP_012178778.1	362	164	252	-	JBDOHP010111789.1	573	105	384	54	279	0	AS:i:58	ms:i:58	np:i:36	fs:i:0	st:i:0	da:i:21	do:i:-1	cg:Z:58M2D16M3D14M	cs:Z::1*aaaV:1*gaaN*aaaL*gtaA*gctG*gagN*tcaT*acaD*actS:1*gcaG*gtcA*ggtN:1*tcaD*acaG*attF:1*aaaV*gaaS*tcaA*acgS*actD:3*agtT*actS*cctC:2*caaE:1*gaaQ*aatD*tccD*gcaC*gggI*ttaA*atgI*actN*gaaS*gccG*aaaS:1*aaaI*attV*gtgF*gaaS*aaaN*tcaN*atgQ*acaC*gaaS*ttcY*agtG-actcat*tcaH*aacG*cccM*aaaS*gttI*aatG*ctgS*tttI*gacS*aagS:1*accK*cttT*catV*gtgS:1-tggaaagaa*ataV*attV*tatF:3*aatT*tttV*ggaT*ttgS*gagS*aatM*ttcY:1
+##STA	TKNEKVAESTTLAVGTSTIDKESTTLTISTPVVQNENSAGLMTEAKNKIVEKSMTEFSTHSNPKVNLFDKGTLHVGWKEIIYSDNNFGLENFGN
+JBDOHP010111789.1	miniprot	mRNA	106	384	58	-	.	ID=MP000001;Rank=1;Identity=0.1935;Positive=0.3871;Target=QRW24801.1|FIBRA@599839@000313525_1|XP_012178778.1 165 252
+JBDOHP010111789.1	miniprot	CDS	106	384	58	-	0	Parent=MP000001;Rank=1;Identity=0.1935;Target=QRW24801.1|FIBRA@599839@000313525_1|XP_012178778.1 165 252

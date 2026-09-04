@@ -1,0 +1,18 @@
+Gene: QRW19509.1
+fDOG reference species: RHISO@456999@016906535_1 
+
+Building a consensus sequence
+	 ...finished
+
+No gene predicted with augustus or metaeuk, using miniprot predictions for species UNK1817600@1817600@1
+Checking candidate regions...
+[INFO] No gene prediction for UNK1260839@1260839@1 JANTFA010145220.1:0-21566 — falling back to Miniprot
+[INFO] Added Miniprot fallback: QRW19509.1|UNK1260839@1260839@1|MP000001
+Checking candidate regions...
+[INFO] No gene prediction for UNK1260884@1260884@1 JANVCI010128742.1:0-22647 — falling back to Miniprot
+[INFO] Added Miniprot fallback: QRW19509.1|UNK1260884@1260884@1|MP000001
+Calculating FAS scores ...
+	 ...finished 
+
+fDOG-Assembly finished completely in 70823.16s ( Group preparation: 0.11s 	Ortholog search: 70809.54s 	FAS: 13.34s)
+Outputs are saved at /share/project/mieke/fdog/QRW19509.1/

@@ -1,0 +1,77 @@
+Query taxon: Bradysia coprophila (NCBI ID: 38358)
+Assigend label for query: Bilateria
+
+Total number of distinct taxonomic assignments: 206
+Taxonomic assignments not in target lineage: 189 (91.75%)
+
+Following taxa for rank "superkingdom" are present in the assembly ("taxon"	"gene count"):
+Eukaryota:	4267
+Bacteria:	26
+Viruses:	2
+Following taxa for rank "kingdom" are present in the assembly ("taxon"	"gene count"):
+Metazoa:	4234
+Fungi:	12
+Viridiplantae:	8
+Shotokuvirae:	1
+Bamfordvirae:	1
+Following taxa for rank "phylum" are present in the assembly ("taxon"	"gene count"):
+Arthropoda:	4169
+Chordata:	18
+Rotifera:	8
+Mollusca:	6
+Tardigrada:	5
+Nematoda:	5
+Bacteroidota:	4
+Ascomycota:	10
+Platyhelminthes:	4
+Streptophyta:	8
+Cossaviricota:	1
+Cnidaria:	2
+Pseudomonadota:	9
+Basidiomycota:	1
+Chloroflexota:	2
+Nucleocytoviricota:	1
+Zoopagomycota:	1
+Evosea:	1
+Actinomycetota:	2
+Bryozoa:	1
+Ciliophora:	1
+Rhodophyta:	1
+Following taxa for rank "class" are present in the assembly ("taxon"	"gene count"):
+Insecta:	4103
+Collembola:	22
+Malacostraca:	8
+Actinopteri:	12
+Eurotatoria:	8
+Arachnida:	15
+Bivalvia:	3
+Amphibia:	4
+Eutardigrada:	5
+Enoplea:	4
+Flavobacteriia:	2
+Saccharomycetes:	6
+Trematoda:	4
+Magnoliopsida:	7
+Quintoviricetes:	1
+Sphingobacteriia:	1
+Anthozoa:	2
+Alphaproteobacteria:	2
+Cephalopoda:	1
+Wallemiomycetes:	1
+Thermoflexia:	1
+Aves:	1
+Megaviricetes:	1
+Sordariomycetes:	2
+Harpellomycetes:	1
+Dothideomycetes:	1
+Gammaproteobacteria:	6
+Gastropoda:	1
+Eumycetozoa:	1
+Polypodiopsida:	1
+Actinomycetes:	2
+Orbiliomycetes:	1
+Gymnolaemata:	1
+Oligohymenophorea:	1
+Bangiophyceae:	1
+Chromadorea:	1
+Branchiopoda:	1

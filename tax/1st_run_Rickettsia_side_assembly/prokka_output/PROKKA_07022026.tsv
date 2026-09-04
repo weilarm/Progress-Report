@@ -1,0 +1,4349 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+GBPCPCFC_00001	CDS	96				hypothetical protein
+GBPCPCFC_00001	gene	96				
+GBPCPCFC_00002	CDS	369				hypothetical protein
+GBPCPCFC_00002	gene	369				
+GBPCPCFC_00003	CDS	246				hypothetical protein
+GBPCPCFC_00003	gene	246				
+GBPCPCFC_00004	CDS	288				hypothetical protein
+GBPCPCFC_00004	gene	288				
+GBPCPCFC_00005	CDS	96				hypothetical protein
+GBPCPCFC_00005	gene	96				
+GBPCPCFC_00006	CDS	165				hypothetical protein
+GBPCPCFC_00006	gene	165				
+GBPCPCFC_00007	CDS	135				hypothetical protein
+GBPCPCFC_00007	gene	135				
+GBPCPCFC_00008	CDS	162				hypothetical protein
+GBPCPCFC_00008	gene	162				
+GBPCPCFC_00009	CDS	255				hypothetical protein
+GBPCPCFC_00009	gene	255				
+GBPCPCFC_00010	CDS	288				hypothetical protein
+GBPCPCFC_00010	gene	288				
+GBPCPCFC_00011	CDS	1395				hypothetical protein
+GBPCPCFC_00011	gene	1395				
+GBPCPCFC_00012	CDS	573				hypothetical protein
+GBPCPCFC_00012	gene	573				
+GBPCPCFC_00013	CDS	345				hypothetical protein
+GBPCPCFC_00013	gene	345				
+GBPCPCFC_00014	CDS	276				hypothetical protein
+GBPCPCFC_00014	gene	276				
+GBPCPCFC_00015	CDS	105				hypothetical protein
+GBPCPCFC_00015	gene	105				
+GBPCPCFC_00016	CDS	171				hypothetical protein
+GBPCPCFC_00016	gene	171				
+GBPCPCFC_00017	CDS	255				hypothetical protein
+GBPCPCFC_00017	gene	255				
+GBPCPCFC_00018	CDS	207				hypothetical protein
+GBPCPCFC_00018	gene	207				
+GBPCPCFC_00019	CDS	1572	dnaE	2.7.7.7	COG0587	DNA polymerase III subunit alpha
+GBPCPCFC_00019	gene	1572	dnaE			
+GBPCPCFC_00020	CDS	141				hypothetical protein
+GBPCPCFC_00020	gene	141				
+GBPCPCFC_00021	CDS	399				hypothetical protein
+GBPCPCFC_00021	gene	399				
+GBPCPCFC_00022	CDS	909				hypothetical protein
+GBPCPCFC_00022	gene	909				
+GBPCPCFC_00023	CDS	324				hypothetical protein
+GBPCPCFC_00023	gene	324				
+GBPCPCFC_00024	CDS	558	rpnD_1	3.1.21.-		Recombination-promoting nuclease RpnD
+GBPCPCFC_00024	gene	558	rpnD_1			
+GBPCPCFC_00025	CDS	240				hypothetical protein
+GBPCPCFC_00025	gene	240				
+GBPCPCFC_00026	CDS	2118				hypothetical protein
+GBPCPCFC_00026	gene	2118				
+GBPCPCFC_00027	CDS	765				hypothetical protein
+GBPCPCFC_00027	gene	765				
+GBPCPCFC_00028	CDS	1293				hypothetical protein
+GBPCPCFC_00028	gene	1293				
+GBPCPCFC_00029	CDS	354				hypothetical protein
+GBPCPCFC_00029	gene	354				
+GBPCPCFC_00030	CDS	1599	ltrA_1		COG3344	Group II intron-encoded protein LtrA
+GBPCPCFC_00030	gene	1599	ltrA_1			
+GBPCPCFC_00031	CDS	300	rpnA_1	3.1.21.-	COG5464	Recombination-promoting nuclease RpnA
+GBPCPCFC_00031	gene	300	rpnA_1			
+GBPCPCFC_00032	CDS	1182				hypothetical protein
+GBPCPCFC_00032	gene	1182				
+GBPCPCFC_00033	CDS	537				hypothetical protein
+GBPCPCFC_00033	gene	537				
+GBPCPCFC_00034	CDS	297				hypothetical protein
+GBPCPCFC_00034	gene	297				
+GBPCPCFC_00035	CDS	282	yafQ	3.1.-.-	COG3041	mRNA interferase toxin YafQ
+GBPCPCFC_00035	gene	282	yafQ			
+GBPCPCFC_00036	CDS	264	dinJ			Antitoxin DinJ
+GBPCPCFC_00036	gene	264	dinJ			
+GBPCPCFC_00037	CDS	144				Iron-sulfur cluster carrier protein
+GBPCPCFC_00037	gene	144				
+GBPCPCFC_00038	CDS	558	hin_1		COG1961	DNA-invertase hin
+GBPCPCFC_00038	gene	558	hin_1			
+GBPCPCFC_00039	CDS	327				hypothetical protein
+GBPCPCFC_00039	gene	327				
+GBPCPCFC_00040	CDS	390	vapC	3.1.-.-		tRNA(fMet)-specific endonuclease VapC
+GBPCPCFC_00040	gene	390	vapC			
+GBPCPCFC_00041	CDS	774	soj_1	3.6.-.-	COG1192	Sporulation initiation inhibitor protein Soj
+GBPCPCFC_00041	gene	774	soj_1			
+GBPCPCFC_00042	CDS	321				hypothetical protein
+GBPCPCFC_00042	gene	321				
+GBPCPCFC_00043	CDS	1095				hypothetical protein
+GBPCPCFC_00043	gene	1095				
+GBPCPCFC_00044	CDS	177				hypothetical protein
+GBPCPCFC_00044	gene	177				
+GBPCPCFC_00045	CDS	2409				hypothetical protein
+GBPCPCFC_00045	gene	2409				
+GBPCPCFC_00046	CDS	729				hypothetical protein
+GBPCPCFC_00046	gene	729				
+GBPCPCFC_00047	CDS	1095				hypothetical protein
+GBPCPCFC_00047	gene	1095				
+GBPCPCFC_00048	CDS	153				hypothetical protein
+GBPCPCFC_00048	gene	153				
+GBPCPCFC_00049	CDS	378				hypothetical protein
+GBPCPCFC_00049	gene	378				
+GBPCPCFC_00050	CDS	135				hypothetical protein
+GBPCPCFC_00050	gene	135				
+GBPCPCFC_00051	CDS	285				hypothetical protein
+GBPCPCFC_00051	gene	285				
+GBPCPCFC_00052	CDS	288				hypothetical protein
+GBPCPCFC_00052	gene	288				
+GBPCPCFC_00053	CDS	396				hypothetical protein
+GBPCPCFC_00053	gene	396				
+GBPCPCFC_00054	CDS	183				hypothetical protein
+GBPCPCFC_00054	gene	183				
+GBPCPCFC_00055	CDS	102				hypothetical protein
+GBPCPCFC_00055	gene	102				
+GBPCPCFC_00056	CDS	1449	tnpA_1	3.1.-.-		Transposase for transposon Tn5
+GBPCPCFC_00056	gene	1449	tnpA_1			
+GBPCPCFC_00057	CDS	396				hypothetical protein
+GBPCPCFC_00057	gene	396				
+GBPCPCFC_00058	CDS	411				hypothetical protein
+GBPCPCFC_00058	gene	411				
+GBPCPCFC_00059	CDS	1662	lon_1	3.4.21.53		Lon protease
+GBPCPCFC_00059	gene	1662	lon_1			
+GBPCPCFC_00060	CDS	285	lon2	3.4.21.53	COG0466	Lon protease 2
+GBPCPCFC_00060	gene	285	lon2			
+GBPCPCFC_00061	CDS	438				hypothetical protein
+GBPCPCFC_00061	gene	438				
+GBPCPCFC_00062	CDS	858	lon1	3.4.21.53	COG0466	Lon protease 1
+GBPCPCFC_00062	gene	858	lon1			
+GBPCPCFC_00063	CDS	1122				hypothetical protein
+GBPCPCFC_00063	gene	1122				
+GBPCPCFC_00064	CDS	642				hypothetical protein
+GBPCPCFC_00064	gene	642				
+GBPCPCFC_00065	CDS	1278				hypothetical protein
+GBPCPCFC_00065	gene	1278				
+GBPCPCFC_00066	CDS	129				hypothetical protein
+GBPCPCFC_00066	gene	129				
+GBPCPCFC_00067	CDS	1095				hypothetical protein
+GBPCPCFC_00067	gene	1095				
+GBPCPCFC_00068	CDS	1194	proP_1			Proline/betaine transporter
+GBPCPCFC_00068	gene	1194	proP_1			
+GBPCPCFC_00069	CDS	1107				hypothetical protein
+GBPCPCFC_00069	gene	1107				
+GBPCPCFC_00070	CDS	717	rsh_1	2.7.6.5		GTP pyrophosphokinase rsh
+GBPCPCFC_00070	gene	717	rsh_1			
+GBPCPCFC_00071	CDS	294				hypothetical protein
+GBPCPCFC_00071	gene	294				
+GBPCPCFC_00072	CDS	648	soj_2	3.6.-.-	COG1192	Sporulation initiation inhibitor protein Soj
+GBPCPCFC_00072	gene	648	soj_2			
+GBPCPCFC_00073	CDS	513				hypothetical protein
+GBPCPCFC_00073	gene	513				
+GBPCPCFC_00074	CDS	525				hypothetical protein
+GBPCPCFC_00074	gene	525				
+GBPCPCFC_00075	CDS	438				hypothetical protein
+GBPCPCFC_00075	gene	438				
+GBPCPCFC_00076	CDS	174				hypothetical protein
+GBPCPCFC_00076	gene	174				
+GBPCPCFC_00077	CDS	255	relG	3.1.-.-	COG2026	Toxin RelG
+GBPCPCFC_00077	gene	255	relG			
+GBPCPCFC_00078	CDS	216				hypothetical protein
+GBPCPCFC_00078	gene	216				
+GBPCPCFC_00079	CDS	123				hypothetical protein
+GBPCPCFC_00079	gene	123				
+GBPCPCFC_00080	CDS	375				hypothetical protein
+GBPCPCFC_00080	gene	375				
+GBPCPCFC_00081	CDS	759				hypothetical protein
+GBPCPCFC_00081	gene	759				
+GBPCPCFC_00082	CDS	1095				hypothetical protein
+GBPCPCFC_00082	gene	1095				
+GBPCPCFC_00083	CDS	1293				hypothetical protein
+GBPCPCFC_00083	gene	1293				
+GBPCPCFC_00084	CDS	147				hypothetical protein
+GBPCPCFC_00084	gene	147				
+GBPCPCFC_00085	CDS	363				hypothetical protein
+GBPCPCFC_00085	gene	363				
+GBPCPCFC_00086	CDS	186				hypothetical protein
+GBPCPCFC_00086	gene	186				
+GBPCPCFC_00087	CDS	1743	asnB_1	6.3.5.4	COG0367	Asparagine synthetase [glutamine-hydrolyzing] 1
+GBPCPCFC_00087	gene	1743	asnB_1			
+GBPCPCFC_00088	CDS	1233				hypothetical protein
+GBPCPCFC_00088	gene	1233				
+GBPCPCFC_00089	CDS	780				hypothetical protein
+GBPCPCFC_00089	gene	780				
+GBPCPCFC_00090	CDS	1815	tagH_1	3.6.3.40		Teichoic acids export ATP-binding protein TagH
+GBPCPCFC_00090	gene	1815	tagH_1			
+GBPCPCFC_00091	CDS	1707	ubiG_1	2.1.1.222		Ubiquinone biosynthesis O-methyltransferase
+GBPCPCFC_00091	gene	1707	ubiG_1			
+GBPCPCFC_00092	CDS	1341				hypothetical protein
+GBPCPCFC_00092	gene	1341				
+GBPCPCFC_00093	CDS	177				hypothetical protein
+GBPCPCFC_00093	gene	177				
+GBPCPCFC_00094	CDS	2838				hypothetical protein
+GBPCPCFC_00094	gene	2838				
+GBPCPCFC_00095	CDS	1191				hypothetical protein
+GBPCPCFC_00095	gene	1191				
+GBPCPCFC_00096	CDS	1845	asnB_2	6.3.5.4	COG0367	Asparagine synthetase [glutamine-hydrolyzing] 1
+GBPCPCFC_00096	gene	1845	asnB_2			
+GBPCPCFC_00097	CDS	216				hypothetical protein
+GBPCPCFC_00097	gene	216				
+GBPCPCFC_00098	CDS	1308	wbpA	1.1.1.136	COG0677	UDP-N-acetyl-D-glucosamine 6-dehydrogenase
+GBPCPCFC_00098	gene	1308	wbpA			
+GBPCPCFC_00099	CDS	933	yjhC	1.-.-.-	COG0673	putative oxidoreductase YjhC
+GBPCPCFC_00099	gene	933	yjhC			
+GBPCPCFC_00100	CDS	591	wbpD	2.3.1.201	COG0110	UDP-2-acetamido-3-amino-2,3-dideoxy-D-glucuronate N-acetyltransferase
+GBPCPCFC_00100	gene	591	wbpD			
+GBPCPCFC_00101	CDS	1131	wbpE	2.6.1.98	COG0399	UDP-2-acetamido-2-deoxy-3-oxo-D-glucuronate aminotransferase
+GBPCPCFC_00101	gene	1131	wbpE			
+GBPCPCFC_00102	CDS	1101	wbpI	5.1.3.23	COG0381	UDP-2,3-diacetamido-2,3-dideoxy-D-glucuronate 2-epimerase
+GBPCPCFC_00102	gene	1101	wbpI			
+GBPCPCFC_00103	CDS	375				hypothetical protein
+GBPCPCFC_00103	gene	375				
+GBPCPCFC_00104	CDS	468				hypothetical protein
+GBPCPCFC_00104	gene	468				
+GBPCPCFC_00105	CDS	216				hypothetical protein
+GBPCPCFC_00105	gene	216				
+GBPCPCFC_00106	CDS	465				hypothetical protein
+GBPCPCFC_00106	gene	465				
+GBPCPCFC_00107	CDS	159				hypothetical protein
+GBPCPCFC_00107	gene	159				
+GBPCPCFC_00108	CDS	957				hypothetical protein
+GBPCPCFC_00108	gene	957				
+GBPCPCFC_00109	CDS	201				hypothetical protein
+GBPCPCFC_00109	gene	201				
+GBPCPCFC_00110	CDS	399				hypothetical protein
+GBPCPCFC_00110	gene	399				
+GBPCPCFC_00111	CDS	945				hypothetical protein
+GBPCPCFC_00111	gene	945				
+GBPCPCFC_00112	CDS	117				hypothetical protein
+GBPCPCFC_00112	gene	117				
+GBPCPCFC_00113	CDS	1293				hypothetical protein
+GBPCPCFC_00113	gene	1293				
+GBPCPCFC_00114	CDS	606				hypothetical protein
+GBPCPCFC_00114	gene	606				
+GBPCPCFC_00115	CDS	609	tnpR_1		COG1961	Transposon gamma-delta resolvase
+GBPCPCFC_00115	gene	609	tnpR_1			
+GBPCPCFC_00116	CDS	216				hypothetical protein
+GBPCPCFC_00116	gene	216				
+GBPCPCFC_00117	CDS	270				Insertion sequence IS5376 putative ATP-binding protein
+GBPCPCFC_00117	gene	270				
+GBPCPCFC_00118	CDS	291				hypothetical protein
+GBPCPCFC_00118	gene	291				
+GBPCPCFC_00119	CDS	189				hypothetical protein
+GBPCPCFC_00119	gene	189				
+GBPCPCFC_00120	CDS	165				hypothetical protein
+GBPCPCFC_00120	gene	165				
+GBPCPCFC_00121	CDS	204				hypothetical protein
+GBPCPCFC_00121	gene	204				
+GBPCPCFC_00122	CDS	201				hypothetical protein
+GBPCPCFC_00122	gene	201				
+GBPCPCFC_00123	CDS	171				hypothetical protein
+GBPCPCFC_00123	gene	171				
+GBPCPCFC_00124	CDS	843	barA_1	2.7.13.3	COG0784	Signal transduction histidine-protein kinase BarA
+GBPCPCFC_00124	gene	843	barA_1			
+GBPCPCFC_00125	CDS	816				hypothetical protein
+GBPCPCFC_00125	gene	816				
+GBPCPCFC_00126	CDS	1635				hypothetical protein
+GBPCPCFC_00126	gene	1635				
+GBPCPCFC_00127	CDS	1452	mecR1			Methicillin resistance mecR1 protein
+GBPCPCFC_00127	gene	1452	mecR1			
+GBPCPCFC_00128	CDS	861				hypothetical protein
+GBPCPCFC_00128	gene	861				
+GBPCPCFC_00129	CDS	1659				hypothetical protein
+GBPCPCFC_00129	gene	1659				
+GBPCPCFC_00130	CDS	339				hypothetical protein
+GBPCPCFC_00130	gene	339				
+GBPCPCFC_00131	CDS	501				hypothetical protein
+GBPCPCFC_00131	gene	501				
+GBPCPCFC_00132	CDS	180				hypothetical protein
+GBPCPCFC_00132	gene	180				
+GBPCPCFC_00133	CDS	417				hypothetical protein
+GBPCPCFC_00133	gene	417				
+GBPCPCFC_00134	CDS	957				hypothetical protein
+GBPCPCFC_00134	gene	957				
+GBPCPCFC_00135	CDS	1068				hypothetical protein
+GBPCPCFC_00135	gene	1068				
+GBPCPCFC_00136	CDS	1464				hypothetical protein
+GBPCPCFC_00136	gene	1464				
+GBPCPCFC_00137	CDS	384				hypothetical protein
+GBPCPCFC_00137	gene	384				
+GBPCPCFC_00138	CDS	3921				hypothetical protein
+GBPCPCFC_00138	gene	3921				
+GBPCPCFC_00139	CDS	354				hypothetical protein
+GBPCPCFC_00139	gene	354				
+GBPCPCFC_00140	CDS	189				hypothetical protein
+GBPCPCFC_00140	gene	189				
+GBPCPCFC_00141	CDS	795				hypothetical protein
+GBPCPCFC_00141	gene	795				
+GBPCPCFC_00142	CDS	2178				hypothetical protein
+GBPCPCFC_00142	gene	2178				
+GBPCPCFC_00143	CDS	501				hypothetical protein
+GBPCPCFC_00143	gene	501				
+GBPCPCFC_00144	CDS	777				hypothetical protein
+GBPCPCFC_00144	gene	777				
+GBPCPCFC_00145	CDS	348				hypothetical protein
+GBPCPCFC_00145	gene	348				
+GBPCPCFC_00146	CDS	216				hypothetical protein
+GBPCPCFC_00146	gene	216				
+GBPCPCFC_00147	CDS	636				hypothetical protein
+GBPCPCFC_00147	gene	636				
+GBPCPCFC_00148	CDS	1023				hypothetical protein
+GBPCPCFC_00148	gene	1023				
+GBPCPCFC_00149	CDS	873				hypothetical protein
+GBPCPCFC_00149	gene	873				
+GBPCPCFC_00150	CDS	2127				hypothetical protein
+GBPCPCFC_00150	gene	2127				
+GBPCPCFC_00151	CDS	333				hypothetical protein
+GBPCPCFC_00151	gene	333				
+GBPCPCFC_00152	CDS	2133				hypothetical protein
+GBPCPCFC_00152	gene	2133				
+GBPCPCFC_00153	CDS	378				hypothetical protein
+GBPCPCFC_00153	gene	378				
+GBPCPCFC_00154	CDS	813				hypothetical protein
+GBPCPCFC_00154	gene	813				
+GBPCPCFC_00155	CDS	2415				hypothetical protein
+GBPCPCFC_00155	gene	2415				
+GBPCPCFC_00156	CDS	318				hypothetical protein
+GBPCPCFC_00156	gene	318				
+GBPCPCFC_00157	CDS	519				hypothetical protein
+GBPCPCFC_00157	gene	519				
+GBPCPCFC_00158	CDS	192				hypothetical protein
+GBPCPCFC_00158	gene	192				
+GBPCPCFC_00159	CDS	144				hypothetical protein
+GBPCPCFC_00159	gene	144				
+GBPCPCFC_00160	CDS	177				hypothetical protein
+GBPCPCFC_00160	gene	177				
+GBPCPCFC_00161	CDS	171				hypothetical protein
+GBPCPCFC_00161	gene	171				
+GBPCPCFC_00162	CDS	207				hypothetical protein
+GBPCPCFC_00162	gene	207				
+GBPCPCFC_00163	CDS	108				hypothetical protein
+GBPCPCFC_00163	gene	108				
+GBPCPCFC_00164	CDS	198				hypothetical protein
+GBPCPCFC_00164	gene	198				
+GBPCPCFC_00165	CDS	441				hypothetical protein
+GBPCPCFC_00165	gene	441				
+GBPCPCFC_00166	CDS	402				hypothetical protein
+GBPCPCFC_00166	gene	402				
+GBPCPCFC_00167	CDS	1359	traI_1			Multifunctional conjugation protein TraI
+GBPCPCFC_00167	gene	1359	traI_1			
+GBPCPCFC_00168	CDS	465				hypothetical protein
+GBPCPCFC_00168	gene	465				
+GBPCPCFC_00169	CDS	1095				hypothetical protein
+GBPCPCFC_00169	gene	1095				
+GBPCPCFC_00170	CDS	789				hypothetical protein
+GBPCPCFC_00170	gene	789				
+GBPCPCFC_00171	CDS	507				hypothetical protein
+GBPCPCFC_00171	gene	507				
+GBPCPCFC_00172	CDS	288				hypothetical protein
+GBPCPCFC_00172	gene	288				
+GBPCPCFC_00173	CDS	1845				hypothetical protein
+GBPCPCFC_00173	gene	1845				
+GBPCPCFC_00174	CDS	954	barA_2	2.7.13.3	COG0784	Signal transduction histidine-protein kinase BarA
+GBPCPCFC_00174	gene	954	barA_2			
+GBPCPCFC_00175	CDS	147	dpnM_1	2.1.1.72		Modification methylase DpnIIA
+GBPCPCFC_00175	gene	147	dpnM_1			
+GBPCPCFC_00176	CDS	654	dpnM_2	2.1.1.72		Modification methylase DpnIIA
+GBPCPCFC_00176	gene	654	dpnM_2			
+GBPCPCFC_00177	CDS	1722				hypothetical protein
+GBPCPCFC_00177	gene	1722				
+GBPCPCFC_00178	CDS	438				hypothetical protein
+GBPCPCFC_00178	gene	438				
+GBPCPCFC_00179	CDS	168				hypothetical protein
+GBPCPCFC_00179	gene	168				
+GBPCPCFC_00180	CDS	585	rcsD	2.7.2.-		Phosphotransferase RcsD
+GBPCPCFC_00180	gene	585	rcsD			
+GBPCPCFC_00181	CDS	351	evgS_1	2.7.13.3	COG0784	Sensor protein EvgS
+GBPCPCFC_00181	gene	351	evgS_1			
+GBPCPCFC_00182	CDS	1854				hypothetical protein
+GBPCPCFC_00182	gene	1854				
+GBPCPCFC_00183	CDS	288				hypothetical protein
+GBPCPCFC_00183	gene	288				
+GBPCPCFC_00184	CDS	531				hypothetical protein
+GBPCPCFC_00184	gene	531				
+GBPCPCFC_00185	CDS	321				hypothetical protein
+GBPCPCFC_00185	gene	321				
+GBPCPCFC_00186	CDS	2355				hypothetical protein
+GBPCPCFC_00186	gene	2355				
+GBPCPCFC_00187	CDS	246				hypothetical protein
+GBPCPCFC_00187	gene	246				
+GBPCPCFC_00188	CDS	282				hypothetical protein
+GBPCPCFC_00188	gene	282				
+GBPCPCFC_00189	CDS	1869				hypothetical protein
+GBPCPCFC_00189	gene	1869				
+GBPCPCFC_00190	CDS	234				hypothetical protein
+GBPCPCFC_00190	gene	234				
+GBPCPCFC_00191	CDS	1875				hypothetical protein
+GBPCPCFC_00191	gene	1875				
+GBPCPCFC_00192	CDS	465				hypothetical protein
+GBPCPCFC_00192	gene	465				
+GBPCPCFC_00193	CDS	1977				hypothetical protein
+GBPCPCFC_00193	gene	1977				
+GBPCPCFC_00194	CDS	3825				hypothetical protein
+GBPCPCFC_00194	gene	3825				
+GBPCPCFC_00195	CDS	531				hypothetical protein
+GBPCPCFC_00195	gene	531				
+GBPCPCFC_00196	CDS	465				hypothetical protein
+GBPCPCFC_00196	gene	465				
+GBPCPCFC_00197	CDS	1293				hypothetical protein
+GBPCPCFC_00197	gene	1293				
+GBPCPCFC_00198	CDS	285				hypothetical protein
+GBPCPCFC_00198	gene	285				
+GBPCPCFC_00199	CDS	417				hypothetical protein
+GBPCPCFC_00199	gene	417				
+GBPCPCFC_00200	CDS	192				hypothetical protein
+GBPCPCFC_00200	gene	192				
+GBPCPCFC_00201	CDS	3282	smc_1			Chromosome partition protein Smc
+GBPCPCFC_00201	gene	3282	smc_1			
+GBPCPCFC_00202	CDS	1752				hypothetical protein
+GBPCPCFC_00202	gene	1752				
+GBPCPCFC_00203	CDS	465				hypothetical protein
+GBPCPCFC_00203	gene	465				
+GBPCPCFC_00204	CDS	117				hypothetical protein
+GBPCPCFC_00204	gene	117				
+GBPCPCFC_00205	CDS	1575				hypothetical protein
+GBPCPCFC_00205	gene	1575				
+GBPCPCFC_00206	CDS	465				hypothetical protein
+GBPCPCFC_00206	gene	465				
+GBPCPCFC_00207	tRNA	91				tRNA-Ser(gct)
+GBPCPCFC_00207	gene	91				
+GBPCPCFC_00208	CDS	159				hypothetical protein
+GBPCPCFC_00208	gene	159				
+GBPCPCFC_00209	CDS	339				hypothetical protein
+GBPCPCFC_00209	gene	339				
+GBPCPCFC_00210	CDS	1572	ctaD	1.9.3.1	COG0843	Cytochrome c oxidase subunit 1
+GBPCPCFC_00210	gene	1572	ctaD			
+GBPCPCFC_00211	CDS	624	vat	2.3.1.-		Virginiamycin A acetyltransferase
+GBPCPCFC_00211	gene	624	vat			
+GBPCPCFC_00212	CDS	807	ctaC	1.9.3.1	COG1622	Cytochrome c oxidase subunit 2
+GBPCPCFC_00212	gene	807	ctaC			
+GBPCPCFC_00213	CDS	852				hypothetical protein
+GBPCPCFC_00213	gene	852				
+GBPCPCFC_00214	CDS	825	ygfZ			tRNA-modifying protein YgfZ
+GBPCPCFC_00214	gene	825	ygfZ			
+GBPCPCFC_00215	CDS	2832	walK	2.7.13.3		Sensor histidine kinase WalK
+GBPCPCFC_00215	gene	2832	walK			
+GBPCPCFC_00216	CDS	900	hemC	2.5.1.61	COG0181	Porphobilinogen deaminase
+GBPCPCFC_00216	gene	900	hemC			
+GBPCPCFC_00217	CDS	1368	ffh		COG0541	Signal recognition particle protein
+GBPCPCFC_00217	gene	1368	ffh			
+GBPCPCFC_00218	tRNA	76				tRNA-Phe(gaa)
+GBPCPCFC_00218	gene	76				
+GBPCPCFC_00219	CDS	3090	sca2_1			Putative surface cell antigen sca2
+GBPCPCFC_00219	gene	3090	sca2_1			
+GBPCPCFC_00220	CDS	2985	smc_2			Chromosome partition protein Smc
+GBPCPCFC_00220	gene	2985	smc_2			
+GBPCPCFC_00221	CDS	282				hypothetical protein
+GBPCPCFC_00221	gene	282				
+GBPCPCFC_00222	CDS	1161	ubiF	1.14.13.-	COG0654	2-octaprenyl-3-methyl-6-methoxy-1,4-benzoquinol hydroxylase
+GBPCPCFC_00222	gene	1161	ubiF			
+GBPCPCFC_00223	rRNA	1498				16S ribosomal RNA
+GBPCPCFC_00223	gene	1498				
+GBPCPCFC_00224	CDS	1095				hypothetical protein
+GBPCPCFC_00224	gene	1095				
+GBPCPCFC_00225	CDS	156				hypothetical protein
+GBPCPCFC_00225	gene	156				
+GBPCPCFC_00226	CDS	231				hypothetical protein
+GBPCPCFC_00226	gene	231				
+GBPCPCFC_00227	CDS	1095				hypothetical protein
+GBPCPCFC_00227	gene	1095				
+GBPCPCFC_00228	CDS	1845				hypothetical protein
+GBPCPCFC_00228	gene	1845				
+GBPCPCFC_00229	CDS	750	barA_3	2.7.13.3	COG0784	Signal transduction histidine-protein kinase BarA
+GBPCPCFC_00229	gene	750	barA_3			
+GBPCPCFC_00230	CDS	663		3.4.17.19	COG2317	Thermostable carboxypeptidase 1
+GBPCPCFC_00230	gene	663				
+GBPCPCFC_00231	CDS	1095				hypothetical protein
+GBPCPCFC_00231	gene	1095				
+GBPCPCFC_00232	CDS	837	ypwA_1	3.4.17.19	COG2317	Carboxypeptidase 1
+GBPCPCFC_00232	gene	837	ypwA_1			
+GBPCPCFC_00233	CDS	2934				hypothetical protein
+GBPCPCFC_00233	gene	2934				
+GBPCPCFC_00234	CDS	174				hypothetical protein
+GBPCPCFC_00234	gene	174				
+GBPCPCFC_00235	CDS	1845				hypothetical protein
+GBPCPCFC_00235	gene	1845				
+GBPCPCFC_00236	CDS	231	evgS_2	2.7.13.3	COG0784	Sensor protein EvgS
+GBPCPCFC_00236	gene	231	evgS_2			
+GBPCPCFC_00237	CDS	240	barA_4	2.7.13.3	COG0784	Signal transduction histidine-protein kinase BarA
+GBPCPCFC_00237	gene	240	barA_4			
+GBPCPCFC_00238	CDS	285				hypothetical protein
+GBPCPCFC_00238	gene	285				
+GBPCPCFC_00239	CDS	273				hypothetical protein
+GBPCPCFC_00239	gene	273				
+GBPCPCFC_00240	CDS	132				hypothetical protein
+GBPCPCFC_00240	gene	132				
+GBPCPCFC_00241	CDS	489	barA_5	2.7.13.3	COG0784	Signal transduction histidine-protein kinase BarA
+GBPCPCFC_00241	gene	489	barA_5			
+GBPCPCFC_00242	CDS	1860				hypothetical protein
+GBPCPCFC_00242	gene	1860				
+GBPCPCFC_00243	CDS	291				hypothetical protein
+GBPCPCFC_00243	gene	291				
+GBPCPCFC_00244	CDS	108				hypothetical protein
+GBPCPCFC_00244	gene	108				
+GBPCPCFC_00245	CDS	144				hypothetical protein
+GBPCPCFC_00245	gene	144				
+GBPCPCFC_00246	CDS	1095				hypothetical protein
+GBPCPCFC_00246	gene	1095				
+GBPCPCFC_00247	CDS	996	hemB	4.2.1.24	COG0113	Delta-aminolevulinic acid dehydratase
+GBPCPCFC_00247	gene	996	hemB			
+GBPCPCFC_00248	CDS	960				hypothetical protein
+GBPCPCFC_00248	gene	960				
+GBPCPCFC_00249	CDS	564				hypothetical protein
+GBPCPCFC_00249	gene	564				
+GBPCPCFC_00250	CDS	2217	rne	3.1.26.12	COG1530	Ribonuclease E
+GBPCPCFC_00250	gene	2217	rne			
+GBPCPCFC_00251	CDS	1137				hypothetical protein
+GBPCPCFC_00251	gene	1137				
+GBPCPCFC_00252	CDS	1047	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+GBPCPCFC_00252	gene	1047	tsaD			
+GBPCPCFC_00253	CDS	3405				hypothetical protein
+GBPCPCFC_00253	gene	3405				
+GBPCPCFC_00254	CDS	576	ompB_1		COG4625	Outer membrane protein B
+GBPCPCFC_00254	gene	576	ompB_1			
+GBPCPCFC_00255	CDS	852	mepM_1	3.4.24.-	COG0739	Murein DD-endopeptidase MepM
+GBPCPCFC_00255	gene	852	mepM_1			
+GBPCPCFC_00256	CDS	840	ycfH	3.1.-.-	COG0084	putative metal-dependent hydrolase YcfH
+GBPCPCFC_00256	gene	840	ycfH			
+GBPCPCFC_00257	CDS	1962				hypothetical protein
+GBPCPCFC_00257	gene	1962				
+GBPCPCFC_00258	CDS	2250	parC	5.99.1.3	COG0188	DNA topoisomerase 4 subunit A
+GBPCPCFC_00258	gene	2250	parC			
+GBPCPCFC_00259	CDS	906	ctaB	2.5.1.-	COG0109	Protoheme IX farnesyltransferase
+GBPCPCFC_00259	gene	906	ctaB			
+GBPCPCFC_00260	CDS	591				hypothetical protein
+GBPCPCFC_00260	gene	591				
+GBPCPCFC_00261	CDS	522				hypothetical protein
+GBPCPCFC_00261	gene	522				
+GBPCPCFC_00262	CDS	438				hypothetical protein
+GBPCPCFC_00262	gene	438				
+GBPCPCFC_00263	CDS	174				hypothetical protein
+GBPCPCFC_00263	gene	174				
+GBPCPCFC_00264	CDS	1098	mnmA	2.8.1.13	COG0482	tRNA-specific 2-thiouridylase MnmA
+GBPCPCFC_00264	gene	1098	mnmA			
+GBPCPCFC_00265	CDS	795				hypothetical protein
+GBPCPCFC_00265	gene	795				
+GBPCPCFC_00266	CDS	1413	yhdG		COG0531	putative amino acid permease YhdG
+GBPCPCFC_00266	gene	1413	yhdG			
+GBPCPCFC_00267	CDS	1272	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+GBPCPCFC_00267	gene	1272	hisS			
+GBPCPCFC_00268	CDS	1092	ompB_2		COG4625	Outer membrane protein B
+GBPCPCFC_00268	gene	1092	ompB_2			
+GBPCPCFC_00269	CDS	225				hypothetical protein
+GBPCPCFC_00269	gene	225				
+GBPCPCFC_00270	CDS	1860				hypothetical protein
+GBPCPCFC_00270	gene	1860				
+GBPCPCFC_00271	CDS	1842				hypothetical protein
+GBPCPCFC_00271	gene	1842				
+GBPCPCFC_00272	CDS	360				hypothetical protein
+GBPCPCFC_00272	gene	360				
+GBPCPCFC_00273	CDS	696				hypothetical protein
+GBPCPCFC_00273	gene	696				
+GBPCPCFC_00274	CDS	1083	recF		COG1195	DNA replication and repair protein RecF
+GBPCPCFC_00274	gene	1083	recF			
+GBPCPCFC_00275	CDS	3639				hypothetical protein
+GBPCPCFC_00275	gene	3639				
+GBPCPCFC_00276	CDS	438				hypothetical protein
+GBPCPCFC_00276	gene	438				
+GBPCPCFC_00277	CDS	573				hypothetical protein
+GBPCPCFC_00277	gene	573				
+GBPCPCFC_00278	CDS	1155				hypothetical protein
+GBPCPCFC_00278	gene	1155				
+GBPCPCFC_00279	tRNA	77				tRNA-Asp(gtc)
+GBPCPCFC_00279	gene	77				
+GBPCPCFC_00280	CDS	1578				hypothetical protein
+GBPCPCFC_00280	gene	1578				
+GBPCPCFC_00281	CDS	468	dpnM_3	2.1.1.72		Modification methylase DpnIIA
+GBPCPCFC_00281	gene	468	dpnM_3			
+GBPCPCFC_00282	CDS	531				hypothetical protein
+GBPCPCFC_00282	gene	531				
+GBPCPCFC_00283	CDS	480				hypothetical protein
+GBPCPCFC_00283	gene	480				
+GBPCPCFC_00284	CDS	963	barA_6	2.7.13.3	COG0784	Signal transduction histidine-protein kinase BarA
+GBPCPCFC_00284	gene	963	barA_6			
+GBPCPCFC_00285	CDS	1854				hypothetical protein
+GBPCPCFC_00285	gene	1854				
+GBPCPCFC_00286	CDS	288				hypothetical protein
+GBPCPCFC_00286	gene	288				
+GBPCPCFC_00287	CDS	468				hypothetical protein
+GBPCPCFC_00287	gene	468				
+GBPCPCFC_00288	CDS	270				hypothetical protein
+GBPCPCFC_00288	gene	270				
+GBPCPCFC_00289	CDS	99				hypothetical protein
+GBPCPCFC_00289	gene	99				
+GBPCPCFC_00290	CDS	1107				hypothetical protein
+GBPCPCFC_00290	gene	1107				
+GBPCPCFC_00291	CDS	567				hypothetical protein
+GBPCPCFC_00291	gene	567				
+GBPCPCFC_00292	CDS	477				hypothetical protein
+GBPCPCFC_00292	gene	477				
+GBPCPCFC_00293	CDS	2244	traI_2			Multifunctional conjugation protein TraI
+GBPCPCFC_00293	gene	2244	traI_2			
+GBPCPCFC_00294	tRNA	75				tRNA-Thr(ggt)
+GBPCPCFC_00294	gene	75				
+GBPCPCFC_00295	CDS	942	mdh	1.1.1.37	COG0039	Malate dehydrogenase
+GBPCPCFC_00295	gene	942	mdh			
+GBPCPCFC_00296	CDS	1392	rho	3.6.4.-	COG1158	Transcription termination factor Rho
+GBPCPCFC_00296	gene	1392	rho			
+GBPCPCFC_00297	CDS	108				hypothetical protein
+GBPCPCFC_00297	gene	108				
+GBPCPCFC_00298	CDS	819	bdbD_1		COG1651	Disulfide bond formation protein D
+GBPCPCFC_00298	gene	819	bdbD_1			
+GBPCPCFC_00299	CDS	483	ruvC	3.1.22.4	COG0817	Crossover junction endodeoxyribonuclease RuvC
+GBPCPCFC_00299	gene	483	ruvC			
+GBPCPCFC_00300	CDS	315	hup		COG0776	DNA-binding protein HU
+GBPCPCFC_00300	gene	315	hup			
+GBPCPCFC_00301	CDS	963				hypothetical protein
+GBPCPCFC_00301	gene	963				
+GBPCPCFC_00302	CDS	549	ppa	3.6.1.1	COG0221	Inorganic pyrophosphatase
+GBPCPCFC_00302	gene	549	ppa			
+GBPCPCFC_00303	CDS	2145	fadN	1.1.1.35	COG1024	putative 3-hydroxyacyl-CoA dehydrogenase
+GBPCPCFC_00303	gene	2145	fadN			
+GBPCPCFC_00304	CDS	345	iscA		COG0316	Iron-binding protein IscA
+GBPCPCFC_00304	gene	345	iscA			
+GBPCPCFC_00305	CDS	381	iscU		COG0822	Iron-sulfur cluster assembly scaffold protein IscU
+GBPCPCFC_00305	gene	381	iscU			
+GBPCPCFC_00306	CDS	2727	secA		COG0653	Protein translocase subunit SecA
+GBPCPCFC_00306	gene	2727	secA			
+GBPCPCFC_00307	CDS	879	prsA1	5.2.1.8	COG0760	Foldase protein PrsA 1
+GBPCPCFC_00307	gene	879	prsA1			
+GBPCPCFC_00308	CDS	942				hypothetical protein
+GBPCPCFC_00308	gene	942				
+GBPCPCFC_00309	CDS	3657	dnaE1	2.7.7.7		DNA polymerase III subunit alpha
+GBPCPCFC_00309	gene	3657	dnaE1			
+GBPCPCFC_00310	CDS	264	rkpK	1.1.1.22	COG1004	UDP-glucose 6-dehydrogenase
+GBPCPCFC_00310	gene	264	rkpK			
+GBPCPCFC_00311	CDS	984	ywqF	1.1.1.22	COG1004	UDP-glucose 6-dehydrogenase YwqF
+GBPCPCFC_00311	gene	984	ywqF			
+GBPCPCFC_00312	CDS	798	fabI_1	1.3.1.9	COG0623	Enoyl-[acyl-carrier-protein] reductase [NADH] FabI
+GBPCPCFC_00312	gene	798	fabI_1			
+GBPCPCFC_00313	CDS	657	tal	2.2.1.2	COG0176	Transaldolase
+GBPCPCFC_00313	gene	657	tal			
+GBPCPCFC_00314	CDS	876	parB		COG1475	putative chromosome-partitioning protein ParB
+GBPCPCFC_00314	gene	876	parB			
+GBPCPCFC_00315	CDS	765	parA			Chromosome partitioning protein ParA
+GBPCPCFC_00315	gene	765	parA			
+GBPCPCFC_00316	CDS	579	rsmG	2.1.1.170	COG0357	Ribosomal RNA small subunit methyltransferase G
+GBPCPCFC_00316	gene	579	rsmG			
+GBPCPCFC_00317	CDS	1851	mnmG		COG0445	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+GBPCPCFC_00317	gene	1851	mnmG			
+GBPCPCFC_00318	CDS	420	ndk	2.7.4.6	COG0105	Nucleoside diphosphate kinase
+GBPCPCFC_00318	gene	420	ndk			
+GBPCPCFC_00319	CDS	2280	tme	1.1.1.40	COG0280	NADP-dependent malic enzyme
+GBPCPCFC_00319	gene	2280	tme			
+GBPCPCFC_00320	CDS	1041				hypothetical protein
+GBPCPCFC_00320	gene	1041				
+GBPCPCFC_00321	CDS	1047				hypothetical protein
+GBPCPCFC_00321	gene	1047				
+GBPCPCFC_00322	CDS	1257	iscS_1	2.8.1.7	COG1104	Cysteine desulfurase IscS
+GBPCPCFC_00322	gene	1257	iscS_1			
+GBPCPCFC_00323	CDS	1116	iscS_2	2.8.1.7	COG1104	IscS-like cysteine desulfurase
+GBPCPCFC_00323	gene	1116	iscS_2			
+GBPCPCFC_00324	CDS	417	iscR		COG1959	HTH-type transcriptional regulator IscR
+GBPCPCFC_00324	gene	417	iscR			
+GBPCPCFC_00325	CDS	1476				hypothetical protein
+GBPCPCFC_00325	gene	1476				
+GBPCPCFC_00326	CDS	2070				hypothetical protein
+GBPCPCFC_00326	gene	2070				
+GBPCPCFC_00327	CDS	1095				hypothetical protein
+GBPCPCFC_00327	gene	1095				
+GBPCPCFC_00328	CDS	3153				hypothetical protein
+GBPCPCFC_00328	gene	3153				
+GBPCPCFC_00329	CDS	753				hypothetical protein
+GBPCPCFC_00329	gene	753				
+GBPCPCFC_00330	CDS	438				hypothetical protein
+GBPCPCFC_00330	gene	438				
+GBPCPCFC_00331	CDS	1107				hypothetical protein
+GBPCPCFC_00331	gene	1107				
+GBPCPCFC_00332	CDS	1245				hypothetical protein
+GBPCPCFC_00332	gene	1245				
+GBPCPCFC_00333	CDS	438				hypothetical protein
+GBPCPCFC_00333	gene	438				
+GBPCPCFC_00334	CDS	975	phaC_1	2.3.1.-		Poly(3-hydroxyalkanoate) polymerase subunit PhaC
+GBPCPCFC_00334	gene	975	phaC_1			
+GBPCPCFC_00335	CDS	4671	rsh_2	2.7.6.5	COG0317	GTP pyrophosphokinase rsh
+GBPCPCFC_00335	gene	4671	rsh_2			
+GBPCPCFC_00336	CDS	2097				hypothetical protein
+GBPCPCFC_00336	gene	2097				
+GBPCPCFC_00337	CDS	627	lipB	2.3.1.181	COG0321	Octanoyltransferase
+GBPCPCFC_00337	gene	627	lipB			
+GBPCPCFC_00338	CDS	207				hypothetical protein
+GBPCPCFC_00338	gene	207				
+GBPCPCFC_00339	CDS	162	tatA			Sec-independent protein translocase protein TatA
+GBPCPCFC_00339	gene	162	tatA			
+GBPCPCFC_00340	CDS	1905				hypothetical protein
+GBPCPCFC_00340	gene	1905				
+GBPCPCFC_00341	CDS	246				hypothetical protein
+GBPCPCFC_00341	gene	246				
+GBPCPCFC_00342	CDS	906	lpxL	2.3.1.241		Lipid A biosynthesis lauroyltransferase
+GBPCPCFC_00342	gene	906	lpxL			
+GBPCPCFC_00343	CDS	1008	lpxK	2.7.1.130	COG1663	Tetraacyldisaccharide 4'-kinase
+GBPCPCFC_00343	gene	1008	lpxK			
+GBPCPCFC_00344	CDS	846	lpxC	3.5.1.108	COG0774	UDP-3-O-acyl-N-acetylglucosamine deacetylase
+GBPCPCFC_00344	gene	846	lpxC			
+GBPCPCFC_00345	CDS	90				hypothetical protein
+GBPCPCFC_00345	gene	90				
+GBPCPCFC_00346	CDS	1023	dadA	1.4.99.-		D-amino acid dehydrogenase
+GBPCPCFC_00346	gene	1023	dadA			
+GBPCPCFC_00347	CDS	168				hypothetical protein
+GBPCPCFC_00347	gene	168				
+GBPCPCFC_00348	CDS	555				hypothetical protein
+GBPCPCFC_00348	gene	555				
+GBPCPCFC_00349	CDS	648				hypothetical protein
+GBPCPCFC_00349	gene	648				
+GBPCPCFC_00350	CDS	651				hypothetical protein
+GBPCPCFC_00350	gene	651				
+GBPCPCFC_00351	CDS	615				hypothetical protein
+GBPCPCFC_00351	gene	615				
+GBPCPCFC_00352	CDS	654	chpT	2.7.99.-		Protein phosphotransferase ChpT
+GBPCPCFC_00352	gene	654	chpT			
+GBPCPCFC_00353	CDS	297				hypothetical protein
+GBPCPCFC_00353	gene	297				
+GBPCPCFC_00354	CDS	1776	sdhA_1	1.3.5.1		Succinate dehydrogenase flavoprotein subunit
+GBPCPCFC_00354	gene	1776	sdhA_1			
+GBPCPCFC_00355	CDS	870	udg	3.2.2.27	COG1573	Type-4 uracil-DNA glycosylase
+GBPCPCFC_00355	gene	870	udg			
+GBPCPCFC_00356	CDS	942	rluD	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+GBPCPCFC_00356	gene	942	rluD			
+GBPCPCFC_00357	CDS	849	prmC	2.1.1.297	COG2890	Release factor glutamine methyltransferase
+GBPCPCFC_00357	gene	849	prmC			
+GBPCPCFC_00358	CDS	654	rpe	5.1.3.1		Ribulose-phosphate 3-epimerase
+GBPCPCFC_00358	gene	654	rpe			
+GBPCPCFC_00359	CDS	222				hypothetical protein
+GBPCPCFC_00359	gene	222				
+GBPCPCFC_00360	CDS	612	greA		COG0782	Transcription elongation factor GreA
+GBPCPCFC_00360	gene	612	greA			
+GBPCPCFC_00361	CDS	336				hypothetical protein
+GBPCPCFC_00361	gene	336				
+GBPCPCFC_00362	CDS	1782	dnaG	2.7.7.-	COG0358	DNA primase
+GBPCPCFC_00362	gene	1782	dnaG			
+GBPCPCFC_00363	CDS	1908	rpoD		COG0568	RNA polymerase sigma factor RpoD
+GBPCPCFC_00363	gene	1908	rpoD			
+GBPCPCFC_00364	CDS	750	truA_1	5.4.99.12	COG0101	tRNA pseudouridine synthase A
+GBPCPCFC_00364	gene	750	truA_1			
+GBPCPCFC_00365	CDS	774				hypothetical protein
+GBPCPCFC_00365	gene	774				
+GBPCPCFC_00366	CDS	507				hypothetical protein
+GBPCPCFC_00366	gene	507				
+GBPCPCFC_00367	CDS	228	truA_2	5.4.99.12	COG0101	tRNA pseudouridine synthase A
+GBPCPCFC_00367	gene	228	truA_2			
+GBPCPCFC_00368	CDS	1878	phlB_1			Protein PhlB
+GBPCPCFC_00368	gene	1878	phlB_1			
+GBPCPCFC_00369	CDS	153	truA_3	5.4.99.12	COG0101	tRNA pseudouridine synthase A
+GBPCPCFC_00369	gene	153	truA_3			
+GBPCPCFC_00370	CDS	1893	ankX_1	2.7.1.-	COG0666	Phosphocholine transferase AnkX
+GBPCPCFC_00370	gene	1893	ankX_1			
+GBPCPCFC_00371	CDS	2028	phlB_2			Protein PhlB
+GBPCPCFC_00371	gene	2028	phlB_2			
+GBPCPCFC_00372	CDS	549	atpH			ATP synthase subunit delta, sodium ion specific
+GBPCPCFC_00372	gene	549	atpH			
+GBPCPCFC_00373	CDS	2562	phlB_3			Protein PhlB
+GBPCPCFC_00373	gene	2562	phlB_3			
+GBPCPCFC_00374	CDS	1545	atpA	3.6.3.14	COG0056	ATP synthase subunit alpha
+GBPCPCFC_00374	gene	1545	atpA			
+GBPCPCFC_00375	CDS	837	phlB_4			Protein PhlB
+GBPCPCFC_00375	gene	837	phlB_4			
+GBPCPCFC_00376	CDS	993	atpG		COG0224	ATP synthase gamma chain
+GBPCPCFC_00376	gene	993	atpG			
+GBPCPCFC_00377	CDS	1434	atpD	3.6.3.14	COG0055	ATP synthase subunit beta
+GBPCPCFC_00377	gene	1434	atpD			
+GBPCPCFC_00378	CDS	444	atpC		COG0355	ATP synthase epsilon chain
+GBPCPCFC_00378	gene	444	atpC			
+GBPCPCFC_00379	CDS	1005	tagO	2.7.8.33	COG0472	putative undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase
+GBPCPCFC_00379	gene	1005	tagO			
+GBPCPCFC_00380	CDS	342				hypothetical protein
+GBPCPCFC_00380	gene	342				
+GBPCPCFC_00381	CDS	345				hypothetical protein
+GBPCPCFC_00381	gene	345				
+GBPCPCFC_00382	CDS	417				hypothetical protein
+GBPCPCFC_00382	gene	417				
+GBPCPCFC_00383	CDS	873				hypothetical protein
+GBPCPCFC_00383	gene	873				
+GBPCPCFC_00384	CDS	387				hypothetical protein
+GBPCPCFC_00384	gene	387				
+GBPCPCFC_00385	CDS	1371	murF	6.3.2.10	COG0770	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+GBPCPCFC_00385	gene	1371	murF			
+GBPCPCFC_00386	CDS	1086	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+GBPCPCFC_00386	gene	1086	mraY			
+GBPCPCFC_00387	CDS	1293				hypothetical protein
+GBPCPCFC_00387	gene	1293				
+GBPCPCFC_00388	CDS	1086	tgt	2.4.2.29		Queuine tRNA-ribosyltransferase
+GBPCPCFC_00388	gene	1086	tgt			
+GBPCPCFC_00389	CDS	1182	phaA	2.3.1.9	COG0183	Acetyl-CoA acetyltransferase
+GBPCPCFC_00389	gene	1182	phaA			
+GBPCPCFC_00390	CDS	1122	pntAA	1.6.1.2	COG3288	NAD(P) transhydrogenase subunit alpha part 1
+GBPCPCFC_00390	gene	1122	pntAA			
+GBPCPCFC_00391	CDS	657	lolA			Outer-membrane lipoprotein carrier protein
+GBPCPCFC_00391	gene	657	lolA			
+GBPCPCFC_00392	CDS	1527	dnaX	2.7.7.7	COG2812	DNA polymerase III subunit tau
+GBPCPCFC_00392	gene	1527	dnaX			
+GBPCPCFC_00393	CDS	312	ybaB		COG0718	Nucleoid-associated protein YbaB
+GBPCPCFC_00393	gene	312	ybaB			
+GBPCPCFC_00394	CDS	279	mnhG1		COG1320	Na(+)/H(+) antiporter subunit G1
+GBPCPCFC_00394	gene	279	mnhG1			
+GBPCPCFC_00395	CDS	576	mnhA1		COG1009	Na(+)/H(+) antiporter subunit A1
+GBPCPCFC_00395	gene	576	mnhA1			
+GBPCPCFC_00396	CDS	429				hypothetical protein
+GBPCPCFC_00396	gene	429				
+GBPCPCFC_00397	CDS	1029		3.4.17.13	COG1619	Murein tetrapeptide carboxypeptidase
+GBPCPCFC_00397	gene	1029				
+GBPCPCFC_00398	CDS	1155				hypothetical protein
+GBPCPCFC_00398	gene	1155				
+GBPCPCFC_00399	CDS	129				hypothetical protein
+GBPCPCFC_00399	gene	129				
+GBPCPCFC_00400	CDS	636	rsh_3	2.7.6.5		GTP pyrophosphokinase rsh
+GBPCPCFC_00400	gene	636	rsh_3			
+GBPCPCFC_00401	CDS	2493	valS	6.1.1.9		Valine--tRNA ligase
+GBPCPCFC_00401	gene	2493	valS			
+GBPCPCFC_00402	CDS	606				hypothetical protein
+GBPCPCFC_00402	gene	606				
+GBPCPCFC_00403	CDS	648				hypothetical protein
+GBPCPCFC_00403	gene	648				
+GBPCPCFC_00404	CDS	2223	ankX_2	2.7.1.-	COG0666	Phosphocholine transferase AnkX
+GBPCPCFC_00404	gene	2223	ankX_2			
+GBPCPCFC_00405	CDS	438				hypothetical protein
+GBPCPCFC_00405	gene	438				
+GBPCPCFC_00406	CDS	1089	hemH	4.99.1.1	COG0276	Ferrochelatase
+GBPCPCFC_00406	gene	1089	hemH			
+GBPCPCFC_00407	CDS	1029	hemE	4.1.1.37	COG0407	Uroporphyrinogen decarboxylase
+GBPCPCFC_00407	gene	1029	hemE			
+GBPCPCFC_00408	CDS	825	yqfL	2.7.11.32	COG1806	Putative pyruvate, phosphate dikinase regulatory protein
+GBPCPCFC_00408	gene	825	yqfL			
+GBPCPCFC_00409	CDS	549	rimL	2.3.1.-	COG1670	Ribosomal-protein-serine acetyltransferase
+GBPCPCFC_00409	gene	549	rimL			
+GBPCPCFC_00410	CDS	417	apaG			Protein ApaG
+GBPCPCFC_00410	gene	417	apaG			
+GBPCPCFC_00411	CDS	1041	lpxD	2.3.1.-		UDP-3-O-acylglucosamine N-acyltransferase
+GBPCPCFC_00411	gene	1041	lpxD			
+GBPCPCFC_00412	CDS	261				hypothetical protein
+GBPCPCFC_00412	gene	261				
+GBPCPCFC_00413	CDS	258				hypothetical protein
+GBPCPCFC_00413	gene	258				
+GBPCPCFC_00414	CDS	438	fabZ	4.2.1.59	COG0764	3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+GBPCPCFC_00414	gene	438	fabZ			
+GBPCPCFC_00415	CDS	825	lpxA	2.3.1.129	COG1043	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+GBPCPCFC_00415	gene	825	lpxA			
+GBPCPCFC_00416	CDS	864	lpxI	3.6.1.54	COG3494	UDP-2,3-diacylglucosamine pyrophosphatase LpxI
+GBPCPCFC_00416	gene	864	lpxI			
+GBPCPCFC_00417	CDS	459				hypothetical protein
+GBPCPCFC_00417	gene	459				
+GBPCPCFC_00418	CDS	201	rpmF		COG0333	50S ribosomal protein L32
+GBPCPCFC_00418	gene	201	rpmF			
+GBPCPCFC_00419	CDS	954	fabH_1	2.3.1.180	COG0332	3-oxoacyl-[acyl-carrier-protein] synthase 3
+GBPCPCFC_00419	gene	954	fabH_1			
+GBPCPCFC_00420	CDS	264				hypothetical protein
+GBPCPCFC_00420	gene	264				
+GBPCPCFC_00421	CDS	360	erpA		COG0316	Iron-sulfur cluster insertion protein ErpA
+GBPCPCFC_00421	gene	360	erpA			
+GBPCPCFC_00422	CDS	2055	ccmF		COG1138	Cytochrome c-type biogenesis protein CcmF
+GBPCPCFC_00422	gene	2055	ccmF			
+GBPCPCFC_00423	CDS	3348	addA	3.1.-.-	COG1074	ATP-dependent helicase/nuclease subunit A
+GBPCPCFC_00423	gene	3348	addA			
+GBPCPCFC_00424	CDS	504	rppH	3.6.1.-	COG0494	RNA pyrophosphohydrolase
+GBPCPCFC_00424	gene	504	rppH			
+GBPCPCFC_00425	CDS	1371	pleD			Response regulator PleD
+GBPCPCFC_00425	gene	1371	pleD			
+GBPCPCFC_00426	CDS	567	efp			Elongation factor P
+GBPCPCFC_00426	gene	567	efp			
+GBPCPCFC_00427	CDS	747	suhB	3.1.3.25	COG0483	Inositol-1-monophosphatase
+GBPCPCFC_00427	gene	747	suhB			
+GBPCPCFC_00428	CDS	306				hypothetical protein
+GBPCPCFC_00428	gene	306				
+GBPCPCFC_00429	CDS	696	psd	4.1.1.65	COG0688	Phosphatidylserine decarboxylase proenzyme
+GBPCPCFC_00429	gene	696	psd			
+GBPCPCFC_00430	CDS	765	pcs	2.7.8.24	COG1183	Phosphatidylcholine synthase
+GBPCPCFC_00430	gene	765	pcs			
+GBPCPCFC_00431	CDS	1041	emrK		COG1566	putative multidrug resistance protein EmrK
+GBPCPCFC_00431	gene	1041	emrK			
+GBPCPCFC_00432	CDS	1158				hypothetical protein
+GBPCPCFC_00432	gene	1158				
+GBPCPCFC_00433	CDS	1560	emrB			Multidrug export protein EmrB
+GBPCPCFC_00433	gene	1560	emrB			
+GBPCPCFC_00434	CDS	471	mnhE1			Na(+)/H(+) antiporter subunit E1
+GBPCPCFC_00434	gene	471	mnhE1			
+GBPCPCFC_00435	CDS	2811	sucA	1.2.4.2	COG0567	2-oxoglutarate dehydrogenase E1 component
+GBPCPCFC_00435	gene	2811	sucA			
+GBPCPCFC_00436	CDS	1215	sucB_1	2.3.1.61	COG0508	Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex
+GBPCPCFC_00436	gene	1215	sucB_1			
+GBPCPCFC_00437	CDS	2454				hypothetical protein
+GBPCPCFC_00437	gene	2454				
+GBPCPCFC_00438	rRNA	2763				23S ribosomal RNA
+GBPCPCFC_00438	gene	2763				
+GBPCPCFC_00439	rRNA	110				5S ribosomal RNA
+GBPCPCFC_00439	gene	110				
+GBPCPCFC_00440	CDS	558				hypothetical protein
+GBPCPCFC_00440	gene	558				
+GBPCPCFC_00441	CDS	438				hypothetical protein
+GBPCPCFC_00441	gene	438				
+GBPCPCFC_00442	CDS	747				hypothetical protein
+GBPCPCFC_00442	gene	747				
+GBPCPCFC_00443	CDS	1500	tlcA_1		COG3202	ADP,ATP carrier protein 1
+GBPCPCFC_00443	gene	1500	tlcA_1			
+GBPCPCFC_00444	tRNA	77				tRNA-Val(tac)
+GBPCPCFC_00444	gene	77				
+GBPCPCFC_00445	CDS	1185				hypothetical protein
+GBPCPCFC_00445	gene	1185				
+GBPCPCFC_00446	CDS	564				hypothetical protein
+GBPCPCFC_00446	gene	564				
+GBPCPCFC_00447	CDS	396				hypothetical protein
+GBPCPCFC_00447	gene	396				
+GBPCPCFC_00448	CDS	231	evgS_3	2.7.13.3	COG0784	Sensor protein EvgS
+GBPCPCFC_00448	gene	231	evgS_3			
+GBPCPCFC_00449	CDS	1845				hypothetical protein
+GBPCPCFC_00449	gene	1845				
+GBPCPCFC_00450	CDS	282				hypothetical protein
+GBPCPCFC_00450	gene	282				
+GBPCPCFC_00451	CDS	243				hypothetical protein
+GBPCPCFC_00451	gene	243				
+GBPCPCFC_00452	CDS	246				hypothetical protein
+GBPCPCFC_00452	gene	246				
+GBPCPCFC_00453	CDS	873				hypothetical protein
+GBPCPCFC_00453	gene	873				
+GBPCPCFC_00454	CDS	1293				hypothetical protein
+GBPCPCFC_00454	gene	1293				
+GBPCPCFC_00455	CDS	1452	traI_3			Multifunctional conjugation protein TraI
+GBPCPCFC_00455	gene	1452	traI_3			
+GBPCPCFC_00456	CDS	465				hypothetical protein
+GBPCPCFC_00456	gene	465				
+GBPCPCFC_00457	CDS	2031				hypothetical protein
+GBPCPCFC_00457	gene	2031				
+GBPCPCFC_00458	CDS	2856				hypothetical protein
+GBPCPCFC_00458	gene	2856				
+GBPCPCFC_00459	CDS	780				Actin-binding protein
+GBPCPCFC_00459	gene	780				
+GBPCPCFC_00460	CDS	1293				hypothetical protein
+GBPCPCFC_00460	gene	1293				
+GBPCPCFC_00461	CDS	483				hypothetical protein
+GBPCPCFC_00461	gene	483				
+GBPCPCFC_00462	CDS	1845				hypothetical protein
+GBPCPCFC_00462	gene	1845				
+GBPCPCFC_00463	CDS	180				hypothetical protein
+GBPCPCFC_00463	gene	180				
+GBPCPCFC_00464	CDS	1380				hypothetical protein
+GBPCPCFC_00464	gene	1380				
+GBPCPCFC_00465	CDS	1233				hypothetical protein
+GBPCPCFC_00465	gene	1233				
+GBPCPCFC_00466	CDS	1056				hypothetical protein
+GBPCPCFC_00466	gene	1056				
+GBPCPCFC_00467	CDS	429				hypothetical protein
+GBPCPCFC_00467	gene	429				
+GBPCPCFC_00468	CDS	1095				hypothetical protein
+GBPCPCFC_00468	gene	1095				
+GBPCPCFC_00469	CDS	198				hypothetical protein
+GBPCPCFC_00469	gene	198				
+GBPCPCFC_00470	CDS	186				hypothetical protein
+GBPCPCFC_00470	gene	186				
+GBPCPCFC_00471	CDS	438				hypothetical protein
+GBPCPCFC_00471	gene	438				
+GBPCPCFC_00472	CDS	546				hypothetical protein
+GBPCPCFC_00472	gene	546				
+GBPCPCFC_00473	CDS	174				hypothetical protein
+GBPCPCFC_00473	gene	174				
+GBPCPCFC_00474	CDS	273				hypothetical protein
+GBPCPCFC_00474	gene	273				
+GBPCPCFC_00475	CDS	321				hypothetical protein
+GBPCPCFC_00475	gene	321				
+GBPCPCFC_00476	CDS	1293				hypothetical protein
+GBPCPCFC_00476	gene	1293				
+GBPCPCFC_00477	CDS	195				hypothetical protein
+GBPCPCFC_00477	gene	195				
+GBPCPCFC_00478	CDS	279				hypothetical protein
+GBPCPCFC_00478	gene	279				
+GBPCPCFC_00479	CDS	1023				hypothetical protein
+GBPCPCFC_00479	gene	1023				
+GBPCPCFC_00480	CDS	90				hypothetical protein
+GBPCPCFC_00480	gene	90				
+GBPCPCFC_00481	CDS	429				hypothetical protein
+GBPCPCFC_00481	gene	429				
+GBPCPCFC_00482	CDS	1095				hypothetical protein
+GBPCPCFC_00482	gene	1095				
+GBPCPCFC_00483	CDS	2169				hypothetical protein
+GBPCPCFC_00483	gene	2169				
+GBPCPCFC_00484	CDS	150				hypothetical protein
+GBPCPCFC_00484	gene	150				
+GBPCPCFC_00485	CDS	417				hypothetical protein
+GBPCPCFC_00485	gene	417				
+GBPCPCFC_00486	CDS	600	dpnM_4	2.1.1.72		Modification methylase DpnIIA
+GBPCPCFC_00486	gene	600	dpnM_4			
+GBPCPCFC_00487	CDS	342				hypothetical protein
+GBPCPCFC_00487	gene	342				
+GBPCPCFC_00488	CDS	399				hypothetical protein
+GBPCPCFC_00488	gene	399				
+GBPCPCFC_00489	CDS	1845				hypothetical protein
+GBPCPCFC_00489	gene	1845				
+GBPCPCFC_00490	CDS	237				hypothetical protein
+GBPCPCFC_00490	gene	237				
+GBPCPCFC_00491	CDS	330				hypothetical protein
+GBPCPCFC_00491	gene	330				
+GBPCPCFC_00492	CDS	375				hypothetical protein
+GBPCPCFC_00492	gene	375				
+GBPCPCFC_00493	CDS	561				hypothetical protein
+GBPCPCFC_00493	gene	561				
+GBPCPCFC_00494	CDS	468				hypothetical protein
+GBPCPCFC_00494	gene	468				
+GBPCPCFC_00495	CDS	384	evgS_4	2.7.13.3	COG0784	Sensor protein EvgS
+GBPCPCFC_00495	gene	384	evgS_4			
+GBPCPCFC_00496	CDS	1839				hypothetical protein
+GBPCPCFC_00496	gene	1839				
+GBPCPCFC_00497	CDS	174				hypothetical protein
+GBPCPCFC_00497	gene	174				
+GBPCPCFC_00498	CDS	1095				hypothetical protein
+GBPCPCFC_00498	gene	1095				
+GBPCPCFC_00499	CDS	564				hypothetical protein
+GBPCPCFC_00499	gene	564				
+GBPCPCFC_00500	CDS	351				hypothetical protein
+GBPCPCFC_00500	gene	351				
+GBPCPCFC_00501	CDS	342				hypothetical protein
+GBPCPCFC_00501	gene	342				
+GBPCPCFC_00502	CDS	810	traD_1			Coupling protein TraD
+GBPCPCFC_00502	gene	810	traD_1			
+GBPCPCFC_00503	CDS	1614				hypothetical protein
+GBPCPCFC_00503	gene	1614				
+GBPCPCFC_00504	CDS	1293				hypothetical protein
+GBPCPCFC_00504	gene	1293				
+GBPCPCFC_00505	CDS	1095				hypothetical protein
+GBPCPCFC_00505	gene	1095				
+GBPCPCFC_00506	CDS	2031				hypothetical protein
+GBPCPCFC_00506	gene	2031				
+GBPCPCFC_00507	CDS	342				hypothetical protein
+GBPCPCFC_00507	gene	342				
+GBPCPCFC_00508	CDS	351				hypothetical protein
+GBPCPCFC_00508	gene	351				
+GBPCPCFC_00509	CDS	1140				hypothetical protein
+GBPCPCFC_00509	gene	1140				
+GBPCPCFC_00510	CDS	1095				hypothetical protein
+GBPCPCFC_00510	gene	1095				
+GBPCPCFC_00511	CDS	420				hypothetical protein
+GBPCPCFC_00511	gene	420				
+GBPCPCFC_00512	CDS	465				hypothetical protein
+GBPCPCFC_00512	gene	465				
+GBPCPCFC_00513	CDS	2304	traI_4			Multifunctional conjugation protein TraI
+GBPCPCFC_00513	gene	2304	traI_4			
+GBPCPCFC_00514	CDS	246				hypothetical protein
+GBPCPCFC_00514	gene	246				
+GBPCPCFC_00515	CDS	243				hypothetical protein
+GBPCPCFC_00515	gene	243				
+GBPCPCFC_00516	CDS	159				hypothetical protein
+GBPCPCFC_00516	gene	159				
+GBPCPCFC_00517	CDS	1095				hypothetical protein
+GBPCPCFC_00517	gene	1095				
+GBPCPCFC_00518	CDS	483				hypothetical protein
+GBPCPCFC_00518	gene	483				
+GBPCPCFC_00519	CDS	1248				hypothetical protein
+GBPCPCFC_00519	gene	1248				
+GBPCPCFC_00520	CDS	366				hypothetical protein
+GBPCPCFC_00520	gene	366				
+GBPCPCFC_00521	CDS	288				hypothetical protein
+GBPCPCFC_00521	gene	288				
+GBPCPCFC_00522	CDS	1095				hypothetical protein
+GBPCPCFC_00522	gene	1095				
+GBPCPCFC_00523	CDS	1845				hypothetical protein
+GBPCPCFC_00523	gene	1845				
+GBPCPCFC_00524	CDS	426	barA_7	2.7.13.3	COG0784	Signal transduction histidine-protein kinase BarA
+GBPCPCFC_00524	gene	426	barA_7			
+GBPCPCFC_00525	CDS	465				hypothetical protein
+GBPCPCFC_00525	gene	465				
+GBPCPCFC_00526	CDS	456				hypothetical protein
+GBPCPCFC_00526	gene	456				
+GBPCPCFC_00527	CDS	858	barA_8	2.7.13.3	COG0784	Signal transduction histidine-protein kinase BarA
+GBPCPCFC_00527	gene	858	barA_8			
+GBPCPCFC_00528	CDS	1860				hypothetical protein
+GBPCPCFC_00528	gene	1860				
+GBPCPCFC_00529	CDS	165				hypothetical protein
+GBPCPCFC_00529	gene	165				
+GBPCPCFC_00530	CDS	1095				hypothetical protein
+GBPCPCFC_00530	gene	1095				
+GBPCPCFC_00531	CDS	1398	tnpA_2	3.1.-.-		Transposase for transposon Tn5
+GBPCPCFC_00531	gene	1398	tnpA_2			
+GBPCPCFC_00532	CDS	468				hypothetical protein
+GBPCPCFC_00532	gene	468				
+GBPCPCFC_00533	CDS	612				hypothetical protein
+GBPCPCFC_00533	gene	612				
+GBPCPCFC_00534	CDS	801				hypothetical protein
+GBPCPCFC_00534	gene	801				
+GBPCPCFC_00535	CDS	1827				hypothetical protein
+GBPCPCFC_00535	gene	1827				
+GBPCPCFC_00536	CDS	510				hypothetical protein
+GBPCPCFC_00536	gene	510				
+GBPCPCFC_00537	CDS	162				hypothetical protein
+GBPCPCFC_00537	gene	162				
+GBPCPCFC_00538	CDS	156				hypothetical protein
+GBPCPCFC_00538	gene	156				
+GBPCPCFC_00539	CDS	531				hypothetical protein
+GBPCPCFC_00539	gene	531				
+GBPCPCFC_00540	CDS	708				hypothetical protein
+GBPCPCFC_00540	gene	708				
+GBPCPCFC_00541	CDS	381				hypothetical protein
+GBPCPCFC_00541	gene	381				
+GBPCPCFC_00542	CDS	1548				hypothetical protein
+GBPCPCFC_00542	gene	1548				
+GBPCPCFC_00543	CDS	561				hypothetical protein
+GBPCPCFC_00543	gene	561				
+GBPCPCFC_00544	CDS	714				hypothetical protein
+GBPCPCFC_00544	gene	714				
+GBPCPCFC_00545	CDS	984				hypothetical protein
+GBPCPCFC_00545	gene	984				
+GBPCPCFC_00546	CDS	1203				hypothetical protein
+GBPCPCFC_00546	gene	1203				
+GBPCPCFC_00547	CDS	348				hypothetical protein
+GBPCPCFC_00547	gene	348				
+GBPCPCFC_00548	CDS	1026				hypothetical protein
+GBPCPCFC_00548	gene	1026				
+GBPCPCFC_00549	CDS	669				hypothetical protein
+GBPCPCFC_00549	gene	669				
+GBPCPCFC_00550	CDS	1395				hypothetical protein
+GBPCPCFC_00550	gene	1395				
+GBPCPCFC_00551	CDS	615				hypothetical protein
+GBPCPCFC_00551	gene	615				
+GBPCPCFC_00552	CDS	1500				hypothetical protein
+GBPCPCFC_00552	gene	1500				
+GBPCPCFC_00553	CDS	564				hypothetical protein
+GBPCPCFC_00553	gene	564				
+GBPCPCFC_00554	CDS	546				hypothetical protein
+GBPCPCFC_00554	gene	546				
+GBPCPCFC_00555	CDS	642	todT		COG4566	Response regulator protein TodT
+GBPCPCFC_00555	gene	642	todT			
+GBPCPCFC_00556	CDS	663				hypothetical protein
+GBPCPCFC_00556	gene	663				
+GBPCPCFC_00557	CDS	732				hypothetical protein
+GBPCPCFC_00557	gene	732				
+GBPCPCFC_00558	CDS	876				hypothetical protein
+GBPCPCFC_00558	gene	876				
+GBPCPCFC_00559	CDS	699	typA_1		COG1217	GTP-binding protein TypA/BipA 
+GBPCPCFC_00559	gene	699	typA_1			
+GBPCPCFC_00560	CDS	468				hypothetical protein
+GBPCPCFC_00560	gene	468				
+GBPCPCFC_00561	CDS	429				hypothetical protein
+GBPCPCFC_00561	gene	429				
+GBPCPCFC_00562	CDS	1152				hypothetical protein
+GBPCPCFC_00562	gene	1152				
+GBPCPCFC_00563	CDS	1080				hypothetical protein
+GBPCPCFC_00563	gene	1080				
+GBPCPCFC_00564	CDS	1398				hypothetical protein
+GBPCPCFC_00564	gene	1398				
+GBPCPCFC_00565	CDS	534				hypothetical protein
+GBPCPCFC_00565	gene	534				
+GBPCPCFC_00566	CDS	720				hypothetical protein
+GBPCPCFC_00566	gene	720				
+GBPCPCFC_00567	CDS	162				hypothetical protein
+GBPCPCFC_00567	gene	162				
+GBPCPCFC_00568	CDS	237				hypothetical protein
+GBPCPCFC_00568	gene	237				
+GBPCPCFC_00569	CDS	171				hypothetical protein
+GBPCPCFC_00569	gene	171				
+GBPCPCFC_00570	CDS	321				hypothetical protein
+GBPCPCFC_00570	gene	321				
+GBPCPCFC_00571	CDS	297				hypothetical protein
+GBPCPCFC_00571	gene	297				
+GBPCPCFC_00572	CDS	948				hypothetical protein
+GBPCPCFC_00572	gene	948				
+GBPCPCFC_00573	CDS	474				hypothetical protein
+GBPCPCFC_00573	gene	474				
+GBPCPCFC_00574	CDS	1509				hypothetical protein
+GBPCPCFC_00574	gene	1509				
+GBPCPCFC_00575	CDS	3366	radD	3.6.4.12	COG1061	Putative DNA repair helicase RadD
+GBPCPCFC_00575	gene	3366	radD			
+GBPCPCFC_00576	CDS	426				hypothetical protein
+GBPCPCFC_00576	gene	426				
+GBPCPCFC_00577	CDS	453				hypothetical protein
+GBPCPCFC_00577	gene	453				
+GBPCPCFC_00578	CDS	1395	hsdS		COG0732	Type-1 restriction enzyme EcoKI specificity protein
+GBPCPCFC_00578	gene	1395	hsdS			
+GBPCPCFC_00579	CDS	297				hypothetical protein
+GBPCPCFC_00579	gene	297				
+GBPCPCFC_00580	CDS	747				hypothetical protein
+GBPCPCFC_00580	gene	747				
+GBPCPCFC_00581	CDS	381				hypothetical protein
+GBPCPCFC_00581	gene	381				
+GBPCPCFC_00582	CDS	672				hypothetical protein
+GBPCPCFC_00582	gene	672				
+GBPCPCFC_00583	CDS	594				hypothetical protein
+GBPCPCFC_00583	gene	594				
+GBPCPCFC_00584	CDS	582				hypothetical protein
+GBPCPCFC_00584	gene	582				
+GBPCPCFC_00585	CDS	2175				hypothetical protein
+GBPCPCFC_00585	gene	2175				
+GBPCPCFC_00586	CDS	702				hypothetical protein
+GBPCPCFC_00586	gene	702				
+GBPCPCFC_00587	CDS	423				hypothetical protein
+GBPCPCFC_00587	gene	423				
+GBPCPCFC_00588	CDS	762				hypothetical protein
+GBPCPCFC_00588	gene	762				
+GBPCPCFC_00589	CDS	294				hypothetical protein
+GBPCPCFC_00589	gene	294				
+GBPCPCFC_00590	CDS	1077				hypothetical protein
+GBPCPCFC_00590	gene	1077				
+GBPCPCFC_00591	CDS	555				hypothetical protein
+GBPCPCFC_00591	gene	555				
+GBPCPCFC_00592	CDS	672				hypothetical protein
+GBPCPCFC_00592	gene	672				
+GBPCPCFC_00593	CDS	216				hypothetical protein
+GBPCPCFC_00593	gene	216				
+GBPCPCFC_00594	CDS	465				hypothetical protein
+GBPCPCFC_00594	gene	465				
+GBPCPCFC_00595	CDS	159				hypothetical protein
+GBPCPCFC_00595	gene	159				
+GBPCPCFC_00596	CDS	336				hypothetical protein
+GBPCPCFC_00596	gene	336				
+GBPCPCFC_00597	CDS	171				hypothetical protein
+GBPCPCFC_00597	gene	171				
+GBPCPCFC_00598	CDS	162				hypothetical protein
+GBPCPCFC_00598	gene	162				
+GBPCPCFC_00599	CDS	390				hypothetical protein
+GBPCPCFC_00599	gene	390				
+GBPCPCFC_00600	CDS	168				hypothetical protein
+GBPCPCFC_00600	gene	168				
+GBPCPCFC_00601	CDS	114				hypothetical protein
+GBPCPCFC_00601	gene	114				
+GBPCPCFC_00602	CDS	198				hypothetical protein
+GBPCPCFC_00602	gene	198				
+GBPCPCFC_00603	CDS	186				hypothetical protein
+GBPCPCFC_00603	gene	186				
+GBPCPCFC_00604	CDS	222				hypothetical protein
+GBPCPCFC_00604	gene	222				
+GBPCPCFC_00605	CDS	273				hypothetical protein
+GBPCPCFC_00605	gene	273				
+GBPCPCFC_00606	CDS	573				hypothetical protein
+GBPCPCFC_00606	gene	573				
+GBPCPCFC_00607	CDS	111				hypothetical protein
+GBPCPCFC_00607	gene	111				
+GBPCPCFC_00608	CDS	606				hypothetical protein
+GBPCPCFC_00608	gene	606				
+GBPCPCFC_00609	CDS	609	tnpR_2		COG1961	Transposon gamma-delta resolvase
+GBPCPCFC_00609	gene	609	tnpR_2			
+GBPCPCFC_00610	CDS	414				Insertion sequence IS5376 putative ATP-binding protein
+GBPCPCFC_00610	gene	414				
+GBPCPCFC_00611	CDS	402				hypothetical protein
+GBPCPCFC_00611	gene	402				
+GBPCPCFC_00612	CDS	255				hypothetical protein
+GBPCPCFC_00612	gene	255				
+GBPCPCFC_00613	CDS	651				hypothetical protein
+GBPCPCFC_00613	gene	651				
+GBPCPCFC_00614	CDS	315				hypothetical protein
+GBPCPCFC_00614	gene	315				
+GBPCPCFC_00615	CDS	624				hypothetical protein
+GBPCPCFC_00615	gene	624				
+GBPCPCFC_00616	CDS	390				hypothetical protein
+GBPCPCFC_00616	gene	390				
+GBPCPCFC_00617	CDS	243				hypothetical protein
+GBPCPCFC_00617	gene	243				
+GBPCPCFC_00618	CDS	174				hypothetical protein
+GBPCPCFC_00618	gene	174				
+GBPCPCFC_00619	CDS	144				hypothetical protein
+GBPCPCFC_00619	gene	144				
+GBPCPCFC_00620	CDS	633				hypothetical protein
+GBPCPCFC_00620	gene	633				
+GBPCPCFC_00621	CDS	1293				hypothetical protein
+GBPCPCFC_00621	gene	1293				
+GBPCPCFC_00622	CDS	750				hypothetical protein
+GBPCPCFC_00622	gene	750				
+GBPCPCFC_00623	CDS	399				hypothetical protein
+GBPCPCFC_00623	gene	399				
+GBPCPCFC_00624	CDS	897				hypothetical protein
+GBPCPCFC_00624	gene	897				
+GBPCPCFC_00625	CDS	279				hypothetical protein
+GBPCPCFC_00625	gene	279				
+GBPCPCFC_00626	CDS	510				hypothetical protein
+GBPCPCFC_00626	gene	510				
+GBPCPCFC_00627	CDS	2499				hypothetical protein
+GBPCPCFC_00627	gene	2499				
+GBPCPCFC_00628	CDS	465				hypothetical protein
+GBPCPCFC_00628	gene	465				
+GBPCPCFC_00629	CDS	4002				hypothetical protein
+GBPCPCFC_00629	gene	4002				
+GBPCPCFC_00630	CDS	597				hypothetical protein
+GBPCPCFC_00630	gene	597				
+GBPCPCFC_00631	CDS	237				hypothetical protein
+GBPCPCFC_00631	gene	237				
+GBPCPCFC_00632	CDS	1077				hypothetical protein
+GBPCPCFC_00632	gene	1077				
+GBPCPCFC_00633	CDS	579				hypothetical protein
+GBPCPCFC_00633	gene	579				
+GBPCPCFC_00634	CDS	924				hypothetical protein
+GBPCPCFC_00634	gene	924				
+GBPCPCFC_00635	CDS	1731				hypothetical protein
+GBPCPCFC_00635	gene	1731				
+GBPCPCFC_00636	CDS	126				hypothetical protein
+GBPCPCFC_00636	gene	126				
+GBPCPCFC_00637	CDS	183				hypothetical protein
+GBPCPCFC_00637	gene	183				
+GBPCPCFC_00638	CDS	948				hypothetical protein
+GBPCPCFC_00638	gene	948				
+GBPCPCFC_00639	CDS	243				hypothetical protein
+GBPCPCFC_00639	gene	243				
+GBPCPCFC_00640	CDS	420				hypothetical protein
+GBPCPCFC_00640	gene	420				
+GBPCPCFC_00641	CDS	321				hypothetical protein
+GBPCPCFC_00641	gene	321				
+GBPCPCFC_00642	CDS	1095				hypothetical protein
+GBPCPCFC_00642	gene	1095				
+GBPCPCFC_00643	CDS	2367				hypothetical protein
+GBPCPCFC_00643	gene	2367				
+GBPCPCFC_00644	CDS	186				hypothetical protein
+GBPCPCFC_00644	gene	186				
+GBPCPCFC_00645	CDS	465				hypothetical protein
+GBPCPCFC_00645	gene	465				
+GBPCPCFC_00646	CDS	315				hypothetical protein
+GBPCPCFC_00646	gene	315				
+GBPCPCFC_00647	CDS	213				hypothetical protein
+GBPCPCFC_00647	gene	213				
+GBPCPCFC_00648	CDS	243				hypothetical protein
+GBPCPCFC_00648	gene	243				
+GBPCPCFC_00649	CDS	117				hypothetical protein
+GBPCPCFC_00649	gene	117				
+GBPCPCFC_00650	CDS	5052	mobA			Mobilization protein A
+GBPCPCFC_00650	gene	5052	mobA			
+GBPCPCFC_00651	CDS	342				hypothetical protein
+GBPCPCFC_00651	gene	342				
+GBPCPCFC_00652	CDS	351				hypothetical protein
+GBPCPCFC_00652	gene	351				
+GBPCPCFC_00653	CDS	1533				hypothetical protein
+GBPCPCFC_00653	gene	1533				
+GBPCPCFC_00654	CDS	2547				hypothetical protein
+GBPCPCFC_00654	gene	2547				
+GBPCPCFC_00655	CDS	1095				hypothetical protein
+GBPCPCFC_00655	gene	1095				
+GBPCPCFC_00656	CDS	246				hypothetical protein
+GBPCPCFC_00656	gene	246				
+GBPCPCFC_00657	CDS	1014				hypothetical protein
+GBPCPCFC_00657	gene	1014				
+GBPCPCFC_00658	CDS	1071				hypothetical protein
+GBPCPCFC_00658	gene	1071				
+GBPCPCFC_00659	CDS	1011				hypothetical protein
+GBPCPCFC_00659	gene	1011				
+GBPCPCFC_00660	CDS	726				hypothetical protein
+GBPCPCFC_00660	gene	726				
+GBPCPCFC_00661	CDS	1083				hypothetical protein
+GBPCPCFC_00661	gene	1083				
+GBPCPCFC_00662	CDS	717				hypothetical protein
+GBPCPCFC_00662	gene	717				
+GBPCPCFC_00663	CDS	1095				hypothetical protein
+GBPCPCFC_00663	gene	1095				
+GBPCPCFC_00664	CDS	2076				hypothetical protein
+GBPCPCFC_00664	gene	2076				
+GBPCPCFC_00665	CDS	465				hypothetical protein
+GBPCPCFC_00665	gene	465				
+GBPCPCFC_00666	CDS	426				hypothetical protein
+GBPCPCFC_00666	gene	426				
+GBPCPCFC_00667	CDS	975	pomZ		COG1192	Cell division protein PomZ
+GBPCPCFC_00667	gene	975	pomZ			
+GBPCPCFC_00668	CDS	819	spo0C		COG1475	Chromosome-partitioning protein Spo0J
+GBPCPCFC_00668	gene	819	spo0C			
+GBPCPCFC_00669	CDS	1095				hypothetical protein
+GBPCPCFC_00669	gene	1095				
+GBPCPCFC_00670	CDS	579	hin_2		COG1961	DNA-invertase hin
+GBPCPCFC_00670	gene	579	hin_2			
+GBPCPCFC_00671	CDS	1914				Actin-binding protein
+GBPCPCFC_00671	gene	1914				
+GBPCPCFC_00672	CDS	144				hypothetical protein
+GBPCPCFC_00672	gene	144				
+GBPCPCFC_00673	CDS	636				hypothetical protein
+GBPCPCFC_00673	gene	636				
+GBPCPCFC_00674	CDS	447				hypothetical protein
+GBPCPCFC_00674	gene	447				
+GBPCPCFC_00675	CDS	1401	fumC_1	4.2.1.2	COG0114	Fumarate hydratase class II
+GBPCPCFC_00675	gene	1401	fumC_1			
+GBPCPCFC_00676	CDS	483				hypothetical protein
+GBPCPCFC_00676	gene	483				
+GBPCPCFC_00677	CDS	120				hypothetical protein
+GBPCPCFC_00677	gene	120				
+GBPCPCFC_00678	CDS	342				hypothetical protein
+GBPCPCFC_00678	gene	342				
+GBPCPCFC_00679	CDS	186				hypothetical protein
+GBPCPCFC_00679	gene	186				
+GBPCPCFC_00680	CDS	249				hypothetical protein
+GBPCPCFC_00680	gene	249				
+GBPCPCFC_00681	CDS	186				hypothetical protein
+GBPCPCFC_00681	gene	186				
+GBPCPCFC_00682	CDS	162				hypothetical protein
+GBPCPCFC_00682	gene	162				
+GBPCPCFC_00683	CDS	315				hypothetical protein
+GBPCPCFC_00683	gene	315				
+GBPCPCFC_00684	CDS	171				hypothetical protein
+GBPCPCFC_00684	gene	171				
+GBPCPCFC_00685	CDS	117				hypothetical protein
+GBPCPCFC_00685	gene	117				
+GBPCPCFC_00686	CDS	129				hypothetical protein
+GBPCPCFC_00686	gene	129				
+GBPCPCFC_00687	CDS	519				hypothetical protein
+GBPCPCFC_00687	gene	519				
+GBPCPCFC_00688	CDS	771				hypothetical protein
+GBPCPCFC_00688	gene	771				
+GBPCPCFC_00689	CDS	432				hypothetical protein
+GBPCPCFC_00689	gene	432				
+GBPCPCFC_00690	CDS	120				hypothetical protein
+GBPCPCFC_00690	gene	120				
+GBPCPCFC_00691	CDS	1095				hypothetical protein
+GBPCPCFC_00691	gene	1095				
+GBPCPCFC_00692	CDS	1653	btuB			Vitamin B12 transporter BtuB
+GBPCPCFC_00692	gene	1653	btuB			
+GBPCPCFC_00693	CDS	450				hypothetical protein
+GBPCPCFC_00693	gene	450				
+GBPCPCFC_00694	CDS	510				hypothetical protein
+GBPCPCFC_00694	gene	510				
+GBPCPCFC_00695	CDS	1623				hypothetical protein
+GBPCPCFC_00695	gene	1623				
+GBPCPCFC_00696	CDS	1788				hypothetical protein
+GBPCPCFC_00696	gene	1788				
+GBPCPCFC_00697	CDS	1338				hypothetical protein
+GBPCPCFC_00697	gene	1338				
+GBPCPCFC_00698	CDS	1017				hypothetical protein
+GBPCPCFC_00698	gene	1017				
+GBPCPCFC_00699	CDS	1323				hypothetical protein
+GBPCPCFC_00699	gene	1323				
+GBPCPCFC_00700	CDS	1284				hypothetical protein
+GBPCPCFC_00700	gene	1284				
+GBPCPCFC_00701	CDS	1068				hypothetical protein
+GBPCPCFC_00701	gene	1068				
+GBPCPCFC_00702	CDS	288				hypothetical protein
+GBPCPCFC_00702	gene	288				
+GBPCPCFC_00703	CDS	1164				hypothetical protein
+GBPCPCFC_00703	gene	1164				
+GBPCPCFC_00704	CDS	906				hypothetical protein
+GBPCPCFC_00704	gene	906				
+GBPCPCFC_00705	CDS	438	xcpT		COG2165	Type II secretion system protein G
+GBPCPCFC_00705	gene	438	xcpT			
+GBPCPCFC_00706	CDS	339				hypothetical protein
+GBPCPCFC_00706	gene	339				
+GBPCPCFC_00707	CDS	441				hypothetical protein
+GBPCPCFC_00707	gene	441				
+GBPCPCFC_00708	CDS	552				hypothetical protein
+GBPCPCFC_00708	gene	552				
+GBPCPCFC_00709	CDS	747	fecR_1		COG3712	Protein FecR
+GBPCPCFC_00709	gene	747	fecR_1			
+GBPCPCFC_00710	CDS	204				hypothetical protein
+GBPCPCFC_00710	gene	204				
+GBPCPCFC_00711	CDS	111				hypothetical protein
+GBPCPCFC_00711	gene	111				
+GBPCPCFC_00712	CDS	261				hypothetical protein
+GBPCPCFC_00712	gene	261				
+GBPCPCFC_00713	CDS	159				hypothetical protein
+GBPCPCFC_00713	gene	159				
+GBPCPCFC_00714	CDS	210				hypothetical protein
+GBPCPCFC_00714	gene	210				
+GBPCPCFC_00715	CDS	174				hypothetical protein
+GBPCPCFC_00715	gene	174				
+GBPCPCFC_00716	CDS	531				hypothetical protein
+GBPCPCFC_00716	gene	531				
+GBPCPCFC_00717	CDS	465				hypothetical protein
+GBPCPCFC_00717	gene	465				
+GBPCPCFC_00718	CDS	3924				hypothetical protein
+GBPCPCFC_00718	gene	3924				
+GBPCPCFC_00719	CDS	1095				hypothetical protein
+GBPCPCFC_00719	gene	1095				
+GBPCPCFC_00720	CDS	975				hypothetical protein
+GBPCPCFC_00720	gene	975				
+GBPCPCFC_00721	CDS	468				hypothetical protein
+GBPCPCFC_00721	gene	468				
+GBPCPCFC_00722	CDS	429				hypothetical protein
+GBPCPCFC_00722	gene	429				
+GBPCPCFC_00723	CDS	150				hypothetical protein
+GBPCPCFC_00723	gene	150				
+GBPCPCFC_00724	CDS	549				hypothetical protein
+GBPCPCFC_00724	gene	549				
+GBPCPCFC_00725	CDS	1266				hypothetical protein
+GBPCPCFC_00725	gene	1266				
+GBPCPCFC_00726	CDS	243	pcm	2.1.1.77	COG2518	Protein-L-isoaspartate O-methyltransferase
+GBPCPCFC_00726	gene	243	pcm			
+GBPCPCFC_00727	CDS	213				hypothetical protein
+GBPCPCFC_00727	gene	213				
+GBPCPCFC_00728	CDS	177				hypothetical protein
+GBPCPCFC_00728	gene	177				
+GBPCPCFC_00729	CDS	204				hypothetical protein
+GBPCPCFC_00729	gene	204				
+GBPCPCFC_00730	CDS	2154				hypothetical protein
+GBPCPCFC_00730	gene	2154				
+GBPCPCFC_00731	CDS	135				hypothetical protein
+GBPCPCFC_00731	gene	135				
+GBPCPCFC_00732	CDS	279				hypothetical protein
+GBPCPCFC_00732	gene	279				
+GBPCPCFC_00733	CDS	564				hypothetical protein
+GBPCPCFC_00733	gene	564				
+GBPCPCFC_00734	CDS	150				hypothetical protein
+GBPCPCFC_00734	gene	150				
+GBPCPCFC_00735	CDS	408				hypothetical protein
+GBPCPCFC_00735	gene	408				
+GBPCPCFC_00736	CDS	258				hypothetical protein
+GBPCPCFC_00736	gene	258				
+GBPCPCFC_00737	CDS	144				hypothetical protein
+GBPCPCFC_00737	gene	144				
+GBPCPCFC_00738	CDS	327				hypothetical protein
+GBPCPCFC_00738	gene	327				
+GBPCPCFC_00739	CDS	420				hypothetical protein
+GBPCPCFC_00739	gene	420				
+GBPCPCFC_00740	CDS	285				hypothetical protein
+GBPCPCFC_00740	gene	285				
+GBPCPCFC_00741	CDS	438				hypothetical protein
+GBPCPCFC_00741	gene	438				
+GBPCPCFC_00742	CDS	450	tmk_1	2.7.4.9		Thymidylate kinase
+GBPCPCFC_00742	gene	450	tmk_1			
+GBPCPCFC_00743	CDS	2262				hypothetical protein
+GBPCPCFC_00743	gene	2262				
+GBPCPCFC_00744	CDS	168				hypothetical protein
+GBPCPCFC_00744	gene	168				
+GBPCPCFC_00745	CDS	198				hypothetical protein
+GBPCPCFC_00745	gene	198				
+GBPCPCFC_00746	CDS	1323	proP_2			Proline/betaine transporter
+GBPCPCFC_00746	gene	1323	proP_2			
+GBPCPCFC_00747	CDS	594	rsh_4	2.7.6.5		GTP pyrophosphokinase rsh
+GBPCPCFC_00747	gene	594	rsh_4			
+GBPCPCFC_00748	CDS	309				hypothetical protein
+GBPCPCFC_00748	gene	309				
+GBPCPCFC_00749	CDS	534				hypothetical protein
+GBPCPCFC_00749	gene	534				
+GBPCPCFC_00750	CDS	1293				hypothetical protein
+GBPCPCFC_00750	gene	1293				
+GBPCPCFC_00751	CDS	168				hypothetical protein
+GBPCPCFC_00751	gene	168				
+GBPCPCFC_00752	CDS	870				hypothetical protein
+GBPCPCFC_00752	gene	870				
+GBPCPCFC_00753	CDS	549				hypothetical protein
+GBPCPCFC_00753	gene	549				
+GBPCPCFC_00754	CDS	771				hypothetical protein
+GBPCPCFC_00754	gene	771				
+GBPCPCFC_00755	CDS	645				hypothetical protein
+GBPCPCFC_00755	gene	645				
+GBPCPCFC_00756	CDS	438				hypothetical protein
+GBPCPCFC_00756	gene	438				
+GBPCPCFC_00757	CDS	1095				hypothetical protein
+GBPCPCFC_00757	gene	1095				
+GBPCPCFC_00758	CDS	789				hypothetical protein
+GBPCPCFC_00758	gene	789				
+GBPCPCFC_00759	CDS	483				hypothetical protein
+GBPCPCFC_00759	gene	483				
+GBPCPCFC_00760	CDS	1398	fumC_2	4.2.1.2	COG0114	Fumarate hydratase class II
+GBPCPCFC_00760	gene	1398	fumC_2			
+GBPCPCFC_00761	CDS	159				hypothetical protein
+GBPCPCFC_00761	gene	159				
+GBPCPCFC_00762	CDS	168				hypothetical protein
+GBPCPCFC_00762	gene	168				
+GBPCPCFC_00763	CDS	267				hypothetical protein
+GBPCPCFC_00763	gene	267				
+GBPCPCFC_00764	CDS	144				hypothetical protein
+GBPCPCFC_00764	gene	144				
+GBPCPCFC_00765	CDS	225				hypothetical protein
+GBPCPCFC_00765	gene	225				
+GBPCPCFC_00766	CDS	174				hypothetical protein
+GBPCPCFC_00766	gene	174				
+GBPCPCFC_00767	CDS	141				hypothetical protein
+GBPCPCFC_00767	gene	141				
+GBPCPCFC_00768	CDS	219				hypothetical protein
+GBPCPCFC_00768	gene	219				
+GBPCPCFC_00769	CDS	291				hypothetical protein
+GBPCPCFC_00769	gene	291				
+GBPCPCFC_00770	CDS	447				hypothetical protein
+GBPCPCFC_00770	gene	447				
+GBPCPCFC_00771	CDS	96				hypothetical protein
+GBPCPCFC_00771	gene	96				
+GBPCPCFC_00772	CDS	276				hypothetical protein
+GBPCPCFC_00772	gene	276				
+GBPCPCFC_00773	CDS	117				hypothetical protein
+GBPCPCFC_00773	gene	117				
+GBPCPCFC_00774	CDS	198				hypothetical protein
+GBPCPCFC_00774	gene	198				
+GBPCPCFC_00775	CDS	726				hypothetical protein
+GBPCPCFC_00775	gene	726				
+GBPCPCFC_00776	CDS	633				hypothetical protein
+GBPCPCFC_00776	gene	633				
+GBPCPCFC_00777	CDS	747				hypothetical protein
+GBPCPCFC_00777	gene	747				
+GBPCPCFC_00778	CDS	819	yfhM		COG2373	putative lipoprotein YfhM
+GBPCPCFC_00778	gene	819	yfhM			
+GBPCPCFC_00779	CDS	1497				hypothetical protein
+GBPCPCFC_00779	gene	1497				
+GBPCPCFC_00780	CDS	2505				hypothetical protein
+GBPCPCFC_00780	gene	2505				
+GBPCPCFC_00781	CDS	1137				hypothetical protein
+GBPCPCFC_00781	gene	1137				
+GBPCPCFC_00782	CDS	1425				hypothetical protein
+GBPCPCFC_00782	gene	1425				
+GBPCPCFC_00783	CDS	1332				hypothetical protein
+GBPCPCFC_00783	gene	1332				
+GBPCPCFC_00784	CDS	363				hypothetical protein
+GBPCPCFC_00784	gene	363				
+GBPCPCFC_00785	CDS	243	parD4		COG3609	Antitoxin ParD4
+GBPCPCFC_00785	gene	243	parD4			
+GBPCPCFC_00786	CDS	1221				hypothetical protein
+GBPCPCFC_00786	gene	1221				
+GBPCPCFC_00787	CDS	420				hypothetical protein
+GBPCPCFC_00787	gene	420				
+GBPCPCFC_00788	CDS	882				hypothetical protein
+GBPCPCFC_00788	gene	882				
+GBPCPCFC_00789	CDS	1488				hypothetical protein
+GBPCPCFC_00789	gene	1488				
+GBPCPCFC_00790	CDS	1326				hypothetical protein
+GBPCPCFC_00790	gene	1326				
+GBPCPCFC_00791	CDS	888				hypothetical protein
+GBPCPCFC_00791	gene	888				
+GBPCPCFC_00792	CDS	609				hypothetical protein
+GBPCPCFC_00792	gene	609				
+GBPCPCFC_00793	CDS	417				hypothetical protein
+GBPCPCFC_00793	gene	417				
+GBPCPCFC_00794	CDS	840				hypothetical protein
+GBPCPCFC_00794	gene	840				
+GBPCPCFC_00795	CDS	2016				hypothetical protein
+GBPCPCFC_00795	gene	2016				
+GBPCPCFC_00796	CDS	543				hypothetical protein
+GBPCPCFC_00796	gene	543				
+GBPCPCFC_00797	CDS	594				hypothetical protein
+GBPCPCFC_00797	gene	594				
+GBPCPCFC_00798	CDS	696				hypothetical protein
+GBPCPCFC_00798	gene	696				
+GBPCPCFC_00799	CDS	918				hypothetical protein
+GBPCPCFC_00799	gene	918				
+GBPCPCFC_00800	CDS	1278	caeB	3.1.1.-		Carboxylesterase B
+GBPCPCFC_00800	gene	1278	caeB			
+GBPCPCFC_00801	CDS	1158				hypothetical protein
+GBPCPCFC_00801	gene	1158				
+GBPCPCFC_00802	CDS	300				hypothetical protein
+GBPCPCFC_00802	gene	300				
+GBPCPCFC_00803	CDS	411				hypothetical protein
+GBPCPCFC_00803	gene	411				
+GBPCPCFC_00804	CDS	621				hypothetical protein
+GBPCPCFC_00804	gene	621				
+GBPCPCFC_00805	CDS	828	amiD_1	3.5.1.28	COG3023	N-acetylmuramoyl-L-alanine amidase AmiD
+GBPCPCFC_00805	gene	828	amiD_1			
+GBPCPCFC_00806	CDS	303				hypothetical protein
+GBPCPCFC_00806	gene	303				
+GBPCPCFC_00807	CDS	489				hypothetical protein
+GBPCPCFC_00807	gene	489				
+GBPCPCFC_00808	CDS	390				hypothetical protein
+GBPCPCFC_00808	gene	390				
+GBPCPCFC_00809	CDS	1173				hypothetical protein
+GBPCPCFC_00809	gene	1173				
+GBPCPCFC_00810	CDS	348				hypothetical protein
+GBPCPCFC_00810	gene	348				
+GBPCPCFC_00811	CDS	453				hypothetical protein
+GBPCPCFC_00811	gene	453				
+GBPCPCFC_00812	CDS	345				hypothetical protein
+GBPCPCFC_00812	gene	345				
+GBPCPCFC_00813	CDS	1107				hypothetical protein
+GBPCPCFC_00813	gene	1107				
+GBPCPCFC_00814	CDS	921				hypothetical protein
+GBPCPCFC_00814	gene	921				
+GBPCPCFC_00815	CDS	1425				hypothetical protein
+GBPCPCFC_00815	gene	1425				
+GBPCPCFC_00816	CDS	1029				hypothetical protein
+GBPCPCFC_00816	gene	1029				
+GBPCPCFC_00817	CDS	303				hypothetical protein
+GBPCPCFC_00817	gene	303				
+GBPCPCFC_00818	CDS	816				hypothetical protein
+GBPCPCFC_00818	gene	816				
+GBPCPCFC_00819	CDS	1608				hypothetical protein
+GBPCPCFC_00819	gene	1608				
+GBPCPCFC_00820	CDS	480				hypothetical protein
+GBPCPCFC_00820	gene	480				
+GBPCPCFC_00821	CDS	564				hypothetical protein
+GBPCPCFC_00821	gene	564				
+GBPCPCFC_00822	CDS	582				hypothetical protein
+GBPCPCFC_00822	gene	582				
+GBPCPCFC_00823	CDS	1209				hypothetical protein
+GBPCPCFC_00823	gene	1209				
+GBPCPCFC_00824	CDS	384				hypothetical protein
+GBPCPCFC_00824	gene	384				
+GBPCPCFC_00825	CDS	1356				hypothetical protein
+GBPCPCFC_00825	gene	1356				
+GBPCPCFC_00826	CDS	1227				hypothetical protein
+GBPCPCFC_00826	gene	1227				
+GBPCPCFC_00827	CDS	756				hypothetical protein
+GBPCPCFC_00827	gene	756				
+GBPCPCFC_00828	CDS	723				hypothetical protein
+GBPCPCFC_00828	gene	723				
+GBPCPCFC_00829	CDS	600				hypothetical protein
+GBPCPCFC_00829	gene	600				
+GBPCPCFC_00830	CDS	567				hypothetical protein
+GBPCPCFC_00830	gene	567				
+GBPCPCFC_00831	CDS	846				hypothetical protein
+GBPCPCFC_00831	gene	846				
+GBPCPCFC_00832	CDS	936				hypothetical protein
+GBPCPCFC_00832	gene	936				
+GBPCPCFC_00833	CDS	450				hypothetical protein
+GBPCPCFC_00833	gene	450				
+GBPCPCFC_00834	CDS	924				hypothetical protein
+GBPCPCFC_00834	gene	924				
+GBPCPCFC_00835	CDS	558				hypothetical protein
+GBPCPCFC_00835	gene	558				
+GBPCPCFC_00836	CDS	300				hypothetical protein
+GBPCPCFC_00836	gene	300				
+GBPCPCFC_00837	CDS	819				hypothetical protein
+GBPCPCFC_00837	gene	819				
+GBPCPCFC_00838	CDS	1164				hypothetical protein
+GBPCPCFC_00838	gene	1164				
+GBPCPCFC_00839	CDS	447				hypothetical protein
+GBPCPCFC_00839	gene	447				
+GBPCPCFC_00840	CDS	429				hypothetical protein
+GBPCPCFC_00840	gene	429				
+GBPCPCFC_00841	CDS	348				hypothetical protein
+GBPCPCFC_00841	gene	348				
+GBPCPCFC_00842	CDS	438				hypothetical protein
+GBPCPCFC_00842	gene	438				
+GBPCPCFC_00843	CDS	909				hypothetical protein
+GBPCPCFC_00843	gene	909				
+GBPCPCFC_00844	CDS	309				hypothetical protein
+GBPCPCFC_00844	gene	309				
+GBPCPCFC_00845	CDS	1113				hypothetical protein
+GBPCPCFC_00845	gene	1113				
+GBPCPCFC_00846	CDS	642				hypothetical protein
+GBPCPCFC_00846	gene	642				
+GBPCPCFC_00847	CDS	825				hypothetical protein
+GBPCPCFC_00847	gene	825				
+GBPCPCFC_00848	CDS	450				hypothetical protein
+GBPCPCFC_00848	gene	450				
+GBPCPCFC_00849	CDS	219				hypothetical protein
+GBPCPCFC_00849	gene	219				
+GBPCPCFC_00850	CDS	324				hypothetical protein
+GBPCPCFC_00850	gene	324				
+GBPCPCFC_00851	CDS	726				hypothetical protein
+GBPCPCFC_00851	gene	726				
+GBPCPCFC_00852	CDS	1023				hypothetical protein
+GBPCPCFC_00852	gene	1023				
+GBPCPCFC_00853	CDS	927				hypothetical protein
+GBPCPCFC_00853	gene	927				
+GBPCPCFC_00854	CDS	630				hypothetical protein
+GBPCPCFC_00854	gene	630				
+GBPCPCFC_00855	CDS	933				hypothetical protein
+GBPCPCFC_00855	gene	933				
+GBPCPCFC_00856	CDS	507	ssb_1		COG0629	Single-stranded DNA-binding protein
+GBPCPCFC_00856	gene	507	ssb_1			
+GBPCPCFC_00857	CDS	555				hypothetical protein
+GBPCPCFC_00857	gene	555				
+GBPCPCFC_00858	CDS	495				hypothetical protein
+GBPCPCFC_00858	gene	495				
+GBPCPCFC_00859	CDS	963				hypothetical protein
+GBPCPCFC_00859	gene	963				
+GBPCPCFC_00860	CDS	501				hypothetical protein
+GBPCPCFC_00860	gene	501				
+GBPCPCFC_00861	CDS	2520				hypothetical protein
+GBPCPCFC_00861	gene	2520				
+GBPCPCFC_00862	CDS	348				hypothetical protein
+GBPCPCFC_00862	gene	348				
+GBPCPCFC_00863	CDS	345				hypothetical protein
+GBPCPCFC_00863	gene	345				
+GBPCPCFC_00864	CDS	1107				hypothetical protein
+GBPCPCFC_00864	gene	1107				
+GBPCPCFC_00865	CDS	921				hypothetical protein
+GBPCPCFC_00865	gene	921				
+GBPCPCFC_00866	CDS	1425				hypothetical protein
+GBPCPCFC_00866	gene	1425				
+GBPCPCFC_00867	CDS	1029				hypothetical protein
+GBPCPCFC_00867	gene	1029				
+GBPCPCFC_00868	CDS	303				hypothetical protein
+GBPCPCFC_00868	gene	303				
+GBPCPCFC_00869	CDS	573				hypothetical protein
+GBPCPCFC_00869	gene	573				
+GBPCPCFC_00870	CDS	321				hypothetical protein
+GBPCPCFC_00870	gene	321				
+GBPCPCFC_00871	CDS	576				hypothetical protein
+GBPCPCFC_00871	gene	576				
+GBPCPCFC_00872	CDS	522				hypothetical protein
+GBPCPCFC_00872	gene	522				
+GBPCPCFC_00873	CDS	498				hypothetical protein
+GBPCPCFC_00873	gene	498				
+GBPCPCFC_00874	CDS	1143				hypothetical protein
+GBPCPCFC_00874	gene	1143				
+GBPCPCFC_00875	CDS	2013				hypothetical protein
+GBPCPCFC_00875	gene	2013				
+GBPCPCFC_00876	CDS	864	ampR			HTH-type transcriptional activator AmpR
+GBPCPCFC_00876	gene	864	ampR			
+GBPCPCFC_00877	CDS	783				hypothetical protein
+GBPCPCFC_00877	gene	783				
+GBPCPCFC_00878	CDS	2364				hypothetical protein
+GBPCPCFC_00878	gene	2364				
+GBPCPCFC_00879	CDS	1260				hypothetical protein
+GBPCPCFC_00879	gene	1260				
+GBPCPCFC_00880	CDS	477				hypothetical protein
+GBPCPCFC_00880	gene	477				
+GBPCPCFC_00881	CDS	912				hypothetical protein
+GBPCPCFC_00881	gene	912				
+GBPCPCFC_00882	CDS	375				hypothetical protein
+GBPCPCFC_00882	gene	375				
+GBPCPCFC_00883	CDS	1242				hypothetical protein
+GBPCPCFC_00883	gene	1242				
+GBPCPCFC_00884	CDS	1407				hypothetical protein
+GBPCPCFC_00884	gene	1407				
+GBPCPCFC_00885	CDS	1344				hypothetical protein
+GBPCPCFC_00885	gene	1344				
+GBPCPCFC_00886	CDS	1125				hypothetical protein
+GBPCPCFC_00886	gene	1125				
+GBPCPCFC_00887	CDS	780	bioH	3.1.1.85		Pimeloyl-[acyl-carrier protein] methyl ester esterase
+GBPCPCFC_00887	gene	780	bioH			
+GBPCPCFC_00888	CDS	882				hypothetical protein
+GBPCPCFC_00888	gene	882				
+GBPCPCFC_00889	CDS	285				hypothetical protein
+GBPCPCFC_00889	gene	285				
+GBPCPCFC_00890	CDS	420				hypothetical protein
+GBPCPCFC_00890	gene	420				
+GBPCPCFC_00891	CDS	867				hypothetical protein
+GBPCPCFC_00891	gene	867				
+GBPCPCFC_00892	CDS	651				hypothetical protein
+GBPCPCFC_00892	gene	651				
+GBPCPCFC_00893	CDS	1158				hypothetical protein
+GBPCPCFC_00893	gene	1158				
+GBPCPCFC_00894	CDS	399				hypothetical protein
+GBPCPCFC_00894	gene	399				
+GBPCPCFC_00895	CDS	207				hypothetical protein
+GBPCPCFC_00895	gene	207				
+GBPCPCFC_00896	CDS	321				hypothetical protein
+GBPCPCFC_00896	gene	321				
+GBPCPCFC_00897	CDS	477				hypothetical protein
+GBPCPCFC_00897	gene	477				
+GBPCPCFC_00898	CDS	471				hypothetical protein
+GBPCPCFC_00898	gene	471				
+GBPCPCFC_00899	CDS	489				hypothetical protein
+GBPCPCFC_00899	gene	489				
+GBPCPCFC_00900	CDS	288				hypothetical protein
+GBPCPCFC_00900	gene	288				
+GBPCPCFC_00901	CDS	318				hypothetical protein
+GBPCPCFC_00901	gene	318				
+GBPCPCFC_00902	CDS	1395	yheS		COG0488	putative ABC transporter ATP-binding protein YheS
+GBPCPCFC_00902	gene	1395	yheS			
+GBPCPCFC_00903	CDS	390				hypothetical protein
+GBPCPCFC_00903	gene	390				
+GBPCPCFC_00904	CDS	1593				hypothetical protein
+GBPCPCFC_00904	gene	1593				
+GBPCPCFC_00905	CDS	867	yhhW	1.13.11.24	COG1741	Quercetin 2,3-dioxygenase
+GBPCPCFC_00905	gene	867	yhhW			
+GBPCPCFC_00906	CDS	282				hypothetical protein
+GBPCPCFC_00906	gene	282				
+GBPCPCFC_00907	CDS	768				hypothetical protein
+GBPCPCFC_00907	gene	768				
+GBPCPCFC_00908	CDS	510				hypothetical protein
+GBPCPCFC_00908	gene	510				
+GBPCPCFC_00909	CDS	957	fecR_2		COG3712	Protein FecR
+GBPCPCFC_00909	gene	957	fecR_2			
+GBPCPCFC_00910	CDS	1251				hypothetical protein
+GBPCPCFC_00910	gene	1251				
+GBPCPCFC_00911	CDS	1569				hypothetical protein
+GBPCPCFC_00911	gene	1569				
+GBPCPCFC_00912	CDS	486				hypothetical protein
+GBPCPCFC_00912	gene	486				
+GBPCPCFC_00913	CDS	1344				hypothetical protein
+GBPCPCFC_00913	gene	1344				
+GBPCPCFC_00914	CDS	885				hypothetical protein
+GBPCPCFC_00914	gene	885				
+GBPCPCFC_00915	CDS	123				hypothetical protein
+GBPCPCFC_00915	gene	123				
+GBPCPCFC_00916	CDS	441				hypothetical protein
+GBPCPCFC_00916	gene	441				
+GBPCPCFC_00917	CDS	3012	traI_5			Multifunctional conjugation protein TraI
+GBPCPCFC_00917	gene	3012	traI_5			
+GBPCPCFC_00918	CDS	240				hypothetical protein
+GBPCPCFC_00918	gene	240				
+GBPCPCFC_00919	CDS	1095				hypothetical protein
+GBPCPCFC_00919	gene	1095				
+GBPCPCFC_00920	CDS	894				hypothetical protein
+GBPCPCFC_00920	gene	894				
+GBPCPCFC_00921	CDS	657				hypothetical protein
+GBPCPCFC_00921	gene	657				
+GBPCPCFC_00922	CDS	1140	sufS	2.8.1.7	COG0520	Cysteine desulfurase
+GBPCPCFC_00922	gene	1140	sufS			
+GBPCPCFC_00923	CDS	1095				hypothetical protein
+GBPCPCFC_00923	gene	1095				
+GBPCPCFC_00924	CDS	1293				hypothetical protein
+GBPCPCFC_00924	gene	1293				
+GBPCPCFC_00925	CDS	1548	traD_2			Coupling protein TraD
+GBPCPCFC_00925	gene	1548	traD_2			
+GBPCPCFC_00926	CDS	201				hypothetical protein
+GBPCPCFC_00926	gene	201				
+GBPCPCFC_00927	CDS	1083	yrrB_1			TPR repeat-containing protein YrrB
+GBPCPCFC_00927	gene	1083	yrrB_1			
+GBPCPCFC_00928	CDS	1311				hypothetical protein
+GBPCPCFC_00928	gene	1311				
+GBPCPCFC_00929	CDS	438				hypothetical protein
+GBPCPCFC_00929	gene	438				
+GBPCPCFC_00930	CDS	1320				hypothetical protein
+GBPCPCFC_00930	gene	1320				
+GBPCPCFC_00931	CDS	1095				hypothetical protein
+GBPCPCFC_00931	gene	1095				
+GBPCPCFC_00932	CDS	216				hypothetical protein
+GBPCPCFC_00932	gene	216				
+GBPCPCFC_00933	CDS	1329				hypothetical protein
+GBPCPCFC_00933	gene	1329				
+GBPCPCFC_00934	CDS	840				hypothetical protein
+GBPCPCFC_00934	gene	840				
+GBPCPCFC_00935	CDS	1374				hypothetical protein
+GBPCPCFC_00935	gene	1374				
+GBPCPCFC_00936	CDS	294				hypothetical protein
+GBPCPCFC_00936	gene	294				
+GBPCPCFC_00937	CDS	510				hypothetical protein
+GBPCPCFC_00937	gene	510				
+GBPCPCFC_00938	CDS	972				hypothetical protein
+GBPCPCFC_00938	gene	972				
+GBPCPCFC_00939	CDS	480				hypothetical protein
+GBPCPCFC_00939	gene	480				
+GBPCPCFC_00940	CDS	465				hypothetical protein
+GBPCPCFC_00940	gene	465				
+GBPCPCFC_00941	CDS	1095				hypothetical protein
+GBPCPCFC_00941	gene	1095				
+GBPCPCFC_00942	CDS	858				hypothetical protein
+GBPCPCFC_00942	gene	858				
+GBPCPCFC_00943	CDS	438				hypothetical protein
+GBPCPCFC_00943	gene	438				
+GBPCPCFC_00944	CDS	1314				hypothetical protein
+GBPCPCFC_00944	gene	1314				
+GBPCPCFC_00945	CDS	1290				hypothetical protein
+GBPCPCFC_00945	gene	1290				
+GBPCPCFC_00946	CDS	1491	ypwA_2	3.4.17.19	COG2317	Carboxypeptidase 1
+GBPCPCFC_00946	gene	1491	ypwA_2			
+GBPCPCFC_00947	CDS	294				hypothetical protein
+GBPCPCFC_00947	gene	294				
+GBPCPCFC_00948	CDS	462				hypothetical protein
+GBPCPCFC_00948	gene	462				
+GBPCPCFC_00949	CDS	291				hypothetical protein
+GBPCPCFC_00949	gene	291				
+GBPCPCFC_00950	CDS	942	ltrA_2		COG3344	Group II intron-encoded protein LtrA
+GBPCPCFC_00950	gene	942	ltrA_2			
+GBPCPCFC_00951	CDS	966	barA_9	2.7.13.3	COG0784	Signal transduction histidine-protein kinase BarA
+GBPCPCFC_00951	gene	966	barA_9			
+GBPCPCFC_00952	CDS	1830				hypothetical protein
+GBPCPCFC_00952	gene	1830				
+GBPCPCFC_00953	CDS	357				hypothetical protein
+GBPCPCFC_00953	gene	357				
+GBPCPCFC_00954	CDS	438				hypothetical protein
+GBPCPCFC_00954	gene	438				
+GBPCPCFC_00955	CDS	558				hypothetical protein
+GBPCPCFC_00955	gene	558				
+GBPCPCFC_00956	CDS	852	traD_3			Coupling protein TraD
+GBPCPCFC_00956	gene	852	traD_3			
+GBPCPCFC_00957	CDS	1095				hypothetical protein
+GBPCPCFC_00957	gene	1095				
+GBPCPCFC_00958	CDS	1197				hypothetical protein
+GBPCPCFC_00958	gene	1197				
+GBPCPCFC_00959	CDS	1047				hypothetical protein
+GBPCPCFC_00959	gene	1047				
+GBPCPCFC_00960	CDS	102				hypothetical protein
+GBPCPCFC_00960	gene	102				
+GBPCPCFC_00961	CDS	150				hypothetical protein
+GBPCPCFC_00961	gene	150				
+GBPCPCFC_00962	CDS	276				hypothetical protein
+GBPCPCFC_00962	gene	276				
+GBPCPCFC_00963	CDS	450				hypothetical protein
+GBPCPCFC_00963	gene	450				
+GBPCPCFC_00964	CDS	1293				hypothetical protein
+GBPCPCFC_00964	gene	1293				
+GBPCPCFC_00965	CDS	465				hypothetical protein
+GBPCPCFC_00965	gene	465				
+GBPCPCFC_00966	CDS	1863				hypothetical protein
+GBPCPCFC_00966	gene	1863				
+GBPCPCFC_00967	CDS	420	rpfC_1	2.7.13.3	COG0642	Sensory/regulatory protein RpfC
+GBPCPCFC_00967	gene	420	rpfC_1			
+GBPCPCFC_00968	CDS	438				hypothetical protein
+GBPCPCFC_00968	gene	438				
+GBPCPCFC_00969	CDS	399				hypothetical protein
+GBPCPCFC_00969	gene	399				
+GBPCPCFC_00970	CDS	171	dpnM_5	2.1.1.72		Modification methylase DpnIIA
+GBPCPCFC_00970	gene	171	dpnM_5			
+GBPCPCFC_00971	CDS	372				hypothetical protein
+GBPCPCFC_00971	gene	372				
+GBPCPCFC_00972	CDS	438				hypothetical protein
+GBPCPCFC_00972	gene	438				
+GBPCPCFC_00973	CDS	801				hypothetical protein
+GBPCPCFC_00973	gene	801				
+GBPCPCFC_00974	CDS	315				hypothetical protein
+GBPCPCFC_00974	gene	315				
+GBPCPCFC_00975	CDS	294				hypothetical protein
+GBPCPCFC_00975	gene	294				
+GBPCPCFC_00976	CDS	1926				hypothetical protein
+GBPCPCFC_00976	gene	1926				
+GBPCPCFC_00977	CDS	822				hypothetical protein
+GBPCPCFC_00977	gene	822				
+GBPCPCFC_00978	CDS	462				hypothetical protein
+GBPCPCFC_00978	gene	462				
+GBPCPCFC_00979	CDS	420	rpfC_2	2.7.13.3	COG0642	Sensory/regulatory protein RpfC
+GBPCPCFC_00979	gene	420	rpfC_2			
+GBPCPCFC_00980	CDS	1845				hypothetical protein
+GBPCPCFC_00980	gene	1845				
+GBPCPCFC_00981	CDS	1095				hypothetical protein
+GBPCPCFC_00981	gene	1095				
+GBPCPCFC_00982	CDS	330				hypothetical protein
+GBPCPCFC_00982	gene	330				
+GBPCPCFC_00983	CDS	189				hypothetical protein
+GBPCPCFC_00983	gene	189				
+GBPCPCFC_00984	CDS	1293				hypothetical protein
+GBPCPCFC_00984	gene	1293				
+GBPCPCFC_00985	CDS	732	barA_10	2.7.13.3	COG0784	Signal transduction histidine-protein kinase BarA
+GBPCPCFC_00985	gene	732	barA_10			
+GBPCPCFC_00986	CDS	1830				hypothetical protein
+GBPCPCFC_00986	gene	1830				
+GBPCPCFC_00987	CDS	282				hypothetical protein
+GBPCPCFC_00987	gene	282				
+GBPCPCFC_00988	CDS	957	barA_11	2.7.13.3	COG0784	Signal transduction histidine-protein kinase BarA
+GBPCPCFC_00988	gene	957	barA_11			
+GBPCPCFC_00989	CDS	1842				hypothetical protein
+GBPCPCFC_00989	gene	1842				
+GBPCPCFC_00990	CDS	243				hypothetical protein
+GBPCPCFC_00990	gene	243				
+GBPCPCFC_00991	CDS	870				hypothetical protein
+GBPCPCFC_00991	gene	870				
+GBPCPCFC_00992	CDS	159				hypothetical protein
+GBPCPCFC_00992	gene	159				
+GBPCPCFC_00993	CDS	234				hypothetical protein
+GBPCPCFC_00993	gene	234				
+GBPCPCFC_00994	CDS	1095				hypothetical protein
+GBPCPCFC_00994	gene	1095				
+GBPCPCFC_00995	CDS	174				hypothetical protein
+GBPCPCFC_00995	gene	174				
+GBPCPCFC_00996	CDS	4281	traI_6			Multifunctional conjugation protein TraI
+GBPCPCFC_00996	gene	4281	traI_6			
+GBPCPCFC_00997	CDS	3000				hypothetical protein
+GBPCPCFC_00997	gene	3000				
+GBPCPCFC_00998	CDS	729				hypothetical protein
+GBPCPCFC_00998	gene	729				
+GBPCPCFC_00999	CDS	285				hypothetical protein
+GBPCPCFC_00999	gene	285				
+GBPCPCFC_01000	CDS	1074				hypothetical protein
+GBPCPCFC_01000	gene	1074				
+GBPCPCFC_01001	CDS	3246				hypothetical protein
+GBPCPCFC_01001	gene	3246				
+GBPCPCFC_01002	CDS	1095				hypothetical protein
+GBPCPCFC_01002	gene	1095				
+GBPCPCFC_01003	CDS	339				hypothetical protein
+GBPCPCFC_01003	gene	339				
+GBPCPCFC_01004	CDS	399				hypothetical protein
+GBPCPCFC_01004	gene	399				
+GBPCPCFC_01005	CDS	258	dpnM_6	2.1.1.72		Modification methylase DpnIIA
+GBPCPCFC_01005	gene	258	dpnM_6			
+GBPCPCFC_01006	CDS	417				hypothetical protein
+GBPCPCFC_01006	gene	417				
+GBPCPCFC_01007	CDS	198				hypothetical protein
+GBPCPCFC_01007	gene	198				
+GBPCPCFC_01008	CDS	840				hypothetical protein
+GBPCPCFC_01008	gene	840				
+GBPCPCFC_01009	tRNA	76				tRNA-Ala(ggc)
+GBPCPCFC_01009	gene	76				
+GBPCPCFC_01010	CDS	546	idi	5.3.3.2	COG1443	Isopentenyl-diphosphate Delta-isomerase
+GBPCPCFC_01010	gene	546	idi			
+GBPCPCFC_01011	CDS	1290	waaA	2.4.99.12	COG1519	3-deoxy-D-manno-octulosonic acid transferase
+GBPCPCFC_01011	gene	1290	waaA			
+GBPCPCFC_01012	CDS	654				hypothetical protein
+GBPCPCFC_01012	gene	654				
+GBPCPCFC_01013	CDS	1206		2.6.1.1		Aspartate aminotransferase
+GBPCPCFC_01013	gene	1206				
+GBPCPCFC_01014	CDS	1032				hypothetical protein
+GBPCPCFC_01014	gene	1032				
+GBPCPCFC_01015	CDS	753	mlaA		COG2853	putative phospholipid-binding lipoprotein MlaA
+GBPCPCFC_01015	gene	753	mlaA			
+GBPCPCFC_01016	CDS	609	mlaC		COG2854	putative phospholipid-binding protein MlaC
+GBPCPCFC_01016	gene	609	mlaC			
+GBPCPCFC_01017	CDS	1911	thrS	6.1.1.3	COG0441	Threonine--tRNA ligase
+GBPCPCFC_01017	gene	1911	thrS			
+GBPCPCFC_01018	CDS	450	infC		COG0290	Translation initiation factor IF-3
+GBPCPCFC_01018	gene	450	infC			
+GBPCPCFC_01019	CDS	1236	sucB_2	2.3.1.61	COG0508	Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex
+GBPCPCFC_01019	gene	1236	sucB_2			
+GBPCPCFC_01020	CDS	1068	prfA		COG0216	Peptide chain release factor 1
+GBPCPCFC_01020	gene	1068	prfA			
+GBPCPCFC_01021	CDS	930				hypothetical protein
+GBPCPCFC_01021	gene	930				
+GBPCPCFC_01022	CDS	249				hypothetical protein
+GBPCPCFC_01022	gene	249				
+GBPCPCFC_01023	CDS	438				hypothetical protein
+GBPCPCFC_01023	gene	438				
+GBPCPCFC_01024	CDS	762				hypothetical protein
+GBPCPCFC_01024	gene	762				
+GBPCPCFC_01025	CDS	951	amiD_2	3.5.1.28	COG3023	N-acetylmuramoyl-L-alanine amidase AmiD
+GBPCPCFC_01025	gene	951	amiD_2			
+GBPCPCFC_01026	CDS	696				hypothetical protein
+GBPCPCFC_01026	gene	696				
+GBPCPCFC_01027	CDS	750	virB9_1		COG3504	Type IV secretion system protein virB9
+GBPCPCFC_01027	gene	750	virB9_1			
+GBPCPCFC_01028	CDS	501				hypothetical protein
+GBPCPCFC_01028	gene	501				
+GBPCPCFC_01029	CDS	1554	mnhD1		COG0651	Na(+)/H(+) antiporter subunit D1
+GBPCPCFC_01029	gene	1554	mnhD1			
+GBPCPCFC_01030	CDS	1470	mrpA		COG1009	Na(+)/H(+) antiporter subunit A
+GBPCPCFC_01030	gene	1470	mrpA			
+GBPCPCFC_01031	CDS	1749	ndhB	1.6.5.11		NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic
+GBPCPCFC_01031	gene	1749	ndhB			
+GBPCPCFC_01032	CDS	2250	ptrB	3.4.21.83	COG1770	Protease 2
+GBPCPCFC_01032	gene	2250	ptrB			
+GBPCPCFC_01033	CDS	798	tam	2.1.1.144		Trans-aconitate 2-methyltransferase
+GBPCPCFC_01033	gene	798	tam			
+GBPCPCFC_01034	CDS	1410	lpd3	1.8.1.4	COG1249	Dihydrolipoyl dehydrogenase 3
+GBPCPCFC_01034	gene	1410	lpd3			
+GBPCPCFC_01035	CDS	1023				hypothetical protein
+GBPCPCFC_01035	gene	1023				
+GBPCPCFC_01036	CDS	774				hypothetical protein
+GBPCPCFC_01036	gene	774				
+GBPCPCFC_01037	CDS	765	glmU		COG1207	Bifunctional protein GlmU
+GBPCPCFC_01037	gene	765	glmU			
+GBPCPCFC_01038	CDS	750	pmpR		COG0217	Transcriptional regulatory protein PmpR
+GBPCPCFC_01038	gene	750	pmpR			
+GBPCPCFC_01039	CDS	693	rluB	5.4.99.22	COG1187	Ribosomal large subunit pseudouridine synthase B
+GBPCPCFC_01039	gene	693	rluB			
+GBPCPCFC_01040	CDS	573	rsmD	2.1.1.171	COG0742	Ribosomal RNA small subunit methyltransferase D
+GBPCPCFC_01040	gene	573	rsmD			
+GBPCPCFC_01041	CDS	1098				hypothetical protein
+GBPCPCFC_01041	gene	1098				
+GBPCPCFC_01042	CDS	1341	radA	3.6.4.-	COG1066	DNA repair protein RadA
+GBPCPCFC_01042	gene	1341	radA			
+GBPCPCFC_01043	CDS	348				hypothetical protein
+GBPCPCFC_01043	gene	348				
+GBPCPCFC_01044	CDS	669				hypothetical protein
+GBPCPCFC_01044	gene	669				
+GBPCPCFC_01045	CDS	1182				hypothetical protein
+GBPCPCFC_01045	gene	1182				
+GBPCPCFC_01046	CDS	267				hypothetical protein
+GBPCPCFC_01046	gene	267				
+GBPCPCFC_01047	CDS	1359				hypothetical protein
+GBPCPCFC_01047	gene	1359				
+GBPCPCFC_01048	CDS	102				hypothetical protein
+GBPCPCFC_01048	gene	102				
+GBPCPCFC_01049	CDS	438				hypothetical protein
+GBPCPCFC_01049	gene	438				
+GBPCPCFC_01050	CDS	1224				hypothetical protein
+GBPCPCFC_01050	gene	1224				
+GBPCPCFC_01051	CDS	282				hypothetical protein
+GBPCPCFC_01051	gene	282				
+GBPCPCFC_01052	CDS	2070				hypothetical protein
+GBPCPCFC_01052	gene	2070				
+GBPCPCFC_01053	CDS	1095				hypothetical protein
+GBPCPCFC_01053	gene	1095				
+GBPCPCFC_01054	CDS	216				hypothetical protein
+GBPCPCFC_01054	gene	216				
+GBPCPCFC_01055	CDS	1905				hypothetical protein
+GBPCPCFC_01055	gene	1905				
+GBPCPCFC_01056	CDS	1524				hypothetical protein
+GBPCPCFC_01056	gene	1524				
+GBPCPCFC_01057	CDS	213				hypothetical protein
+GBPCPCFC_01057	gene	213				
+GBPCPCFC_01058	CDS	1095				hypothetical protein
+GBPCPCFC_01058	gene	1095				
+GBPCPCFC_01059	CDS	873				hypothetical protein
+GBPCPCFC_01059	gene	873				
+GBPCPCFC_01060	CDS	1851				hypothetical protein
+GBPCPCFC_01060	gene	1851				
+GBPCPCFC_01061	CDS	606				hypothetical protein
+GBPCPCFC_01061	gene	606				
+GBPCPCFC_01062	CDS	108				hypothetical protein
+GBPCPCFC_01062	gene	108				
+GBPCPCFC_01063	CDS	291				hypothetical protein
+GBPCPCFC_01063	gene	291				
+GBPCPCFC_01064	CDS	1845				hypothetical protein
+GBPCPCFC_01064	gene	1845				
+GBPCPCFC_01065	CDS	1095				hypothetical protein
+GBPCPCFC_01065	gene	1095				
+GBPCPCFC_01066	CDS	219				hypothetical protein
+GBPCPCFC_01066	gene	219				
+GBPCPCFC_01067	CDS	1023				hypothetical protein
+GBPCPCFC_01067	gene	1023				
+GBPCPCFC_01068	CDS	444				hypothetical protein
+GBPCPCFC_01068	gene	444				
+GBPCPCFC_01069	CDS	438				hypothetical protein
+GBPCPCFC_01069	gene	438				
+GBPCPCFC_01070	CDS	330				hypothetical protein
+GBPCPCFC_01070	gene	330				
+GBPCPCFC_01071	CDS	237				hypothetical protein
+GBPCPCFC_01071	gene	237				
+GBPCPCFC_01072	CDS	1845				hypothetical protein
+GBPCPCFC_01072	gene	1845				
+GBPCPCFC_01073	tRNA	77				tRNA-Pro(tgg)
+GBPCPCFC_01073	gene	77				
+GBPCPCFC_01074	CDS	660	trmD	2.1.1.228	COG0336	tRNA (guanine-N(1)-)-methyltransferase
+GBPCPCFC_01074	gene	660	trmD			
+GBPCPCFC_01075	CDS	429	rplS		COG0335	50S ribosomal protein L19
+GBPCPCFC_01075	gene	429	rplS			
+GBPCPCFC_01076	CDS	1362	ftsZ		COG0206	Cell division protein FtsZ
+GBPCPCFC_01076	gene	1362	ftsZ			
+GBPCPCFC_01077	CDS	573				hypothetical protein
+GBPCPCFC_01077	gene	573				
+GBPCPCFC_01078	CDS	4572	sca2_2			Putative surface cell antigen sca2
+GBPCPCFC_01078	gene	4572	sca2_2			
+GBPCPCFC_01079	CDS	2334				hypothetical protein
+GBPCPCFC_01079	gene	2334				
+GBPCPCFC_01080	CDS	1881	dnaK			Chaperone protein DnaK
+GBPCPCFC_01080	gene	1881	dnaK			
+GBPCPCFC_01081	CDS	1125	dnaJ			Chaperone protein DnaJ
+GBPCPCFC_01081	gene	1125	dnaJ			
+GBPCPCFC_01082	CDS	627				hypothetical protein
+GBPCPCFC_01082	gene	627				
+GBPCPCFC_01083	CDS	438				hypothetical protein
+GBPCPCFC_01083	gene	438				
+GBPCPCFC_01084	CDS	1095				hypothetical protein
+GBPCPCFC_01084	gene	1095				
+GBPCPCFC_01085	CDS	1230				hypothetical protein
+GBPCPCFC_01085	gene	1230				
+GBPCPCFC_01086	CDS	1797	bmrA	3.6.3.-	COG1132	Multidrug resistance ABC transporter ATP-binding/permease protein BmrA
+GBPCPCFC_01086	gene	1797	bmrA			
+GBPCPCFC_01087	tRNA	75				tRNA-Thr(tgt)
+GBPCPCFC_01087	gene	75				
+GBPCPCFC_01088	CDS	336	rpsP		COG0228	30S ribosomal protein S16
+GBPCPCFC_01088	gene	336	rpsP			
+GBPCPCFC_01089	CDS	171	rpmG		COG0267	50S ribosomal protein L33
+GBPCPCFC_01089	gene	171	rpmG			
+GBPCPCFC_01090	CDS	1026	recA			Protein RecA
+GBPCPCFC_01090	gene	1026	recA			
+GBPCPCFC_01091	CDS	726	fabG	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+GBPCPCFC_01091	gene	726	fabG			
+GBPCPCFC_01092	CDS	501		3.2.2.-	COG2094	Putative 3-methyladenine DNA glycosylase
+GBPCPCFC_01092	gene	501				
+GBPCPCFC_01093	CDS	534		6.3.3.2		5-formyltetrahydrofolate cyclo-ligase
+GBPCPCFC_01093	gene	534				
+GBPCPCFC_01094	CDS	1095				hypothetical protein
+GBPCPCFC_01094	gene	1095				
+GBPCPCFC_01095	CDS	4155				hypothetical protein
+GBPCPCFC_01095	gene	4155				
+GBPCPCFC_01096	CDS	438				hypothetical protein
+GBPCPCFC_01096	gene	438				
+GBPCPCFC_01097	CDS	4452				hypothetical protein
+GBPCPCFC_01097	gene	4452				
+GBPCPCFC_01098	CDS	213				hypothetical protein
+GBPCPCFC_01098	gene	213				
+GBPCPCFC_01099	CDS	294				hypothetical protein
+GBPCPCFC_01099	gene	294				
+GBPCPCFC_01100	CDS	714	trmJ	2.1.1.200	COG0565	tRNA (cytidine/uridine-2'-O-)-methyltransferase TrmJ
+GBPCPCFC_01100	gene	714	trmJ			
+GBPCPCFC_01101	CDS	1095				hypothetical protein
+GBPCPCFC_01101	gene	1095				
+GBPCPCFC_01102	CDS	1248				hypothetical protein
+GBPCPCFC_01102	gene	1248				
+GBPCPCFC_01103	CDS	3093				hypothetical protein
+GBPCPCFC_01103	gene	3093				
+GBPCPCFC_01104	CDS	672	rsh_5	2.7.6.5		GTP pyrophosphokinase rsh
+GBPCPCFC_01104	gene	672	rsh_5			
+GBPCPCFC_01105	CDS	1335	proP_3			Proline/betaine transporter
+GBPCPCFC_01105	gene	1335	proP_3			
+GBPCPCFC_01106	CDS	336				hypothetical protein
+GBPCPCFC_01106	gene	336				
+GBPCPCFC_01107	tRNA	77				tRNA-Met(cat)
+GBPCPCFC_01107	gene	77				
+GBPCPCFC_01108	CDS	495	rpsI		COG0103	30S ribosomal protein S9
+GBPCPCFC_01108	gene	495	rpsI			
+GBPCPCFC_01109	CDS	468	rplM		COG0102	50S ribosomal protein L13
+GBPCPCFC_01109	gene	468	rplM			
+GBPCPCFC_01110	CDS	1239	bamB		COG1520	Outer membrane protein assembly factor BamB
+GBPCPCFC_01110	gene	1239	bamB			
+GBPCPCFC_01111	CDS	669				hypothetical protein
+GBPCPCFC_01111	gene	669				
+GBPCPCFC_01112	CDS	2880				hypothetical protein
+GBPCPCFC_01112	gene	2880				
+GBPCPCFC_01113	CDS	1476				hypothetical protein
+GBPCPCFC_01113	gene	1476				
+GBPCPCFC_01114	CDS	747	cpoB		COG1729	Cell division coordinator CpoB
+GBPCPCFC_01114	gene	747	cpoB			
+GBPCPCFC_01115	CDS	465				hypothetical protein
+GBPCPCFC_01115	gene	465				
+GBPCPCFC_01116	CDS	849	ubiA	2.5.1.-	COG0382	4-hydroxybenzoate octaprenyltransferase
+GBPCPCFC_01116	gene	849	ubiA			
+GBPCPCFC_01117	CDS	363				hypothetical protein
+GBPCPCFC_01117	gene	363				
+GBPCPCFC_01118	CDS	465				hypothetical protein
+GBPCPCFC_01118	gene	465				
+GBPCPCFC_01119	CDS	1686	comEC		COG0658	ComE operon protein 3
+GBPCPCFC_01119	gene	1686	comEC			
+GBPCPCFC_01120	CDS	2064				hypothetical protein
+GBPCPCFC_01120	gene	2064				
+GBPCPCFC_01121	CDS	732	artP		COG0834	Arginine-binding extracellular protein ArtP
+GBPCPCFC_01121	gene	732	artP			
+GBPCPCFC_01122	CDS	483	ntaB	1.5.1.42		FMN reductase (NADH) NtaB
+GBPCPCFC_01122	gene	483	ntaB			
+GBPCPCFC_01123	CDS	813	dapB	1.17.1.8	COG0289	4-hydroxy-tetrahydrodipicolinate reductase
+GBPCPCFC_01123	gene	813	dapB			
+GBPCPCFC_01124	CDS	330				hypothetical protein
+GBPCPCFC_01124	gene	330				
+GBPCPCFC_01125	CDS	285				hypothetical protein
+GBPCPCFC_01125	gene	285				
+GBPCPCFC_01126	CDS	1251				hypothetical protein
+GBPCPCFC_01126	gene	1251				
+GBPCPCFC_01127	CDS	1332	bepC			Outer membrane efflux protein BepC
+GBPCPCFC_01127	gene	1332	bepC			
+GBPCPCFC_01128	CDS	468				hypothetical protein
+GBPCPCFC_01128	gene	468				
+GBPCPCFC_01129	CDS	570	hpf			Ribosome hibernation promotion factor
+GBPCPCFC_01129	gene	570	hpf			
+GBPCPCFC_01130	CDS	402				hypothetical protein
+GBPCPCFC_01130	gene	402				
+GBPCPCFC_01131	CDS	987				hypothetical protein
+GBPCPCFC_01131	gene	987				
+GBPCPCFC_01132	CDS	1020	ltrA_3		COG3344	Group II intron-encoded protein LtrA
+GBPCPCFC_01132	gene	1020	ltrA_3			
+GBPCPCFC_01133	CDS	1449	tnpA_3	3.1.-.-		Transposase for transposon Tn5
+GBPCPCFC_01133	gene	1449	tnpA_3			
+GBPCPCFC_01134	CDS	618				hypothetical protein
+GBPCPCFC_01134	gene	618				
+GBPCPCFC_01135	CDS	465				hypothetical protein
+GBPCPCFC_01135	gene	465				
+GBPCPCFC_01136	CDS	777				hypothetical protein
+GBPCPCFC_01136	gene	777				
+GBPCPCFC_01137	CDS	903	fmt	2.1.2.9	COG0223	Methionyl-tRNA formyltransferase
+GBPCPCFC_01137	gene	903	fmt			
+GBPCPCFC_01138	CDS	1773				hypothetical protein
+GBPCPCFC_01138	gene	1773				
+GBPCPCFC_01139	CDS	1269	murA	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+GBPCPCFC_01139	gene	1269	murA			
+GBPCPCFC_01140	CDS	1764	sdhA_2	1.3.5.1		Succinate dehydrogenase flavoprotein subunit
+GBPCPCFC_01140	gene	1764	sdhA_2			
+GBPCPCFC_01141	CDS	639	pcaH	1.13.11.3	COG3485	Protocatechuate 3,4-dioxygenase beta chain
+GBPCPCFC_01141	gene	639	pcaH			
+GBPCPCFC_01142	CDS	750	tlpA		COG0526	Thiol:disulfide interchange protein TlpA
+GBPCPCFC_01142	gene	750	tlpA			
+GBPCPCFC_01143	CDS	936	sppA	3.4.21.-	COG0616	Putative signal peptide peptidase SppA
+GBPCPCFC_01143	gene	936	sppA			
+GBPCPCFC_01144	CDS	996	cgtA	3.6.5.-		GTPase Obg/CgtA
+GBPCPCFC_01144	gene	996	cgtA			
+GBPCPCFC_01145	CDS	1194				hypothetical protein
+GBPCPCFC_01145	gene	1194				
+GBPCPCFC_01146	CDS	1380				hypothetical protein
+GBPCPCFC_01146	gene	1380				
+GBPCPCFC_01147	CDS	699	queF	1.7.1.13	COG0780	NADPH-dependent 7-cyano-7-deazaguanine reductase
+GBPCPCFC_01147	gene	699	queF			
+GBPCPCFC_01148	CDS	1578	lysS	6.1.1.6	COG1384	Lysine--tRNA ligase
+GBPCPCFC_01148	gene	1578	lysS			
+GBPCPCFC_01149	CDS	468				hypothetical protein
+GBPCPCFC_01149	gene	468				
+GBPCPCFC_01150	CDS	129				hypothetical protein
+GBPCPCFC_01150	gene	129				
+GBPCPCFC_01151	CDS	741	ybhL		COG0670	Inner membrane protein YbhL
+GBPCPCFC_01151	gene	741	ybhL			
+GBPCPCFC_01152	tRNA	85				tRNA-Leu(caa)
+GBPCPCFC_01152	gene	85				
+GBPCPCFC_01153	CDS	759	bamD		COG4105	Outer membrane protein assembly factor BamD
+GBPCPCFC_01153	gene	759	bamD			
+GBPCPCFC_01154	CDS	1719	recN		COG0497	DNA repair protein RecN
+GBPCPCFC_01154	gene	1719	recN			
+GBPCPCFC_01155	CDS	729	rlmB	2.1.1.185	COG0566	23S rRNA (guanosine-2'-O-)-methyltransferase RlmB
+GBPCPCFC_01155	gene	729	rlmB			
+GBPCPCFC_01156	tRNA	86				tRNA-Tyr(gta)
+GBPCPCFC_01156	gene	86				
+GBPCPCFC_01157	tRNA	74				tRNA-Gly(tcc)
+GBPCPCFC_01157	gene	74				
+GBPCPCFC_01158	CDS	1185	tufA		COG0050	Elongation factor Tu
+GBPCPCFC_01158	gene	1185	tufA			
+GBPCPCFC_01159	CDS	330	rpsJ		COG0051	30S ribosomal protein S10
+GBPCPCFC_01159	gene	330	rpsJ			
+GBPCPCFC_01160	CDS	648	rplC		COG0087	50S ribosomal protein L3
+GBPCPCFC_01160	gene	648	rplC			
+GBPCPCFC_01161	CDS	624	rplD		COG0088	50S ribosomal protein L4
+GBPCPCFC_01161	gene	624	rplD			
+GBPCPCFC_01162	CDS	297	rplW		COG0089	50S ribosomal protein L23
+GBPCPCFC_01162	gene	297	rplW			
+GBPCPCFC_01163	CDS	822	rplB		COG0090	50S ribosomal protein L2
+GBPCPCFC_01163	gene	822	rplB			
+GBPCPCFC_01164	CDS	279	rpsS		COG0185	30S ribosomal protein S19
+GBPCPCFC_01164	gene	279	rpsS			
+GBPCPCFC_01165	CDS	360	rplV		COG0091	50S ribosomal protein L22
+GBPCPCFC_01165	gene	360	rplV			
+GBPCPCFC_01166	CDS	657	rpsC		COG0092	30S ribosomal protein S3
+GBPCPCFC_01166	gene	657	rpsC			
+GBPCPCFC_01167	CDS	411	rplP		COG0197	50S ribosomal protein L16
+GBPCPCFC_01167	gene	411	rplP			
+GBPCPCFC_01168	CDS	213	rpmC		COG0255	50S ribosomal protein L29
+GBPCPCFC_01168	gene	213	rpmC			
+GBPCPCFC_01169	CDS	234	rpsQ		COG0186	30S ribosomal protein S17
+GBPCPCFC_01169	gene	234	rpsQ			
+GBPCPCFC_01170	CDS	369	rplN		COG0093	50S ribosomal protein L14
+GBPCPCFC_01170	gene	369	rplN			
+GBPCPCFC_01171	CDS	330	rplX		COG0198	50S ribosomal protein L24
+GBPCPCFC_01171	gene	330	rplX			
+GBPCPCFC_01172	CDS	543	rplE		COG0094	50S ribosomal protein L5
+GBPCPCFC_01172	gene	543	rplE			
+GBPCPCFC_01173	CDS	171	rpsN		COG0199	30S ribosomal protein S14
+GBPCPCFC_01173	gene	171	rpsN			
+GBPCPCFC_01174	CDS	399	rpsH		COG0096	30S ribosomal protein S8
+GBPCPCFC_01174	gene	399	rpsH			
+GBPCPCFC_01175	CDS	534	rplF		COG0097	50S ribosomal protein L6
+GBPCPCFC_01175	gene	534	rplF			
+GBPCPCFC_01176	CDS	357	rplR		COG0256	50S ribosomal protein L18
+GBPCPCFC_01176	gene	357	rplR			
+GBPCPCFC_01177	CDS	543	rpsE		COG0098	30S ribosomal protein S5
+GBPCPCFC_01177	gene	543	rpsE			
+GBPCPCFC_01178	CDS	345	rpmD		COG1841	50S ribosomal protein L30
+GBPCPCFC_01178	gene	345	rpmD			
+GBPCPCFC_01179	CDS	456	rplO		COG0200	50S ribosomal protein L15
+GBPCPCFC_01179	gene	456	rplO			
+GBPCPCFC_01180	CDS	1302	secY		COG0201	Protein translocase subunit SecY
+GBPCPCFC_01180	gene	1302	secY			
+GBPCPCFC_01181	CDS	624	adk	2.7.4.3	COG0563	Adenylate kinase
+GBPCPCFC_01181	gene	624	adk			
+GBPCPCFC_01182	CDS	378	rpsM			30S ribosomal protein S13
+GBPCPCFC_01182	gene	378	rpsM			
+GBPCPCFC_01183	CDS	387	rpsK		COG0100	30S ribosomal protein S11
+GBPCPCFC_01183	gene	387	rpsK			
+GBPCPCFC_01184	CDS	1020	rpoA	2.7.7.6	COG0202	DNA-directed RNA polymerase subunit alpha
+GBPCPCFC_01184	gene	1020	rpoA			
+GBPCPCFC_01185	CDS	402	rplQ		COG0203	50S ribosomal protein L17
+GBPCPCFC_01185	gene	402	rplQ			
+GBPCPCFC_01186	CDS	261	rpsT		COG0268	30S ribosomal protein S20
+GBPCPCFC_01186	gene	261	rpsT			
+GBPCPCFC_01187	CDS	669	ccmA	3.6.3.41	COG4133	Cytochrome c biogenesis ATP-binding export protein CcmA
+GBPCPCFC_01187	gene	669	ccmA			
+GBPCPCFC_01188	CDS	1812				hypothetical protein
+GBPCPCFC_01188	gene	1812				
+GBPCPCFC_01189	CDS	264				hypothetical protein
+GBPCPCFC_01189	gene	264				
+GBPCPCFC_01190	CDS	768	mkl		COG1127	putative ribonucleotide transport ATP-binding protein mkl
+GBPCPCFC_01190	gene	768	mkl			
+GBPCPCFC_01191	CDS	774	mlaE		COG0767	putative phospholipid ABC transporter permease protein MlaE
+GBPCPCFC_01191	gene	774	mlaE			
+GBPCPCFC_01192	CDS	1134	alr1	5.1.1.1	COG0787	Alanine racemase 1
+GBPCPCFC_01192	gene	1134	alr1			
+GBPCPCFC_01193	CDS	1290	proP_4			Proline/betaine transporter
+GBPCPCFC_01193	gene	1290	proP_4			
+GBPCPCFC_01194	CDS	879	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+GBPCPCFC_01194	gene	879	prs			
+GBPCPCFC_01195	CDS	2040				hypothetical protein
+GBPCPCFC_01195	gene	2040				
+GBPCPCFC_01196	CDS	105				hypothetical protein
+GBPCPCFC_01196	gene	105				
+GBPCPCFC_01197	CDS	2526				hypothetical protein
+GBPCPCFC_01197	gene	2526				
+GBPCPCFC_01198	CDS	969	nadA	2.5.1.72	COG0379	Quinolinate synthase A
+GBPCPCFC_01198	gene	969	nadA			
+GBPCPCFC_01199	CDS	1329				hypothetical protein
+GBPCPCFC_01199	gene	1329				
+GBPCPCFC_01200	CDS	2655	polA	2.7.7.7		DNA polymerase I
+GBPCPCFC_01200	gene	2655	polA			
+GBPCPCFC_01201	CDS	474	pasT		COG2867	Persistence and stress-resistance toxin PasT
+GBPCPCFC_01201	gene	474	pasT			
+GBPCPCFC_01202	CDS	132				hypothetical protein
+GBPCPCFC_01202	gene	132				
+GBPCPCFC_01203	CDS	729	rsmE	2.1.1.193	COG1385	Ribosomal RNA small subunit methyltransferase E
+GBPCPCFC_01203	gene	729	rsmE			
+GBPCPCFC_01204	CDS	579	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+GBPCPCFC_01204	gene	579	rnhB			
+GBPCPCFC_01205	CDS	120				hypothetical protein
+GBPCPCFC_01205	gene	120				
+GBPCPCFC_01206	CDS	195				hypothetical protein
+GBPCPCFC_01206	gene	195				
+GBPCPCFC_01207	CDS	555				hypothetical protein
+GBPCPCFC_01207	gene	555				
+GBPCPCFC_01208	CDS	465				hypothetical protein
+GBPCPCFC_01208	gene	465				
+GBPCPCFC_01209	CDS	4710				hypothetical protein
+GBPCPCFC_01209	gene	4710				
+GBPCPCFC_01210	CDS	1572	eptA	2.7.-.-	COG2194	Phosphoethanolamine transferase EptA
+GBPCPCFC_01210	gene	1572	eptA			
+GBPCPCFC_01211	CDS	411				hypothetical protein
+GBPCPCFC_01211	gene	411				
+GBPCPCFC_01212	CDS	987				hypothetical protein
+GBPCPCFC_01212	gene	987				
+GBPCPCFC_01213	CDS	1329				hypothetical protein
+GBPCPCFC_01213	gene	1329				
+GBPCPCFC_01214	CDS	2028	estP	3.1.1.1	COG3240	Esterase EstP
+GBPCPCFC_01214	gene	2028	estP			
+GBPCPCFC_01215	CDS	2679	mutS		COG0249	DNA mismatch repair protein MutS
+GBPCPCFC_01215	gene	2679	mutS			
+GBPCPCFC_01216	CDS	1308	mtaB	2.8.4.5	COG0621	Threonylcarbamoyladenosine tRNA methylthiotransferase MtaB
+GBPCPCFC_01216	gene	1308	mtaB			
+GBPCPCFC_01217	CDS	831	dapF	5.1.1.7	COG0253	Diaminopimelate epimerase
+GBPCPCFC_01217	gene	831	dapF			
+GBPCPCFC_01218	CDS	588				hypothetical protein
+GBPCPCFC_01218	gene	588				
+GBPCPCFC_01219	CDS	1272		3.4.24.-	COG0612	putative zinc protease
+GBPCPCFC_01219	gene	1272				
+GBPCPCFC_01220	CDS	573	yecD	3.-.-.-	COG1335	Isochorismatase family protein YecD
+GBPCPCFC_01220	gene	573	yecD			
+GBPCPCFC_01221	CDS	468	yrrK	3.1.-.-	COG0816	Putative pre-16S rRNA nuclease
+GBPCPCFC_01221	gene	468	yrrK			
+GBPCPCFC_01222	CDS	1266	proP_5			Proline/betaine transporter
+GBPCPCFC_01222	gene	1266	proP_5			
+GBPCPCFC_01223	tRNA	77				tRNA-Met(cat)
+GBPCPCFC_01223	gene	77				
+GBPCPCFC_01224	CDS	1098	lptG		COG0795	Lipopolysaccharide export system permease protein LptG
+GBPCPCFC_01224	gene	1098	lptG			
+GBPCPCFC_01225	CDS	1041	mreB		COG1077	Rod shape-determining protein MreB
+GBPCPCFC_01225	gene	1041	mreB			
+GBPCPCFC_01226	CDS	837	mreC			Cell shape-determining protein MreC
+GBPCPCFC_01226	gene	837	mreC			
+GBPCPCFC_01227	CDS	678	queE	4.3.99.3		7-carboxy-7-deazaguanine synthase
+GBPCPCFC_01227	gene	678	queE			
+GBPCPCFC_01228	CDS	1146	ftsW	2.4.1.129		putative peptidoglycan glycosyltransferase FtsW
+GBPCPCFC_01228	gene	1146	ftsW			
+GBPCPCFC_01229	CDS	1071	murG	2.4.1.227	COG0707	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+GBPCPCFC_01229	gene	1071	murG			
+GBPCPCFC_01230	CDS	762				hypothetical protein
+GBPCPCFC_01230	gene	762				
+GBPCPCFC_01231	CDS	225				hypothetical protein
+GBPCPCFC_01231	gene	225				
+GBPCPCFC_01232	CDS	531				hypothetical protein
+GBPCPCFC_01232	gene	531				
+GBPCPCFC_01233	CDS	1740	kefC		COG0475	Glutathione-regulated potassium-efflux system protein KefC
+GBPCPCFC_01233	gene	1740	kefC			
+GBPCPCFC_01234	CDS	360	rsfS			Ribosomal silencing factor RsfS
+GBPCPCFC_01234	gene	360	rsfS			
+GBPCPCFC_01235	CDS	597	nadD	2.7.7.18		putative nicotinate-nucleotide adenylyltransferase
+GBPCPCFC_01235	gene	597	nadD			
+GBPCPCFC_01236	CDS	249			COG0271	putative protein RP812
+GBPCPCFC_01236	gene	249				
+GBPCPCFC_01237	CDS	552	rimM		COG0806	Ribosome maturation factor RimM
+GBPCPCFC_01237	gene	552	rimM			
+GBPCPCFC_01238	CDS	600				hypothetical protein
+GBPCPCFC_01238	gene	600				
+GBPCPCFC_01239	CDS	507	nqo2	1.6.5.11	COG1905	NADH-quinone oxidoreductase chain 2
+GBPCPCFC_01239	gene	507	nqo2			
+GBPCPCFC_01240	CDS	1263	nuoD	1.6.5.11	COG0649	NADH-quinone oxidoreductase subunit D
+GBPCPCFC_01240	gene	1263	nuoD			
+GBPCPCFC_01241	CDS	603	nqo5	1.6.5.11	COG0852	NADH-quinone oxidoreductase chain 5
+GBPCPCFC_01241	gene	603	nqo5			
+GBPCPCFC_01242	CDS	540	nuoB	1.6.5.11	COG0377	NADH-quinone oxidoreductase subunit B
+GBPCPCFC_01242	gene	540	nuoB			
+GBPCPCFC_01243	CDS	375	ndhC	1.6.5.-		NAD(P)H-quinone oxidoreductase subunit 3
+GBPCPCFC_01243	gene	375	ndhC			
+GBPCPCFC_01244	CDS	1284				hypothetical protein
+GBPCPCFC_01244	gene	1284				
+GBPCPCFC_01245	CDS	531				hypothetical protein
+GBPCPCFC_01245	gene	531				
+GBPCPCFC_01246	CDS	1380	mepM_2	3.4.24.-	COG0739	Murein DD-endopeptidase MepM
+GBPCPCFC_01246	gene	1380	mepM_2			
+GBPCPCFC_01247	CDS	654				hypothetical protein
+GBPCPCFC_01247	gene	654				
+GBPCPCFC_01248	CDS	603	lspA	3.4.23.36	COG0597	Lipoprotein signal peptidase
+GBPCPCFC_01248	gene	603	lspA			
+GBPCPCFC_01249	CDS	252				hypothetical protein
+GBPCPCFC_01249	gene	252				
+GBPCPCFC_01250	CDS	1410	murD	6.3.2.9		UDP-N-acetylmuramoylalanine--D-glutamate ligase
+GBPCPCFC_01250	gene	1410	murD			
+GBPCPCFC_01251	CDS	759	kdsB	2.7.7.38	COG1212	3-deoxy-manno-octulosonate cytidylyltransferase
+GBPCPCFC_01251	gene	759	kdsB			
+GBPCPCFC_01252	CDS	909				hypothetical protein
+GBPCPCFC_01252	gene	909				
+GBPCPCFC_01253	CDS	1095				hypothetical protein
+GBPCPCFC_01253	gene	1095				
+GBPCPCFC_01254	CDS	438				hypothetical protein
+GBPCPCFC_01254	gene	438				
+GBPCPCFC_01255	CDS	1668	ompB_3		COG4625	Outer membrane protein B
+GBPCPCFC_01255	gene	1668	ompB_3			
+GBPCPCFC_01256	CDS	342				hypothetical protein
+GBPCPCFC_01256	gene	342				
+GBPCPCFC_01257	CDS	351				hypothetical protein
+GBPCPCFC_01257	gene	351				
+GBPCPCFC_01258	CDS	1140				hypothetical protein
+GBPCPCFC_01258	gene	1140				
+GBPCPCFC_01259	CDS	1095				hypothetical protein
+GBPCPCFC_01259	gene	1095				
+GBPCPCFC_01260	CDS	420				hypothetical protein
+GBPCPCFC_01260	gene	420				
+GBPCPCFC_01261	CDS	567				hypothetical protein
+GBPCPCFC_01261	gene	567				
+GBPCPCFC_01262	CDS	1095				hypothetical protein
+GBPCPCFC_01262	gene	1095				
+GBPCPCFC_01263	CDS	1221				hypothetical protein
+GBPCPCFC_01263	gene	1221				
+GBPCPCFC_01264	CDS	438				hypothetical protein
+GBPCPCFC_01264	gene	438				
+GBPCPCFC_01265	CDS	828	ompB_4			Outer membrane protein B
+GBPCPCFC_01265	gene	828	ompB_4			
+GBPCPCFC_01266	CDS	1680	rnj	3.1.-.-	COG0595	Ribonuclease J
+GBPCPCFC_01266	gene	1680	rnj			
+GBPCPCFC_01267	CDS	672				hypothetical protein
+GBPCPCFC_01267	gene	672				
+GBPCPCFC_01268	CDS	783	NADK	2.7.1.23	COG0061	NAD kinase
+GBPCPCFC_01268	gene	783	NADK			
+GBPCPCFC_01269	CDS	1083				hypothetical protein
+GBPCPCFC_01269	gene	1083				
+GBPCPCFC_01270	CDS	1479	ubiD	4.1.1.98	COG0043	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+GBPCPCFC_01270	gene	1479	ubiD			
+GBPCPCFC_01271	CDS	1767	phaC_2	2.3.1.-	COG3243	Poly(3-hydroxyalkanoate) polymerase subunit PhaC
+GBPCPCFC_01271	gene	1767	phaC_2			
+GBPCPCFC_01272	CDS	1185				hypothetical protein
+GBPCPCFC_01272	gene	1185				
+GBPCPCFC_01273	CDS	1209	lpxB	2.4.1.182	COG0763	Lipid-A-disaccharide synthase
+GBPCPCFC_01273	gene	1209	lpxB			
+GBPCPCFC_01274	CDS	2901				hypothetical protein
+GBPCPCFC_01274	gene	2901				
+GBPCPCFC_01275	CDS	1872				hypothetical protein
+GBPCPCFC_01275	gene	1872				
+GBPCPCFC_01276	CDS	1668	nadE	6.3.5.1	COG0171	Glutamine-dependent NAD(+) synthetase
+GBPCPCFC_01276	gene	1668	nadE			
+GBPCPCFC_01277	CDS	384				hypothetical protein
+GBPCPCFC_01277	gene	384				
+GBPCPCFC_01278	CDS	684	queC	6.3.4.20	COG0603	7-cyano-7-deazaguanine synthase
+GBPCPCFC_01278	gene	684	queC			
+GBPCPCFC_01279	CDS	579	folE	3.5.4.16	COG0302	GTP cyclohydrolase 1
+GBPCPCFC_01279	gene	579	folE			
+GBPCPCFC_01280	CDS	1314	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+GBPCPCFC_01280	gene	1314	proS			
+GBPCPCFC_01281	CDS	1974				hypothetical protein
+GBPCPCFC_01281	gene	1974				
+GBPCPCFC_01282	CDS	1044	ctaA	1.3.-.-	COG1612	Heme A synthase
+GBPCPCFC_01282	gene	1044	ctaA			
+GBPCPCFC_01283	CDS	948	rluC	5.4.99.24	COG0564	Ribosomal large subunit pseudouridine synthase C
+GBPCPCFC_01283	gene	948	rluC			
+GBPCPCFC_01284	CDS	822				hypothetical protein
+GBPCPCFC_01284	gene	822				
+GBPCPCFC_01285	CDS	1275	glyA	2.1.2.1		Serine hydroxymethyltransferase
+GBPCPCFC_01285	gene	1275	glyA			
+GBPCPCFC_01286	CDS	723				hypothetical protein
+GBPCPCFC_01286	gene	723				
+GBPCPCFC_01287	CDS	186				hypothetical protein
+GBPCPCFC_01287	gene	186				
+GBPCPCFC_01288	CDS	138				hypothetical protein
+GBPCPCFC_01288	gene	138				
+GBPCPCFC_01289	CDS	153				hypothetical protein
+GBPCPCFC_01289	gene	153				
+GBPCPCFC_01290	CDS	603				hypothetical protein
+GBPCPCFC_01290	gene	603				
+GBPCPCFC_01291	CDS	1881				hypothetical protein
+GBPCPCFC_01291	gene	1881				
+GBPCPCFC_01292	CDS	234				hypothetical protein
+GBPCPCFC_01292	gene	234				
+GBPCPCFC_01293	CDS	1059				hypothetical protein
+GBPCPCFC_01293	gene	1059				
+GBPCPCFC_01294	CDS	657	elbB	4.2.1.-	COG3155	Glyoxalase ElbB
+GBPCPCFC_01294	gene	657	elbB			
+GBPCPCFC_01295	CDS	135				hypothetical protein
+GBPCPCFC_01295	gene	135				
+GBPCPCFC_01296	CDS	501				hypothetical protein
+GBPCPCFC_01296	gene	501				
+GBPCPCFC_01297	CDS	144				hypothetical protein
+GBPCPCFC_01297	gene	144				
+GBPCPCFC_01298	CDS	144				hypothetical protein
+GBPCPCFC_01298	gene	144				
+GBPCPCFC_01299	CDS	660				hypothetical protein
+GBPCPCFC_01299	gene	660				
+GBPCPCFC_01300	CDS	1311				hypothetical protein
+GBPCPCFC_01300	gene	1311				
+GBPCPCFC_01301	CDS	360				hypothetical protein
+GBPCPCFC_01301	gene	360				
+GBPCPCFC_01302	CDS	336	sxy		COG3070	Protein Sxy
+GBPCPCFC_01302	gene	336	sxy			
+GBPCPCFC_01303	CDS	159				hypothetical protein
+GBPCPCFC_01303	gene	159				
+GBPCPCFC_01304	CDS	522				hypothetical protein
+GBPCPCFC_01304	gene	522				
+GBPCPCFC_01305	CDS	624	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+GBPCPCFC_01305	gene	624	birA			
+GBPCPCFC_01306	CDS	1440	nuoN	1.6.5.11	COG1007	NADH-quinone oxidoreductase subunit N
+GBPCPCFC_01306	gene	1440	nuoN			
+GBPCPCFC_01307	CDS	1728	mrdA	3.4.16.4	COG0768	Peptidoglycan D,D-transpeptidase MrdA
+GBPCPCFC_01307	gene	1728	mrdA			
+GBPCPCFC_01308	CDS	486				hypothetical protein
+GBPCPCFC_01308	gene	486				
+GBPCPCFC_01309	CDS	936				hypothetical protein
+GBPCPCFC_01309	gene	936				
+GBPCPCFC_01310	CDS	957	gpsA	1.1.1.94	COG0240	Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+GBPCPCFC_01310	gene	957	gpsA			
+GBPCPCFC_01311	CDS	120				hypothetical protein
+GBPCPCFC_01311	gene	120				
+GBPCPCFC_01312	CDS	618	gmk	2.7.4.8	COG0194	Guanylate kinase
+GBPCPCFC_01312	gene	618	gmk			
+GBPCPCFC_01313	CDS	777				hypothetical protein
+GBPCPCFC_01313	gene	777				
+GBPCPCFC_01314	CDS	780	acr1	1.2.1.-	COG3320	Fatty acyl-CoA reductase
+GBPCPCFC_01314	gene	780	acr1			
+GBPCPCFC_01315	CDS	2649	leuS	6.1.1.4	COG0495	Leucine--tRNA ligase
+GBPCPCFC_01315	gene	2649	leuS			
+GBPCPCFC_01316	CDS	732				hypothetical protein
+GBPCPCFC_01316	gene	732				
+GBPCPCFC_01317	CDS	618	scoB	2.8.3.5	COG2057	putative succinyl-CoA:3-ketoacid coenzyme A transferase subunit B
+GBPCPCFC_01317	gene	618	scoB			
+GBPCPCFC_01318	CDS	699	scoA	2.8.3.5	COG1788	putative succinyl-CoA:3-ketoacid coenzyme A transferase subunit A
+GBPCPCFC_01318	gene	699	scoA			
+GBPCPCFC_01319	CDS	177				hypothetical protein
+GBPCPCFC_01319	gene	177				
+GBPCPCFC_01320	CDS	681	bsdB	2.5.1.129	COG0163	putative UbiX-like flavin prenyltransferase
+GBPCPCFC_01320	gene	681	bsdB			
+GBPCPCFC_01321	CDS	738	icfA	4.2.1.1		Carbonic anhydrase
+GBPCPCFC_01321	gene	738	icfA			
+GBPCPCFC_01322	CDS	972				hypothetical protein
+GBPCPCFC_01322	gene	972				
+GBPCPCFC_01323	CDS	1869	htpG		COG0326	Chaperone protein HtpG
+GBPCPCFC_01323	gene	1869	htpG			
+GBPCPCFC_01324	CDS	1302				hypothetical protein
+GBPCPCFC_01324	gene	1302				
+GBPCPCFC_01325	CDS	1341				hypothetical protein
+GBPCPCFC_01325	gene	1341				
+GBPCPCFC_01326	CDS	810	rebM	2.1.1.164		Demethylrebeccamycin-D-glucose O-methyltransferase
+GBPCPCFC_01326	gene	810	rebM			
+GBPCPCFC_01327	CDS	279				hypothetical protein
+GBPCPCFC_01327	gene	279				
+GBPCPCFC_01328	CDS	1068				hypothetical protein
+GBPCPCFC_01328	gene	1068				
+GBPCPCFC_01329	CDS	447				hypothetical protein
+GBPCPCFC_01329	gene	447				
+GBPCPCFC_01330	CDS	273				hypothetical protein
+GBPCPCFC_01330	gene	273				
+GBPCPCFC_01331	CDS	885				hypothetical protein
+GBPCPCFC_01331	gene	885				
+GBPCPCFC_01332	CDS	1833				hypothetical protein
+GBPCPCFC_01332	gene	1833				
+GBPCPCFC_01333	CDS	273			COG4095	Sugar transporter SemiSWEET
+GBPCPCFC_01333	gene	273				
+GBPCPCFC_01334	CDS	810				hypothetical protein
+GBPCPCFC_01334	gene	810				
+GBPCPCFC_01335	CDS	1893	ltaS2		COG1368	Lipoteichoic acid synthase 2
+GBPCPCFC_01335	gene	1893	ltaS2			
+GBPCPCFC_01336	CDS	813	bla	3.5.2.6		Beta-lactamase OXA-18
+GBPCPCFC_01336	gene	813	bla			
+GBPCPCFC_01337	CDS	453				hypothetical protein
+GBPCPCFC_01337	gene	453				
+GBPCPCFC_01338	CDS	591				hypothetical protein
+GBPCPCFC_01338	gene	591				
+GBPCPCFC_01339	CDS	159				hypothetical protein
+GBPCPCFC_01339	gene	159				
+GBPCPCFC_01340	CDS	324	trxA			Thioredoxin 1
+GBPCPCFC_01340	gene	324	trxA			
+GBPCPCFC_01341	CDS	738	tagH_2	3.6.3.40	COG1134	Teichoic acids export ATP-binding protein TagH
+GBPCPCFC_01341	gene	738	tagH_2			
+GBPCPCFC_01342	CDS	777				hypothetical protein
+GBPCPCFC_01342	gene	777				
+GBPCPCFC_01343	CDS	3189			COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit 
+GBPCPCFC_01343	gene	3189				
+GBPCPCFC_01344	CDS	507	tadA	3.5.4.33	COG0590	tRNA-specific adenosine deaminase
+GBPCPCFC_01344	gene	507	tadA			
+GBPCPCFC_01345	CDS	909	fieF		COG0053	Ferrous-iron efflux pump FieF
+GBPCPCFC_01345	gene	909	fieF			
+GBPCPCFC_01346	CDS	474				hypothetical protein
+GBPCPCFC_01346	gene	474				
+GBPCPCFC_01347	CDS	498	ybeY	3.1.-.-	COG0319	Endoribonuclease YbeY
+GBPCPCFC_01347	gene	498	ybeY			
+GBPCPCFC_01348	CDS	915	tlyC		COG1253	Hemolysin C
+GBPCPCFC_01348	gene	915	tlyC			
+GBPCPCFC_01349	CDS	1158				hypothetical protein
+GBPCPCFC_01349	gene	1158				
+GBPCPCFC_01350	CDS	429				hypothetical protein
+GBPCPCFC_01350	gene	429				
+GBPCPCFC_01351	CDS	318	cutA		COG1324	Divalent-cation tolerance protein CutA
+GBPCPCFC_01351	gene	318	cutA			
+GBPCPCFC_01352	CDS	1203	gltP		COG1301	Proton/glutamate-aspartate symporter
+GBPCPCFC_01352	gene	1203	gltP			
+GBPCPCFC_01353	CDS	438	uspF		COG0589	Universal stress protein F
+GBPCPCFC_01353	gene	438	uspF			
+GBPCPCFC_01354	CDS	246	rpmA		COG0211	50S ribosomal protein L27
+GBPCPCFC_01354	gene	246	rpmA			
+GBPCPCFC_01355	CDS	318	rplU		COG0261	50S ribosomal protein L21
+GBPCPCFC_01355	gene	318	rplU			
+GBPCPCFC_01356	tRNA	75				tRNA-Cys(gca)
+GBPCPCFC_01356	gene	75				
+GBPCPCFC_01357	CDS	564				hypothetical protein
+GBPCPCFC_01357	gene	564				
+GBPCPCFC_01358	CDS	933	xerD			Tyrosine recombinase XerD
+GBPCPCFC_01358	gene	933	xerD			
+GBPCPCFC_01359	CDS	729	atpB		COG0356	ATP synthase subunit a
+GBPCPCFC_01359	gene	729	atpB			
+GBPCPCFC_01360	CDS	1008	bdbD_2		COG1651	Disulfide bond formation protein D
+GBPCPCFC_01360	gene	1008	bdbD_2			
+GBPCPCFC_01361	CDS	1437	gltX1	6.1.1.17		Glutamate--tRNA ligase 1
+GBPCPCFC_01361	gene	1437	gltX1			
+GBPCPCFC_01362	CDS	792	ubiG_2	2.1.1.222	COG2227	Ubiquinone biosynthesis O-methyltransferase
+GBPCPCFC_01362	gene	792	ubiG_2			
+GBPCPCFC_01363	CDS	780	znuB		COG1108	High-affinity zinc uptake system membrane protein ZnuB
+GBPCPCFC_01363	gene	780	znuB			
+GBPCPCFC_01364	CDS	2133	sca2_3			Putative surface cell antigen sca2
+GBPCPCFC_01364	gene	2133	sca2_3			
+GBPCPCFC_01365	CDS	528	osmY_1		COG2823	Osmotically-inducible protein Y
+GBPCPCFC_01365	gene	528	osmY_1			
+GBPCPCFC_01366	CDS	1188	pduW	2.7.2.15	COG0282	putative propionate kinase
+GBPCPCFC_01366	gene	1188	pduW			
+GBPCPCFC_01367	CDS	1032	pta	2.3.1.8	COG0280	Phosphate acetyltransferase
+GBPCPCFC_01367	gene	1032	pta			
+GBPCPCFC_01368	CDS	324				hypothetical protein
+GBPCPCFC_01368	gene	324				
+GBPCPCFC_01369	CDS	2184	recD2	3.6.4.12	COG0507	ATP-dependent RecD-like DNA helicase
+GBPCPCFC_01369	gene	2184	recD2			
+GBPCPCFC_01370	CDS	2106	ligA	6.5.1.2	COG0272	DNA ligase
+GBPCPCFC_01370	gene	2106	ligA			
+GBPCPCFC_01371	CDS	984	ispB	2.5.1.90	COG0142	Octaprenyl diphosphate synthase
+GBPCPCFC_01371	gene	984	ispB			
+GBPCPCFC_01372	CDS	834				hypothetical protein
+GBPCPCFC_01372	gene	834				
+GBPCPCFC_01373	CDS	663				hypothetical protein
+GBPCPCFC_01373	gene	663				
+GBPCPCFC_01374	CDS	1503	tlcA_2		COG3202	ADP,ATP carrier protein 1
+GBPCPCFC_01374	gene	1503	tlcA_2			
+GBPCPCFC_01375	CDS	996	nrdB	1.17.4.1	COG0208	Ribonucleoside-diphosphate reductase subunit beta
+GBPCPCFC_01375	gene	996	nrdB			
+GBPCPCFC_01376	CDS	1845	nrdZ	1.17.4.1		Vitamin B12-dependent ribonucleoside-diphosphate reductase
+GBPCPCFC_01376	gene	1845	nrdZ			
+GBPCPCFC_01377	CDS	939	fabD	2.3.1.39	COG0331	Malonyl CoA-acyl carrier protein transacylase
+GBPCPCFC_01377	gene	939	fabD			
+GBPCPCFC_01378	CDS	165				hypothetical protein
+GBPCPCFC_01378	gene	165				
+GBPCPCFC_01379	CDS	1779	slt	4.2.2.-	COG0741	Soluble lytic murein transglycosylase
+GBPCPCFC_01379	gene	1779	slt			
+GBPCPCFC_01380	CDS	120				hypothetical protein
+GBPCPCFC_01380	gene	120				
+GBPCPCFC_01381	CDS	372				hypothetical protein
+GBPCPCFC_01381	gene	372				
+GBPCPCFC_01382	CDS	849	efeU		COG0672	Ferrous iron permease EfeU
+GBPCPCFC_01382	gene	849	efeU			
+GBPCPCFC_01383	CDS	552	yciB		COG2917	Intracellular septation protein
+GBPCPCFC_01383	gene	552	yciB			
+GBPCPCFC_01384	CDS	513	ogt	2.1.1.63	COG0350	Methylated-DNA--protein-cysteine methyltransferase
+GBPCPCFC_01384	gene	513	ogt			
+GBPCPCFC_01385	CDS	1533	metG	6.1.1.10		Methionine--tRNA ligase
+GBPCPCFC_01385	gene	1533	metG			
+GBPCPCFC_01386	CDS	3546				hypothetical protein
+GBPCPCFC_01386	gene	3546				
+GBPCPCFC_01387	CDS	2451	virB4_1		COG3451	Type IV secretion system protein virB4
+GBPCPCFC_01387	gene	2451	virB4_1			
+GBPCPCFC_01388	CDS	1281	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+GBPCPCFC_01388	gene	1281	serS			
+GBPCPCFC_01389	CDS	753	tatC		COG0805	Sec-independent protein translocase protein TatC
+GBPCPCFC_01389	gene	753	tatC			
+GBPCPCFC_01390	CDS	702				hypothetical protein
+GBPCPCFC_01390	gene	702				
+GBPCPCFC_01391	CDS	513				hypothetical protein
+GBPCPCFC_01391	gene	513				
+GBPCPCFC_01392	CDS	258			COG0861	putative membrane protein
+GBPCPCFC_01392	gene	258				
+GBPCPCFC_01393	CDS	558	alx		COG0861	Putative membrane-bound redox modulator Alx
+GBPCPCFC_01393	gene	558	alx			
+GBPCPCFC_01394	CDS	501				hypothetical protein
+GBPCPCFC_01394	gene	501				
+GBPCPCFC_01395	CDS	600				hypothetical protein
+GBPCPCFC_01395	gene	600				
+GBPCPCFC_01396	CDS	438				hypothetical protein
+GBPCPCFC_01396	gene	438				
+GBPCPCFC_01397	CDS	1074				hypothetical protein
+GBPCPCFC_01397	gene	1074				
+GBPCPCFC_01398	CDS	540				hypothetical protein
+GBPCPCFC_01398	gene	540				
+GBPCPCFC_01399	CDS	339				hypothetical protein
+GBPCPCFC_01399	gene	339				
+GBPCPCFC_01400	CDS	435				hypothetical protein
+GBPCPCFC_01400	gene	435				
+GBPCPCFC_01401	CDS	594				hypothetical protein
+GBPCPCFC_01401	gene	594				
+GBPCPCFC_01402	CDS	816				hypothetical protein
+GBPCPCFC_01402	gene	816				
+GBPCPCFC_01403	CDS	174				hypothetical protein
+GBPCPCFC_01403	gene	174				
+GBPCPCFC_01404	CDS	444				hypothetical protein
+GBPCPCFC_01404	gene	444				
+GBPCPCFC_01405	CDS	2643	ppdK	2.7.9.1	COG0574	Pyruvate, phosphate dikinase
+GBPCPCFC_01405	gene	2643	ppdK			
+GBPCPCFC_01406	CDS	1665	groL5			60 kDa chaperonin 5
+GBPCPCFC_01406	gene	1665	groL5			
+GBPCPCFC_01407	CDS	300	groS		COG0234	10 kDa chaperonin
+GBPCPCFC_01407	gene	300	groS			
+GBPCPCFC_01408	CDS	318	sugE			Quaternary ammonium compound-resistance protein SugE
+GBPCPCFC_01408	gene	318	sugE			
+GBPCPCFC_01409	CDS	1083				hypothetical protein
+GBPCPCFC_01409	gene	1083				
+GBPCPCFC_01410	CDS	588				hypothetical protein
+GBPCPCFC_01410	gene	588				
+GBPCPCFC_01411	CDS	1557				hypothetical protein
+GBPCPCFC_01411	gene	1557				
+GBPCPCFC_01412	CDS	2667	alaS	6.1.1.7	COG0013	Alanine--tRNA ligase
+GBPCPCFC_01412	gene	2667	alaS			
+GBPCPCFC_01413	CDS	471				Outer membrane lipoprotein Omp16
+GBPCPCFC_01413	gene	471				
+GBPCPCFC_01414	CDS	660				hypothetical protein
+GBPCPCFC_01414	gene	660				
+GBPCPCFC_01415	CDS	465				hypothetical protein
+GBPCPCFC_01415	gene	465				
+GBPCPCFC_01416	CDS	150				hypothetical protein
+GBPCPCFC_01416	gene	150				
+GBPCPCFC_01417	CDS	714				hypothetical protein
+GBPCPCFC_01417	gene	714				
+GBPCPCFC_01418	CDS	93				hypothetical protein
+GBPCPCFC_01418	gene	93				
+GBPCPCFC_01419	CDS	2250	pnp	2.7.7.8	COG1185	Polyribonucleotide nucleotidyltransferase
+GBPCPCFC_01419	gene	2250	pnp			
+GBPCPCFC_01420	CDS	270	rpsO		COG0184	30S ribosomal protein S15
+GBPCPCFC_01420	gene	270	rpsO			
+GBPCPCFC_01421	CDS	933	truB	5.4.99.25	COG0130	tRNA pseudouridine synthase B
+GBPCPCFC_01421	gene	933	truB			
+GBPCPCFC_01422	CDS	1161				hypothetical protein
+GBPCPCFC_01422	gene	1161				
+GBPCPCFC_01423	tRNA	77				tRNA-Ile(gat)
+GBPCPCFC_01423	gene	77				
+GBPCPCFC_01424	tRNA	76				tRNA-Lys(ttt)
+GBPCPCFC_01424	gene	76				
+GBPCPCFC_01425	CDS	291	nrtP		COG2223	Nitrate/nitrite transporter NrtP
+GBPCPCFC_01425	gene	291	nrtP			
+GBPCPCFC_01426	CDS	465				hypothetical protein
+GBPCPCFC_01426	gene	465				
+GBPCPCFC_01427	CDS	864				hypothetical protein
+GBPCPCFC_01427	gene	864				
+GBPCPCFC_01428	CDS	1248	dacD	3.4.16.4	COG1686	D-alanyl-D-alanine carboxypeptidase DacD
+GBPCPCFC_01428	gene	1248	dacD			
+GBPCPCFC_01429	CDS	1554				hypothetical protein
+GBPCPCFC_01429	gene	1554				
+GBPCPCFC_01430	CDS	675				hypothetical protein
+GBPCPCFC_01430	gene	675				
+GBPCPCFC_01431	CDS	1992	uvrB		COG0556	UvrABC system protein B
+GBPCPCFC_01431	gene	1992	uvrB			
+GBPCPCFC_01432	CDS	291	grxC		COG0695	Glutaredoxin 3
+GBPCPCFC_01432	gene	291	grxC			
+GBPCPCFC_01433	CDS	1770	atm1		COG5265	ATM1-type heavy metal exporter
+GBPCPCFC_01433	gene	1770	atm1			
+GBPCPCFC_01434	CDS	507				hypothetical protein
+GBPCPCFC_01434	gene	507				
+GBPCPCFC_01435	CDS	291				hypothetical protein
+GBPCPCFC_01435	gene	291				
+GBPCPCFC_01436	CDS	174				hypothetical protein
+GBPCPCFC_01436	gene	174				
+GBPCPCFC_01437	CDS	612				hypothetical protein
+GBPCPCFC_01437	gene	612				
+GBPCPCFC_01438	CDS	168				hypothetical protein
+GBPCPCFC_01438	gene	168				
+GBPCPCFC_01439	CDS	1293				hypothetical protein
+GBPCPCFC_01439	gene	1293				
+GBPCPCFC_01440	CDS	465				hypothetical protein
+GBPCPCFC_01440	gene	465				
+GBPCPCFC_01441	CDS	111				hypothetical protein
+GBPCPCFC_01441	gene	111				
+GBPCPCFC_01442	CDS	891	ribN_1			Riboflavin transporter
+GBPCPCFC_01442	gene	891	ribN_1			
+GBPCPCFC_01443	CDS	603	ahpC	1.11.1.15	COG0450	Alkyl hydroperoxide reductase C
+GBPCPCFC_01443	gene	603	ahpC			
+GBPCPCFC_01444	CDS	1770			COG1132	putative ABC transporter ATP-binding protein
+GBPCPCFC_01444	gene	1770				
+GBPCPCFC_01445	CDS	267				hypothetical protein
+GBPCPCFC_01445	gene	267				
+GBPCPCFC_01446	CDS	750				hypothetical protein
+GBPCPCFC_01446	gene	750				
+GBPCPCFC_01447	CDS	1008	trpS	6.1.1.2	COG0180	Tryptophan--tRNA ligase
+GBPCPCFC_01447	gene	1008	trpS			
+GBPCPCFC_01448	CDS	372				hypothetical protein
+GBPCPCFC_01448	gene	372				
+GBPCPCFC_01449	CDS	1095	mrdB	2.4.1.129	COG0772	Peptidoglycan glycosyltransferase MrdB
+GBPCPCFC_01449	gene	1095	mrdB			
+GBPCPCFC_01450	CDS	1404	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+GBPCPCFC_01450	gene	1404	cysS			
+GBPCPCFC_01451	CDS	891	rpsB		COG0052	30S ribosomal protein S2
+GBPCPCFC_01451	gene	891	rpsB			
+GBPCPCFC_01452	CDS	918	tsf			Elongation factor Ts
+GBPCPCFC_01452	gene	918	tsf			
+GBPCPCFC_01453	CDS	1344	dac	3.4.16.4		D-alanyl-D-alanine carboxypeptidase
+GBPCPCFC_01453	gene	1344	dac			
+GBPCPCFC_01454	CDS	435				hypothetical protein
+GBPCPCFC_01454	gene	435				
+GBPCPCFC_01455	CDS	2010	tkt	2.2.1.1	COG0021	Transketolase
+GBPCPCFC_01455	gene	2010	tkt			
+GBPCPCFC_01456	CDS	876				hypothetical protein
+GBPCPCFC_01456	gene	876				
+GBPCPCFC_01457	CDS	1392	dnaA_1		COG0593	Chromosomal replication initiator protein DnaA
+GBPCPCFC_01457	gene	1392	dnaA_1			
+GBPCPCFC_01458	CDS	372				hypothetical protein
+GBPCPCFC_01458	gene	372				
+GBPCPCFC_01459	CDS	267				hypothetical protein
+GBPCPCFC_01459	gene	267				
+GBPCPCFC_01460	CDS	3438	mfd	3.6.4.-	COG1197	Transcription-repair-coupling factor
+GBPCPCFC_01460	gene	3438	mfd			
+GBPCPCFC_01461	CDS	582				hypothetical protein
+GBPCPCFC_01461	gene	582				
+GBPCPCFC_01462	CDS	465				hypothetical protein
+GBPCPCFC_01462	gene	465				
+GBPCPCFC_01463	CDS	303				hypothetical protein
+GBPCPCFC_01463	gene	303				
+GBPCPCFC_01464	CDS	711				hypothetical protein
+GBPCPCFC_01464	gene	711				
+GBPCPCFC_01465	CDS	975				hypothetical protein
+GBPCPCFC_01465	gene	975				
+GBPCPCFC_01466	tmRNA	358	ssrA			transfer-messenger RNA, SsrA
+GBPCPCFC_01466	gene	358	ssrA			
+GBPCPCFC_01467	CDS	408				hypothetical protein
+GBPCPCFC_01467	gene	408				
+GBPCPCFC_01468	CDS	564	rnhA	3.1.26.4	COG0328	Ribonuclease HI
+GBPCPCFC_01468	gene	564	rnhA			
+GBPCPCFC_01469	CDS	495				hypothetical protein
+GBPCPCFC_01469	gene	495				
+GBPCPCFC_01470	CDS	486	mlaD		COG1463	putative phospholipid ABC transporter-binding protein MlaD
+GBPCPCFC_01470	gene	486	mlaD			
+GBPCPCFC_01471	CDS	723	virB8		COG3736	Type IV secretion system protein virB8
+GBPCPCFC_01471	gene	723	virB8			
+GBPCPCFC_01472	CDS	486	virB9_2		COG3504	Type IV secretion system protein virB9
+GBPCPCFC_01472	gene	486	virB9_2			
+GBPCPCFC_01473	CDS	1443			COG2948	Type IV secretion system protein virB10
+GBPCPCFC_01473	gene	1443				
+GBPCPCFC_01474	CDS	999			COG0630	Type IV secretion system protein VirB11
+GBPCPCFC_01474	gene	999				
+GBPCPCFC_01475	CDS	1764	virD4			Protein VirD4
+GBPCPCFC_01475	gene	1764	virD4			
+GBPCPCFC_01476	CDS	1302				hypothetical protein
+GBPCPCFC_01476	gene	1302				
+GBPCPCFC_01477	CDS	906	lipA	2.8.1.8	COG0320	Lipoyl synthase
+GBPCPCFC_01477	gene	906	lipA			
+GBPCPCFC_01478	CDS	576	pld	3.1.4.4		Phospholipase D
+GBPCPCFC_01478	gene	576	pld			
+GBPCPCFC_01479	CDS	378	rbfA		COG0858	Ribosome-binding factor A
+GBPCPCFC_01479	gene	378	rbfA			
+GBPCPCFC_01480	CDS	582	frr		COG0233	Ribosome-recycling factor
+GBPCPCFC_01480	gene	582	frr			
+GBPCPCFC_01481	CDS	717	pyrH	2.7.4.22	COG0528	Uridylate kinase
+GBPCPCFC_01481	gene	717	pyrH			
+GBPCPCFC_01482	CDS	492	rimP		COG0779	Ribosome maturation factor RimP
+GBPCPCFC_01482	gene	492	rimP			
+GBPCPCFC_01483	CDS	1491	nusA		COG0195	Transcription termination/antitermination protein NusA
+GBPCPCFC_01483	gene	1491	nusA			
+GBPCPCFC_01484	CDS	2499	infB		COG0532	Translation initiation factor IF-2
+GBPCPCFC_01484	gene	2499	infB			
+GBPCPCFC_01485	CDS	306	gatC	6.3.5.-	COG0721	Glutamyl-tRNA(Gln) amidotransferase subunit C
+GBPCPCFC_01485	gene	306	gatC			
+GBPCPCFC_01486	CDS	1479	gatA	6.3.5.7	COG0154	Glutamyl-tRNA(Gln) amidotransferase subunit A
+GBPCPCFC_01486	gene	1479	gatA			
+GBPCPCFC_01487	CDS	1467	gatB	6.3.5.-	COG0064	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+GBPCPCFC_01487	gene	1467	gatB			
+GBPCPCFC_01488	CDS	432	tsaE		COG0802	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+GBPCPCFC_01488	gene	432	tsaE			
+GBPCPCFC_01489	CDS	1650				hypothetical protein
+GBPCPCFC_01489	gene	1650				
+GBPCPCFC_01490	CDS	2598	yrrB_2			TPR repeat-containing protein YrrB
+GBPCPCFC_01490	gene	2598	yrrB_2			
+GBPCPCFC_01491	CDS	1293	glpT		COG2271	Glycerol-3-phosphate transporter
+GBPCPCFC_01491	gene	1293	glpT			
+GBPCPCFC_01492	tRNA	75				tRNA-Gln(ttg)
+GBPCPCFC_01492	gene	75				
+GBPCPCFC_01493	CDS	1485	tlcA_3		COG3202	ADP,ATP carrier protein 1
+GBPCPCFC_01493	gene	1485	tlcA_3			
+GBPCPCFC_01494	CDS	534				hypothetical protein
+GBPCPCFC_01494	gene	534				
+GBPCPCFC_01495	CDS	1338	tilS	6.3.4.19	COG0037	tRNA(Ile)-lysidine synthase
+GBPCPCFC_01495	gene	1338	tilS			
+GBPCPCFC_01496	CDS	1848	ftsH	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+GBPCPCFC_01496	gene	1848	ftsH			
+GBPCPCFC_01497	CDS	786	sdhB	1.3.5.1	COG0479	Succinate dehydrogenase iron-sulfur subunit
+GBPCPCFC_01497	gene	786	sdhB			
+GBPCPCFC_01498	tRNA	75				tRNA-Gly(gcc)
+GBPCPCFC_01498	gene	75				
+GBPCPCFC_01499	CDS	528				Cytochrome c2
+GBPCPCFC_01499	gene	528				
+GBPCPCFC_01500	CDS	1329				hypothetical protein
+GBPCPCFC_01500	gene	1329				
+GBPCPCFC_01501	CDS	846				hypothetical protein
+GBPCPCFC_01501	gene	846				
+GBPCPCFC_01502	CDS	1362				hypothetical protein
+GBPCPCFC_01502	gene	1362				
+GBPCPCFC_01503	CDS	627	sodB	1.15.1.1		Superoxide dismutase [Fe]
+GBPCPCFC_01503	gene	627	sodB			
+GBPCPCFC_01504	CDS	1281	fpgS	6.3.2.17		Folylpolyglutamate synthase
+GBPCPCFC_01504	gene	1281	fpgS			
+GBPCPCFC_01505	CDS	708				hypothetical protein
+GBPCPCFC_01505	gene	708				
+GBPCPCFC_01506	CDS	714				hypothetical protein
+GBPCPCFC_01506	gene	714				
+GBPCPCFC_01507	CDS	1074				hypothetical protein
+GBPCPCFC_01507	gene	1074				
+GBPCPCFC_01508	CDS	1251	ampG_1		COG0477	Protein AmpG
+GBPCPCFC_01508	gene	1251	ampG_1			
+GBPCPCFC_01509	CDS	396				hypothetical protein
+GBPCPCFC_01509	gene	396				
+GBPCPCFC_01510	CDS	1251				hypothetical protein
+GBPCPCFC_01510	gene	1251				
+GBPCPCFC_01511	CDS	651				hypothetical protein
+GBPCPCFC_01511	gene	651				
+GBPCPCFC_01512	CDS	747	pqqB			Coenzyme PQQ synthesis protein B
+GBPCPCFC_01512	gene	747	pqqB			
+GBPCPCFC_01513	CDS	723	glnQ			Glutamine transport ATP-binding protein GlnQ
+GBPCPCFC_01513	gene	723	glnQ			
+GBPCPCFC_01514	CDS	516				hypothetical protein
+GBPCPCFC_01514	gene	516				
+GBPCPCFC_01515	CDS	1263	nuoF	1.6.5.11		NADH-quinone oxidoreductase subunit F
+GBPCPCFC_01515	gene	1263	nuoF			
+GBPCPCFC_01516	CDS	729		2.4.2.-	COG2071	Putative glutamine amidotransferase
+GBPCPCFC_01516	gene	729				
+GBPCPCFC_01517	CDS	720	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+GBPCPCFC_01517	gene	720	purC			
+GBPCPCFC_01518	CDS	633				hypothetical protein
+GBPCPCFC_01518	gene	633				
+GBPCPCFC_01519	CDS	1173	dprA		COG0758	DNA processing protein DprA
+GBPCPCFC_01519	gene	1173	dprA			
+GBPCPCFC_01520	CDS	2433	topA	5.99.1.2		DNA topoisomerase 1
+GBPCPCFC_01520	gene	2433	topA			
+GBPCPCFC_01521	CDS	1344	gltX	6.1.1.17	COG0008	Glutamate--tRNA ligase
+GBPCPCFC_01521	gene	1344	gltX			
+GBPCPCFC_01522	CDS	612	rplY		COG1825	50S ribosomal protein L25
+GBPCPCFC_01522	gene	612	rplY			
+GBPCPCFC_01523	CDS	573	pth	3.1.1.29	COG0193	Peptidyl-tRNA hydrolase
+GBPCPCFC_01523	gene	573	pth			
+GBPCPCFC_01524	CDS	1098	ychF		COG0012	Ribosome-binding ATPase YchF
+GBPCPCFC_01524	gene	1098	ychF			
+GBPCPCFC_01525	CDS	669				hypothetical protein
+GBPCPCFC_01525	gene	669				
+GBPCPCFC_01526	CDS	768				hypothetical protein
+GBPCPCFC_01526	gene	768				
+GBPCPCFC_01527	CDS	456	def_1	3.5.1.88	COG0242	Peptide deformylase
+GBPCPCFC_01527	gene	456	def_1			
+GBPCPCFC_01528	CDS	222				hypothetical protein
+GBPCPCFC_01528	gene	222				
+GBPCPCFC_01529	CDS	1038	pheS	6.1.1.20	COG0016	Phenylalanine--tRNA ligase alpha subunit
+GBPCPCFC_01529	gene	1038	pheS			
+GBPCPCFC_01530	CDS	2418	pheT	6.1.1.20	COG0072	Phenylalanine--tRNA ligase beta subunit
+GBPCPCFC_01530	gene	2418	pheT			
+GBPCPCFC_01531	CDS	1272				hypothetical protein
+GBPCPCFC_01531	gene	1272				
+GBPCPCFC_01532	CDS	723	tolQ		COG0811	Protein TolQ
+GBPCPCFC_01532	gene	723	tolQ			
+GBPCPCFC_01533	CDS	435	exbD		COG0848	Biopolymer transport protein ExbD
+GBPCPCFC_01533	gene	435	exbD			
+GBPCPCFC_01534	CDS	1095				hypothetical protein
+GBPCPCFC_01534	gene	1095				
+GBPCPCFC_01535	CDS	261	lepB_1	3.4.21.89	COG0681	Signal peptidase I
+GBPCPCFC_01535	gene	261	lepB_1			
+GBPCPCFC_01536	CDS	498	lepB_2	3.4.21.89		Signal peptidase I
+GBPCPCFC_01536	gene	498	lepB_2			
+GBPCPCFC_01537	CDS	738	rnc	3.1.26.3		Ribonuclease 3
+GBPCPCFC_01537	gene	738	rnc			
+GBPCPCFC_01538	CDS	939	era			GTPase Era
+GBPCPCFC_01538	gene	939	era			
+GBPCPCFC_01539	CDS	729	recO			DNA repair protein RecO
+GBPCPCFC_01539	gene	729	recO			
+GBPCPCFC_01540	CDS	2058	dapb3	3.4.14.-		Dipeptidyl aminopeptidase BIII
+GBPCPCFC_01540	gene	2058	dapb3			
+GBPCPCFC_01541	CDS	819				hypothetical protein
+GBPCPCFC_01541	gene	819				
+GBPCPCFC_01542	CDS	1566				hypothetical protein
+GBPCPCFC_01542	gene	1566				
+GBPCPCFC_01543	CDS	1026	ruvB	3.6.4.12	COG2255	Holliday junction ATP-dependent DNA helicase RuvB
+GBPCPCFC_01543	gene	1026	ruvB			
+GBPCPCFC_01544	CDS	600	ruvA	3.6.4.12	COG0632	Holliday junction ATP-dependent DNA helicase RuvA
+GBPCPCFC_01544	gene	600	ruvA			
+GBPCPCFC_01545	CDS	1260	proP_6			Proline/betaine transporter
+GBPCPCFC_01545	gene	1260	proP_6			
+GBPCPCFC_01546	CDS	1788	msbA_1	3.6.3.-	COG1132	Lipid A export ATP-binding/permease protein MsbA
+GBPCPCFC_01546	gene	1788	msbA_1			
+GBPCPCFC_01547	CDS	1443				hypothetical protein
+GBPCPCFC_01547	gene	1443				
+GBPCPCFC_01548	CDS	966	miaA_1	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+GBPCPCFC_01548	gene	966	miaA_1			
+GBPCPCFC_01549	CDS	633	algC_1	5.4.2.2		Phosphomannomutase/phosphoglucomutase
+GBPCPCFC_01549	gene	633	algC_1			
+GBPCPCFC_01550	CDS	630	algC_2	5.4.2.2		Phosphomannomutase/phosphoglucomutase
+GBPCPCFC_01550	gene	630	algC_2			
+GBPCPCFC_01551	CDS	129				hypothetical protein
+GBPCPCFC_01551	gene	129				
+GBPCPCFC_01552	CDS	747				hypothetical protein
+GBPCPCFC_01552	gene	747				
+GBPCPCFC_01553	CDS	663	tsaB		COG1214	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+GBPCPCFC_01553	gene	663	tsaB			
+GBPCPCFC_01554	CDS	432	algC_3	5.4.2.2		Phosphomannomutase/phosphoglucomutase
+GBPCPCFC_01554	gene	432	algC_3			
+GBPCPCFC_01555	CDS	669	algC_4	5.4.2.2		Phosphomannomutase/phosphoglucomutase
+GBPCPCFC_01555	gene	669	algC_4			
+GBPCPCFC_01556	CDS	291	algC_5	5.4.2.2		Phosphomannomutase/phosphoglucomutase
+GBPCPCFC_01556	gene	291	algC_5			
+GBPCPCFC_01557	CDS	222	miaA_2	2.5.1.75		tRNA dimethylallyltransferase
+GBPCPCFC_01557	gene	222	miaA_2			
+GBPCPCFC_01558	CDS	300	miaA_3	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+GBPCPCFC_01558	gene	300	miaA_3			
+GBPCPCFC_01559	CDS	207				hypothetical protein
+GBPCPCFC_01559	gene	207				
+GBPCPCFC_01560	CDS	747				hypothetical protein
+GBPCPCFC_01560	gene	747				
+GBPCPCFC_01561	CDS	267				hypothetical protein
+GBPCPCFC_01561	gene	267				
+GBPCPCFC_01562	CDS	180	msbA_2	3.6.3.-		Lipid A export ATP-binding/permease protein MsbA
+GBPCPCFC_01562	gene	180	msbA_2			
+GBPCPCFC_01563	CDS	117				hypothetical protein
+GBPCPCFC_01563	gene	117				
+GBPCPCFC_01564	CDS	1080	tnpA_4	3.1.-.-		Transposase for transposon Tn5
+GBPCPCFC_01564	gene	1080	tnpA_4			
+GBPCPCFC_01565	CDS	1293				hypothetical protein
+GBPCPCFC_01565	gene	1293				
+GBPCPCFC_01566	CDS	297	rpnD_2	3.1.21.-		Recombination-promoting nuclease RpnD
+GBPCPCFC_01566	gene	297	rpnD_2			
+GBPCPCFC_01567	CDS	1305	envZ	2.7.13.3		Osmolarity sensor protein EnvZ
+GBPCPCFC_01567	gene	1305	envZ			
+GBPCPCFC_01568	CDS	825	ompR			Transcriptional regulatory protein OmpR
+GBPCPCFC_01568	gene	825	ompR			
+GBPCPCFC_01569	CDS	888	ilvE	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+GBPCPCFC_01569	gene	888	ilvE			
+GBPCPCFC_01570	CDS	909	dapA	4.3.3.7		4-hydroxy-tetrahydrodipicolinate synthase
+GBPCPCFC_01570	gene	909	dapA			
+GBPCPCFC_01571	CDS	459	smpB			SsrA-binding protein
+GBPCPCFC_01571	gene	459	smpB			
+GBPCPCFC_01572	CDS	741	rlmE	2.1.1.166	COG0293	Ribosomal RNA large subunit methyltransferase E
+GBPCPCFC_01572	gene	741	rlmE			
+GBPCPCFC_01573	CDS	474	nusB		COG0781	Transcription antitermination protein NusB
+GBPCPCFC_01573	gene	474	nusB			
+GBPCPCFC_01574	CDS	1092	mmpA	3.4.24.-	COG0750	Metalloprotease MmpA
+GBPCPCFC_01574	gene	1092	mmpA			
+GBPCPCFC_01575	CDS	2313	bamA		COG4775	Outer membrane protein assembly factor BamA
+GBPCPCFC_01575	gene	2313	bamA			
+GBPCPCFC_01576	CDS	723				hypothetical protein
+GBPCPCFC_01576	gene	723				
+GBPCPCFC_01577	CDS	1452	icd	1.1.1.42	COG0473	Isocitrate dehydrogenase [NADP]
+GBPCPCFC_01577	gene	1452	icd			
+GBPCPCFC_01578	CDS	1170				hypothetical protein
+GBPCPCFC_01578	gene	1170				
+GBPCPCFC_01579	CDS	621	ypmQ		COG1999	SCO1 protein 
+GBPCPCFC_01579	gene	621	ypmQ			
+GBPCPCFC_01580	CDS	393	ccmE		COG2332	Cytochrome c-type biogenesis protein CcmE
+GBPCPCFC_01580	gene	393	ccmE			
+GBPCPCFC_01581	CDS	1794				hypothetical protein
+GBPCPCFC_01581	gene	1794				
+GBPCPCFC_01582	CDS	1512	comM		COG0606	Competence protein ComM
+GBPCPCFC_01582	gene	1512	comM			
+GBPCPCFC_01583	CDS	1344	hslU		COG1220	ATP-dependent protease ATPase subunit HslU
+GBPCPCFC_01583	gene	1344	hslU			
+GBPCPCFC_01584	CDS	561	hslV	3.4.25.2	COG5405	ATP-dependent protease subunit HslV
+GBPCPCFC_01584	gene	561	hslV			
+GBPCPCFC_01585	CDS	138				hypothetical protein
+GBPCPCFC_01585	gene	138				
+GBPCPCFC_01586	CDS	351		3.9.1.-	COG0537	Purine nucleoside phosphoramidase
+GBPCPCFC_01586	gene	351				
+GBPCPCFC_01587	CDS	1014	asd2	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase 2
+GBPCPCFC_01587	gene	1014	asd2			
+GBPCPCFC_01588	CDS	963	glnA	6.3.1.2	COG0174	Glutamine synthetase
+GBPCPCFC_01588	gene	963	glnA			
+GBPCPCFC_01589	CDS	1764	prsD			Type I secretion system ATP-binding protein PrsD
+GBPCPCFC_01589	gene	1764	prsD			
+GBPCPCFC_01590	CDS	1524	prsE			Type I secretion system membrane fusion protein PrsE
+GBPCPCFC_01590	gene	1524	prsE			
+GBPCPCFC_01591	CDS	993				hypothetical protein
+GBPCPCFC_01591	gene	993				
+GBPCPCFC_01592	CDS	1845	uvrC		COG0322	UvrABC system protein C
+GBPCPCFC_01592	gene	1845	uvrC			
+GBPCPCFC_01593	tRNA	90				tRNA-Ser(tga)
+GBPCPCFC_01593	gene	90				
+GBPCPCFC_01594	CDS	1674				hypothetical protein
+GBPCPCFC_01594	gene	1674				
+GBPCPCFC_01595	CDS	3471	aas		COG0204	Bifunctional protein Aas
+GBPCPCFC_01595	gene	3471	aas			
+GBPCPCFC_01596	CDS	516				hypothetical protein
+GBPCPCFC_01596	gene	516				
+GBPCPCFC_01597	CDS	3276	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+GBPCPCFC_01597	gene	3276	ileS			
+GBPCPCFC_01598	CDS	633				hypothetical protein
+GBPCPCFC_01598	gene	633				
+GBPCPCFC_01599	CDS	201	rpsU		COG0828	30S ribosomal protein S21
+GBPCPCFC_01599	gene	201	rpsU			
+GBPCPCFC_01600	CDS	1845				hypothetical protein
+GBPCPCFC_01600	gene	1845				
+GBPCPCFC_01601	CDS	315	cyaY		COG1965	Iron-sulfur cluster assembly protein CyaY
+GBPCPCFC_01601	gene	315	cyaY			
+GBPCPCFC_01602	CDS	1164	pgi	5.3.1.9	COG0166	Glucose-6-phosphate isomerase
+GBPCPCFC_01602	gene	1164	pgi			
+GBPCPCFC_01603	CDS	882	sucD	6.2.1.5	COG0074	Succinate--CoA ligase [ADP-forming] subunit alpha
+GBPCPCFC_01603	gene	882	sucD			
+GBPCPCFC_01604	CDS	1161	sucC	6.2.1.5		Succinate--CoA ligase [ADP-forming] subunit beta
+GBPCPCFC_01604	gene	1161	sucC			
+GBPCPCFC_01605	CDS	1887				Actin-binding protein
+GBPCPCFC_01605	gene	1887				
+GBPCPCFC_01606	CDS	1758				hypothetical protein
+GBPCPCFC_01606	gene	1758				
+GBPCPCFC_01607	CDS	480	lptA			Lipopolysaccharide export system protein LptA
+GBPCPCFC_01607	gene	480	lptA			
+GBPCPCFC_01608	CDS	726	lptB	3.6.3.-	COG1137	Lipopolysaccharide export system ATP-binding protein LptB
+GBPCPCFC_01608	gene	726	lptB			
+GBPCPCFC_01609	CDS	1674				hypothetical protein
+GBPCPCFC_01609	gene	1674				
+GBPCPCFC_01610	CDS	312				hypothetical protein
+GBPCPCFC_01610	gene	312				
+GBPCPCFC_01611	CDS	1026	zapE		COG1485	Cell division protein ZapE
+GBPCPCFC_01611	gene	1026	zapE			
+GBPCPCFC_01612	CDS	681	tmk_2	2.7.4.9		Thymidylate kinase
+GBPCPCFC_01612	gene	681	tmk_2			
+GBPCPCFC_01613	CDS	1527	murJ		COG0728	putative lipid II flippase MurJ
+GBPCPCFC_01613	gene	1527	murJ			
+GBPCPCFC_01614	CDS	1617	murE	6.3.2.13	COG0769	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+GBPCPCFC_01614	gene	1617	murE			
+GBPCPCFC_01615	CDS	912	rpnA_2	3.1.21.-	COG5464	Recombination-promoting nuclease RpnA
+GBPCPCFC_01615	gene	912	rpnA_2			
+GBPCPCFC_01616	CDS	129				hypothetical protein
+GBPCPCFC_01616	gene	129				
+GBPCPCFC_01617	CDS	1245	hemA	2.3.1.37	COG0156	5-aminolevulinate synthase
+GBPCPCFC_01617	gene	1245	hemA			
+GBPCPCFC_01618	CDS	1929	mutL			DNA mismatch repair protein MutL
+GBPCPCFC_01618	gene	1929	mutL			
+GBPCPCFC_01619	CDS	465				hypothetical protein
+GBPCPCFC_01619	gene	465				
+GBPCPCFC_01620	CDS	2271				hypothetical protein
+GBPCPCFC_01620	gene	2271				
+GBPCPCFC_01621	CDS	162				hypothetical protein
+GBPCPCFC_01621	gene	162				
+GBPCPCFC_01622	CDS	762	bdhA	1.1.1.30		D-beta-hydroxybutyrate dehydrogenase
+GBPCPCFC_01622	gene	762	bdhA			
+GBPCPCFC_01623	CDS	1371			COG2239	Magnesium transporter MgtE
+GBPCPCFC_01623	gene	1371				
+GBPCPCFC_01624	tRNA	83				tRNA-Leu(gag)
+GBPCPCFC_01624	gene	83				
+GBPCPCFC_01625	CDS	462				hypothetical protein
+GBPCPCFC_01625	gene	462				
+GBPCPCFC_01626	CDS	306				hypothetical protein
+GBPCPCFC_01626	gene	306				
+GBPCPCFC_01627	CDS	459				hypothetical protein
+GBPCPCFC_01627	gene	459				
+GBPCPCFC_01628	CDS	876				hypothetical protein
+GBPCPCFC_01628	gene	876				
+GBPCPCFC_01629	CDS	2427	gyrB	5.99.1.3		DNA gyrase subunit B
+GBPCPCFC_01629	gene	2427	gyrB			
+GBPCPCFC_01630	CDS	1293				hypothetical protein
+GBPCPCFC_01630	gene	1293				
+GBPCPCFC_01631	CDS	525				hypothetical protein
+GBPCPCFC_01631	gene	525				
+GBPCPCFC_01632	CDS	228				hypothetical protein
+GBPCPCFC_01632	gene	228				
+GBPCPCFC_01633	CDS	1017				hypothetical protein
+GBPCPCFC_01633	gene	1017				
+GBPCPCFC_01634	CDS	456				hypothetical protein
+GBPCPCFC_01634	gene	456				
+GBPCPCFC_01635	CDS	666	hspA		COG0071	Spore protein SP21
+GBPCPCFC_01635	gene	666	hspA			
+GBPCPCFC_01636	CDS	450				hypothetical protein
+GBPCPCFC_01636	gene	450				
+GBPCPCFC_01637	CDS	522				hypothetical protein
+GBPCPCFC_01637	gene	522				
+GBPCPCFC_01638	CDS	1053	queA	2.4.99.17	COG0809	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+GBPCPCFC_01638	gene	1053	queA			
+GBPCPCFC_01639	CDS	1071				hypothetical protein
+GBPCPCFC_01639	gene	1071				
+GBPCPCFC_01640	CDS	2730	gyrA	5.99.1.3	COG0188	DNA gyrase subunit A
+GBPCPCFC_01640	gene	2730	gyrA			
+GBPCPCFC_01641	CDS	270	yefM		COG2161	Antitoxin YefM
+GBPCPCFC_01641	gene	270	yefM			
+GBPCPCFC_01642	CDS	405				hypothetical protein
+GBPCPCFC_01642	gene	405				
+GBPCPCFC_01643	CDS	204	rpmI		COG0291	50S ribosomal protein L35
+GBPCPCFC_01643	gene	204	rpmI			
+GBPCPCFC_01644	CDS	372	rplT		COG0292	50S ribosomal protein L20
+GBPCPCFC_01644	gene	372	rplT			
+GBPCPCFC_01645	CDS	765	uppS	2.5.1.31		Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)
+GBPCPCFC_01645	gene	765	uppS			
+GBPCPCFC_01646	CDS	738	cdsA	2.7.7.41	COG0575	Phosphatidate cytidylyltransferase
+GBPCPCFC_01646	gene	738	cdsA			
+GBPCPCFC_01647	CDS	321				hypothetical protein
+GBPCPCFC_01647	gene	321				
+GBPCPCFC_01648	CDS	1842				hypothetical protein
+GBPCPCFC_01648	gene	1842				
+GBPCPCFC_01649	CDS	822	rsmA	2.1.1.182		Ribosomal RNA small subunit methyltransferase A
+GBPCPCFC_01649	gene	822	rsmA			
+GBPCPCFC_01650	CDS	915	surA	5.2.1.8		Chaperone SurA
+GBPCPCFC_01650	gene	915	surA			
+GBPCPCFC_01651	CDS	2127	lptD		COG1452	LPS-assembly protein LptD
+GBPCPCFC_01651	gene	2127	lptD			
+GBPCPCFC_01652	CDS	525	hscB		COG1076	Co-chaperone protein HscB 
+GBPCPCFC_01652	gene	525	hscB			
+GBPCPCFC_01653	CDS	2340	lon_2	3.4.21.53		Lon protease
+GBPCPCFC_01653	gene	2340	lon_2			
+GBPCPCFC_01654	CDS	357				hypothetical protein
+GBPCPCFC_01654	gene	357				
+GBPCPCFC_01655	CDS	1191				hypothetical protein
+GBPCPCFC_01655	gene	1191				
+GBPCPCFC_01656	CDS	246	xseB	3.1.11.6	COG1722	Exodeoxyribonuclease 7 small subunit
+GBPCPCFC_01656	gene	246	xseB			
+GBPCPCFC_01657	CDS	258	acpP		COG0236	Acyl carrier protein
+GBPCPCFC_01657	gene	258	acpP			
+GBPCPCFC_01658	CDS	1260	fabF	2.3.1.179	COG0304	3-oxoacyl-[acyl-carrier-protein] synthase 2
+GBPCPCFC_01658	gene	1260	fabF			
+GBPCPCFC_01659	CDS	2292	yrrB_3			TPR repeat-containing protein YrrB
+GBPCPCFC_01659	gene	2292	yrrB_3			
+GBPCPCFC_01660	CDS	1233				hypothetical protein
+GBPCPCFC_01660	gene	1233				
+GBPCPCFC_01661	CDS	1854	uup		COG0488	ABC transporter ATP-binding protein uup
+GBPCPCFC_01661	gene	1854	uup			
+GBPCPCFC_01662	CDS	888	recG_1	3.6.4.12	COG1200	ATP-dependent DNA helicase RecG
+GBPCPCFC_01662	gene	888	recG_1			
+GBPCPCFC_01663	CDS	1116	recG_2	3.6.4.12	COG1200	ATP-dependent DNA helicase RecG
+GBPCPCFC_01663	gene	1116	recG_2			
+GBPCPCFC_01664	CDS	306				hypothetical protein
+GBPCPCFC_01664	gene	306				
+GBPCPCFC_01665	CDS	567	rnd_1	3.1.13.5	COG0349	Ribonuclease D
+GBPCPCFC_01665	gene	567	rnd_1			
+GBPCPCFC_01666	CDS	1230				hypothetical protein
+GBPCPCFC_01666	gene	1230				
+GBPCPCFC_01667	CDS	1761	recJ	3.1.-.-	COG0608	Single-stranded-DNA-specific exonuclease RecJ
+GBPCPCFC_01667	gene	1761	recJ			
+GBPCPCFC_01668	CDS	429				hypothetical protein
+GBPCPCFC_01668	gene	429				
+GBPCPCFC_01669	CDS	381				hypothetical protein
+GBPCPCFC_01669	gene	381				
+GBPCPCFC_01670	CDS	1614				hypothetical protein
+GBPCPCFC_01670	gene	1614				
+GBPCPCFC_01671	CDS	327				hypothetical protein
+GBPCPCFC_01671	gene	327				
+GBPCPCFC_01672	CDS	348				hypothetical protein
+GBPCPCFC_01672	gene	348				
+GBPCPCFC_01673	CDS	2511	traC			Protein TraC
+GBPCPCFC_01673	gene	2511	traC			
+GBPCPCFC_01674	CDS	249				hypothetical protein
+GBPCPCFC_01674	gene	249				
+GBPCPCFC_01675	CDS	1488				hypothetical protein
+GBPCPCFC_01675	gene	1488				
+GBPCPCFC_01676	CDS	375				hypothetical protein
+GBPCPCFC_01676	gene	375				
+GBPCPCFC_01677	CDS	435				hypothetical protein
+GBPCPCFC_01677	gene	435				
+GBPCPCFC_01678	CDS	495				hypothetical protein
+GBPCPCFC_01678	gene	495				
+GBPCPCFC_01679	CDS	1293				hypothetical protein
+GBPCPCFC_01679	gene	1293				
+GBPCPCFC_01680	CDS	312				hypothetical protein
+GBPCPCFC_01680	gene	312				
+GBPCPCFC_01681	CDS	735				hypothetical protein
+GBPCPCFC_01681	gene	735				
+GBPCPCFC_01682	CDS	267				hypothetical protein
+GBPCPCFC_01682	gene	267				
+GBPCPCFC_01683	CDS	195				hypothetical protein
+GBPCPCFC_01683	gene	195				
+GBPCPCFC_01684	CDS	438				hypothetical protein
+GBPCPCFC_01684	gene	438				
+GBPCPCFC_01685	CDS	366				hypothetical protein
+GBPCPCFC_01685	gene	366				
+GBPCPCFC_01686	tRNA	75				tRNA-Ala(tgc)
+GBPCPCFC_01686	gene	75				
+GBPCPCFC_01687	CDS	204				hypothetical protein
+GBPCPCFC_01687	gene	204				
+GBPCPCFC_01688	CDS	165				hypothetical protein
+GBPCPCFC_01688	gene	165				
+GBPCPCFC_01689	CDS	600				hypothetical protein
+GBPCPCFC_01689	gene	600				
+GBPCPCFC_01690	tRNA	88				tRNA-Ser(gga)
+GBPCPCFC_01690	gene	88				
+GBPCPCFC_01691	CDS	657	nth	4.2.99.18	COG0177	Endonuclease III
+GBPCPCFC_01691	gene	657	nth			
+GBPCPCFC_01692	CDS	339	grxD		COG0278	Glutaredoxin 4
+GBPCPCFC_01692	gene	339	grxD			
+GBPCPCFC_01693	CDS	381				hypothetical protein
+GBPCPCFC_01693	gene	381				
+GBPCPCFC_01694	CDS	285				hypothetical protein
+GBPCPCFC_01694	gene	285				
+GBPCPCFC_01695	CDS	447				hypothetical protein
+GBPCPCFC_01695	gene	447				
+GBPCPCFC_01696	CDS	717	purF	2.4.2.14		Amidophosphoribosyltransferase
+GBPCPCFC_01696	gene	717	purF			
+GBPCPCFC_01697	CDS	831	def_2	3.5.1.88		Peptide deformylase
+GBPCPCFC_01697	gene	831	def_2			
+GBPCPCFC_01698	CDS	333	fdxA		COG1146	Ferredoxin-2
+GBPCPCFC_01698	gene	333	fdxA			
+GBPCPCFC_01699	CDS	702	ccmC		COG0755	Heme exporter protein C
+GBPCPCFC_01699	gene	702	ccmC			
+GBPCPCFC_01700	CDS	831	ssaB		COG0803	Manganese ABC transporter substrate-binding lipoprotein
+GBPCPCFC_01700	gene	831	ssaB			
+GBPCPCFC_01701	CDS	1242	cca	2.7.7.72		CCA-adding enzyme
+GBPCPCFC_01701	gene	1242	cca			
+GBPCPCFC_01702	CDS	825	kdsA	2.5.1.55	COG2877	2-dehydro-3-deoxyphosphooctonate aldolase
+GBPCPCFC_01702	gene	825	kdsA			
+GBPCPCFC_01703	CDS	150				hypothetical protein
+GBPCPCFC_01703	gene	150				
+GBPCPCFC_01704	CDS	384				hypothetical protein
+GBPCPCFC_01704	gene	384				
+GBPCPCFC_01705	CDS	978	tnpA_5	3.1.-.-		Transposase for transposon Tn5
+GBPCPCFC_01705	gene	978	tnpA_5			
+GBPCPCFC_01706	CDS	381				hypothetical protein
+GBPCPCFC_01706	gene	381				
+GBPCPCFC_01707	CDS	834	hemF	1.3.3.3	COG0408	Oxygen-dependent coproporphyrinogen-III oxidase
+GBPCPCFC_01707	gene	834	hemF			
+GBPCPCFC_01708	CDS	1266	proP_7			Proline/betaine transporter
+GBPCPCFC_01708	gene	1266	proP_7			
+GBPCPCFC_01709	CDS	540				hypothetical protein
+GBPCPCFC_01709	gene	540				
+GBPCPCFC_01710	CDS	900	secF			Protein translocase subunit SecF
+GBPCPCFC_01710	gene	900	secF			
+GBPCPCFC_01711	CDS	237				hypothetical protein
+GBPCPCFC_01711	gene	237				
+GBPCPCFC_01712	CDS	921				hypothetical protein
+GBPCPCFC_01712	gene	921				
+GBPCPCFC_01713	CDS	1854	icaA	2.4.1.-	COG1215	Poly-beta-1,6-N-acetyl-D-glucosamine synthase
+GBPCPCFC_01713	gene	1854	icaA			
+GBPCPCFC_01714	CDS	879				hypothetical protein
+GBPCPCFC_01714	gene	879				
+GBPCPCFC_01715	CDS	1257				hypothetical protein
+GBPCPCFC_01715	gene	1257				
+GBPCPCFC_01716	CDS	1158	dnaN			Beta sliding clamp
+GBPCPCFC_01716	gene	1158	dnaN			
+GBPCPCFC_01717	CDS	825	dapD	2.3.1.117	COG2171	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase
+GBPCPCFC_01717	gene	825	dapD			
+GBPCPCFC_01718	CDS	699				hypothetical protein
+GBPCPCFC_01718	gene	699				
+GBPCPCFC_01719	CDS	504				hypothetical protein
+GBPCPCFC_01719	gene	504				
+GBPCPCFC_01720	CDS	603	recR		COG0353	Recombination protein RecR
+GBPCPCFC_01720	gene	603	recR			
+GBPCPCFC_01721	CDS	465				hypothetical protein
+GBPCPCFC_01721	gene	465				
+GBPCPCFC_01722	CDS	1194	luxQ	2.7.13.3		Autoinducer 2 sensor kinase/phosphatase LuxQ
+GBPCPCFC_01722	gene	1194	luxQ			
+GBPCPCFC_01723	CDS	210	cspA		COG1278	Cold shock protein CspA
+GBPCPCFC_01723	gene	210	cspA			
+GBPCPCFC_01724	CDS	1230	cshA	3.6.4.13	COG0513	DEAD-box ATP-dependent RNA helicase CshA
+GBPCPCFC_01724	gene	1230	cshA			
+GBPCPCFC_01725	CDS	522	vanXB	3.4.13.22	COG2173	D-alanyl-D-alanine dipeptidase
+GBPCPCFC_01725	gene	522	vanXB			
+GBPCPCFC_01726	CDS	180	vanX	3.4.13.22	COG2173	D-alanyl-D-alanine dipeptidase
+GBPCPCFC_01726	gene	180	vanX			
+GBPCPCFC_01727	CDS	846	rsmI	2.1.1.198	COG0313	Ribosomal RNA small subunit methyltransferase I
+GBPCPCFC_01727	gene	846	rsmI			
+GBPCPCFC_01728	CDS	1125	lpoA			Penicillin-binding protein activator LpoA
+GBPCPCFC_01728	gene	1125	lpoA			
+GBPCPCFC_01729	CDS	1011	dus	1.3.1.-	COG0042	putative tRNA-dihydrouridine synthase
+GBPCPCFC_01729	gene	1011	dus			
+GBPCPCFC_01730	CDS	996	apbC		COG0489	Iron-sulfur cluster carrier protein
+GBPCPCFC_01730	gene	996	apbC			
+GBPCPCFC_01731	CDS	1077	hflK		COG0330	Modulator of FtsH protease HflK
+GBPCPCFC_01731	gene	1077	hflK			
+GBPCPCFC_01732	CDS	861	hflC		COG0330	Modulator of FtsH protease HflC
+GBPCPCFC_01732	gene	861	hflC			
+GBPCPCFC_01733	CDS	1563	degP	3.4.21.107	COG0265	Periplasmic serine endoprotease DegP
+GBPCPCFC_01733	gene	1563	degP			
+GBPCPCFC_01734	CDS	768				hypothetical protein
+GBPCPCFC_01734	gene	768				
+GBPCPCFC_01735	CDS	723	ctrA			Cell cycle response regulator CtrA
+GBPCPCFC_01735	gene	723	ctrA			
+GBPCPCFC_01736	CDS	453	secB		COG1952	Protein-export protein SecB
+GBPCPCFC_01736	gene	453	secB			
+GBPCPCFC_01737	CDS	567	dcd	3.5.4.13		dCTP deaminase
+GBPCPCFC_01737	gene	567	dcd			
+GBPCPCFC_01738	CDS	1311				hypothetical protein
+GBPCPCFC_01738	gene	1311				
+GBPCPCFC_01739	CDS	1326	tolB		COG0823	Protein TolB
+GBPCPCFC_01739	gene	1326	tolB			
+GBPCPCFC_01740	tRNA	76				tRNA-Thr(cgt)
+GBPCPCFC_01740	gene	76				
+GBPCPCFC_01741	CDS	1233	tyrS	6.1.1.1		Tyrosine--tRNA ligase
+GBPCPCFC_01741	gene	1233	tyrS			
+GBPCPCFC_01742	CDS	288				hypothetical protein
+GBPCPCFC_01742	gene	288				
+GBPCPCFC_01743	CDS	978	acoB	1.1.1.-	COG0022	Acetoin:2,6-dichlorophenolindophenol oxidoreductase subunit beta
+GBPCPCFC_01743	gene	978	acoB			
+GBPCPCFC_01744	CDS	978	acoA	1.1.1.-	COG1071	Acetoin:2,6-dichlorophenolindophenol oxidoreductase subunit alpha
+GBPCPCFC_01744	gene	978	acoA			
+GBPCPCFC_01745	CDS	672	rlpA	4.2.2.-		Endolytic peptidoglycan transglycosylase RlpA
+GBPCPCFC_01745	gene	672	rlpA			
+GBPCPCFC_01746	CDS	585	osmY_2		COG2823	Osmotically-inducible protein Y
+GBPCPCFC_01746	gene	585	osmY_2			
+GBPCPCFC_01747	CDS	1209				hypothetical protein
+GBPCPCFC_01747	gene	1209				
+GBPCPCFC_01748	CDS	252				hypothetical protein
+GBPCPCFC_01748	gene	252				
+GBPCPCFC_01749	CDS	390				hypothetical protein
+GBPCPCFC_01749	gene	390				
+GBPCPCFC_01750	CDS	348				hypothetical protein
+GBPCPCFC_01750	gene	348				
+GBPCPCFC_01751	CDS	1797	pepE	3.4.13.-	COG0006	putative dipeptidase PepE
+GBPCPCFC_01751	gene	1797	pepE			
+GBPCPCFC_01752	CDS	1365	proP_8			Proline/betaine transporter
+GBPCPCFC_01752	gene	1365	proP_8			
+GBPCPCFC_01753	CDS	1386	lpd	1.8.1.4	COG1249	Dihydrolipoyl dehydrogenase
+GBPCPCFC_01753	gene	1386	lpd			
+GBPCPCFC_01754	CDS	804				hypothetical protein
+GBPCPCFC_01754	gene	804				
+GBPCPCFC_01755	CDS	3228	tnpA_6	3.1.-.-		Transposase for transposon Tn5
+GBPCPCFC_01755	gene	3228	tnpA_6			
+GBPCPCFC_01756	CDS	3915				hypothetical protein
+GBPCPCFC_01756	gene	3915				
+GBPCPCFC_01757	CDS	1563				hypothetical protein
+GBPCPCFC_01757	gene	1563				
+GBPCPCFC_01758	CDS	1293				hypothetical protein
+GBPCPCFC_01758	gene	1293				
+GBPCPCFC_01759	CDS	450				hypothetical protein
+GBPCPCFC_01759	gene	450				
+GBPCPCFC_01760	CDS	912				hypothetical protein
+GBPCPCFC_01760	gene	912				
+GBPCPCFC_01761	CDS	957				hypothetical protein
+GBPCPCFC_01761	gene	957				
+GBPCPCFC_01762	CDS	873	glyQ	6.1.1.14	COG0752	Glycine--tRNA ligase alpha subunit
+GBPCPCFC_01762	gene	873	glyQ			
+GBPCPCFC_01763	CDS	627				hypothetical protein
+GBPCPCFC_01763	gene	627				
+GBPCPCFC_01764	CDS	1929				hypothetical protein
+GBPCPCFC_01764	gene	1929				
+GBPCPCFC_01765	CDS	1131				hypothetical protein
+GBPCPCFC_01765	gene	1131				
+GBPCPCFC_01766	CDS	333	fdxE		COG0633	Ferredoxin-6
+GBPCPCFC_01766	gene	333	fdxE			
+GBPCPCFC_01767	CDS	429	dksA		COG1734	RNA polymerase-binding transcription factor DksA
+GBPCPCFC_01767	gene	429	dksA			
+GBPCPCFC_01768	CDS	927	xerC		COG4973	Tyrosine recombinase XerC
+GBPCPCFC_01768	gene	927	xerC			
+GBPCPCFC_01769	CDS	1368	mnmE	3.6.5.-	COG0486	tRNA modification GTPase MnmE
+GBPCPCFC_01769	gene	1368	mnmE			
+GBPCPCFC_01770	CDS	4806	gdh	1.4.1.2	COG2902	NAD-specific glutamate dehydrogenase
+GBPCPCFC_01770	gene	4806	gdh			
+GBPCPCFC_01771	CDS	354				hypothetical protein
+GBPCPCFC_01771	gene	354				
+GBPCPCFC_01772	CDS	321				hypothetical protein
+GBPCPCFC_01772	gene	321				
+GBPCPCFC_01773	CDS	2241	ftsK		COG1674	DNA translocase FtsK
+GBPCPCFC_01773	gene	2241	ftsK			
+GBPCPCFC_01774	CDS	1542	pleC	2.7.13.3		Non-motile and phage-resistance protein
+GBPCPCFC_01774	gene	1542	pleC			
+GBPCPCFC_01775	CDS	3561	rapA	3.6.4.-		RNA polymerase-associated protein RapA
+GBPCPCFC_01775	gene	3561	rapA			
+GBPCPCFC_01776	CDS	1299	adiC		COG0531	Arginine/agmatine antiporter
+GBPCPCFC_01776	gene	1299	adiC			
+GBPCPCFC_01777	tRNA	75				tRNA-Glu(ttc)
+GBPCPCFC_01777	gene	75				
+GBPCPCFC_01778	CDS	183				hypothetical protein
+GBPCPCFC_01778	gene	183				
+GBPCPCFC_01779	CDS	1104				hypothetical protein
+GBPCPCFC_01779	gene	1104				
+GBPCPCFC_01780	CDS	1257				hypothetical protein
+GBPCPCFC_01780	gene	1257				
+GBPCPCFC_01781	CDS	504				hypothetical protein
+GBPCPCFC_01781	gene	504				
+GBPCPCFC_01782	tRNA	77				tRNA-His(gtg)
+GBPCPCFC_01782	gene	77				
+GBPCPCFC_01783	tRNA	77				tRNA-Arg(ccg)
+GBPCPCFC_01783	gene	77				
+GBPCPCFC_01784	CDS	306	secG		COG1314	Protein-export membrane protein SecG
+GBPCPCFC_01784	gene	306	secG			
+GBPCPCFC_01785	CDS	738	tpiA	5.3.1.1	COG0149	Triosephosphate isomerase
+GBPCPCFC_01785	gene	738	tpiA			
+GBPCPCFC_01786	CDS	1239				hypothetical protein
+GBPCPCFC_01786	gene	1239				
+GBPCPCFC_01787	CDS	519	proQ			RNA chaperone ProQ
+GBPCPCFC_01787	gene	519	proQ			
+GBPCPCFC_01788	CDS	1080				hypothetical protein
+GBPCPCFC_01788	gene	1080				
+GBPCPCFC_01789	CDS	792	lgt	2.4.99.-	COG0682	Prolipoprotein diacylglyceryl transferase
+GBPCPCFC_01789	gene	792	lgt			
+GBPCPCFC_01790	CDS	1155	ybdG		COG0668	Miniconductance mechanosensitive channel YbdG
+GBPCPCFC_01790	gene	1155	ybdG			
+GBPCPCFC_01791	CDS	702	novR	4.1.-.-		Decarboxylase NovR
+GBPCPCFC_01791	gene	702	novR			
+GBPCPCFC_01792	CDS	2835				hypothetical protein
+GBPCPCFC_01792	gene	2835				
+GBPCPCFC_01793	CDS	534	rplI		COG0359	50S ribosomal protein L9
+GBPCPCFC_01793	gene	534	rplI			
+GBPCPCFC_01794	CDS	285	rpsR		COG0238	30S ribosomal protein S18
+GBPCPCFC_01794	gene	285	rpsR			
+GBPCPCFC_01795	CDS	390	rpsF		COG0360	30S ribosomal protein S6
+GBPCPCFC_01795	gene	390	rpsF			
+GBPCPCFC_01796	CDS	705	phoB		COG0745	Phosphate regulon transcriptional regulatory protein PhoB
+GBPCPCFC_01796	gene	705	phoB			
+GBPCPCFC_01797	CDS	759	cysQ	3.1.3.7	COG1218	3'(2'),5'-bisphosphate nucleotidase CysQ
+GBPCPCFC_01797	gene	759	cysQ			
+GBPCPCFC_01798	CDS	843				hypothetical protein
+GBPCPCFC_01798	gene	843				
+GBPCPCFC_01799	CDS	879				hypothetical protein
+GBPCPCFC_01799	gene	879				
+GBPCPCFC_01800	CDS	1773				hypothetical protein
+GBPCPCFC_01800	gene	1773				
+GBPCPCFC_01801	CDS	999		1.18.1.2	COG0492	Ferredoxin--NADP reductase
+GBPCPCFC_01801	gene	999				
+GBPCPCFC_01802	CDS	888	folD		COG0190	Bifunctional protein FolD protein
+GBPCPCFC_01802	gene	888	folD			
+GBPCPCFC_01803	CDS	210				hypothetical protein
+GBPCPCFC_01803	gene	210				
+GBPCPCFC_01804	CDS	834	nadC	2.4.2.19	COG0157	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+GBPCPCFC_01804	gene	834	nadC			
+GBPCPCFC_01805	CDS	1914				hypothetical protein
+GBPCPCFC_01805	gene	1914				
+GBPCPCFC_01806	CDS	528	petA	1.10.2.2	COG0723	Ubiquinol-cytochrome c reductase iron-sulfur subunit
+GBPCPCFC_01806	gene	528	petA			
+GBPCPCFC_01807	CDS	1347	petB		COG1290	Cytochrome b
+GBPCPCFC_01807	gene	1347	petB			
+GBPCPCFC_01808	CDS	468	bcp	1.11.1.15	COG1225	Putative peroxiredoxin bcp
+GBPCPCFC_01808	gene	468	bcp			
+GBPCPCFC_01809	CDS	177				hypothetical protein
+GBPCPCFC_01809	gene	177				
+GBPCPCFC_01810	CDS	720				hypothetical protein
+GBPCPCFC_01810	gene	720				
+GBPCPCFC_01811	CDS	630	queH	1.17.99.6	COG1636	Epoxyqueuosine reductase QueH
+GBPCPCFC_01811	gene	630	queH			
+GBPCPCFC_01812	CDS	645				Putative adhesin
+GBPCPCFC_01812	gene	645				
+GBPCPCFC_01813	CDS	768				Putative adhesin
+GBPCPCFC_01813	gene	768				
+GBPCPCFC_01814	CDS	1320				Oxygen-independent coproporphyrinogen-III oxidase-like protein
+GBPCPCFC_01814	gene	1320				
+GBPCPCFC_01815	CDS	882	rpoH		COG0568	RNA polymerase sigma factor RpoH
+GBPCPCFC_01815	gene	882	rpoH			
+GBPCPCFC_01816	CDS	582	ctaG		COG3175	Cytochrome c oxidase assembly protein CtaG
+GBPCPCFC_01816	gene	582	ctaG			
+GBPCPCFC_01817	CDS	786	map	3.4.11.18	COG0024	Methionine aminopeptidase
+GBPCPCFC_01817	gene	786	map			
+GBPCPCFC_01818	CDS	681				hypothetical protein
+GBPCPCFC_01818	gene	681				
+GBPCPCFC_01819	CDS	369				hypothetical protein
+GBPCPCFC_01819	gene	369				
+GBPCPCFC_01820	CDS	213				hypothetical protein
+GBPCPCFC_01820	gene	213				
+GBPCPCFC_01821	CDS	264	bolA		COG0271	DNA-binding transcriptional regulator BolA
+GBPCPCFC_01821	gene	264	bolA			
+GBPCPCFC_01822	CDS	1335	pdeB	3.1.4.52		Cyclic di-GMP phosphodiesterase PdeB
+GBPCPCFC_01822	gene	1335	pdeB			
+GBPCPCFC_01823	CDS	1452	murC	6.3.2.8	COG0773	UDP-N-acetylmuramate--L-alanine ligase
+GBPCPCFC_01823	gene	1452	murC			
+GBPCPCFC_01824	CDS	888	murB	1.3.1.98	COG0812	UDP-N-acetylenolpyruvoylglucosamine reductase
+GBPCPCFC_01824	gene	888	murB			
+GBPCPCFC_01825	CDS	966	ddlB	6.3.2.4	COG1181	D-alanine--D-alanine ligase B
+GBPCPCFC_01825	gene	966	ddlB			
+GBPCPCFC_01826	CDS	795	ftsQ			Cell division protein FtsQ
+GBPCPCFC_01826	gene	795	ftsQ			
+GBPCPCFC_01827	CDS	1239	ftsA		COG0849	Cell division protein FtsA
+GBPCPCFC_01827	gene	1239	ftsA			
+GBPCPCFC_01828	tRNA	86				tRNA-Leu(taa)
+GBPCPCFC_01828	gene	86				
+GBPCPCFC_01829	CDS	555	nfuA			Fe/S biogenesis protein NfuA
+GBPCPCFC_01829	gene	555	nfuA			
+GBPCPCFC_01830	CDS	297	rpnD_3	3.1.21.-		Recombination-promoting nuclease RpnD
+GBPCPCFC_01830	gene	297	rpnD_3			
+GBPCPCFC_01831	CDS	1020	ltrA_4		COG3344	Group II intron-encoded protein LtrA
+GBPCPCFC_01831	gene	1020	ltrA_4			
+GBPCPCFC_01832	CDS	1449	tnpA_7	3.1.-.-		Transposase for transposon Tn5
+GBPCPCFC_01832	gene	1449	tnpA_7			
+GBPCPCFC_01833	CDS	618				hypothetical protein
+GBPCPCFC_01833	gene	618				
+GBPCPCFC_01834	CDS	657	rpnA_3	3.1.21.-	COG5464	Recombination-promoting nuclease RpnA
+GBPCPCFC_01834	gene	657	rpnA_3			
+GBPCPCFC_01835	CDS	726	phaB	1.1.1.36		Acetoacetyl-CoA reductase
+GBPCPCFC_01835	gene	726	phaB			
+GBPCPCFC_01836	CDS	447				hypothetical protein
+GBPCPCFC_01836	gene	447				
+GBPCPCFC_01837	CDS	1587	ppiD	5.2.1.8	COG0760	Peptidyl-prolyl cis-trans isomerase D
+GBPCPCFC_01837	gene	1587	ppiD			
+GBPCPCFC_01838	CDS	972	dacF	3.4.16.4	COG1686	D-alanyl-D-alanine carboxypeptidase DacF
+GBPCPCFC_01838	gene	972	dacF			
+GBPCPCFC_01839	CDS	1242	ampG_2		COG0477	Protein AmpG
+GBPCPCFC_01839	gene	1242	ampG_2			
+GBPCPCFC_01840	CDS	2589				hypothetical protein
+GBPCPCFC_01840	gene	2589				
+GBPCPCFC_01841	CDS	1860				hypothetical protein
+GBPCPCFC_01841	gene	1860				
+GBPCPCFC_01842	CDS	747	tlyA	2.1.1.226		16S/23S rRNA (cytidine-2'-O)-methyltransferase TlyA
+GBPCPCFC_01842	gene	747	tlyA			
+GBPCPCFC_01843	CDS	618	rpsD		COG0522	30S ribosomal protein S4
+GBPCPCFC_01843	gene	618	rpsD			
+GBPCPCFC_01844	CDS	930				hypothetical protein
+GBPCPCFC_01844	gene	930				
+GBPCPCFC_01845	CDS	1377	hsrA			putative transport protein HsrA
+GBPCPCFC_01845	gene	1377	hsrA			
+GBPCPCFC_01846	CDS	288	rpmB		COG0227	50S ribosomal protein L28
+GBPCPCFC_01846	gene	288	rpmB			
+GBPCPCFC_01847	CDS	231	rpmE		COG0254	50S ribosomal protein L31
+GBPCPCFC_01847	gene	231	rpmE			
+GBPCPCFC_01848	tRNA	77				tRNA-Met(cat)
+GBPCPCFC_01848	gene	77				
+GBPCPCFC_01849	CDS	1767	hscA		COG0443	Chaperone protein HscA
+GBPCPCFC_01849	gene	1767	hscA			
+GBPCPCFC_01850	CDS	1368				hypothetical protein
+GBPCPCFC_01850	gene	1368				
+GBPCPCFC_01851	CDS	330			COG4095	Sugar transporter SemiSWEET
+GBPCPCFC_01851	gene	330				
+GBPCPCFC_01852	CDS	1248	lolE		COG4591	Lipoprotein-releasing system transmembrane protein LolE
+GBPCPCFC_01852	gene	1248	lolE			
+GBPCPCFC_01853	CDS	714	lolD	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+GBPCPCFC_01853	gene	714	lolD			
+GBPCPCFC_01854	CDS	2451				hypothetical protein
+GBPCPCFC_01854	gene	2451				
+GBPCPCFC_01855	CDS	2004				hypothetical protein
+GBPCPCFC_01855	gene	2004				
+GBPCPCFC_01856	CDS	813	ompB_5		COG4625	Outer membrane protein B
+GBPCPCFC_01856	gene	813	ompB_5			
+GBPCPCFC_01857	CDS	1740	rpsA		COG0539	30S ribosomal protein S1
+GBPCPCFC_01857	gene	1740	rpsA			
+GBPCPCFC_01858	CDS	663	cmk	2.7.4.25	COG0283	Cytidylate kinase
+GBPCPCFC_01858	gene	663	cmk			
+GBPCPCFC_01859	tRNA	77				tRNA-Val(gac)
+GBPCPCFC_01859	gene	77				
+GBPCPCFC_01860	CDS	852				hypothetical protein
+GBPCPCFC_01860	gene	852				
+GBPCPCFC_01861	CDS	198				hypothetical protein
+GBPCPCFC_01861	gene	198				
+GBPCPCFC_01862	CDS	417				hypothetical protein
+GBPCPCFC_01862	gene	417				
+GBPCPCFC_01863	CDS	258	dpnM_7	2.1.1.72		Modification methylase DpnIIA
+GBPCPCFC_01863	gene	258	dpnM_7			
+GBPCPCFC_01864	CDS	957	barA_12	2.7.13.3	COG0784	Signal transduction histidine-protein kinase BarA
+GBPCPCFC_01864	gene	957	barA_12			
+GBPCPCFC_01865	CDS	1845				hypothetical protein
+GBPCPCFC_01865	gene	1845				
+GBPCPCFC_01866	CDS	288				hypothetical protein
+GBPCPCFC_01866	gene	288				
+GBPCPCFC_01867	CDS	696				hypothetical protein
+GBPCPCFC_01867	gene	696				
+GBPCPCFC_01868	CDS	1095				hypothetical protein
+GBPCPCFC_01868	gene	1095				
+GBPCPCFC_01869	CDS	210				hypothetical protein
+GBPCPCFC_01869	gene	210				
+GBPCPCFC_01870	CDS	1398				hypothetical protein
+GBPCPCFC_01870	gene	1398				
+GBPCPCFC_01871	CDS	261				hypothetical protein
+GBPCPCFC_01871	gene	261				
+GBPCPCFC_01872	CDS	1845				hypothetical protein
+GBPCPCFC_01872	gene	1845				
+GBPCPCFC_01873	CDS	2331	ankX_3	2.7.1.-	COG0666	Phosphocholine transferase AnkX
+GBPCPCFC_01873	gene	2331	ankX_3			
+GBPCPCFC_01874	CDS	123				hypothetical protein
+GBPCPCFC_01874	gene	123				
+GBPCPCFC_01875	CDS	1287				hypothetical protein
+GBPCPCFC_01875	gene	1287				
+GBPCPCFC_01876	CDS	930	yfiH	1.10.3.-	COG1496	Polyphenol oxidase
+GBPCPCFC_01876	gene	930	yfiH			
+GBPCPCFC_01877	CDS	1062	puuA	6.3.1.11	COG0174	Gamma-glutamylputrescine synthetase PuuA
+GBPCPCFC_01877	gene	1062	puuA			
+GBPCPCFC_01878	CDS	699				hypothetical protein
+GBPCPCFC_01878	gene	699				
+GBPCPCFC_01879	CDS	768	petC		COG2857	Cytochrome c1
+GBPCPCFC_01879	gene	768	petC			
+GBPCPCFC_01880	CDS	219				hypothetical protein
+GBPCPCFC_01880	gene	219				
+GBPCPCFC_01881	CDS	411	pntA	1.6.1.2	COG3288	NAD(P) transhydrogenase subunit alpha
+GBPCPCFC_01881	gene	411	pntA			
+GBPCPCFC_01882	CDS	2799	ompB_6		COG4625	Outer membrane protein B
+GBPCPCFC_01882	gene	2799	ompB_6			
+GBPCPCFC_01883	CDS	1806				hypothetical protein
+GBPCPCFC_01883	gene	1806				
+GBPCPCFC_01884	CDS	561				hypothetical protein
+GBPCPCFC_01884	gene	561				
+GBPCPCFC_01885	CDS	291				hypothetical protein
+GBPCPCFC_01885	gene	291				
+GBPCPCFC_01886	CDS	261				hypothetical protein
+GBPCPCFC_01886	gene	261				
+GBPCPCFC_01887	CDS	366				hypothetical protein
+GBPCPCFC_01887	gene	366				
+GBPCPCFC_01888	CDS	405				hypothetical protein
+GBPCPCFC_01888	gene	405				
+GBPCPCFC_01889	CDS	2289				hypothetical protein
+GBPCPCFC_01889	gene	2289				
+GBPCPCFC_01890	CDS	465				hypothetical protein
+GBPCPCFC_01890	gene	465				
+GBPCPCFC_01891	CDS	3846				hypothetical protein
+GBPCPCFC_01891	gene	3846				
+GBPCPCFC_01892	CDS	5229				hypothetical protein
+GBPCPCFC_01892	gene	5229				
+GBPCPCFC_01893	CDS	129				hypothetical protein
+GBPCPCFC_01893	gene	129				
+GBPCPCFC_01894	CDS	450				hypothetical protein
+GBPCPCFC_01894	gene	450				
+GBPCPCFC_01895	tRNA	77				tRNA-Arg(acg)
+GBPCPCFC_01895	gene	77				
+GBPCPCFC_01896	CDS	933				hypothetical protein
+GBPCPCFC_01896	gene	933				
+GBPCPCFC_01897	CDS	933	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+GBPCPCFC_01897	gene	933	trxB			
+GBPCPCFC_01898	CDS	144				hypothetical protein
+GBPCPCFC_01898	gene	144				
+GBPCPCFC_01899	CDS	1479	dnaC	3.6.4.12	COG0305	Replicative DNA helicase
+GBPCPCFC_01899	gene	1479	dnaC			
+GBPCPCFC_01900	CDS	1134	nagZ	3.2.1.52	COG1472	Beta-hexosaminidase
+GBPCPCFC_01900	gene	1134	nagZ			
+GBPCPCFC_01901	CDS	1122	pglA	2.4.1.290		N,N'-diacetylbacillosaminyl-diphospho-undecaprenol alpha-1,3-N-acetylgalactosaminyltransferase
+GBPCPCFC_01901	gene	1122	pglA			
+GBPCPCFC_01902	CDS	918		5.1.3.2	COG1088	UDP-glucose 4-epimerase
+GBPCPCFC_01902	gene	918				
+GBPCPCFC_01903	CDS	2442				hypothetical protein
+GBPCPCFC_01903	gene	2442				
+GBPCPCFC_01904	CDS	1974	pcrA	3.6.4.12	COG0210	ATP-dependent DNA helicase PcrA
+GBPCPCFC_01904	gene	1974	pcrA			
+GBPCPCFC_01905	CDS	3375				hypothetical protein
+GBPCPCFC_01905	gene	3375				
+GBPCPCFC_01906	CDS	1797	aspS	6.1.1.23	COG0173	Aspartate--tRNA(Asp/Asn) ligase
+GBPCPCFC_01906	gene	1797	aspS			
+GBPCPCFC_01907	CDS	1302	pbpX		COG1680	Putative penicillin-binding protein PbpX
+GBPCPCFC_01907	gene	1302	pbpX			
+GBPCPCFC_01908	CDS	1554	tlcA_4		COG3202	ADP,ATP carrier protein 1
+GBPCPCFC_01908	gene	1554	tlcA_4			
+GBPCPCFC_01909	CDS	1914				hypothetical protein
+GBPCPCFC_01909	gene	1914				
+GBPCPCFC_01910	CDS	1350	xseA	3.1.11.6	COG1570	Exodeoxyribonuclease 7 large subunit
+GBPCPCFC_01910	gene	1350	xseA			
+GBPCPCFC_01911	CDS	1614	hisJ			putative histidine-binding protein
+GBPCPCFC_01911	gene	1614	hisJ			
+GBPCPCFC_01912	CDS	807	xthA_1	3.1.11.2	COG0708	Exodeoxyribonuclease III
+GBPCPCFC_01912	gene	807	xthA_1			
+GBPCPCFC_01913	CDS	90				hypothetical protein
+GBPCPCFC_01913	gene	90				
+GBPCPCFC_01914	CDS	780	fabI_2	1.3.1.9	COG0623	Enoyl-[acyl-carrier-protein] reductase [NADH] FabI
+GBPCPCFC_01914	gene	780	fabI_2			
+GBPCPCFC_01915	CDS	453				hypothetical protein
+GBPCPCFC_01915	gene	453				
+GBPCPCFC_01916	CDS	1449	tnpA_8	3.1.-.-		Transposase for transposon Tn5
+GBPCPCFC_01916	gene	1449	tnpA_8			
+GBPCPCFC_01917	CDS	591	fabH_2	2.3.1.180	COG0332	3-oxoacyl-[acyl-carrier-protein] synthase 3
+GBPCPCFC_01917	gene	591	fabH_2			
+GBPCPCFC_01918	CDS	426	fabH_3	2.3.1.180	COG0332	3-oxoacyl-[acyl-carrier-protein] synthase 3
+GBPCPCFC_01918	gene	426	fabH_3			
+GBPCPCFC_01919	CDS	543				hypothetical protein
+GBPCPCFC_01919	gene	543				
+GBPCPCFC_01920	CDS	465				hypothetical protein
+GBPCPCFC_01920	gene	465				
+GBPCPCFC_01921	CDS	168				hypothetical protein
+GBPCPCFC_01921	gene	168				
+GBPCPCFC_01922	CDS	600				hypothetical protein
+GBPCPCFC_01922	gene	600				
+GBPCPCFC_01923	CDS	5499				hypothetical protein
+GBPCPCFC_01923	gene	5499				
+GBPCPCFC_01924	CDS	1293				hypothetical protein
+GBPCPCFC_01924	gene	1293				
+GBPCPCFC_01925	CDS	450				hypothetical protein
+GBPCPCFC_01925	gene	450				
+GBPCPCFC_01926	CDS	1035				hypothetical protein
+GBPCPCFC_01926	gene	1035				
+GBPCPCFC_01927	CDS	867	rnd_2	3.1.13.5	COG0349	Ribonuclease D
+GBPCPCFC_01927	gene	867	rnd_2			
+GBPCPCFC_01928	CDS	900				hypothetical protein
+GBPCPCFC_01928	gene	900				
+GBPCPCFC_01929	CDS	786	xthA_2	3.1.11.2	COG0708	Exodeoxyribonuclease III
+GBPCPCFC_01929	gene	786	xthA_2			
+GBPCPCFC_01930	CDS	198				hypothetical protein
+GBPCPCFC_01930	gene	198				
+GBPCPCFC_01931	CDS	2127				hypothetical protein
+GBPCPCFC_01931	gene	2127				
+GBPCPCFC_01932	CDS	1386	ubiB	2.7.-.-	COG0661	putative protein kinase UbiB
+GBPCPCFC_01932	gene	1386	ubiB			
+GBPCPCFC_01933	CDS	759	ubiE	2.1.1.163	COG2226	Ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE
+GBPCPCFC_01933	gene	759	ubiE			
+GBPCPCFC_01934	CDS	1479				hypothetical protein
+GBPCPCFC_01934	gene	1479				
+GBPCPCFC_01935	CDS	819	mutM	3.2.2.23	COG0266	Formamidopyrimidine-DNA glycosylase
+GBPCPCFC_01935	gene	819	mutM			
+GBPCPCFC_01936	CDS	393	rpoZ	2.7.7.6		DNA-directed RNA polymerase subunit omega
+GBPCPCFC_01936	gene	393	rpoZ			
+GBPCPCFC_01937	CDS	381	acpS	2.7.8.7	COG0736	Holo-[acyl-carrier-protein] synthase
+GBPCPCFC_01937	gene	381	acpS			
+GBPCPCFC_01938	CDS	1248				hypothetical protein
+GBPCPCFC_01938	gene	1248				
+GBPCPCFC_01939	CDS	1065				hypothetical protein
+GBPCPCFC_01939	gene	1065				
+GBPCPCFC_01940	CDS	897	thyX	2.1.1.148	COG1351	Flavin-dependent thymidylate synthase
+GBPCPCFC_01940	gene	897	thyX			
+GBPCPCFC_01941	CDS	1566	pepA	3.4.11.1	COG0260	Cytosol aminopeptidase
+GBPCPCFC_01941	gene	1566	pepA			
+GBPCPCFC_01942	CDS	822	soj_3	3.6.-.-	COG1192	Sporulation initiation inhibitor protein Soj
+GBPCPCFC_01942	gene	822	soj_3			
+GBPCPCFC_01943	CDS	1896				hypothetical protein
+GBPCPCFC_01943	gene	1896				
+GBPCPCFC_01944	CDS	333				hypothetical protein
+GBPCPCFC_01944	gene	333				
+GBPCPCFC_01945	CDS	735	rph	2.7.7.56	COG0689	Ribonuclease PH
+GBPCPCFC_01945	gene	735	rph			
+GBPCPCFC_01946	CDS	582	grpE		COG0576	Protein GrpE
+GBPCPCFC_01946	gene	582	grpE			
+GBPCPCFC_01947	CDS	1056			COG0628	Putative transport protein
+GBPCPCFC_01947	gene	1056				
+GBPCPCFC_01948	CDS	660	dnaA_2			Chromosomal replication initiator protein DnaA
+GBPCPCFC_01948	gene	660	dnaA_2			
+GBPCPCFC_01949	CDS	120				hypothetical protein
+GBPCPCFC_01949	gene	120				
+GBPCPCFC_01950	CDS	930				hypothetical protein
+GBPCPCFC_01950	gene	930				
+GBPCPCFC_01951	CDS	984				hypothetical protein
+GBPCPCFC_01951	gene	984				
+GBPCPCFC_01952	CDS	1395	glnG		COG2204	DNA-binding transcriptional regulator NtrC
+GBPCPCFC_01952	gene	1395	glnG			
+GBPCPCFC_01953	CDS	1752	pipB2		COG1357	Secreted effector protein PipB2
+GBPCPCFC_01953	gene	1752	pipB2			
+GBPCPCFC_01954	CDS	702				hypothetical protein
+GBPCPCFC_01954	gene	702				
+GBPCPCFC_01955	CDS	675				hypothetical protein
+GBPCPCFC_01955	gene	675				
+GBPCPCFC_01956	CDS	951	kdsD	5.3.1.13	COG0517	Arabinose 5-phosphate isomerase KdsD
+GBPCPCFC_01956	gene	951	kdsD			
+GBPCPCFC_01957	CDS	1149	dgt		COG0232	Deoxyguanosinetriphosphate triphosphohydrolase-like protein
+GBPCPCFC_01957	gene	1149	dgt			
+GBPCPCFC_01958	CDS	1734	argS	6.1.1.19		Arginine--tRNA ligase
+GBPCPCFC_01958	gene	1734	argS			
+GBPCPCFC_01959	CDS	783				hypothetical protein
+GBPCPCFC_01959	gene	783				
+GBPCPCFC_01960	CDS	435	dut	3.6.1.23		Deoxyuridine 5'-triphosphate nucleotidohydrolase
+GBPCPCFC_01960	gene	435	dut			
+GBPCPCFC_01961	CDS	492				hypothetical protein
+GBPCPCFC_01961	gene	492				
+GBPCPCFC_01962	CDS	555	coq7	1.14.13.-	COG2941	2-nonaprenyl-3-methyl-6-methoxy-1,4-benzoquinol hydroxylase
+GBPCPCFC_01962	gene	555	coq7			
+GBPCPCFC_01963	CDS	696	dnaQ	2.7.7.7	COG0847	DNA polymerase III subunit epsilon
+GBPCPCFC_01963	gene	696	dnaQ			
+GBPCPCFC_01964	CDS	777	coaE	2.7.1.24	COG0237	Dephospho-CoA kinase
+GBPCPCFC_01964	gene	777	coaE			
+GBPCPCFC_01965	CDS	549	pgsA	2.7.8.5		CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+GBPCPCFC_01965	gene	549	pgsA			
+GBPCPCFC_01966	CDS	507	atpF_1		COG0711	ATP synthase subunit b
+GBPCPCFC_01966	gene	507	atpF_1			
+GBPCPCFC_01967	CDS	480	atpF_2			ATP synthase subunit b
+GBPCPCFC_01967	gene	480	atpF_2			
+GBPCPCFC_01968	CDS	225	atpE		COG0636	ATP synthase subunit c
+GBPCPCFC_01968	gene	225	atpE			
+GBPCPCFC_01969	CDS	1818	zraS	2.7.13.3		Sensor protein ZraS
+GBPCPCFC_01969	gene	1818	zraS			
+GBPCPCFC_01970	CDS	1998	accA1		COG4770	Acetyl-/propionyl-coenzyme A carboxylase alpha chain
+GBPCPCFC_01970	gene	1998	accA1			
+GBPCPCFC_01971	CDS	1545	pccB	6.4.1.3	COG4799	Propionyl-CoA carboxylase beta chain
+GBPCPCFC_01971	gene	1545	pccB			
+GBPCPCFC_01972	CDS	699				hypothetical protein
+GBPCPCFC_01972	gene	699				
+GBPCPCFC_01973	CDS	1293				hypothetical protein
+GBPCPCFC_01973	gene	1293				
+GBPCPCFC_01974	CDS	861				hypothetical protein
+GBPCPCFC_01974	gene	861				
+GBPCPCFC_01975	CDS	363				hypothetical protein
+GBPCPCFC_01975	gene	363				
+GBPCPCFC_01976	CDS	1038				hypothetical protein
+GBPCPCFC_01976	gene	1038				
+GBPCPCFC_01977	CDS	2574	clpB			Chaperone protein ClpB
+GBPCPCFC_01977	gene	2574	clpB			
+GBPCPCFC_01978	CDS	198				hypothetical protein
+GBPCPCFC_01978	gene	198				
+GBPCPCFC_01979	CDS	1716	yidC			Membrane protein insertase YidC
+GBPCPCFC_01979	gene	1716	yidC			
+GBPCPCFC_01980	CDS	609	engB			putative GTP-binding protein EngB
+GBPCPCFC_01980	gene	609	engB			
+GBPCPCFC_01981	CDS	936	argB	2.7.2.8	COG0548	Acetylglutamate kinase
+GBPCPCFC_01981	gene	936	argB			
+GBPCPCFC_01982	CDS	288				hypothetical protein
+GBPCPCFC_01982	gene	288				
+GBPCPCFC_01983	CDS	2418	virB4_2		COG3451	Type IV secretion system protein virB4
+GBPCPCFC_01983	gene	2418	virB4_2			
+GBPCPCFC_01984	CDS	3120				hypothetical protein
+GBPCPCFC_01984	gene	3120				
+GBPCPCFC_01985	CDS	285				hypothetical protein
+GBPCPCFC_01985	gene	285				
+GBPCPCFC_01986	CDS	2016				hypothetical protein
+GBPCPCFC_01986	gene	2016				
+GBPCPCFC_01987	CDS	246				hypothetical protein
+GBPCPCFC_01987	gene	246				
+GBPCPCFC_01988	CDS	2883				hypothetical protein
+GBPCPCFC_01988	gene	2883				
+GBPCPCFC_01989	CDS	2832				hypothetical protein
+GBPCPCFC_01989	gene	2832				
+GBPCPCFC_01990	CDS	3315	virB6		COG3704	Type IV secretion system protein VirB6
+GBPCPCFC_01990	gene	3315	virB6			
+GBPCPCFC_01991	CDS	504	carD		COG1329	RNA polymerase-binding transcription factor CarD
+GBPCPCFC_01991	gene	504	carD			
+GBPCPCFC_01992	CDS	1251		2.7.2.4	COG0527	Aspartate kinase
+GBPCPCFC_01992	gene	1251				
+GBPCPCFC_01993	CDS	600	pgpA	3.1.3.27	COG1267	Phosphatidylglycerophosphatase A
+GBPCPCFC_01993	gene	600	pgpA			
+GBPCPCFC_01994	CDS	1305	gltA	2.3.3.16	COG0372	Citrate synthase
+GBPCPCFC_01994	gene	1305	gltA			
+GBPCPCFC_01995	CDS	4125	rpoC	2.7.7.6		DNA-directed RNA polymerase subunit beta'
+GBPCPCFC_01995	gene	4125	rpoC			
+GBPCPCFC_01996	CDS	4107	rpoB	2.7.7.6		DNA-directed RNA polymerase subunit beta
+GBPCPCFC_01996	gene	4107	rpoB			
+GBPCPCFC_01997	CDS	369	rplL		COG0222	50S ribosomal protein L7/L12
+GBPCPCFC_01997	gene	369	rplL			
+GBPCPCFC_01998	CDS	510	rplJ		COG0244	50S ribosomal protein L10
+GBPCPCFC_01998	gene	510	rplJ			
+GBPCPCFC_01999	CDS	726	rplA		COG0081	50S ribosomal protein L1
+GBPCPCFC_01999	gene	726	rplA			
+GBPCPCFC_02000	CDS	435	rplK		COG0080	50S ribosomal protein L11
+GBPCPCFC_02000	gene	435	rplK			
+GBPCPCFC_02001	CDS	531	nusG		COG0250	Transcription termination/antitermination protein NusG
+GBPCPCFC_02001	gene	531	nusG			
+GBPCPCFC_02002	CDS	201	secE			Protein translocase subunit SecE
+GBPCPCFC_02002	gene	201	secE			
+GBPCPCFC_02003	tRNA	76				tRNA-Trp(cca)
+GBPCPCFC_02003	gene	76				
+GBPCPCFC_02004	CDS	2079	fusA		COG0480	Elongation factor G
+GBPCPCFC_02004	gene	2079	fusA			
+GBPCPCFC_02005	CDS	489	rpsG		COG0049	30S ribosomal protein S7
+GBPCPCFC_02005	gene	489	rpsG			
+GBPCPCFC_02006	CDS	384	rpsL		COG0048	30S ribosomal protein S12
+GBPCPCFC_02006	gene	384	rpsL			
+GBPCPCFC_02007	CDS	651	artQ		COG0765	Arginine transport system permease protein ArtQ
+GBPCPCFC_02007	gene	651	artQ			
+GBPCPCFC_02008	CDS	393				hypothetical protein
+GBPCPCFC_02008	gene	393				
+GBPCPCFC_02009	CDS	2811	acn	4.2.1.3	COG1048	Aconitate hydratase A
+GBPCPCFC_02009	gene	2811	acn			
+GBPCPCFC_02010	CDS	678				hypothetical protein
+GBPCPCFC_02010	gene	678				
+GBPCPCFC_02011	CDS	855	ctaE	1.9.3.1	COG1845	Cytochrome c oxidase subunit 3
+GBPCPCFC_02011	gene	855	ctaE			
+GBPCPCFC_02012	CDS	1530	lnt	2.3.1.-	COG0815	Apolipoprotein N-acyltransferase
+GBPCPCFC_02012	gene	1530	lnt			
+GBPCPCFC_02013	CDS	1668	ettA		COG0488	Energy-dependent translational throttle protein EttA
+GBPCPCFC_02013	gene	1668	ettA			
+GBPCPCFC_02014	CDS	750				hypothetical protein
+GBPCPCFC_02014	gene	750				
+GBPCPCFC_02015	CDS	2031	glyS	6.1.1.14	COG0751	Glycine--tRNA ligase beta subunit
+GBPCPCFC_02015	gene	2031	glyS			
+GBPCPCFC_02016	CDS	1005	ywlC	2.7.7.87	COG0009	Threonylcarbamoyl-AMP synthase
+GBPCPCFC_02016	gene	1005	ywlC			
+GBPCPCFC_02017	CDS	930	ftsY		COG0552	Signal recognition particle receptor FtsY
+GBPCPCFC_02017	gene	930	ftsY			
+GBPCPCFC_02018	CDS	1980	priA	3.6.4.-	COG1198	Primosomal protein N'
+GBPCPCFC_02018	gene	1980	priA			
+GBPCPCFC_02019	CDS	147				hypothetical protein
+GBPCPCFC_02019	gene	147				
+GBPCPCFC_02020	CDS	1521				hypothetical protein
+GBPCPCFC_02020	gene	1521				
+GBPCPCFC_02021	CDS	2352				hypothetical protein
+GBPCPCFC_02021	gene	2352				
+GBPCPCFC_02022	CDS	1497	der		COG1160	GTPase Der
+GBPCPCFC_02022	gene	1497	der			
+GBPCPCFC_02023	CDS	762	fic	2.7.7.-	COG3177	Adenosine monophosphate-protein transferase SoFic
+GBPCPCFC_02023	gene	762	fic			
+GBPCPCFC_02024	CDS	1293				hypothetical protein
+GBPCPCFC_02024	gene	1293				
+GBPCPCFC_02025	CDS	348				hypothetical protein
+GBPCPCFC_02025	gene	348				
+GBPCPCFC_02026	CDS	912	nlpD			Murein hydrolase activator NlpD
+GBPCPCFC_02026	gene	912	nlpD			
+GBPCPCFC_02027	CDS	435	rpiB	5.3.1.6	COG0698	Ribose-5-phosphate isomerase B
+GBPCPCFC_02027	gene	435	rpiB			
+GBPCPCFC_02028	CDS	510				hypothetical protein
+GBPCPCFC_02028	gene	510				
+GBPCPCFC_02029	CDS	741	znuC	3.6.3.-	COG1121	Zinc import ATP-binding protein ZnuC
+GBPCPCFC_02029	gene	741	znuC			
+GBPCPCFC_02030	CDS	936	prfB		COG1186	Peptide chain release factor RF2
+GBPCPCFC_02030	gene	936	prfB			
+GBPCPCFC_02031	CDS	1806	lepA	3.6.5.-	COG0481	Elongation factor 4
+GBPCPCFC_02031	gene	1806	lepA			
+GBPCPCFC_02032	CDS	1428				hypothetical protein
+GBPCPCFC_02032	gene	1428				
+GBPCPCFC_02033	CDS	1548	secD		COG0342	Protein translocase subunit SecD
+GBPCPCFC_02033	gene	1548	secD			
+GBPCPCFC_02034	CDS	399	yajC		COG1862	Sec translocon accessory complex subunit YajC
+GBPCPCFC_02034	gene	399	yajC			
+GBPCPCFC_02035	CDS	849				hypothetical protein
+GBPCPCFC_02035	gene	849				
+GBPCPCFC_02036	CDS	957				hypothetical protein
+GBPCPCFC_02036	gene	957				
+GBPCPCFC_02037	CDS	444	ssb_2			Single-stranded DNA-binding protein
+GBPCPCFC_02037	gene	444	ssb_2			
+GBPCPCFC_02038	CDS	2868	uvrA			UvrABC system protein A
+GBPCPCFC_02038	gene	2868	uvrA			
+GBPCPCFC_02039	CDS	990	mltG	4.2.2.-	COG1559	Endolytic murein transglycosylase
+GBPCPCFC_02039	gene	990	mltG			
+GBPCPCFC_02040	CDS	3084	ankX_4	2.7.1.-	COG0666	Phosphocholine transferase AnkX
+GBPCPCFC_02040	gene	3084	ankX_4			
+GBPCPCFC_02041	CDS	654				hypothetical protein
+GBPCPCFC_02041	gene	654				
+GBPCPCFC_02042	CDS	180				hypothetical protein
+GBPCPCFC_02042	gene	180				
+GBPCPCFC_02043	CDS	1608	cmpB		COG0600	Bicarbonate transport system permease protein CmpB
+GBPCPCFC_02043	gene	1608	cmpB			
+GBPCPCFC_02044	CDS	1311	ssuB	3.6.3.-	COG1116	Aliphatic sulfonates import ATP-binding protein SsuB
+GBPCPCFC_02044	gene	1311	ssuB			
+GBPCPCFC_02045	CDS	1023	psdht	4.2.1.-		Phenylserine dehydratase
+GBPCPCFC_02045	gene	1023	psdht			
+GBPCPCFC_02046	CDS	147				hypothetical protein
+GBPCPCFC_02046	gene	147				
+GBPCPCFC_02047	CDS	174				hypothetical protein
+GBPCPCFC_02047	gene	174				
+GBPCPCFC_02048	CDS	2001	parE	5.99.1.3	COG0187	DNA topoisomerase 4 subunit B
+GBPCPCFC_02048	gene	2001	parE			
+GBPCPCFC_02049	CDS	1419		3.4.21.-		putative CtpA-like serine protease
+GBPCPCFC_02049	gene	1419				
+GBPCPCFC_02050	CDS	1146	dapE	3.5.1.18	COG0624	Succinyl-diaminopimelate desuccinylase
+GBPCPCFC_02050	gene	1146	dapE			
+GBPCPCFC_02051	tRNA	85				tRNA-Leu(tag)
+GBPCPCFC_02051	gene	85				
+GBPCPCFC_02052	CDS	1335	tig	5.2.1.8	COG0544	Trigger factor
+GBPCPCFC_02052	gene	1335	tig			
+GBPCPCFC_02053	CDS	405				hypothetical protein
+GBPCPCFC_02053	gene	405				
+GBPCPCFC_02054	CDS	1332	proP_9			Proline/betaine transporter
+GBPCPCFC_02054	gene	1332	proP_9			
+GBPCPCFC_02055	CDS	708	rsh_6	2.7.6.5		GTP pyrophosphokinase rsh
+GBPCPCFC_02055	gene	708	rsh_6			
+GBPCPCFC_02056	CDS	1401	pntB	1.6.1.2	COG1282	NAD(P) transhydrogenase subunit beta
+GBPCPCFC_02056	gene	1401	pntB			
+GBPCPCFC_02057	CDS	720	ompW		COG3047	Outer membrane protein W
+GBPCPCFC_02057	gene	720	ompW			
+GBPCPCFC_02058	CDS	888	ribN_2			Riboflavin transporter
+GBPCPCFC_02058	gene	888	ribN_2			
+GBPCPCFC_02059	CDS	1278	proP_10			Proline/betaine transporter
+GBPCPCFC_02059	gene	1278	proP_10			
+GBPCPCFC_02060	CDS	522	dsbB			Disulfide bond formation protein B
+GBPCPCFC_02060	gene	522	dsbB			
+GBPCPCFC_02061	CDS	300				hypothetical protein
+GBPCPCFC_02061	gene	300				
+GBPCPCFC_02062	CDS	708				hypothetical protein
+GBPCPCFC_02062	gene	708				
+GBPCPCFC_02063	CDS	1293				hypothetical protein
+GBPCPCFC_02063	gene	1293				
+GBPCPCFC_02064	CDS	837				hypothetical protein
+GBPCPCFC_02064	gene	837				
+GBPCPCFC_02065	CDS	327				hypothetical protein
+GBPCPCFC_02065	gene	327				
+GBPCPCFC_02066	CDS	3594				hypothetical protein
+GBPCPCFC_02066	gene	3594				
+GBPCPCFC_02067	CDS	453				hypothetical protein
+GBPCPCFC_02067	gene	453				
+GBPCPCFC_02068	CDS	387				hypothetical protein
+GBPCPCFC_02068	gene	387				
+GBPCPCFC_02069	CDS	402	sdhC		COG2009	Succinate dehydrogenase cytochrome b556 subunit
+GBPCPCFC_02069	gene	402	sdhC			
+GBPCPCFC_02070	CDS	402	rnpA	3.1.26.5		Ribonuclease P protein component
+GBPCPCFC_02070	gene	402	rnpA			
+GBPCPCFC_02071	tRNA	77				tRNA-Arg(tct)
+GBPCPCFC_02071	gene	77				
+GBPCPCFC_02072	CDS	450				hypothetical protein
+GBPCPCFC_02072	gene	450				
+GBPCPCFC_02073	CDS	201				hypothetical protein
+GBPCPCFC_02073	gene	201				
+GBPCPCFC_02074	CDS	2622				hypothetical protein
+GBPCPCFC_02074	gene	2622				
+GBPCPCFC_02075	CDS	2799	ompB_7		COG4625	Outer membrane protein B
+GBPCPCFC_02075	gene	2799	ompB_7			
+GBPCPCFC_02076	CDS	2424				hypothetical protein
+GBPCPCFC_02076	gene	2424				
+GBPCPCFC_02077	CDS	540	aaaT	2.3.1.-	COG0454	L-amino acid N-acetyltransferase AaaT
+GBPCPCFC_02077	gene	540	aaaT			
+GBPCPCFC_02078	CDS	2106				hypothetical protein
+GBPCPCFC_02078	gene	2106				
+GBPCPCFC_02079	CDS	7854				hypothetical protein
+GBPCPCFC_02079	gene	7854				
+GBPCPCFC_02080	CDS	453				hypothetical protein
+GBPCPCFC_02080	gene	453				
+GBPCPCFC_02081	CDS	264				hypothetical protein
+GBPCPCFC_02081	gene	264				
+GBPCPCFC_02082	CDS	417				hypothetical protein
+GBPCPCFC_02082	gene	417				
+GBPCPCFC_02083	CDS	2397				hypothetical protein
+GBPCPCFC_02083	gene	2397				
+GBPCPCFC_02084	CDS	1212				hypothetical protein
+GBPCPCFC_02084	gene	1212				
+GBPCPCFC_02085	CDS	438				hypothetical protein
+GBPCPCFC_02085	gene	438				
+GBPCPCFC_02086	CDS	294				hypothetical protein
+GBPCPCFC_02086	gene	294				
+GBPCPCFC_02087	CDS	1398	putP		COG0591	High-affinity proline transporter PutP
+GBPCPCFC_02087	gene	1398	putP			
+GBPCPCFC_02088	CDS	447	mraZ		COG2001	Transcriptional regulator MraZ
+GBPCPCFC_02088	gene	447	mraZ			
+GBPCPCFC_02089	CDS	1077	rsmH	2.1.1.199	COG0275	Ribosomal RNA small subunit methyltransferase H
+GBPCPCFC_02089	gene	1077	rsmH			
+GBPCPCFC_02090	CDS	393	ftsL			Cell division protein FtsL
+GBPCPCFC_02090	gene	393	ftsL			
+GBPCPCFC_02091	CDS	1701	ftsI	3.4.16.4		putative peptidoglycan D,D-transpeptidase FtsI
+GBPCPCFC_02091	gene	1701	ftsI			
+GBPCPCFC_02092	CDS	1854				hypothetical protein
+GBPCPCFC_02092	gene	1854				
+GBPCPCFC_02093	CDS	1269	clpX			ATP-dependent Clp protease ATP-binding subunit ClpX
+GBPCPCFC_02093	gene	1269	clpX			
+GBPCPCFC_02094	CDS	618	clpP	3.4.21.92	COG0740	ATP-dependent Clp protease proteolytic subunit
+GBPCPCFC_02094	gene	618	clpP			
+GBPCPCFC_02095	CDS	1527	tlcA_5		COG3202	ADP,ATP carrier protein 1
+GBPCPCFC_02095	gene	1527	tlcA_5			
+GBPCPCFC_02096	CDS	1272				hypothetical protein
+GBPCPCFC_02096	gene	1272				
+GBPCPCFC_02097	CDS	1161	bshA	2.4.1.-	COG0438	N-acetyl-alpha-D-glucosaminyl L-malate synthase
+GBPCPCFC_02097	gene	1161	bshA			
+GBPCPCFC_02098	CDS	753	menH	4.2.99.20		2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+GBPCPCFC_02098	gene	753	menH			
+GBPCPCFC_02099	CDS	759				hypothetical protein
+GBPCPCFC_02099	gene	759				
+GBPCPCFC_02100	CDS	966	qmcA		COG0330	Protein QmcA
+GBPCPCFC_02100	gene	966	qmcA			
+GBPCPCFC_02101	CDS	102				hypothetical protein
+GBPCPCFC_02101	gene	102				
+GBPCPCFC_02102	CDS	1200				hypothetical protein
+GBPCPCFC_02102	gene	1200				
+GBPCPCFC_02103	CDS	2253				hypothetical protein
+GBPCPCFC_02103	gene	2253				
+GBPCPCFC_02104	CDS	465				hypothetical protein
+GBPCPCFC_02104	gene	465				
+GBPCPCFC_02105	CDS	2991				hypothetical protein
+GBPCPCFC_02105	gene	2991				
+GBPCPCFC_02106	CDS	951	tarD	2.7.7.39	COG0615	Glycerol-3-phosphate cytidylyltransferase
+GBPCPCFC_02106	gene	951	tarD			
+GBPCPCFC_02107	CDS	810				hypothetical protein
+GBPCPCFC_02107	gene	810				
+GBPCPCFC_02108	CDS	228				hypothetical protein
+GBPCPCFC_02108	gene	228				
+GBPCPCFC_02109	CDS	237				hypothetical protein
+GBPCPCFC_02109	gene	237				
+GBPCPCFC_02110	CDS	945				hypothetical protein
+GBPCPCFC_02110	gene	945				
+GBPCPCFC_02111	CDS	393				hypothetical protein
+GBPCPCFC_02111	gene	393				
+GBPCPCFC_02112	CDS	159				hypothetical protein
+GBPCPCFC_02112	gene	159				
+GBPCPCFC_02113	CDS	792				hypothetical protein
+GBPCPCFC_02113	gene	792				
+GBPCPCFC_02114	CDS	546				hypothetical protein
+GBPCPCFC_02114	gene	546				
+GBPCPCFC_02115	tRNA	75				tRNA-Asn(gtt)
+GBPCPCFC_02115	gene	75				
+GBPCPCFC_02116	CDS	216	infA			Translation initiation factor IF-1
+GBPCPCFC_02116	gene	216	infA			
+GBPCPCFC_02117	CDS	1053	manC1	2.7.7.13	COG0662	Mannose-1-phosphate guanylyltransferase 1
+GBPCPCFC_02117	gene	1053	manC1			
+GBPCPCFC_02118	CDS	558				hypothetical protein
+GBPCPCFC_02118	gene	558				
+GBPCPCFC_02119	CDS	2085	nqo3	1.6.5.11	COG1034	NADH-quinone oxidoreductase chain 3
+GBPCPCFC_02119	gene	2085	nqo3			
+GBPCPCFC_02120	CDS	1026	nuoH	1.6.5.11	COG1005	NADH-quinone oxidoreductase subunit H
+GBPCPCFC_02120	gene	1026	nuoH			
+GBPCPCFC_02121	CDS	486	nuoI	1.6.5.11	COG1143	NADH-quinone oxidoreductase subunit I
+GBPCPCFC_02121	gene	486	nuoI			
+GBPCPCFC_02122	CDS	615	nuoJ	1.6.5.11	COG0839	NADH-quinone oxidoreductase subunit J
+GBPCPCFC_02122	gene	615	nuoJ			
+GBPCPCFC_02123	CDS	315		1.6.5.11	COG0713	NADH-quinone oxidoreductase subunit 11
+GBPCPCFC_02123	gene	315				
+GBPCPCFC_02124	CDS	1827	typA_2		COG1217	GTP-binding protein TypA/BipA
+GBPCPCFC_02124	gene	1827	typA_2			
+GBPCPCFC_02125	CDS	1488	nuoM	1.6.5.11	COG1008	NADH-quinone oxidoreductase subunit M
+GBPCPCFC_02125	gene	1488	nuoM			
+GBPCPCFC_02126	CDS	1953	nuoL	1.6.5.11	COG1009	NADH-quinone oxidoreductase subunit L
+GBPCPCFC_02126	gene	1953	nuoL			
+GBPCPCFC_02127	CDS	2412	mrcA		COG5009	Penicillin-binding protein 1A
+GBPCPCFC_02127	gene	2412	mrcA			
+GBPCPCFC_02128	CDS	1332	miaB	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+GBPCPCFC_02128	gene	1332	miaB			
+GBPCPCFC_02129	CDS	618	rpnA_4	3.1.21.-	COG5464	Recombination-promoting nuclease RpnA
+GBPCPCFC_02129	gene	618	rpnA_4			
+GBPCPCFC_02130	CDS	618				hypothetical protein
+GBPCPCFC_02130	gene	618				
+GBPCPCFC_02131	CDS	1125	tnpA_9	3.1.-.-		Transposase for transposon Tn5
+GBPCPCFC_02131	gene	1125	tnpA_9			
+GBPCPCFC_02132	CDS	1095				hypothetical protein
+GBPCPCFC_02132	gene	1095				
+GBPCPCFC_02133	CDS	363				hypothetical protein
+GBPCPCFC_02133	gene	363				
+GBPCPCFC_02134	CDS	1020	ltrA_5		COG3344	Group II intron-encoded protein LtrA
+GBPCPCFC_02134	gene	1020	ltrA_5			
+GBPCPCFC_02135	CDS	384				hypothetical protein
+GBPCPCFC_02135	gene	384				
+GBPCPCFC_02136	CDS	1764				hypothetical protein
+GBPCPCFC_02136	gene	1764				
+GBPCPCFC_02137	CDS	666				hypothetical protein
+GBPCPCFC_02137	gene	666				
+GBPCPCFC_02138	CDS	618				hypothetical protein
+GBPCPCFC_02138	gene	618				
+GBPCPCFC_02139	CDS	540				hypothetical protein
+GBPCPCFC_02139	gene	540				
+GBPCPCFC_02140	CDS	615				hypothetical protein
+GBPCPCFC_02140	gene	615				
+GBPCPCFC_02141	CDS	903				hypothetical protein
+GBPCPCFC_02141	gene	903				
+GBPCPCFC_02142	CDS	777	xthA_3	3.1.11.2	COG0708	Exodeoxyribonuclease III
+GBPCPCFC_02142	gene	777	xthA_3			
+GBPCPCFC_02143	CDS	384				hypothetical protein
+GBPCPCFC_02143	gene	384				
+GBPCPCFC_02144	CDS	600	sfp	2.7.8.7	COG2091	4'-phosphopantetheinyl transferase Sfp
+GBPCPCFC_02144	gene	600	sfp			
+GBPCPCFC_02145	CDS	210				hypothetical protein
+GBPCPCFC_02145	gene	210				
+GBPCPCFC_02146	CDS	426				hypothetical protein
+GBPCPCFC_02146	gene	426				
+GBPCPCFC_02147	CDS	798				hypothetical protein
+GBPCPCFC_02147	gene	798				
+GBPCPCFC_02148	CDS	942				hypothetical protein
+GBPCPCFC_02148	gene	942				
+GBPCPCFC_02149	CDS	1830				hypothetical protein
+GBPCPCFC_02149	gene	1830				
+GBPCPCFC_02150	CDS	663				hypothetical protein
+GBPCPCFC_02150	gene	663				
+GBPCPCFC_02151	CDS	657				hypothetical protein
+GBPCPCFC_02151	gene	657				
+GBPCPCFC_02152	CDS	1785				hypothetical protein
+GBPCPCFC_02152	gene	1785				
+GBPCPCFC_02153	CDS	1212				hypothetical protein
+GBPCPCFC_02153	gene	1212				
+GBPCPCFC_02154	CDS	1293				hypothetical protein
+GBPCPCFC_02154	gene	1293				
+GBPCPCFC_02155	CDS	2037				hypothetical protein
+GBPCPCFC_02155	gene	2037				
+GBPCPCFC_02156	CDS	690				hypothetical protein
+GBPCPCFC_02156	gene	690				
+GBPCPCFC_02157	CDS	690				hypothetical protein
+GBPCPCFC_02157	gene	690				
+GBPCPCFC_02158	CDS	693				hypothetical protein
+GBPCPCFC_02158	gene	693				
+GBPCPCFC_02159	CDS	1146				hypothetical protein
+GBPCPCFC_02159	gene	1146				
+GBPCPCFC_02160	CDS	570				hypothetical protein
+GBPCPCFC_02160	gene	570				
+GBPCPCFC_02161	CDS	432			COG2764	putative protein
+GBPCPCFC_02161	gene	432				
+GBPCPCFC_02162	CDS	1446				hypothetical protein
+GBPCPCFC_02162	gene	1446				
+GBPCPCFC_02163	CDS	885	pgrR			HTH-type transcriptional regulator PgrR
+GBPCPCFC_02163	gene	885	pgrR			
+GBPCPCFC_02164	CDS	573				hypothetical protein
+GBPCPCFC_02164	gene	573				
+GBPCPCFC_02165	CDS	321				hypothetical protein
+GBPCPCFC_02165	gene	321				
+GBPCPCFC_02166	CDS	504				hypothetical protein
+GBPCPCFC_02166	gene	504				
+GBPCPCFC_02167	CDS	1593				hypothetical protein
+GBPCPCFC_02167	gene	1593				
+GBPCPCFC_02168	CDS	372				hypothetical protein
+GBPCPCFC_02168	gene	372				
+GBPCPCFC_02169	CDS	1392				hypothetical protein
+GBPCPCFC_02169	gene	1392				
+GBPCPCFC_02170	CDS	2823				hypothetical protein
+GBPCPCFC_02170	gene	2823				
+GBPCPCFC_02171	CDS	984				hypothetical protein
+GBPCPCFC_02171	gene	984				
+GBPCPCFC_02172	CDS	1614				hypothetical protein
+GBPCPCFC_02172	gene	1614				
+GBPCPCFC_02173	CDS	648				hypothetical protein
+GBPCPCFC_02173	gene	648				
+GBPCPCFC_02174	CDS	1776	cdiA2	3.1.-.-		tRNA nuclease CdiA-2
+GBPCPCFC_02174	gene	1776	cdiA2			

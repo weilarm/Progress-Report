@@ -1,0 +1,20 @@
+Gene: QRW20716.1
+fDOG reference species: RHISO@456999@016906535_1 
+
+Building a consensus sequence
+	 ...finished
+
+Checking candidate regions...
+Checking candidate regions...
+Checking candidate regions...
+[INFO] No gene prediction for UNK1260839@1260839@1 JANTFA010148064.1:0-21368 — falling back to Miniprot
+[INFO] Added Miniprot fallback: QRW20716.1|UNK1260839@1260839@1|MP000001
+Checking candidate regions...
+[INFO] No gene prediction for UNK1817611@1817611@1 JBDOHP010041012.1:0-20511 — falling back to Miniprot
+[INFO] Added Miniprot fallback: QRW20716.1|UNK1817611@1817611@1|MP000001
+Checking candidate regions...
+Calculating FAS scores ...
+	 ...finished 
+
+fDOG-Assembly finished completely in 125195.73s ( Group preparation: 0.04s 	Ortholog search: 125182.11s 	FAS: 13.49s)
+Outputs are saved at /share/project/mieke/fdog/QRW20716.1/

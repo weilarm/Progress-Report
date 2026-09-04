@@ -1,0 +1,38 @@
+Gene: QRW17738.1
+fDOG reference species: RHISO@456999@016906535_1 
+
+Building a consensus sequence
+	 ...finished
+
+Error during gene prediction with metaeuk, using miniprot predictions for species UNK1260807@1260807@1
+No gene predicted with augustus or metaeuk, using miniprot predictions for species UNK1260807@1260807@1
+Error during gene prediction with metaeuk, using miniprot predictions for species UNK1817600@1817600@1
+No gene predicted with augustus or metaeuk, using miniprot predictions for species UNK1817600@1817600@1
+Error during gene prediction with metaeuk, using miniprot predictions for species UNK335710@335710@1
+No gene predicted with augustus or metaeuk, using miniprot predictions for species UNK335710@335710@1
+Error during gene prediction with metaeuk, using miniprot predictions for species UNK1887995@1887995@1
+No gene predicted with augustus or metaeuk, using miniprot predictions for species UNK1887995@1887995@1
+Error during gene prediction with metaeuk, using miniprot predictions for species UNK1564500@1564500@1
+No gene predicted with augustus or metaeuk, using miniprot predictions for species UNK1564500@1564500@1
+Error during gene prediction with metaeuk, using miniprot predictions for species UNK1260839@1260839@1
+Error during gene prediction with metaeuk, using miniprot predictions for species UNK1260839@1260839@1
+Error during gene prediction with metaeuk, using miniprot predictions for species UNK1260839@1260839@1
+No gene predicted with augustus or metaeuk, using miniprot predictions for species UNK1260839@1260839@1
+Error during gene prediction with metaeuk, using miniprot predictions for species UNK35572@35572@1
+No gene predicted with augustus or metaeuk, using miniprot predictions for species UNK35572@35572@1
+Error during gene prediction with metaeuk, using miniprot predictions for species UNK1260884@1260884@1
+No gene predicted with augustus or metaeuk, using miniprot predictions for species UNK1260884@1260884@1
+Error during gene prediction with metaeuk, using miniprot predictions for species UNK3151524@3151524@1
+No gene predicted with augustus or metaeuk, using miniprot predictions for species UNK3151524@3151524@1
+Error during gene prediction with metaeuk, using miniprot predictions for species UNK1817611@1817611@1
+Error during gene prediction with metaeuk, using miniprot predictions for species UNK1817611@1817611@1
+No gene predicted with augustus or metaeuk, using miniprot predictions for species UNK1817611@1817611@1
+Error during gene prediction with metaeuk, using miniprot predictions for species UNK767460@767460@1
+No gene predicted with augustus or metaeuk, using miniprot predictions for species UNK767460@767460@1
+Error during gene prediction with metaeuk, using miniprot predictions for species UNK1260802@1260802@1
+No gene predicted with augustus or metaeuk, using miniprot predictions for species UNK1260802@1260802@1
+Calculating FAS scores ...
+	 ...finished 
+
+fDOG-Assembly finished completely in 29754.08s ( Group preparation: 0.13s 	Ortholog search: 29740.65s 	FAS: 13.15s)
+Outputs are saved at /share/project/mieke/fdog/QRW17738.1/

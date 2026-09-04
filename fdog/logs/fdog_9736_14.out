@@ -1,0 +1,39 @@
+Gene: QRW15728.1
+fDOG reference species: RHISO@456999@016906535_1 
+
+Building a consensus sequence
+	 ...finished
+
+Checking candidate regions...
+[INFO] No gene prediction for UNK1260807@1260807@1 JBLNJJ010014932.1:0-21048 — falling back to Miniprot
+[INFO] Added Miniprot fallback: QRW15728.1|UNK1260807@1260807@1|MP000001
+Checking candidate regions...
+[INFO] No gene prediction for UNK1817600@1817600@1 JBDOHQ010012189.1:0-21180 — falling back to Miniprot
+[INFO] Added Miniprot fallback: QRW15728.1|UNK1817600@1817600@1|MP000001
+Checking candidate regions...
+Checking candidate regions...
+[INFO] No gene prediction for UNK1887995@1887995@1 JBDOHN010026119.1:0-21073 — falling back to Miniprot
+[INFO] Added Miniprot fallback: QRW15728.1|UNK1887995@1887995@1|MP000001
+[INFO] No gene prediction for UNK1887995@1887995@1 JBDOHN010072153.1:0-20599 — falling back to Miniprot
+[INFO] Added Miniprot fallback: QRW15728.1|UNK1887995@1887995@1|MP000002
+Error during gene prediction with metaeuk, using miniprot predictions for species UNK1564500@1564500@1
+Checking candidate regions...
+[INFO] No gene prediction for UNK1564500@1564500@1 JAFDOW010000809.1:161824-230285 — falling back to Miniprot
+[INFO] Added Miniprot fallback: QRW15728.1|UNK1564500@1564500@1|MP000002
+Checking candidate regions...
+[INFO] No gene prediction for UNK1260839@1260839@1 JANTFA010002621.1:0-20624 — falling back to Miniprot
+[INFO] Added Miniprot fallback: QRW15728.1|UNK1260839@1260839@1|MP000001
+Checking candidate regions...
+Checking candidate regions...
+[INFO] No gene prediction for UNK1260884@1260884@1 JANVCI010276135.1:0-21428 — falling back to Miniprot
+[INFO] Added Miniprot fallback: QRW15728.1|UNK1260884@1260884@1|MP000002
+Checking candidate regions...
+[INFO] No gene prediction for UNK1817611@1817611@1 JBDOHP010004305.1:0-25189 — falling back to Miniprot
+[INFO] Added Miniprot fallback: QRW15728.1|UNK1817611@1817611@1|MP000001
+Checking candidate regions...
+Checking candidate regions...
+Calculating FAS scores ...
+	 ...finished 
+
+fDOG-Assembly finished completely in 304824.47s ( Group preparation: 0.19s 	Ortholog search: 304807.06s 	FAS: 16.75s)
+Outputs are saved at /share/project/mieke/fdog/QRW15728.1/

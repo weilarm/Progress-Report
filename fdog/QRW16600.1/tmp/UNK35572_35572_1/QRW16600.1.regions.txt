@@ -1,0 +1,2 @@
+Contig/scaffold	start	end	Tool
+CM055404.1	130102683	130147204	MetaEuk

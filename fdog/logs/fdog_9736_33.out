@@ -1,0 +1,11 @@
+Gene: QRW27364.1
+fDOG reference species: RHISO@456999@016906535_1 
+
+Building a consensus sequence
+	 ...finished
+
+Calculating FAS scores ...
+	 ...finished 
+
+fDOG-Assembly finished completely in 19.16s ( Group preparation: 0.03s 	Ortholog search: 7.38s 	FAS: 11.68s)
+Outputs are saved at /share/project/mieke/fdog/QRW27364.1/

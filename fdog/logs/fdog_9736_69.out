@@ -1,0 +1,18 @@
+Gene: QRW22132.1
+fDOG reference species: RHISO@456999@016906535_1 
+
+Building a consensus sequence
+	 ...finished
+
+Error during gene prediction with metaeuk, using miniprot predictions for species UNK1817600@1817600@1
+No gene predicted with augustus or metaeuk, using miniprot predictions for species UNK1817600@1817600@1
+Error during gene prediction with metaeuk, using miniprot predictions for species UNK1564500@1564500@1
+Error during gene prediction with metaeuk, using miniprot predictions for species UNK1564500@1564500@1
+No gene predicted with augustus or metaeuk, using miniprot predictions for species UNK1564500@1564500@1
+Error during gene prediction with metaeuk, using miniprot predictions for species UNK3151524@3151524@1
+No gene predicted with augustus or metaeuk, using miniprot predictions for species UNK3151524@3151524@1
+Calculating FAS scores ...
+	 ...finished 
+
+fDOG-Assembly finished completely in 7277.26s ( Group preparation: 0.12s 	Ortholog search: 7259.66s 	FAS: 17.37s)
+Outputs are saved at /share/project/mieke/fdog/QRW22132.1/

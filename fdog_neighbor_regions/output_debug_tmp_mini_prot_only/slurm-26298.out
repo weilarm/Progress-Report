@@ -1,0 +1,61 @@
+Gene: XP_037025795_1_LOC119067126_337
+fDOG reference species: BRACO@38358@014529535_1 
+
+Building a consensus sequence
+	 ...finished
+
+  0%|          | 0/13 [00:00<?, ?it/s]BLAST Database error: Database memory map file error
+  8%|▊         | 1/13 [00:02<00:33,  2.77s/it]BLAST Database error: Database memory map file error
+ 15%|█▌        | 2/13 [00:03<00:16,  1.51s/it]BLAST Database error: Database memory map file error
+ 23%|██▎       | 3/13 [00:04<00:14,  1.49s/it]BLAST Database error: Database memory map file error
+ 31%|███       | 4/13 [00:06<00:14,  1.62s/it]BLAST Database error: Database memory map file error
+ 38%|███▊      | 5/13 [00:08<00:12,  1.57s/it]BLAST Database error: Database memory map file error
+ 46%|████▌     | 6/13 [00:10<00:12,  1.77s/it]BLAST Database error: Database memory map file error
+ 54%|█████▍    | 7/13 [00:12<00:10,  1.74s/it]BLAST Database error: Database memory map file error
+ 62%|██████▏   | 8/13 [00:13<00:08,  1.70s/it]BLAST Database error: Database memory map file error
+ 69%|██████▉   | 9/13 [00:14<00:06,  1.56s/it]BLAST Database error: Database memory map file error
+ 77%|███████▋  | 10/13 [00:16<00:04,  1.59s/it]BLAST Database error: Database memory map file error
+ 85%|████████▍ | 11/13 [00:18<00:03,  1.73s/it]BLAST Database error: Database memory map file error
+ 92%|█████████▏| 12/13 [00:21<00:02,  2.14s/it]BLAST Database error: Database memory map file error
+100%|██████████| 13/13 [00:24<00:00,  2.32s/it]100%|██████████| 13/13 [00:24<00:00,  1.88s/it]
+Searching in species BRAIM@335710@1
+
+Time miniprot 1.886892557144165 in species BRAIM@335710@1
+Searching in species RHISO@456999@v1
+
+Time miniprot 0.37305712699890137 in species RHISO@456999@v1
+Searching in species BRAAL@1260807@1
+
+Time miniprot 1.1997654438018799 in species BRAAL@1260807@1
+Searching in species LYCIN@767460@1
+
+Time miniprot 1.5523972511291504 in species LYCIN@767460@1
+Searching in species BRADE@3151524@1
+
+Time miniprot 1.254453420639038 in species BRADE@3151524@1
+Searching in species TRISP@1260884@1
+
+Time miniprot 1.9407680034637451 in species TRISP@1260884@1
+Searching in species BRACO@1817600@1
+
+Time miniprot 1.4745302200317383 in species BRACO@1817600@1
+Searching in species BRAPE@1817611@1
+
+Time miniprot 1.2973835468292236 in species BRAPE@1817611@1
+Searching in species LYCAG@1887995@1
+
+Time miniprot 1.021918535232544 in species LYCAG@1887995@1
+Searching in species BRAOC@1260802@1
+
+Time miniprot 1.391653060913086 in species BRAOC@1260802@1
+Searching in species BRAOD@1564500@1
+
+Time miniprot 1.7695245742797852 in species BRAOD@1564500@1
+Searching in species PSEHY@35572@1
+
+Time miniprot 2.847933292388916 in species PSEHY@35572@1
+Searching in species PHYFL@1260839@1
+
+Time miniprot 2.396442174911499 in species PHYFL@1260839@1
+Calculating FAS scores ...
+Error running FAS with  fas.run --seed /share/project/mieke/fdog_neighbor_regions/core_orthologs//XP_037025795_1_LOC119067126_337/XP_037025795_1_LOC119067126_337.fa --query /share/project/mieke/fdog_neighbor_regions/output_debug_tmp_mini_prot_only/XP_037025795_1_LOC119067126_337//XP_037025795_1_LOC119067126_337_og.fa --annotation_dir /share/project/mieke/fdog_neighbor_regions/output_debug_tmp_mini_prot_only/XP_037025795_1_LOC119067126_337//tmp/anno_dir --bidirectional --tsv --phyloprofile /share/project/mieke/fdog_neighbor_regions/output_debug_tmp_mini_prot_only/XP_037025795_1_LOC119067126_337//tmp/XP_037025795_1_LOC119067126_337.mapping.txt --seed_id 'XP_037025795_1_LOC119067126_337|BRACO@38358@014529535_1|XP_037025795.1' --out_dir /share/project/mieke/fdog_neighbor_regions/output_debug_tmp_mini_prot_only/XP_037025795_1_LOC119067126_337/ --out_name XP_037025795_1_LOC119067126_337

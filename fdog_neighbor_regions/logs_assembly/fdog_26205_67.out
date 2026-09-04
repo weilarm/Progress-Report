@@ -1,0 +1,43 @@
+QRW25588.1	XP_037039505.1	XP_037039505.1	LOC119076699	NW_023503493.1	12333363	12334725	True	XP_037039505.1|LOC119076699|345
+True
+XP_037039505.1
+XP_037039505.1
+XP_037039505.1|LOC119076699|345
+XP_037039505_1_LOC119076699_345
+Gene: XP_037039505_1_LOC119076699_345
+fDOG reference species: BRACO@38358@014529535_1 
+
+Building a consensus sequence
+	 ...finished
+
+Searching for orthologs ...
+	 ...finished 
+
+Calculating FAS scores ...
+	 ...finished 
+
+Error during gene prediction with metaeuk, using miniprot predictions for species BRAPE@1817611@1
+No gene predicted with augustus or metaeuk, using miniprot predictions for species BRAPE@1817611@1
+Error during gene prediction with metaeuk, using miniprot predictions for species TRISP@1260884@1
+No gene predicted with augustus or metaeuk, using miniprot predictions for species TRISP@1260884@1
+Error during gene prediction with metaeuk, using miniprot predictions for species PHYFL@1260839@1
+No gene predicted with augustus or metaeuk, using miniprot predictions for species PHYFL@1260839@1
+Error during gene prediction with metaeuk, using miniprot predictions for species BRAOD@1564500@1
+No gene predicted with augustus or metaeuk, using miniprot predictions for species BRAOD@1564500@1
+Error during gene prediction with metaeuk, using miniprot predictions for species LYCAG@1887995@1
+No gene predicted with augustus or metaeuk, using miniprot predictions for species LYCAG@1887995@1
+Error during gene prediction with metaeuk, using miniprot predictions for species BRAAL@1260807@1
+No gene predicted with augustus or metaeuk, using miniprot predictions for species BRAAL@1260807@1
+Error during gene prediction with metaeuk, using miniprot predictions for species BRAOC@1260802@1
+No gene predicted with augustus or metaeuk, using miniprot predictions for species BRAOC@1260802@1
+Error during gene prediction with metaeuk, using miniprot predictions for species BRADE@3151524@1
+No gene predicted with augustus or metaeuk, using miniprot predictions for species BRADE@3151524@1
+Error during gene prediction with metaeuk, using miniprot predictions for species BRAIM@335710@1
+Error during gene prediction with metaeuk, using miniprot predictions for species BRAIM@335710@1
+Error during gene prediction with metaeuk, using miniprot predictions for species BRAIM@335710@1
+No gene predicted with augustus or metaeuk, using miniprot predictions for species BRAIM@335710@1
+Error during gene prediction with metaeuk, using miniprot predictions for species LYCIN@767460@1
+Error during gene prediction with metaeuk, using miniprot predictions for species LYCIN@767460@1
+No gene predicted with augustus or metaeuk, using miniprot predictions for species LYCIN@767460@1
+fDOG-Assembly finished completely in 20.33s ( Group preparation: 0.04s 	Ortholog search: 9.67s 	FAS: 10.56s)
+Outputs are saved at /share/project/mieke/fdog_neighbor_regions/XP_037039505.1/output/XP_037039505_1_LOC119076699_345/

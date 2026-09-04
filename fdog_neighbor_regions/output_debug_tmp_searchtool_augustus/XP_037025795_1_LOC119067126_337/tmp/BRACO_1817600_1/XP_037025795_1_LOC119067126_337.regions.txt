@@ -1,0 +1,2 @@
+Contig/scaffold	start	end	Tool
+JBDOHQ010010591.1	0	22198	

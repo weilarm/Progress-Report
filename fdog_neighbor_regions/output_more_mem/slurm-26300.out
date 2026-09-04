@@ -1,0 +1,4 @@
+Output folder for group XP_037025795_1_LOC119067126_337 exists already. Please choose --force or --append.
+Bus error
+Bus error
+/var/spool/slurm/slurmd/job26300/slurm_script: line 16:  2598 Bus error               fdog.assembly --gene XP_037025795_1_LOC119067126_337 --refSpec BRACO@38358@014529535_1 --dataPath /share/project/mieke/fdog_neighbor_regions --metaeukDb /share/gluster/NOTLOESUNG/freya/uniref90/UniRef90 --parallel --debug --tmp --out ./output_more_mem

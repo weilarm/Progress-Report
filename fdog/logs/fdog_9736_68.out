@@ -1,0 +1,44 @@
+Gene: QRW22033.1
+fDOG reference species: RHISO@456999@016906535_1 
+
+Building a consensus sequence
+	 ...finished
+
+Checking candidate regions...
+[INFO] No gene prediction for UNK1260807@1260807@1 JBLNJJ010011111.1:0-22615 — falling back to Miniprot
+[INFO] Added Miniprot fallback: QRW22033.1|UNK1260807@1260807@1|MP000001
+Checking candidate regions...
+[INFO] No gene prediction for UNK1817600@1817600@1 JBDOHQ010003141.1:0-30767 — falling back to Miniprot
+[INFO] Added Miniprot fallback: QRW22033.1|UNK1817600@1817600@1|MP000002
+Error during gene prediction with metaeuk, using miniprot predictions for species UNK335710@335710@1
+Error during gene prediction with metaeuk, using miniprot predictions for species UNK335710@335710@1
+No gene predicted with augustus or metaeuk, using miniprot predictions for species UNK335710@335710@1
+Checking candidate regions...
+[INFO] No gene prediction for UNK1887995@1887995@1 JBDOHN010047671.1:0-21238 — falling back to Miniprot
+[INFO] Added Miniprot fallback: QRW22033.1|UNK1887995@1887995@1|MP000001
+[INFO] No gene prediction for UNK1887995@1887995@1 JBDOHN010071162.1:0-20949 — falling back to Miniprot
+[INFO] Added Miniprot fallback: QRW22033.1|UNK1887995@1887995@1|MP000002
+Checking candidate regions...
+[INFO] No gene prediction for UNK1564500@1564500@1 JAFDOW010001180.1:0-32013 — falling back to Miniprot
+[INFO] Added Miniprot fallback: QRW22033.1|UNK1564500@1564500@1|MP000005
+Checking candidate regions...
+[INFO] No gene prediction for UNK1260839@1260839@1 JANTFA010048861.1:0-20997 — falling back to Miniprot
+[INFO] Added Miniprot fallback: QRW22033.1|UNK1260839@1260839@1|MP000001
+Checking candidate regions...
+[INFO] No gene prediction for UNK1260884@1260884@1 JANVCI010037928.1:0-23632 — falling back to Miniprot
+[INFO] Added Miniprot fallback: QRW22033.1|UNK1260884@1260884@1|MP000001
+Checking candidate regions...
+[INFO] No gene prediction for UNK3151524@3151524@1 JBDOHO010016928.1:0-21379 — falling back to Miniprot
+[INFO] Added Miniprot fallback: QRW22033.1|UNK3151524@3151524@1|MP000002
+Checking candidate regions...
+[INFO] No gene prediction for UNK1817611@1817611@1 JBDOHP010003227.1:0-26926 — falling back to Miniprot
+[INFO] Added Miniprot fallback: QRW22033.1|UNK1817611@1817611@1|MP000001
+Checking candidate regions...
+Checking candidate regions...
+[INFO] No gene prediction for UNK1260802@1260802@1 JBLNJI010000992.1:2274-44449 — falling back to Miniprot
+[INFO] Added Miniprot fallback: QRW22033.1|UNK1260802@1260802@1|MP000001
+Calculating FAS scores ...
+	 ...finished 
+
+fDOG-Assembly finished completely in 295924.69s ( Group preparation: 0.12s 	Ortholog search: 295902.13s 	FAS: 22.13s)
+Outputs are saved at /share/project/mieke/fdog/QRW22033.1/

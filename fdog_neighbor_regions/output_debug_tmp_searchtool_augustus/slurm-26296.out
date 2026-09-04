@@ -1,0 +1,184 @@
+Gene: XP_037025795_1_LOC119067126_337
+fDOG reference species: BRACO@38358@014529535_1 
+
+Building a consensus sequence
+	 ...finished
+
+Building a block profile ...
+	 ...finished 
+
+Searching for orthologs ...
+  0%|          | 0/13 [00:00<?, ?it/s]  8%|▊         | 1/13 [00:02<00:35,  2.92s/it]Read in 1 sequence(s) from /share/project/mieke/fdog_neighbor_regions/output_debug_tmp_searchtool_augustus/XP_037025795_1_LOC119067126_337/tmp/LYCAG_1887995_1/JBDOHN010022254.1.fasta.
+ 15%|█▌        | 2/13 [00:09<00:58,  5.35s/it]Read in 1 sequence(s) from /share/project/mieke/fdog_neighbor_regions/output_debug_tmp_searchtool_augustus/XP_037025795_1_LOC119067126_337/tmp/BRAPE_1817611_1/JBDOHP010000230.1.fasta.
+Read in 1 sequence(s) from /share/project/mieke/fdog_neighbor_regions/output_debug_tmp_searchtool_augustus/XP_037025795_1_LOC119067126_337/tmp/BRAPE_1817611_1/JBDOHP010084581.1.fasta.
+Read in 1 sequence(s) from /share/project/mieke/fdog_neighbor_regions/output_debug_tmp_searchtool_augustus/XP_037025795_1_LOC119067126_337/tmp/BRAPE_1817611_1/JBDOHP010105442.1.fasta.
+Read in 1 sequence(s) from /share/project/mieke/fdog_neighbor_regions/output_debug_tmp_searchtool_augustus/XP_037025795_1_LOC119067126_337/tmp/BRAAL_1260807_1/JBLNJJ010000484.1.fasta.
+ 23%|██▎       | 3/13 [00:12<00:38,  3.84s/it]Read in 1 sequence(s) from /share/project/mieke/fdog_neighbor_regions/output_debug_tmp_searchtool_augustus/XP_037025795_1_LOC119067126_337/tmp/BRADE_3151524_1/JBDOHO010098890.1.fasta.
+Read in 1 sequence(s) from /share/project/mieke/fdog_neighbor_regions/output_debug_tmp_searchtool_augustus/XP_037025795_1_LOC119067126_337/tmp/BRAOC_1260802_1/JBLNJI010002952.1.fasta.
+Read in 1 sequence(s) from /share/project/mieke/fdog_neighbor_regions/output_debug_tmp_searchtool_augustus/XP_037025795_1_LOC119067126_337/tmp/BRADE_3151524_1/JBDOHO010005664.1.fasta.
+ 38%|███▊      | 5/13 [00:13<00:15,  1.95s/it]Read in 1 sequence(s) from /share/project/mieke/fdog_neighbor_regions/output_debug_tmp_searchtool_augustus/XP_037025795_1_LOC119067126_337/tmp/BRAOC_1260802_1/JBLNJI010119477.1.fasta.
+Read in 1 sequence(s) from /share/project/mieke/fdog_neighbor_regions/output_debug_tmp_searchtool_augustus/XP_037025795_1_LOC119067126_337/tmp/BRACO_1817600_1/JBDOHQ010010591.1.fasta.
+ 54%|█████▍    | 7/13 [00:13<00:07,  1.20s/it]Read in 1 sequence(s) from /share/project/mieke/fdog_neighbor_regions/output_debug_tmp_searchtool_augustus/XP_037025795_1_LOC119067126_337/tmp/BRAOD_1564500_1/JAFDOW010000598.1.fasta.
+Read in 1 sequence(s) from /share/project/mieke/fdog_neighbor_regions/output_debug_tmp_searchtool_augustus/XP_037025795_1_LOC119067126_337/tmp/BRAOD_1564500_1/JAFDOW010000040.1.fasta.
+ 62%|██████▏   | 8/13 [00:15<00:06,  1.26s/it]Read in 1 sequence(s) from /share/project/mieke/fdog_neighbor_regions/output_debug_tmp_searchtool_augustus/XP_037025795_1_LOC119067126_337/tmp/LYCIN_767460_1/OZ247515.1.fasta.
+Read in 1 sequence(s) from /share/project/mieke/fdog_neighbor_regions/output_debug_tmp_searchtool_augustus/XP_037025795_1_LOC119067126_337/tmp/TRISP_1260884_1/JANVCI010223208.1.fasta.
+ 77%|███████▋  | 10/13 [00:16<00:02,  1.04it/s]Read in 1 sequence(s) from /share/project/mieke/fdog_neighbor_regions/output_debug_tmp_searchtool_augustus/XP_037025795_1_LOC119067126_337/tmp/PHYFL_1260839_1/JANTFA010007453.1.fasta.
+ 85%|████████▍ | 11/13 [00:17<00:02,  1.00s/it]Read in 1 sequence(s) from /share/project/mieke/fdog_neighbor_regions/output_debug_tmp_searchtool_augustus/XP_037025795_1_LOC119067126_337/tmp/BRAIM_335710_1/OZ247434.1.fasta.
+Read in 1 sequence(s) from /share/project/mieke/fdog_neighbor_regions/output_debug_tmp_searchtool_augustus/XP_037025795_1_LOC119067126_337/tmp/BRAIM_335710_1/OZ247434.1.fasta.
+Read in 1 sequence(s) from /share/project/mieke/fdog_neighbor_regions/output_debug_tmp_searchtool_augustus/XP_037025795_1_LOC119067126_337/tmp/BRAIM_335710_1/OZ247434.1.fasta.
+Read in 1 sequence(s) from /share/project/mieke/fdog_neighbor_regions/output_debug_tmp_searchtool_augustus/XP_037025795_1_LOC119067126_337/tmp/BRAIM_335710_1/OZ247436.1.fasta.
+ 92%|█████████▏| 12/13 [00:20<00:01,  1.47s/it]Read in 1 sequence(s) from /share/project/mieke/fdog_neighbor_regions/output_debug_tmp_searchtool_augustus/XP_037025795_1_LOC119067126_337/tmp/PSEHY_35572_1/CM055406.1.fasta.
+100%|██████████| 13/13 [00:22<00:00,  1.61s/it]100%|██████████| 13/13 [00:22<00:00,  1.70s/it]
+Searching in species RHISO@456999@v1
+
+Time tblastn 2.88899564743042 in species RHISO@456999@v1
+No candidate region found for species RHISO@456999@v1!
+
+Searching in species LYCAG@1887995@1
+
+Time tblastn 9.222835779190063 in species LYCAG@1887995@1
+1 candiate region(s) were found for species LYCAG@1887995@1.
+
+Time augustus: 0.3336055278778076 species LYCAG@1887995@1 
+
+Searching in species BRAPE@1817611@1
+
+Time tblastn 9.822539329528809 in species BRAPE@1817611@1
+3 candiate region(s) were found for species BRAPE@1817611@1.
+
+Time augustus: 0.9079546928405762 species BRAPE@1817611@1 
+
+Searching in species BRAAL@1260807@1
+
+Time tblastn 11.251639604568481 in species BRAAL@1260807@1
+1 candiate region(s) were found for species BRAAL@1260807@1.
+
+Time augustus: 0.3130807876586914 species BRAAL@1260807@1 
+
+Searching in species BRADE@3151524@1
+
+Time tblastn 11.682241439819336 in species BRADE@3151524@1
+2 candiate region(s) were found for species BRADE@3151524@1.
+
+Time augustus: 0.5351009368896484 species BRADE@3151524@1 
+
+Searching in species BRAOC@1260802@1
+
+Time tblastn 11.934903144836426 in species BRAOC@1260802@1
+2 candiate region(s) were found for species BRAOC@1260802@1.
+
+Time augustus: 0.42910265922546387 species BRAOC@1260802@1 
+
+Searching in species BRACO@1817600@1
+
+Time tblastn 12.992658376693726 in species BRACO@1817600@1
+1 candiate region(s) were found for species BRACO@1817600@1.
+
+Time augustus: 0.20920586585998535 species BRACO@1817600@1 
+
+Searching in species BRAOD@1564500@1
+
+Time tblastn 13.605638027191162 in species BRAOD@1564500@1
+2 candiate region(s) were found for species BRAOD@1564500@1.
+
+Time augustus: 0.5397491455078125 species BRAOD@1564500@1 
+
+Searching in species LYCIN@767460@1
+
+Time tblastn 13.261829614639282 in species LYCIN@767460@1
+1 candiate region(s) were found for species LYCIN@767460@1.
+
+Time augustus: 0.865394115447998 species LYCIN@767460@1 
+
+Searching in species TRISP@1260884@1
+
+Time tblastn 15.653041124343872 in species TRISP@1260884@1
+1 candiate region(s) were found for species TRISP@1260884@1.
+
+Time augustus: 0.22362279891967773 species TRISP@1260884@1 
+
+Searching in species PHYFL@1260839@1
+
+Time tblastn 16.619595766067505 in species PHYFL@1260839@1
+1 candiate region(s) were found for species PHYFL@1260839@1.
+
+Time augustus: 0.21397852897644043 species PHYFL@1260839@1 
+
+Searching in species BRAIM@335710@1
+
+Time tblastn 14.149215459823608 in species BRAIM@335710@1
+4 candiate region(s) were found for species BRAIM@335710@1.
+
+Time augustus: 3.9650304317474365 species BRAIM@335710@1 
+
+Searching in species PSEHY@35572@1
+
+Time tblastn 18.596837282180786 in species PSEHY@35572@1
+1 candiate region(s) were found for species PSEHY@35572@1.
+
+Time augustus: 1.7996881008148193 species PSEHY@35572@1 
+
+	 ...finished 
+
+Calculating FAS scores ...
+Error running FAS with  fas.run --seed /share/project/mieke/fdog_neighbor_regions/core_orthologs//XP_037025795_1_LOC119067126_337/XP_037025795_1_LOC119067126_337.fa --query /share/project/mieke/fdog_neighbor_regions/output_debug_tmp_searchtool_augustus/XP_037025795_1_LOC119067126_337//XP_037025795_1_LOC119067126_337_og.fa --annotation_dir /share/project/mieke/fdog_neighbor_regions/output_debug_tmp_searchtool_augustus/XP_037025795_1_LOC119067126_337//tmp/anno_dir --bidirectional --tsv --phyloprofile /share/project/mieke/fdog_neighbor_regions/output_debug_tmp_searchtool_augustus/XP_037025795_1_LOC119067126_337//tmp/XP_037025795_1_LOC119067126_337.mapping.txt --seed_id 'XP_037025795_1_LOC119067126_337|BRACO@38358@014529535_1|XP_037025795.1' --out_dir /share/project/mieke/fdog_neighbor_regions/output_debug_tmp_searchtool_augustus/XP_037025795_1_LOC119067126_337/ --out_name XP_037025795_1_LOC119067126_337
+[WARNING] Augustus exited with code 132 for species LYCAG@1887995@1 region JBDOHN010022254.1_1 from 0 to 21488
+          Details: Illegal instruction
+No gene found in region with IDJBDOHN010022254.1_1 in species LYCAG@1887995@1 , continuing with next region
+[WARNING] Augustus exited with code 132 for species BRAPE@1817611@1 region JBDOHP010000230.1_1 from 1869 to 42822
+          Details: Illegal instruction
+No gene found in region with IDJBDOHP010000230.1_1 in species BRAPE@1817611@1 , continuing with next region
+[WARNING] Augustus exited with code 132 for species BRAPE@1817611@1 region JBDOHP010084581.1_1 from 0 to 20740
+          Details: Illegal instruction
+No gene found in region with IDJBDOHP010084581.1_1 in species BRAPE@1817611@1 , continuing with next region
+[WARNING] Augustus exited with code 132 for species BRAPE@1817611@1 region JBDOHP010105442.1_1 from 0 to 20290
+          Details: Illegal instruction
+No gene found in region with IDJBDOHP010105442.1_1 in species BRAPE@1817611@1 , continuing with next region
+[WARNING] Augustus exited with code 132 for species BRAAL@1260807@1 region JBLNJJ010000484.1_1 from 0 to 39611
+          Details: Illegal instruction
+No gene found in region with IDJBLNJJ010000484.1_1 in species BRAAL@1260807@1 , continuing with next region
+[WARNING] Augustus exited with code 132 for species BRADE@3151524@1 region JBDOHO010098890.1_1 from 0 to 20572
+          Details: Illegal instruction
+No gene found in region with IDJBDOHO010098890.1_1 in species BRADE@3151524@1 , continuing with next region
+[WARNING] Augustus exited with code 132 for species BRADE@3151524@1 region JBDOHO010005664.1_1 from 0 to 24605
+          Details: Illegal instruction
+No gene found in region with IDJBDOHO010005664.1_1 in species BRADE@3151524@1 , continuing with next region
+[WARNING] Augustus exited with code 132 for species BRAOC@1260802@1 region JBLNJI010002952.1_1 from 0 to 22671
+          Details: Illegal instruction
+No gene found in region with IDJBLNJI010002952.1_1 in species BRAOC@1260802@1 , continuing with next region
+[WARNING] Augustus exited with code 132 for species BRAOC@1260802@1 region JBLNJI010119477.1_1 from 0 to 20388
+          Details: Illegal instruction
+No gene found in region with IDJBLNJI010119477.1_1 in species BRAOC@1260802@1 , continuing with next region
+[WARNING] Augustus exited with code 132 for species BRACO@1817600@1 region JBDOHQ010010591.1_1 from 0 to 22198
+          Details: Illegal instruction
+No gene found in region with IDJBDOHQ010010591.1_1 in species BRACO@1817600@1 , continuing with next region
+[WARNING] Augustus exited with code 132 for species BRAOD@1564500@1 region JAFDOW010000598.1_1 from 13216947 to 13257897
+          Details: Illegal instruction
+No gene found in region with IDJAFDOW010000598.1_1 in species BRAOD@1564500@1 , continuing with next region
+[WARNING] Augustus exited with code 132 for species BRAOD@1564500@1 region JAFDOW010000040.1_1 from 1708882 to 1749073
+          Details: Illegal instruction
+No gene found in region with IDJAFDOW010000040.1_1 in species BRAOD@1564500@1 , continuing with next region
+[WARNING] Augustus exited with code 132 for species LYCIN@767460@1 region OZ247515.1_1 from 12591058 to 12632011
+          Details: Illegal instruction
+No gene found in region with IDOZ247515.1_1 in species LYCIN@767460@1 , continuing with next region
+[WARNING] Augustus exited with code 132 for species PHYFL@1260839@1 region JANTFA010007453.1_1 from 0 to 33762
+          Details: Illegal instruction
+No gene found in region with IDJANTFA010007453.1_1 in species PHYFL@1260839@1 , continuing with next region
+[WARNING] Augustus exited with code 132 for species TRISP@1260884@1 region JANVCI010223208.1_1 from 0 to 21806
+          Details: Illegal instruction
+No gene found in region with IDJANVCI010223208.1_1 in species TRISP@1260884@1 , continuing with next region
+[WARNING] Augustus exited with code 132 for species BRAIM@335710@1 region OZ247434.1_1 from 24694019 to 24734972
+          Details: Illegal instruction
+No gene found in region with IDOZ247434.1_1 in species BRAIM@335710@1 , continuing with next region
+[WARNING] Augustus exited with code 132 for species BRAIM@335710@1 region OZ247434.1_2 from 44658547 to 44713933
+          Details: Illegal instruction
+No gene found in region with IDOZ247434.1_2 in species BRAIM@335710@1 , continuing with next region
+[WARNING] Augustus exited with code 132 for species BRAIM@335710@1 region OZ247434.1_3 from 66157895 to 66158848
+          Details: Illegal instruction
+No gene found in region with IDOZ247434.1_3 in species BRAIM@335710@1 , continuing with next region
+[WARNING] Augustus exited with code 132 for species BRAIM@335710@1 region OZ247436.1_1 from 55264926 to 55305879
+          Details: Illegal instruction
+No gene found in region with IDOZ247436.1_1 in species BRAIM@335710@1 , continuing with next region
+[WARNING] Augustus exited with code 132 for species PSEHY@35572@1 region CM055406.1_1 from 57516399 to 57557352
+          Details: Illegal instruction
+No gene found in region with IDCM055406.1_1 in species PSEHY@35572@1 , continuing with next region

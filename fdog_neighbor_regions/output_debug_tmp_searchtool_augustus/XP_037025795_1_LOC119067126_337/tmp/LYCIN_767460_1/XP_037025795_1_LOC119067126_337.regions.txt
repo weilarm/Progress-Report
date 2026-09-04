@@ -1,0 +1,2 @@
+Contig/scaffold	start	end	Tool
+OZ247515.1	12591058	12632011	

@@ -1,0 +1,7 @@
+fasta_path: "/share/project/mieke/tax/4th_run_contaminated_X_prime/GCA_030272955.1_Bcop_Xprime_v1_genomic.fna"
+gff_path: "/share/project/mieke/tax/4th_run_contaminated_X_prime/result.gff"
+output_path: "./report/"
+taxon_id: "38358"
+extract_proteins: True
+target_exclude: True
+force: True

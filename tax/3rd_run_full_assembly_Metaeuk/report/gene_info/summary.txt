@@ -1,0 +1,40 @@
+>>>ASSEMBLY
+	# contigs:	1304
+	# contigs w/ genes:	1010
+	# contigs w/o genes:	294
+
+>total assembly
+	length	342934088
+	N50	3076280
+	N90	124889
+	contigs len min	84
+	contigs len max	42559840
+
+>filtered assembly
+	length	342934088
+	N50	3076280
+	N90	124889
+	contigs len min	84
+	contigs len max	42559840
+
+>>>CONTIGS
+>Contig GC
+	mean	0.36
+	sd	0.01
+	min	0.17
+	max	0.67
+
+>>>GENES
+	# genes:	38064
+
+>Gene length
+	mean	2219.12
+	sd	3766.34
+	min	66
+	max	102864
+
+>Gene GC
+	mean	0.39
+	sd	0.03
+	min	0.06
+	max	0.74

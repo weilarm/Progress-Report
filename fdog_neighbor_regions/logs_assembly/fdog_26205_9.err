@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "/share/gluster/Projects/vinh/conda_envs/fdog_latest/bin/fdog.assembly", line 8, in <module>
+    sys.exit(main())
+             ^^^^^^
+  File "/share/gluster/Projects/vinh/conda_envs/fdog_latest/lib/python3.12/site-packages/fdog/fDOGassembly.py", line 1727, in main
+    os.mkdir(out)
+FileExistsError: [Errno 17] File exists: '/share/project/mieke/fdog_neighbor_regions/XP_037028856.1/output/'

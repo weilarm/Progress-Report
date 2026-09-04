@@ -1,0 +1,16 @@
+Gene: QRW19403.1
+fDOG reference species: RHISO@456999@016906535_1 
+
+Building a consensus sequence
+	 ...finished
+
+  0%|          | 0/12 [00:00<?, ?it/s]  8%|▊         | 1/12 [00:28<05:13, 28.52s/it] 17%|█▋        | 2/12 [00:48<03:56, 23.67s/it] 25%|██▌       | 3/12 [01:23<04:17, 28.66s/it] 33%|███▎      | 4/12 [01:36<03:00, 22.51s/it] 42%|████▏     | 5/12 [7:35:02<19:06:14, 9824.93s/it] 50%|█████     | 6/12 [7:35:55<10:50:15, 6502.61s/it] 58%|█████▊    | 7/12 [7:36:24<6:05:31, 4386.26s/it]  67%|██████▋   | 8/12 [14:47:09<12:27:50, 11217.73s/it] 75%|███████▌  | 9/12 [14:47:26<6:25:48, 7716.21s/it]   83%|████████▎ | 10/12 [14:47:43<2:57:58, 5339.20s/it] 92%|█████████▏| 11/12 [14:47:57<1:01:49, 3709.32s/it]100%|██████████| 12/12 [14:48:16<00:00, 2586.72s/it]  100%|██████████| 12/12 [14:48:16<00:00, 4441.34s/it]
+Checking candidate regions...
+Checking candidate regions...
+[INFO] No gene prediction for UNK1260884@1260884@1 JANVCI010213297.1:0-20161 — falling back to Miniprot
+[INFO] Added Miniprot fallback: QRW19403.1|UNK1260884@1260884@1|MP000001
+Calculating FAS scores ...
+	 ...finished 
+
+fDOG-Assembly finished completely in 53311.17s ( Group preparation: 0.18s 	Ortholog search: 53296.17s 	FAS: 14.61s)
+Outputs are saved at /share/project/mieke/fdog/QRW19403.1/

@@ -1,0 +1,8 @@
+  0%|          | 0/7 [00:00<?, ?it/s]WARNING: Core group XP_037028783_1_LOC119069011_585 exists in /share/project/mieke/fdog_neighbor_regions/XP_037028856.1/core_orthologs/core_orthologs! You still can run with --forceCore or --reuseCore option
+WARNING: Core group XP_037028847_1_LOC119069071_508 exists in /share/project/mieke/fdog_neighbor_regions/XP_037028856.1/core_orthologs/core_orthologs! You still can run with --forceCore or --reuseCore option
+WARNING: Core group XP_037029038_1_LOC119069193_370 exists in /share/project/mieke/fdog_neighbor_regions/XP_037028856.1/core_orthologs/core_orthologs! You still can run with --forceCore or --reuseCore option
+WARNING: Core group XP_037028676_1_LOC119068915_903 exists in /share/project/mieke/fdog_neighbor_regions/XP_037028856.1/core_orthologs/core_orthologs! You still can run with --forceCore or --reuseCore option
+WARNING: Core group XP_037045951_1_LOC119081269_224 exists in /share/project/mieke/fdog_neighbor_regions/XP_037028856.1/core_orthologs/core_orthologs! You still can run with --forceCore or --reuseCore option
+WARNING: Core group XP_037029388_1_LOC119069432_150 exists in /share/project/mieke/fdog_neighbor_regions/XP_037028856.1/core_orthologs/core_orthologs! You still can run with --forceCore or --reuseCore option
+WARNING: Core group XP_037028494_1_LOC119068826_1300 exists in /share/project/mieke/fdog_neighbor_regions/XP_037028856.1/core_orthologs/core_orthologs! You still can run with --forceCore or --reuseCore option
+[2026-08-28T14:35:08.822] error: *** JOB 22856 ON compute14 CANCELLED AT 2026-08-28T14:35:08 DUE to SIGNAL Terminated ***

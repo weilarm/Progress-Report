@@ -1,0 +1,19 @@
+QRW23661.1	XP_037031339.1	XP_037031342.1	LOC119070914	NW_023503372.1	445761	464720	True	XP_037031342.1|LOC119070914|1066
+True
+XP_037031339.1
+XP_037031342.1
+XP_037031342.1|LOC119070914|1066
+XP_037031342_1_LOC119070914_1066
+Gene: XP_037031342_1_LOC119070914_1066
+fDOG reference species: BRACO@38358@014529535_1 
+
+Building a consensus sequence
+	 ...finished
+
+Searching for orthologs ...
+	 ...finished 
+
+Calculating FAS scores ...
+Error running FAS with  fas.run --seed /share/project/mieke/fdog_neighbor_regions/core_orthologs//XP_037031342_1_LOC119070914_1066/XP_037031342_1_LOC119070914_1066.fa --query /share/project/mieke/fdog_neighbor_regions/XP_037031339.1/output/XP_037031342_1_LOC119070914_1066//XP_037031342_1_LOC119070914_1066_og.fa --annotation_dir /share/project/mieke/fdog_neighbor_regions/XP_037031339.1/output/XP_037031342_1_LOC119070914_1066//tmp/anno_dir --bidirectional --tsv --phyloprofile /share/project/mieke/fdog_neighbor_regions/XP_037031339.1/output/XP_037031342_1_LOC119070914_1066//tmp/XP_037031342_1_LOC119070914_1066.mapping.txt --seed_id 'XP_037031342_1_LOC119070914_1066|BRACO@38358@014529535_1|XP_037031342.1' --out_dir /share/project/mieke/fdog_neighbor_regions/XP_037031339.1/output/XP_037031342_1_LOC119070914_1066/ --out_name XP_037031342_1_LOC119070914_1066
+Error during gene prediction with metaeuk, using miniprot predictions for species BRAIM@335710@1
+No gene predicted with augustus or metaeuk, using miniprot predictions for species BRAIM@335710@1

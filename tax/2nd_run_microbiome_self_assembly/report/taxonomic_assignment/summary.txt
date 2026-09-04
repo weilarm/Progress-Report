@@ -1,0 +1,27 @@
+Query taxon: Bacteria (NCBI ID: 2)
+Assigend label for query: Bacteria
+
+Total number of distinct taxonomic assignments: 35
+Taxonomic assignments not in target lineage: 33 (94.29%)
+
+Following taxa for rank "superkingdom" are present in the assembly ("taxon"	"gene count"):
+Eukaryota:	1232
+Bacteria:	45
+Following taxa for rank "kingdom" are present in the assembly ("taxon"	"gene count"):
+Metazoa:	1231
+Viridiplantae:	1
+Following taxa for rank "phylum" are present in the assembly ("taxon"	"gene count"):
+Arthropoda:	1228
+Pseudomonadota:	1
+Nematoda:	1
+Streptophyta:	1
+Mollusca:	2
+Following taxa for rank "class" are present in the assembly ("taxon"	"gene count"):
+Insecta:	1224
+Collembola:	2
+Gammaproteobacteria:	1
+Arachnida:	2
+Enoplea:	1
+Magnoliopsida:	1
+Bivalvia:	1
+Cephalopoda:	1

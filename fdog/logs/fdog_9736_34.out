@@ -1,0 +1,51 @@
+Gene: QRW17901.1
+fDOG reference species: RHISO@456999@016906535_1 
+
+Building a consensus sequence
+	 ...finished
+
+Checking candidate regions...
+[INFO] No gene prediction for UNK1260807@1260807@1 JBLNJJ010000598.1:0-41998 — falling back to Miniprot
+[INFO] Added Miniprot fallback: QRW17901.1|UNK1260807@1260807@1|MP000006
+Checking candidate regions...
+[INFO] No gene prediction for UNK1817600@1817600@1 JBDOHQ010017504.1:0-23554 — falling back to Miniprot
+[INFO] Added Miniprot fallback: QRW17901.1|UNK1817600@1817600@1|MP000007
+Checking candidate regions...
+Checking candidate regions...
+[INFO] No gene prediction for UNK1887995@1887995@1 JBDOHN010006213.1:0-22524 — falling back to Miniprot
+[INFO] Added Miniprot fallback: QRW17901.1|UNK1887995@1887995@1|MP000001
+[INFO] No gene prediction for UNK1887995@1887995@1 JBDOHN010004859.1:0-22145 — falling back to Miniprot
+[INFO] Added Miniprot fallback: QRW17901.1|UNK1887995@1887995@1|MP000006
+[INFO] No gene prediction for UNK1887995@1887995@1 JBDOHN010029547.1:0-21424 — falling back to Miniprot
+[INFO] Added Miniprot fallback: QRW17901.1|UNK1887995@1887995@1|MP000008
+[INFO] No gene prediction for UNK1887995@1887995@1 JBDOHN010065535.1:0-20686 — falling back to Miniprot
+[INFO] Added Miniprot fallback: QRW17901.1|UNK1887995@1887995@1|MP000005
+Checking candidate regions...
+Checking candidate regions...
+[INFO] No gene prediction for UNK1260839@1260839@1 JANTFA010055473.1:0-25646 — falling back to Miniprot
+[INFO] Added Miniprot fallback: QRW17901.1|UNK1260839@1260839@1|MP000001
+Checking candidate regions...
+Checking candidate regions...
+[INFO] No gene prediction for UNK1260884@1260884@1 JANVCI010247720.1:0-22751 — falling back to Miniprot
+[INFO] Added Miniprot fallback: QRW17901.1|UNK1260884@1260884@1|MP000001
+Checking candidate regions...
+[INFO] No gene prediction for UNK3151524@3151524@1 JBDOHO010063859.1:0-20927 — falling back to Miniprot
+[INFO] Added Miniprot fallback: QRW17901.1|UNK3151524@3151524@1|MP000001
+[INFO] No gene prediction for UNK3151524@3151524@1 JBDOHO010000159.1:22352-65421 — falling back to Miniprot
+[INFO] Added Miniprot fallback: QRW17901.1|UNK3151524@3151524@1|MP000008
+[INFO] No gene prediction for UNK3151524@3151524@1 JBDOHO010001308.1:0-28960 — falling back to Miniprot
+[INFO] Added Miniprot fallback: QRW17901.1|UNK3151524@3151524@1|MP000005
+Checking candidate regions...
+[INFO] No gene prediction for UNK1817611@1817611@1 JBDOHP010036773.1:0-21297 — falling back to Miniprot
+[INFO] Added Miniprot fallback: QRW17901.1|UNK1817611@1817611@1|MP000001
+Checking candidate regions...
+Checking candidate regions...
+[INFO] No gene prediction for UNK1260802@1260802@1 JBLNJI010002015.1:0-27832 — falling back to Miniprot
+[INFO] Added Miniprot fallback: QRW17901.1|UNK1260802@1260802@1|MP000001
+[INFO] No gene prediction for UNK1260802@1260802@1 JBLNJI010003434.1:0-24087 — falling back to Miniprot
+[INFO] Added Miniprot fallback: QRW17901.1|UNK1260802@1260802@1|MP000002
+Calculating FAS scores ...
+	 ...finished 
+
+fDOG-Assembly finished completely in 524096.53s ( Group preparation: 0.06s 	Ortholog search: 524075.45s 	FAS: 20.67s)
+Outputs are saved at /share/project/mieke/fdog/QRW17901.1/

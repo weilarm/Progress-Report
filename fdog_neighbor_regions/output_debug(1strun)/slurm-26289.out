@@ -1,0 +1,2082 @@
+Gene: XP_037025795_1_LOC119067126_337
+fDOG reference species: BRACO@38358@014529535_1 
+
+Building a consensus sequence
+	 ...finished
+
+Searching for orthologs ...
+  0%|          | 0/13 [00:00<?, ?it/s]  8%|▊         | 1/13 [00:03<00:47,  4.00s/it]BLAST Database error: Database memory map file error
+Create directory /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/LYCAG_1887995_1//metaeuk
+easy-predict /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/LYCAG_1887995_1/JBDOHN010022254.1_1.fasta /share/gluster/NOTLOESUNG/freya/uniref100/uniref100 /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/LYCAG_1887995_1/JBDOHN010022254.1_1 /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/LYCAG_1887995_1//metaeuk --max-intron 130000 --max-seq-len 160000 --min-exon-aa 15 --max-overlap 15 --min-intron 5 --overlap 1 -s 6 --split 0 --remove-tmp-files 
+
+MMseqs Version:                                             	7.bba0d80
+Substitution matrix                                         	aa:blosum62.out,nucl:nucleotide.out
+Add backtrace                                               	false
+Alignment mode                                              	2
+Alignment mode                                              	0
+Allow wrapped scoring                                       	false
+E-value threshold                                           	100
+Seq. id. threshold                                          	0
+Min alignment length                                        	0
+Seq. id. mode                                               	0
+Alternative alignments                                      	0
+Coverage threshold                                          	0
+Coverage mode                                               	0
+Max sequence length                                         	160000
+Compositional bias                                          	1
+Compositional bias                                          	1
+Max reject                                                  	2147483647
+Max accept                                                  	2147483647
+Include identical seq. id.                                  	false
+Preload mode                                                	0
+Pseudo count a                                              	substitution:1.100,context:1.400
+Pseudo count b                                              	substitution:4.100,context:5.800
+Score bias                                                  	0
+Realign hits                                                	false
+Realign score bias                                          	-0.2
+Realign max seqs                                            	2147483647
+Correlation score weight                                    	0
+Gap open cost                                               	aa:11,nucl:5
+Gap extension cost                                          	aa:1,nucl:2
+Zdrop                                                       	40
+Threads                                                     	24
+Compressed                                                  	0
+Verbosity                                                   	3
+Seed substitution matrix                                    	aa:VTML80.out,nucl:nucleotide.out
+Sensitivity                                                 	6
+k-mer length                                                	0
+Target search mode                                          	0
+k-score                                                     	seq:2147483647,prof:2147483647
+Alphabet size                                               	aa:21,nucl:5
+Max results per query                                       	300
+Split database                                              	0
+Split mode                                                  	2
+Split memory limit                                          	0
+Diagonal scoring                                            	true
+Exact k-mer matching                                        	0
+Mask residues                                               	1
+Mask residues probability                                   	0.9
+Mask lower case residues                                    	0
+Minimum diagonal score                                      	15
+Selected taxa                                               	
+Spaced k-mers                                               	1
+Spaced k-mer pattern                                        	
+Local temporary path                                        	
+Rescore mode                                                	0
+Remove hits by seq. id. and coverage                        	false
+Sort results                                                	0
+Mask profile                                                	1
+Profile E-value threshold                                   	0.001
+Global sequence weighting                                   	false
+Allow deletions                                             	false
+Filter MSA                                                  	1
+Use filter only at N seqs                                   	0
+Maximum seq. id. threshold                                  	0.9
+Minimum seq. id.                                            	0.0
+Minimum score per column                                    	-20
+Minimum coverage                                            	0
+Select N most diverse seqs                                  	1000
+Pseudo count mode                                           	0
+Min codons in orf                                           	15
+Max codons in length                                        	32734
+Max orf gaps                                                	2147483647
+Contig start mode                                           	2
+Contig end mode                                             	2
+Orf start mode                                              	1
+Forward frames                                              	1,2,3
+Reverse frames                                              	1,2,3
+Translation table                                           	1
+Translate orf                                               	0
+Use all table starts                                        	false
+Offset of numeric ids                                       	0
+Create lookup                                               	0
+Overlap between sequences                                   	0
+Sequence split mode                                         	1
+Header split mode                                           	0
+Chain overlapping alignments                                	0
+Merge query                                                 	1
+Search type                                                 	0
+Start sensitivity                                           	4
+Search steps                                                	1
+Prefilter mode                                              	0
+Exhaustive search mode                                      	false
+Filter results during exhaustive search                     	0
+Strand selection                                            	1
+LCA search mode                                             	false
+Disk space limit                                            	0
+MPI runner                                                  	
+Force restart with latest tmp                               	false
+Remove temporary files                                      	true
+maximal combined evalue of an optimal set                   	0.001
+minimal length ratio between combined optimal set and target	0.5
+Maximal intron length                                       	130000
+Minimal intron length                                       	5
+Minimal exon length aa                                      	15
+Maximal overlap of exons                                    	15
+Maximal number of exon sets                                 	1
+Gap open penalty                                            	-1
+Gap extend penalty                                          	-1
+Reverse AA Fragments                                        	0
+allow same-strand overlaps                                  	1
+translate codons to AAs                                     	0
+write target key instead of accession                       	0
+write fragment contig coords                                	0
+length to scan for start codon                              	0
+
+BLAST Database error: Database memory map file error
+BLAST Database error: Database memory map file error
+BLAST Database error: Database memory map file error
+Create directory /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/BRAPE_1817611_1//metaeuk
+easy-predict /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/BRAPE_1817611_1/JBDOHP010000230.1_1.fasta /share/gluster/NOTLOESUNG/freya/uniref100/uniref100 /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/BRAPE_1817611_1/JBDOHP010000230.1_1 /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/BRAPE_1817611_1//metaeuk --max-intron 130000 --max-seq-len 160000 --min-exon-aa 15 --max-overlap 15 --min-intron 5 --overlap 1 -s 6 --split 0 --remove-tmp-files 
+
+MMseqs Version:                                             	7.bba0d80
+Substitution matrix                                         	aa:blosum62.out,nucl:nucleotide.out
+Add backtrace                                               	false
+Alignment mode                                              	2
+Alignment mode                                              	0
+Allow wrapped scoring                                       	false
+E-value threshold                                           	100
+Seq. id. threshold                                          	0
+Min alignment length                                        	0
+Seq. id. mode                                               	0
+Alternative alignments                                      	0
+Coverage threshold                                          	0
+Coverage mode                                               	0
+Max sequence length                                         	160000
+Compositional bias                                          	1
+Compositional bias                                          	1
+Max reject                                                  	2147483647
+Max accept                                                  	2147483647
+Include identical seq. id.                                  	false
+Preload mode                                                	0
+Pseudo count a                                              	substitution:1.100,context:1.400
+Pseudo count b                                              	substitution:4.100,context:5.800
+Score bias                                                  	0
+Realign hits                                                	false
+Realign score bias                                          	-0.2
+Realign max seqs                                            	2147483647
+Correlation score weight                                    	0
+Gap open cost                                               	aa:11,nucl:5
+Gap extension cost                                          	aa:1,nucl:2
+Zdrop                                                       	40
+Threads                                                     	24
+Compressed                                                  	0
+Verbosity                                                   	3
+Seed substitution matrix                                    	aa:VTML80.out,nucl:nucleotide.out
+Sensitivity                                                 	6
+k-mer length                                                	0
+Target search mode                                          	0
+k-score                                                     	seq:2147483647,prof:2147483647
+Alphabet size                                               	aa:21,nucl:5
+Max results per query                                       	300
+Split database                                              	0
+Split mode                                                  	2
+Split memory limit                                          	0
+Diagonal scoring                                            	true
+Exact k-mer matching                                        	0
+Mask residues                                               	1
+Mask residues probability                                   	0.9
+Mask lower case residues                                    	0
+Minimum diagonal score                                      	15
+Selected taxa                                               	
+Spaced k-mers                                               	1
+Spaced k-mer pattern                                        	
+Local temporary path                                        	
+Rescore mode                                                	0
+Remove hits by seq. id. and coverage                        	false
+Sort results                                                	0
+Mask profile                                                	1
+Profile E-value threshold                                   	0.001
+Global sequence weighting                                   	false
+Allow deletions                                             	false
+Filter MSA                                                  	1
+Use filter only at N seqs                                   	0
+Maximum seq. id. threshold                                  	0.9
+Minimum seq. id.                                            	0.0
+Minimum score per column                                    	-20
+Minimum coverage                                            	0
+Select N most diverse seqs                                  	1000
+Pseudo count mode                                           	0
+Min codons in orf                                           	15
+Max codons in length                                        	32734
+Max orf gaps                                                	2147483647
+Contig start mode                                           	2
+Contig end mode                                             	2
+Orf start mode                                              	1
+Forward frames                                              	1,2,3
+Reverse frames                                              	1,2,3
+Translation table                                           	1
+Translate orf                                               	0
+Use all table starts                                        	false
+Offset of numeric ids                                       	0
+Create lookup                                               	0
+Overlap between sequences                                   	0
+Sequence split mode                                         	1
+Header split mode                                           	0
+Chain overlapping alignments                                	0
+Merge query                                                 	1
+Search type                                                 	0
+Start sensitivity                                           	4
+Search steps                                                	1
+Prefilter mode                                              	0
+Exhaustive search mode                                      	false
+Filter results during exhaustive search                     	0
+Strand selection                                            	1
+LCA search mode                                             	false
+Disk space limit                                            	0
+MPI runner                                                  	
+Force restart with latest tmp                               	false
+Remove temporary files                                      	true
+maximal combined evalue of an optimal set                   	0.001
+minimal length ratio between combined optimal set and target	0.5
+Maximal intron length                                       	130000
+Minimal intron length                                       	5
+Minimal exon length aa                                      	15
+Maximal overlap of exons                                    	15
+Maximal number of exon sets                                 	1
+Gap open penalty                                            	-1
+Gap extend penalty                                          	-1
+Reverse AA Fragments                                        	0
+allow same-strand overlaps                                  	1
+translate codons to AAs                                     	0
+write target key instead of accession                       	0
+write fragment contig coords                                	0
+length to scan for start codon                              	0
+
+Create directory /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/BRAAL_1260807_1//metaeuk
+easy-predict /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/BRAAL_1260807_1/JBLNJJ010000484.1_1.fasta /share/gluster/NOTLOESUNG/freya/uniref100/uniref100 /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/BRAAL_1260807_1/JBLNJJ010000484.1_1 /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/BRAAL_1260807_1//metaeuk --max-intron 130000 --max-seq-len 160000 --min-exon-aa 15 --max-overlap 15 --min-intron 5 --overlap 1 -s 6 --split 0 --remove-tmp-files 
+
+MMseqs Version:                                             	7.bba0d80
+Substitution matrix                                         	aa:blosum62.out,nucl:nucleotide.out
+Add backtrace                                               	false
+Alignment mode                                              	2
+Alignment mode                                              	0
+Allow wrapped scoring                                       	false
+E-value threshold                                           	100
+Seq. id. threshold                                          	0
+Min alignment length                                        	0
+Seq. id. mode                                               	0
+Alternative alignments                                      	0
+Coverage threshold                                          	0
+Coverage mode                                               	0
+Max sequence length                                         	160000
+Compositional bias                                          	1
+Compositional bias                                          	1
+Max reject                                                  	2147483647
+Max accept                                                  	2147483647
+Include identical seq. id.                                  	false
+Preload mode                                                	0
+Pseudo count a                                              	substitution:1.100,context:1.400
+Pseudo count b                                              	substitution:4.100,context:5.800
+Score bias                                                  	0
+Realign hits                                                	false
+Realign score bias                                          	-0.2
+Realign max seqs                                            	2147483647
+Correlation score weight                                    	0
+Gap open cost                                               	aa:11,nucl:5
+Gap extension cost                                          	aa:1,nucl:2
+Zdrop                                                       	40
+Threads                                                     	24
+Compressed                                                  	0
+Verbosity                                                   	3
+Seed substitution matrix                                    	aa:VTML80.out,nucl:nucleotide.out
+Sensitivity                                                 	6
+k-mer length                                                	0
+Target search mode                                          	0
+k-score                                                     	seq:2147483647,prof:2147483647
+Alphabet size                                               	aa:21,nucl:5
+Max results per query                                       	300
+Split database                                              	0
+Split mode                                                  	2
+Split memory limit                                          	0
+Diagonal scoring                                            	true
+Exact k-mer matching                                        	0
+Mask residues                                               	1
+Mask residues probability                                   	0.9
+Mask lower case residues                                    	0
+Minimum diagonal score                                      	15
+Selected taxa                                               	
+Spaced k-mers                                               	1
+Spaced k-mer pattern                                        	
+Local temporary path                                        	
+Rescore mode                                                	0
+Remove hits by seq. id. and coverage                        	false
+Sort results                                                	0
+Mask profile                                                	1
+Profile E-value threshold                                   	0.001
+Global sequence weighting                                   	false
+Allow deletions                                             	false
+Filter MSA                                                  	1
+Use filter only at N seqs                                   	0
+Maximum seq. id. threshold                                  	0.9
+Minimum seq. id.                                            	0.0
+Minimum score per column                                    	-20
+Minimum coverage                                            	0
+Select N most diverse seqs                                  	1000
+Pseudo count mode                                           	0
+Min codons in orf                                           	15
+Max codons in length                                        	32734
+Max orf gaps                                                	2147483647
+Contig start mode                                           	2
+Contig end mode                                             	2
+Orf start mode                                              	1
+Forward frames                                              	1,2,3
+Reverse frames                                              	1,2,3
+Translation table                                           	1
+Translate orf                                               	0
+Use all table starts                                        	false
+Offset of numeric ids                                       	0
+Create lookup                                               	0
+Overlap between sequences                                   	0
+Sequence split mode                                         	1
+Header split mode                                           	0
+Chain overlapping alignments                                	0
+Merge query                                                 	1
+Search type                                                 	0
+Start sensitivity                                           	4
+Search steps                                                	1
+Prefilter mode                                              	0
+Exhaustive search mode                                      	false
+Filter results during exhaustive search                     	0
+Strand selection                                            	1
+LCA search mode                                             	false
+Disk space limit                                            	0
+MPI runner                                                  	
+Force restart with latest tmp                               	false
+Remove temporary files                                      	true
+maximal combined evalue of an optimal set                   	0.001
+minimal length ratio between combined optimal set and target	0.5
+Maximal intron length                                       	130000
+Minimal intron length                                       	5
+Minimal exon length aa                                      	15
+Maximal overlap of exons                                    	15
+Maximal number of exon sets                                 	1
+Gap open penalty                                            	-1
+Gap extend penalty                                          	-1
+Reverse AA Fragments                                        	0
+allow same-strand overlaps                                  	1
+translate codons to AAs                                     	0
+write target key instead of accession                       	0
+write fragment contig coords                                	0
+length to scan for start codon                              	0
+
+Create directory /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/BRADE_3151524_1//metaeuk
+easy-predict /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/BRADE_3151524_1/JBDOHO010098890.1_1.fasta /share/gluster/NOTLOESUNG/freya/uniref100/uniref100 /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/BRADE_3151524_1/JBDOHO010098890.1_1 /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/BRADE_3151524_1//metaeuk --max-intron 130000 --max-seq-len 160000 --min-exon-aa 15 --max-overlap 15 --min-intron 5 --overlap 1 -s 6 --split 0 --remove-tmp-files 
+
+MMseqs Version:                                             	7.bba0d80
+Substitution matrix                                         	aa:blosum62.out,nucl:nucleotide.out
+Add backtrace                                               	false
+Alignment mode                                              	2
+Alignment mode                                              	0
+Allow wrapped scoring                                       	false
+E-value threshold                                           	100
+Seq. id. threshold                                          	0
+Min alignment length                                        	0
+Seq. id. mode                                               	0
+Alternative alignments                                      	0
+Coverage threshold                                          	0
+Coverage mode                                               	0
+Max sequence length                                         	160000
+Compositional bias                                          	1
+Compositional bias                                          	1
+Max reject                                                  	2147483647
+Max accept                                                  	2147483647
+Include identical seq. id.                                  	false
+Preload mode                                                	0
+Pseudo count a                                              	substitution:1.100,context:1.400
+Pseudo count b                                              	substitution:4.100,context:5.800
+Score bias                                                  	0
+Realign hits                                                	false
+Realign score bias                                          	-0.2
+Realign max seqs                                            	2147483647
+Correlation score weight                                    	0
+Gap open cost                                               	aa:11,nucl:5
+Gap extension cost                                          	aa:1,nucl:2
+Zdrop                                                       	40
+Threads                                                     	24
+Compressed                                                  	0
+Verbosity                                                   	3
+Seed substitution matrix                                    	aa:VTML80.out,nucl:nucleotide.out
+Sensitivity                                                 	6
+k-mer length                                                	0
+Target search mode                                          	0
+k-score                                                     	seq:2147483647,prof:2147483647
+Alphabet size                                               	aa:21,nucl:5
+Max results per query                                       	300
+Split database                                              	0
+Split mode                                                  	2
+Split memory limit                                          	0
+Diagonal scoring                                            	true
+Exact k-mer matching                                        	0
+Mask residues                                               	1
+Mask residues probability                                   	0.9
+Mask lower case residues                                    	0
+Minimum diagonal score                                      	15
+Selected taxa                                               	
+Spaced k-mers                                               	1
+Spaced k-mer pattern                                        	
+Local temporary path                                        	
+Rescore mode                                                	0
+Remove hits by seq. id. and coverage                        	false
+Sort results                                                	0
+Mask profile                                                	1
+Profile E-value threshold                                   	0.001
+Global sequence weighting                                   	false
+Allow deletions                                             	false
+Filter MSA                                                  	1
+Use filter only at N seqs                                   	0
+Maximum seq. id. threshold                                  	0.9
+Minimum seq. id.                                            	0.0
+Minimum score per column                                    	-20
+Minimum coverage                                            	0
+Select N most diverse seqs                                  	1000
+Pseudo count mode                                           	0
+Min codons in orf                                           	15
+Max codons in length                                        	32734
+Max orf gaps                                                	2147483647
+Contig start mode                                           	2
+Contig end mode                                             	2
+Orf start mode                                              	1
+Forward frames                                              	1,2,3
+Reverse frames                                              	1,2,3
+Translation table                                           	1
+Translate orf                                               	0
+Use all table starts                                        	false
+Offset of numeric ids                                       	0
+Create lookup                                               	0
+Overlap between sequences                                   	0
+Sequence split mode                                         	1
+Header split mode                                           	0
+Chain overlapping alignments                                	0
+Merge query                                                 	1
+Search type                                                 	0
+Start sensitivity                                           	4
+Search steps                                                	1
+Prefilter mode                                              	0
+Exhaustive search mode                                      	false
+Filter results during exhaustive search                     	0
+Strand selection                                            	1
+LCA search mode                                             	false
+Disk space limit                                            	0
+MPI runner                                                  	
+Force restart with latest tmp                               	false
+Remove temporary files                                      	true
+maximal combined evalue of an optimal set                   	0.001
+minimal length ratio between combined optimal set and target	0.5
+Maximal intron length                                       	130000
+Minimal intron length                                       	5
+Minimal exon length aa                                      	15
+Maximal overlap of exons                                    	15
+Maximal number of exon sets                                 	1
+Gap open penalty                                            	-1
+Gap extend penalty                                          	-1
+Reverse AA Fragments                                        	0
+allow same-strand overlaps                                  	1
+translate codons to AAs                                     	0
+write target key instead of accession                       	0
+write fragment contig coords                                	0
+length to scan for start codon                              	0
+
+BLAST Database error: Database memory map file error
+BLAST Database error: Database memory map file error
+BLAST Database error: Database memory map file error
+Create directory /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/BRACO_1817600_1//metaeuk
+easy-predict /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/BRACO_1817600_1/JBDOHQ010010591.1_1.fasta /share/gluster/NOTLOESUNG/freya/uniref100/uniref100 /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/BRACO_1817600_1/JBDOHQ010010591.1_1 /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/BRACO_1817600_1//metaeuk --max-intron 130000 --max-seq-len 160000 --min-exon-aa 15 --max-overlap 15 --min-intron 5 --overlap 1 -s 6 --split 0 --remove-tmp-files 
+
+MMseqs Version:                                             	7.bba0d80
+Substitution matrix                                         	aa:blosum62.out,nucl:nucleotide.out
+Add backtrace                                               	false
+Alignment mode                                              	2
+Alignment mode                                              	0
+Allow wrapped scoring                                       	false
+E-value threshold                                           	100
+Seq. id. threshold                                          	0
+Min alignment length                                        	0
+Seq. id. mode                                               	0
+Alternative alignments                                      	0
+Coverage threshold                                          	0
+Coverage mode                                               	0
+Max sequence length                                         	160000
+Compositional bias                                          	1
+Compositional bias                                          	1
+Max reject                                                  	2147483647
+Max accept                                                  	2147483647
+Include identical seq. id.                                  	false
+Preload mode                                                	0
+Pseudo count a                                              	substitution:1.100,context:1.400
+Pseudo count b                                              	substitution:4.100,context:5.800
+Score bias                                                  	0
+Realign hits                                                	false
+Realign score bias                                          	-0.2
+Realign max seqs                                            	2147483647
+Correlation score weight                                    	0
+Gap open cost                                               	aa:11,nucl:5
+Gap extension cost                                          	aa:1,nucl:2
+Zdrop                                                       	40
+Threads                                                     	24
+Compressed                                                  	0
+Verbosity                                                   	3
+Seed substitution matrix                                    	aa:VTML80.out,nucl:nucleotide.out
+Sensitivity                                                 	6
+k-mer length                                                	0
+Target search mode                                          	0
+k-score                                                     	seq:2147483647,prof:2147483647
+Alphabet size                                               	aa:21,nucl:5
+Max results per query                                       	300
+Split database                                              	0
+Split mode                                                  	2
+Split memory limit                                          	0
+Diagonal scoring                                            	true
+Exact k-mer matching                                        	0
+Mask residues                                               	1
+Mask residues probability                                   	0.9
+Mask lower case residues                                    	0
+Minimum diagonal score                                      	15
+Selected taxa                                               	
+Spaced k-mers                                               	1
+Spaced k-mer pattern                                        	
+Local temporary path                                        	
+Rescore mode                                                	0
+Remove hits by seq. id. and coverage                        	false
+Sort results                                                	0
+Mask profile                                                	1
+Profile E-value threshold                                   	0.001
+Global sequence weighting                                   	false
+Allow deletions                                             	false
+Filter MSA                                                  	1
+Use filter only at N seqs                                   	0
+Maximum seq. id. threshold                                  	0.9
+Minimum seq. id.                                            	0.0
+Minimum score per column                                    	-20
+Minimum coverage                                            	0
+Select N most diverse seqs                                  	1000
+Pseudo count mode                                           	0
+Min codons in orf                                           	15
+Max codons in length                                        	32734
+Max orf gaps                                                	2147483647
+Contig start mode                                           	2
+Contig end mode                                             	2
+Orf start mode                                              	1
+Forward frames                                              	1,2,3
+Reverse frames                                              	1,2,3
+Translation table                                           	1
+Translate orf                                               	0
+Use all table starts                                        	false
+Offset of numeric ids                                       	0
+Create lookup                                               	0
+Overlap between sequences                                   	0
+Sequence split mode                                         	1
+Header split mode                                           	0
+Chain overlapping alignments                                	0
+Merge query                                                 	1
+Search type                                                 	0
+Start sensitivity                                           	4
+Search steps                                                	1
+Prefilter mode                                              	0
+Exhaustive search mode                                      	false
+Filter results during exhaustive search                     	0
+Strand selection                                            	1
+LCA search mode                                             	false
+Disk space limit                                            	0
+MPI runner                                                  	
+Force restart with latest tmp                               	false
+Remove temporary files                                      	true
+maximal combined evalue of an optimal set                   	0.001
+minimal length ratio between combined optimal set and target	0.5
+Maximal intron length                                       	130000
+Minimal intron length                                       	5
+Minimal exon length aa                                      	15
+Maximal overlap of exons                                    	15
+Maximal number of exon sets                                 	1
+Gap open penalty                                            	-1
+Gap extend penalty                                          	-1
+Reverse AA Fragments                                        	0
+allow same-strand overlaps                                  	1
+translate codons to AAs                                     	0
+write target key instead of accession                       	0
+write fragment contig coords                                	0
+length to scan for start codon                              	0
+
+Create directory /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/BRAOC_1260802_1//metaeuk
+easy-predict /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/BRAOC_1260802_1/JBLNJI010002952.1_1.fasta /share/gluster/NOTLOESUNG/freya/uniref100/uniref100 /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/BRAOC_1260802_1/JBLNJI010002952.1_1 /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/BRAOC_1260802_1//metaeuk --max-intron 130000 --max-seq-len 160000 --min-exon-aa 15 --max-overlap 15 --min-intron 5 --overlap 1 -s 6 --split 0 --remove-tmp-files 
+
+MMseqs Version:                                             	7.bba0d80
+Substitution matrix                                         	aa:blosum62.out,nucl:nucleotide.out
+Add backtrace                                               	false
+Alignment mode                                              	2
+Alignment mode                                              	0
+Allow wrapped scoring                                       	false
+E-value threshold                                           	100
+Seq. id. threshold                                          	0
+Min alignment length                                        	0
+Seq. id. mode                                               	0
+Alternative alignments                                      	0
+Coverage threshold                                          	0
+Coverage mode                                               	0
+Max sequence length                                         	160000
+Compositional bias                                          	1
+Compositional bias                                          	1
+Max reject                                                  	2147483647
+Max accept                                                  	2147483647
+Include identical seq. id.                                  	false
+Preload mode                                                	0
+Pseudo count a                                              	substitution:1.100,context:1.400
+Pseudo count b                                              	substitution:4.100,context:5.800
+Score bias                                                  	0
+Realign hits                                                	false
+Realign score bias                                          	-0.2
+Realign max seqs                                            	2147483647
+Correlation score weight                                    	0
+Gap open cost                                               	aa:11,nucl:5
+Gap extension cost                                          	aa:1,nucl:2
+Zdrop                                                       	40
+Threads                                                     	24
+Compressed                                                  	0
+Verbosity                                                   	3
+Seed substitution matrix                                    	aa:VTML80.out,nucl:nucleotide.out
+Sensitivity                                                 	6
+k-mer length                                                	0
+Target search mode                                          	0
+k-score                                                     	seq:2147483647,prof:2147483647
+Alphabet size                                               	aa:21,nucl:5
+Max results per query                                       	300
+Split database                                              	0
+Split mode                                                  	2
+Split memory limit                                          	0
+Diagonal scoring                                            	true
+Exact k-mer matching                                        	0
+Mask residues                                               	1
+Mask residues probability                                   	0.9
+Mask lower case residues                                    	0
+Minimum diagonal score                                      	15
+Selected taxa                                               	
+Spaced k-mers                                               	1
+Spaced k-mer pattern                                        	
+Local temporary path                                        	
+Rescore mode                                                	0
+Remove hits by seq. id. and coverage                        	false
+Sort results                                                	0
+Mask profile                                                	1
+Profile E-value threshold                                   	0.001
+Global sequence weighting                                   	false
+Allow deletions                                             	false
+Filter MSA                                                  	1
+Use filter only at N seqs                                   	0
+Maximum seq. id. threshold                                  	0.9
+Minimum seq. id.                                            	0.0
+Minimum score per column                                    	-20
+Minimum coverage                                            	0
+Select N most diverse seqs                                  	1000
+Pseudo count mode                                           	0
+Min codons in orf                                           	15
+Max codons in length                                        	32734
+Max orf gaps                                                	2147483647
+Contig start mode                                           	2
+Contig end mode                                             	2
+Orf start mode                                              	1
+Forward frames                                              	1,2,3
+Reverse frames                                              	1,2,3
+Translation table                                           	1
+Translate orf                                               	0
+Use all table starts                                        	false
+Offset of numeric ids                                       	0
+Create lookup                                               	0
+Overlap between sequences                                   	0
+Sequence split mode                                         	1
+Header split mode                                           	0
+Chain overlapping alignments                                	0
+Merge query                                                 	1
+Search type                                                 	0
+Start sensitivity                                           	4
+Search steps                                                	1
+Prefilter mode                                              	0
+Exhaustive search mode                                      	false
+Filter results during exhaustive search                     	0
+Strand selection                                            	1
+LCA search mode                                             	false
+Disk space limit                                            	0
+MPI runner                                                  	
+Force restart with latest tmp                               	false
+Remove temporary files                                      	true
+maximal combined evalue of an optimal set                   	0.001
+minimal length ratio between combined optimal set and target	0.5
+Maximal intron length                                       	130000
+Minimal intron length                                       	5
+Minimal exon length aa                                      	15
+Maximal overlap of exons                                    	15
+Maximal number of exon sets                                 	1
+Gap open penalty                                            	-1
+Gap extend penalty                                          	-1
+Reverse AA Fragments                                        	0
+allow same-strand overlaps                                  	1
+translate codons to AAs                                     	0
+write target key instead of accession                       	0
+write fragment contig coords                                	0
+length to scan for start codon                              	0
+
+Create directory /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/LYCIN_767460_1//metaeuk
+easy-predict /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/LYCIN_767460_1/OZ247515.1_1.fasta /share/gluster/NOTLOESUNG/freya/uniref100/uniref100 /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/LYCIN_767460_1/OZ247515.1_1 /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/LYCIN_767460_1//metaeuk --max-intron 130000 --max-seq-len 160000 --min-exon-aa 15 --max-overlap 15 --min-intron 5 --overlap 1 -s 6 --split 0 --remove-tmp-files 
+
+MMseqs Version:                                             	7.bba0d80
+Substitution matrix                                         	aa:blosum62.out,nucl:nucleotide.out
+Add backtrace                                               	false
+Alignment mode                                              	2
+Alignment mode                                              	0
+Allow wrapped scoring                                       	false
+E-value threshold                                           	100
+Seq. id. threshold                                          	0
+Min alignment length                                        	0
+Seq. id. mode                                               	0
+Alternative alignments                                      	0
+Coverage threshold                                          	0
+Coverage mode                                               	0
+Max sequence length                                         	160000
+Compositional bias                                          	1
+Compositional bias                                          	1
+Max reject                                                  	2147483647
+Max accept                                                  	2147483647
+Include identical seq. id.                                  	false
+Preload mode                                                	0
+Pseudo count a                                              	substitution:1.100,context:1.400
+Pseudo count b                                              	substitution:4.100,context:5.800
+Score bias                                                  	0
+Realign hits                                                	false
+Realign score bias                                          	-0.2
+Realign max seqs                                            	2147483647
+Correlation score weight                                    	0
+Gap open cost                                               	aa:11,nucl:5
+Gap extension cost                                          	aa:1,nucl:2
+Zdrop                                                       	40
+Threads                                                     	24
+Compressed                                                  	0
+Verbosity                                                   	3
+Seed substitution matrix                                    	aa:VTML80.out,nucl:nucleotide.out
+Sensitivity                                                 	6
+k-mer length                                                	0
+Target search mode                                          	0
+k-score                                                     	seq:2147483647,prof:2147483647
+Alphabet size                                               	aa:21,nucl:5
+Max results per query                                       	300
+Split database                                              	0
+Split mode                                                  	2
+Split memory limit                                          	0
+Diagonal scoring                                            	true
+Exact k-mer matching                                        	0
+Mask residues                                               	1
+Mask residues probability                                   	0.9
+Mask lower case residues                                    	0
+Minimum diagonal score                                      	15
+Selected taxa                                               	
+Spaced k-mers                                               	1
+Spaced k-mer pattern                                        	
+Local temporary path                                        	
+Rescore mode                                                	0
+Remove hits by seq. id. and coverage                        	false
+Sort results                                                	0
+Mask profile                                                	1
+Profile E-value threshold                                   	0.001
+Global sequence weighting                                   	false
+Allow deletions                                             	false
+Filter MSA                                                  	1
+Use filter only at N seqs                                   	0
+Maximum seq. id. threshold                                  	0.9
+Minimum seq. id.                                            	0.0
+Minimum score per column                                    	-20
+Minimum coverage                                            	0
+Select N most diverse seqs                                  	1000
+Pseudo count mode                                           	0
+Min codons in orf                                           	15
+Max codons in length                                        	32734
+Max orf gaps                                                	2147483647
+Contig start mode                                           	2
+Contig end mode                                             	2
+Orf start mode                                              	1
+Forward frames                                              	1,2,3
+Reverse frames                                              	1,2,3
+Translation table                                           	1
+Translate orf                                               	0
+Use all table starts                                        	false
+Offset of numeric ids                                       	0
+Create lookup                                               	0
+Overlap between sequences                                   	0
+Sequence split mode                                         	1
+Header split mode                                           	0
+Chain overlapping alignments                                	0
+Merge query                                                 	1
+Search type                                                 	0
+Start sensitivity                                           	4
+Search steps                                                	1
+Prefilter mode                                              	0
+Exhaustive search mode                                      	false
+Filter results during exhaustive search                     	0
+Strand selection                                            	1
+LCA search mode                                             	false
+Disk space limit                                            	0
+MPI runner                                                  	
+Force restart with latest tmp                               	false
+Remove temporary files                                      	true
+maximal combined evalue of an optimal set                   	0.001
+minimal length ratio between combined optimal set and target	0.5
+Maximal intron length                                       	130000
+Minimal intron length                                       	5
+Minimal exon length aa                                      	15
+Maximal overlap of exons                                    	15
+Maximal number of exon sets                                 	1
+Gap open penalty                                            	-1
+Gap extend penalty                                          	-1
+Reverse AA Fragments                                        	0
+allow same-strand overlaps                                  	1
+translate codons to AAs                                     	0
+write target key instead of accession                       	0
+write fragment contig coords                                	0
+length to scan for start codon                              	0
+
+BLAST Database error: Database memory map file error
+BLAST Database error: Database memory map file error
+BLAST Database error: Database memory map file error
+Create directory /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/BRAOD_1564500_1//metaeuk
+easy-predict /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/BRAOD_1564500_1/JAFDOW010000598.1_1.fasta /share/gluster/NOTLOESUNG/freya/uniref100/uniref100 /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/BRAOD_1564500_1/JAFDOW010000598.1_1 /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/BRAOD_1564500_1//metaeuk --max-intron 130000 --max-seq-len 160000 --min-exon-aa 15 --max-overlap 15 --min-intron 5 --overlap 1 -s 6 --split 0 --remove-tmp-files 
+
+MMseqs Version:                                             	7.bba0d80
+Substitution matrix                                         	aa:blosum62.out,nucl:nucleotide.out
+Add backtrace                                               	false
+Alignment mode                                              	2
+Alignment mode                                              	0
+Allow wrapped scoring                                       	false
+E-value threshold                                           	100
+Seq. id. threshold                                          	0
+Min alignment length                                        	0
+Seq. id. mode                                               	0
+Alternative alignments                                      	0
+Coverage threshold                                          	0
+Coverage mode                                               	0
+Max sequence length                                         	160000
+Compositional bias                                          	1
+Compositional bias                                          	1
+Max reject                                                  	2147483647
+Max accept                                                  	2147483647
+Include identical seq. id.                                  	false
+Preload mode                                                	0
+Pseudo count a                                              	substitution:1.100,context:1.400
+Pseudo count b                                              	substitution:4.100,context:5.800
+Score bias                                                  	0
+Realign hits                                                	false
+Realign score bias                                          	-0.2
+Realign max seqs                                            	2147483647
+Correlation score weight                                    	0
+Gap open cost                                               	aa:11,nucl:5
+Gap extension cost                                          	aa:1,nucl:2
+Zdrop                                                       	40
+Threads                                                     	24
+Compressed                                                  	0
+Verbosity                                                   	3
+Seed substitution matrix                                    	aa:VTML80.out,nucl:nucleotide.out
+Sensitivity                                                 	6
+k-mer length                                                	0
+Target search mode                                          	0
+k-score                                                     	seq:2147483647,prof:2147483647
+Alphabet size                                               	aa:21,nucl:5
+Max results per query                                       	300
+Split database                                              	0
+Split mode                                                  	2
+Split memory limit                                          	0
+Diagonal scoring                                            	true
+Exact k-mer matching                                        	0
+Mask residues                                               	1
+Mask residues probability                                   	0.9
+Mask lower case residues                                    	0
+Minimum diagonal score                                      	15
+Selected taxa                                               	
+Spaced k-mers                                               	1
+Spaced k-mer pattern                                        	
+Local temporary path                                        	
+Rescore mode                                                	0
+Remove hits by seq. id. and coverage                        	false
+Sort results                                                	0
+Mask profile                                                	1
+Profile E-value threshold                                   	0.001
+Global sequence weighting                                   	false
+Allow deletions                                             	false
+Filter MSA                                                  	1
+Use filter only at N seqs                                   	0
+Maximum seq. id. threshold                                  	0.9
+Minimum seq. id.                                            	0.0
+Minimum score per column                                    	-20
+Minimum coverage                                            	0
+Select N most diverse seqs                                  	1000
+Pseudo count mode                                           	0
+Min codons in orf                                           	15
+Max codons in length                                        	32734
+Max orf gaps                                                	2147483647
+Contig start mode                                           	2
+Contig end mode                                             	2
+Orf start mode                                              	1
+Forward frames                                              	1,2,3
+Reverse frames                                              	1,2,3
+Translation table                                           	1
+Translate orf                                               	0
+Use all table starts                                        	false
+Offset of numeric ids                                       	0
+Create lookup                                               	0
+Overlap between sequences                                   	0
+Sequence split mode                                         	1
+Header split mode                                           	0
+Chain overlapping alignments                                	0
+Merge query                                                 	1
+Search type                                                 	0
+Start sensitivity                                           	4
+Search steps                                                	1
+Prefilter mode                                              	0
+Exhaustive search mode                                      	false
+Filter results during exhaustive search                     	0
+Strand selection                                            	1
+LCA search mode                                             	false
+Disk space limit                                            	0
+MPI runner                                                  	
+Force restart with latest tmp                               	false
+Remove temporary files                                      	true
+maximal combined evalue of an optimal set                   	0.001
+minimal length ratio between combined optimal set and target	0.5
+Maximal intron length                                       	130000
+Minimal intron length                                       	5
+Minimal exon length aa                                      	15
+Maximal overlap of exons                                    	15
+Maximal number of exon sets                                 	1
+Gap open penalty                                            	-1
+Gap extend penalty                                          	-1
+Reverse AA Fragments                                        	0
+allow same-strand overlaps                                  	1
+translate codons to AAs                                     	0
+write target key instead of accession                       	0
+write fragment contig coords                                	0
+length to scan for start codon                              	0
+
+Create directory /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/TRISP_1260884_1//metaeuk
+easy-predict /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/TRISP_1260884_1/JANVCI010223208.1_1.fasta /share/gluster/NOTLOESUNG/freya/uniref100/uniref100 /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/TRISP_1260884_1/JANVCI010223208.1_1 /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/TRISP_1260884_1//metaeuk --max-intron 130000 --max-seq-len 160000 --min-exon-aa 15 --max-overlap 15 --min-intron 5 --overlap 1 -s 6 --split 0 --remove-tmp-files 
+
+MMseqs Version:                                             	7.bba0d80
+Substitution matrix                                         	aa:blosum62.out,nucl:nucleotide.out
+Add backtrace                                               	false
+Alignment mode                                              	2
+Alignment mode                                              	0
+Allow wrapped scoring                                       	false
+E-value threshold                                           	100
+Seq. id. threshold                                          	0
+Min alignment length                                        	0
+Seq. id. mode                                               	0
+Alternative alignments                                      	0
+Coverage threshold                                          	0
+Coverage mode                                               	0
+Max sequence length                                         	160000
+Compositional bias                                          	1
+Compositional bias                                          	1
+Max reject                                                  	2147483647
+Max accept                                                  	2147483647
+Include identical seq. id.                                  	false
+Preload mode                                                	0
+Pseudo count a                                              	substitution:1.100,context:1.400
+Pseudo count b                                              	substitution:4.100,context:5.800
+Score bias                                                  	0
+Realign hits                                                	false
+Realign score bias                                          	-0.2
+Realign max seqs                                            	2147483647
+Correlation score weight                                    	0
+Gap open cost                                               	aa:11,nucl:5
+Gap extension cost                                          	aa:1,nucl:2
+Zdrop                                                       	40
+Threads                                                     	24
+Compressed                                                  	0
+Verbosity                                                   	3
+Seed substitution matrix                                    	aa:VTML80.out,nucl:nucleotide.out
+Sensitivity                                                 	6
+k-mer length                                                	0
+Target search mode                                          	0
+k-score                                                     	seq:2147483647,prof:2147483647
+Alphabet size                                               	aa:21,nucl:5
+Max results per query                                       	300
+Split database                                              	0
+Split mode                                                  	2
+Split memory limit                                          	0
+Diagonal scoring                                            	true
+Exact k-mer matching                                        	0
+Mask residues                                               	1
+Mask residues probability                                   	0.9
+Mask lower case residues                                    	0
+Minimum diagonal score                                      	15
+Selected taxa                                               	
+Spaced k-mers                                               	1
+Spaced k-mer pattern                                        	
+Local temporary path                                        	
+Rescore mode                                                	0
+Remove hits by seq. id. and coverage                        	false
+Sort results                                                	0
+Mask profile                                                	1
+Profile E-value threshold                                   	0.001
+Global sequence weighting                                   	false
+Allow deletions                                             	false
+Filter MSA                                                  	1
+Use filter only at N seqs                                   	0
+Maximum seq. id. threshold                                  	0.9
+Minimum seq. id.                                            	0.0
+Minimum score per column                                    	-20
+Minimum coverage                                            	0
+Select N most diverse seqs                                  	1000
+Pseudo count mode                                           	0
+Min codons in orf                                           	15
+Max codons in length                                        	32734
+Max orf gaps                                                	2147483647
+Contig start mode                                           	2
+Contig end mode                                             	2
+Orf start mode                                              	1
+Forward frames                                              	1,2,3
+Reverse frames                                              	1,2,3
+Translation table                                           	1
+Translate orf                                               	0
+Use all table starts                                        	false
+Offset of numeric ids                                       	0
+Create lookup                                               	0
+Overlap between sequences                                   	0
+Sequence split mode                                         	1
+Header split mode                                           	0
+Chain overlapping alignments                                	0
+Merge query                                                 	1
+Search type                                                 	0
+Start sensitivity                                           	4
+Search steps                                                	1
+Prefilter mode                                              	0
+Exhaustive search mode                                      	false
+Filter results during exhaustive search                     	0
+Strand selection                                            	1
+LCA search mode                                             	false
+Disk space limit                                            	0
+MPI runner                                                  	
+Force restart with latest tmp                               	false
+Remove temporary files                                      	true
+maximal combined evalue of an optimal set                   	0.001
+minimal length ratio between combined optimal set and target	0.5
+Maximal intron length                                       	130000
+Minimal intron length                                       	5
+Minimal exon length aa                                      	15
+Maximal overlap of exons                                    	15
+Maximal number of exon sets                                 	1
+Gap open penalty                                            	-1
+Gap extend penalty                                          	-1
+Reverse AA Fragments                                        	0
+allow same-strand overlaps                                  	1
+translate codons to AAs                                     	0
+write target key instead of accession                       	0
+write fragment contig coords                                	0
+length to scan for start codon                              	0
+
+createdb /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/LYCAG_1887995_1/JBDOHN010022254.1_1.fasta /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/LYCAG_1887995_1//metaeuk/13300267551791541969/contigs --dbtype 2 --compressed 0 -v 3 
+
+Converting sequences
+File JBDOHN010022254.1_1.fasta is empty or invalid and was ignored
+createdb /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/BRAAL_1260807_1/JBLNJJ010000484.1_1.fasta /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/BRAAL_1260807_1//metaeuk/14713855382957531119/contigs --dbtype 2 --compressed 0 -v 3 
+
+Converting sequences
+File JBLNJJ010000484.1_1.fasta is empty or invalid and was ignored
+createdb /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/BRAPE_1817611_1/JBDOHP010000230.1_1.fasta /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/BRAPE_1817611_1//metaeuk/12870111991364864766/contigs --dbtype 2 --compressed 0 -v 3 
+
+Converting sequences
+File JBDOHP010000230.1_1.fasta is empty or invalid and was ignored
+createdb /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/BRADE_3151524_1/JBDOHO010098890.1_1.fasta /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/BRADE_3151524_1//metaeuk/5711513726493850014/contigs --dbtype 2 --compressed 0 -v 3 
+
+Converting sequences
+File JBDOHO010098890.1_1.fasta is empty or invalid and was ignored
+createdb /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/LYCIN_767460_1/OZ247515.1_1.fasta /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/LYCIN_767460_1//metaeuk/6339390999329567705/contigs --dbtype 2 --compressed 0 -v 3 
+
+Converting sequences
+File OZ247515.1_1.fasta is empty or invalid and was ignored
+createdb /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/BRAOC_1260802_1/JBLNJI010002952.1_1.fasta /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/BRAOC_1260802_1//metaeuk/11944682566434239762/contigs --dbtype 2 --compressed 0 -v 3 
+
+Converting sequences
+File JBLNJI010002952.1_1.fasta is empty or invalid and was ignored
+createdb /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/BRACO_1817600_1/JBDOHQ010010591.1_1.fasta /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/BRACO_1817600_1//metaeuk/1157104639150877652/contigs --dbtype 2 --compressed 0 -v 3 
+
+Converting sequences
+File JBDOHQ010010591.1_1.fasta is empty or invalid and was ignored
+BLAST Database error: Database memory map file error
+BLAST Database error: Database memory map file error
+Create directory /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/PHYFL_1260839_1//metaeuk
+easy-predict /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/PHYFL_1260839_1/JANTFA010007453.1_1.fasta /share/gluster/NOTLOESUNG/freya/uniref100/uniref100 /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/PHYFL_1260839_1/JANTFA010007453.1_1 /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/PHYFL_1260839_1//metaeuk --max-intron 130000 --max-seq-len 160000 --min-exon-aa 15 --max-overlap 15 --min-intron 5 --overlap 1 -s 6 --split 0 --remove-tmp-files 
+
+MMseqs Version:                                             	7.bba0d80
+Substitution matrix                                         	aa:blosum62.out,nucl:nucleotide.out
+Add backtrace                                               	false
+Alignment mode                                              	2
+Alignment mode                                              	0
+Allow wrapped scoring                                       	false
+E-value threshold                                           	100
+Seq. id. threshold                                          	0
+Min alignment length                                        	0
+Seq. id. mode                                               	0
+Alternative alignments                                      	0
+Coverage threshold                                          	0
+Coverage mode                                               	0
+Max sequence length                                         	160000
+Compositional bias                                          	1
+Compositional bias                                          	1
+Max reject                                                  	2147483647
+Max accept                                                  	2147483647
+Include identical seq. id.                                  	false
+Preload mode                                                	0
+Pseudo count a                                              	substitution:1.100,context:1.400
+Pseudo count b                                              	substitution:4.100,context:5.800
+Score bias                                                  	0
+Realign hits                                                	false
+Realign score bias                                          	-0.2
+Realign max seqs                                            	2147483647
+Correlation score weight                                    	0
+Gap open cost                                               	aa:11,nucl:5
+Gap extension cost                                          	aa:1,nucl:2
+Zdrop                                                       	40
+Threads                                                     	24
+Compressed                                                  	0
+Verbosity                                                   	3
+Seed substitution matrix                                    	aa:VTML80.out,nucl:nucleotide.out
+Sensitivity                                                 	6
+k-mer length                                                	0
+Target search mode                                          	0
+k-score                                                     	seq:2147483647,prof:2147483647
+Alphabet size                                               	aa:21,nucl:5
+Max results per query                                       	300
+Split database                                              	0
+Split mode                                                  	2
+Split memory limit                                          	0
+Diagonal scoring                                            	true
+Exact k-mer matching                                        	0
+Mask residues                                               	1
+Mask residues probability                                   	0.9
+Mask lower case residues                                    	0
+Minimum diagonal score                                      	15
+Selected taxa                                               	
+Spaced k-mers                                               	1
+Spaced k-mer pattern                                        	
+Local temporary path                                        	
+Rescore mode                                                	0
+Remove hits by seq. id. and coverage                        	false
+Sort results                                                	0
+Mask profile                                                	1
+Profile E-value threshold                                   	0.001
+Global sequence weighting                                   	false
+Allow deletions                                             	false
+Filter MSA                                                  	1
+Use filter only at N seqs                                   	0
+Maximum seq. id. threshold                                  	0.9
+Minimum seq. id.                                            	0.0
+Minimum score per column                                    	-20
+Minimum coverage                                            	0
+Select N most diverse seqs                                  	1000
+Pseudo count mode                                           	0
+Min codons in orf                                           	15
+Max codons in length                                        	32734
+Max orf gaps                                                	2147483647
+Contig start mode                                           	2
+Contig end mode                                             	2
+Orf start mode                                              	1
+Forward frames                                              	1,2,3
+Reverse frames                                              	1,2,3
+Translation table                                           	1
+Translate orf                                               	0
+Use all table starts                                        	false
+Offset of numeric ids                                       	0
+Create lookup                                               	0
+Overlap between sequences                                   	0
+Sequence split mode                                         	1
+Header split mode                                           	0
+Chain overlapping alignments                                	0
+Merge query                                                 	1
+Search type                                                 	0
+Start sensitivity                                           	4
+Search steps                                                	1
+Prefilter mode                                              	0
+Exhaustive search mode                                      	false
+Filter results during exhaustive search                     	0
+Strand selection                                            	1
+LCA search mode                                             	false
+Disk space limit                                            	0
+MPI runner                                                  	
+Force restart with latest tmp                               	false
+Remove temporary files                                      	true
+maximal combined evalue of an optimal set                   	0.001
+minimal length ratio between combined optimal set and target	0.5
+Maximal intron length                                       	130000
+Minimal intron length                                       	5
+Minimal exon length aa                                      	15
+Maximal overlap of exons                                    	15
+Maximal number of exon sets                                 	1
+Gap open penalty                                            	-1
+Gap extend penalty                                          	-1
+Reverse AA Fragments                                        	0
+allow same-strand overlaps                                  	1
+translate codons to AAs                                     	0
+write target key instead of accession                       	0
+write fragment contig coords                                	0
+length to scan for start codon                              	0
+
+createdb /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/BRAOD_1564500_1/JAFDOW010000598.1_1.fasta /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/BRAOD_1564500_1//metaeuk/17275626102323127078/contigs --dbtype 2 --compressed 0 -v 3 
+
+Converting sequences
+File JAFDOW010000598.1_1.fasta is empty or invalid and was ignored
+createdb /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/TRISP_1260884_1/JANVCI010223208.1_1.fasta /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/TRISP_1260884_1//metaeuk/9981174889313889870/contigs --dbtype 2 --compressed 0 -v 3 
+
+Converting sequences
+File JANVCI010223208.1_1.fasta is empty or invalid and was ignored
+BLAST Database error: Database memory map file error
+Create directory /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/BRAIM_335710_1//metaeuk
+easy-predict /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/BRAIM_335710_1/OZ247434.1_1.fasta /share/gluster/NOTLOESUNG/freya/uniref100/uniref100 /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/BRAIM_335710_1/OZ247434.1_1 /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/BRAIM_335710_1//metaeuk --max-intron 130000 --max-seq-len 160000 --min-exon-aa 15 --max-overlap 15 --min-intron 5 --overlap 1 -s 6 --split 0 --remove-tmp-files 
+
+MMseqs Version:                                             	7.bba0d80
+Substitution matrix                                         	aa:blosum62.out,nucl:nucleotide.out
+Add backtrace                                               	false
+Alignment mode                                              	2
+Alignment mode                                              	0
+Allow wrapped scoring                                       	false
+E-value threshold                                           	100
+Seq. id. threshold                                          	0
+Min alignment length                                        	0
+Seq. id. mode                                               	0
+Alternative alignments                                      	0
+Coverage threshold                                          	0
+Coverage mode                                               	0
+Max sequence length                                         	160000
+Compositional bias                                          	1
+Compositional bias                                          	1
+Max reject                                                  	2147483647
+Max accept                                                  	2147483647
+Include identical seq. id.                                  	false
+Preload mode                                                	0
+Pseudo count a                                              	substitution:1.100,context:1.400
+Pseudo count b                                              	substitution:4.100,context:5.800
+Score bias                                                  	0
+Realign hits                                                	false
+Realign score bias                                          	-0.2
+Realign max seqs                                            	2147483647
+Correlation score weight                                    	0
+Gap open cost                                               	aa:11,nucl:5
+Gap extension cost                                          	aa:1,nucl:2
+Zdrop                                                       	40
+Threads                                                     	24
+Compressed                                                  	0
+Verbosity                                                   	3
+Seed substitution matrix                                    	aa:VTML80.out,nucl:nucleotide.out
+Sensitivity                                                 	6
+k-mer length                                                	0
+Target search mode                                          	0
+k-score                                                     	seq:2147483647,prof:2147483647
+Alphabet size                                               	aa:21,nucl:5
+Max results per query                                       	300
+Split database                                              	0
+Split mode                                                  	2
+Split memory limit                                          	0
+Diagonal scoring                                            	true
+Exact k-mer matching                                        	0
+Mask residues                                               	1
+Mask residues probability                                   	0.9
+Mask lower case residues                                    	0
+Minimum diagonal score                                      	15
+Selected taxa                                               	
+Spaced k-mers                                               	1
+Spaced k-mer pattern                                        	
+Local temporary path                                        	
+Rescore mode                                                	0
+Remove hits by seq. id. and coverage                        	false
+Sort results                                                	0
+Mask profile                                                	1
+Profile E-value threshold                                   	0.001
+Global sequence weighting                                   	false
+Allow deletions                                             	false
+Filter MSA                                                  	1
+Use filter only at N seqs                                   	0
+Maximum seq. id. threshold                                  	0.9
+Minimum seq. id.                                            	0.0
+Minimum score per column                                    	-20
+Minimum coverage                                            	0
+Select N most diverse seqs                                  	1000
+Pseudo count mode                                           	0
+Min codons in orf                                           	15
+Max codons in length                                        	32734
+Max orf gaps                                                	2147483647
+Contig start mode                                           	2
+Contig end mode                                             	2
+Orf start mode                                              	1
+Forward frames                                              	1,2,3
+Reverse frames                                              	1,2,3
+Translation table                                           	1
+Translate orf                                               	0
+Use all table starts                                        	false
+Offset of numeric ids                                       	0
+Create lookup                                               	0
+Overlap between sequences                                   	0
+Sequence split mode                                         	1
+Header split mode                                           	0
+Chain overlapping alignments                                	0
+Merge query                                                 	1
+Search type                                                 	0
+Start sensitivity                                           	4
+Search steps                                                	1
+Prefilter mode                                              	0
+Exhaustive search mode                                      	false
+Filter results during exhaustive search                     	0
+Strand selection                                            	1
+LCA search mode                                             	false
+Disk space limit                                            	0
+MPI runner                                                  	
+Force restart with latest tmp                               	false
+Remove temporary files                                      	true
+maximal combined evalue of an optimal set                   	0.001
+minimal length ratio between combined optimal set and target	0.5
+Maximal intron length                                       	130000
+Minimal intron length                                       	5
+Minimal exon length aa                                      	15
+Maximal overlap of exons                                    	15
+Maximal number of exon sets                                 	1
+Gap open penalty                                            	-1
+Gap extend penalty                                          	-1
+Reverse AA Fragments                                        	0
+allow same-strand overlaps                                  	1
+translate codons to AAs                                     	0
+write target key instead of accession                       	0
+write fragment contig coords                                	0
+length to scan for start codon                              	0
+
+
+Time for merging to contigs_h: 0h 0m 0s 554ms
+Time for merging to contigs: 0h 0m 0s 199ms
+Database type: Nucleotide
+The input files have no entry:  - /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/LYCAG_1887995_1/JBDOHN010022254.1_1.fasta
+Please check your input files. Only files in fasta/fastq[.gz|bz2] are supported
+
+Time for merging to contigs_h: 0h 0m 0s 456ms
+Time for merging to contigs: 0h 0m 0s 233ms
+Database type: Nucleotide
+The input files have no entry:  - /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/BRADE_3151524_1/JBDOHO010098890.1_1.fasta
+Please check your input files. Only files in fasta/fastq[.gz|bz2] are supported
+Error: contigs createdb died
+Error: contigs createdb died
+
+Time for merging to contigs_h: 0h 0m 0s 534ms
+Time for merging to contigs: 0h 0m 0s 268ms
+Database type: Nucleotide
+The input files have no entry:  - /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/BRAAL_1260807_1/JBLNJJ010000484.1_1.fasta
+Please check your input files. Only files in fasta/fastq[.gz|bz2] are supported
+Error: contigs createdb died
+
+Time for merging to contigs_h: 0h 0m 0s 520ms
+Time for merging to contigs: 0h 0m 0s 252ms
+Database type: Nucleotide
+The input files have no entry:  - /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/BRAPE_1817611_1/JBDOHP010000230.1_1.fasta
+Please check your input files. Only files in fasta/fastq[.gz|bz2] are supported
+Error: contigs createdb died
+
+Time for merging to contigs_h: 0h 0m 0s 379ms
+Time for merging to contigs: 0h 0m 0s 249ms
+Database type: Nucleotide
+The input files have no entry:  - /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/BRAOC_1260802_1/JBLNJI010002952.1_1.fasta
+Please check your input files. Only files in fasta/fastq[.gz|bz2] are supported
+Error: contigs createdb died
+
+Time for merging to contigs_h: 0h 0m 0s 393ms
+Time for merging to contigs: 0h 0m 0s 252ms
+Database type: Nucleotide
+The input files have no entry:  - /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/LYCIN_767460_1/OZ247515.1_1.fasta
+Please check your input files. Only files in fasta/fastq[.gz|bz2] are supported
+Create directory /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/PSEHY_35572_1//metaeuk
+easy-predict /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/PSEHY_35572_1/CM055406.1_1.fasta /share/gluster/NOTLOESUNG/freya/uniref100/uniref100 /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/PSEHY_35572_1/CM055406.1_1 /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/PSEHY_35572_1//metaeuk --max-intron 130000 --max-seq-len 160000 --min-exon-aa 15 --max-overlap 15 --min-intron 5 --overlap 1 -s 6 --split 0 --remove-tmp-files 
+
+MMseqs Version:                                             	7.bba0d80
+Substitution matrix                                         	aa:blosum62.out,nucl:nucleotide.out
+Add backtrace                                               	false
+Alignment mode                                              	2
+Alignment mode                                              	0
+Allow wrapped scoring                                       	false
+E-value threshold                                           	100
+Seq. id. threshold                                          	0
+Min alignment length                                        	0
+Seq. id. mode                                               	0
+Alternative alignments                                      	0
+Coverage threshold                                          	0
+Coverage mode                                               	0
+Max sequence length                                         	160000
+Compositional bias                                          	1
+Compositional bias                                          	1
+Max reject                                                  	2147483647
+Max accept                                                  	2147483647
+Include identical seq. id.                                  	false
+Preload mode                                                	0
+Pseudo count a                                              	substitution:1.100,context:1.400
+Pseudo count b                                              	substitution:4.100,context:5.800
+Score bias                                                  	0
+Realign hits                                                	false
+Realign score bias                                          	-0.2
+Realign max seqs                                            	2147483647
+Correlation score weight                                    	0
+Gap open cost                                               	aa:11,nucl:5
+Gap extension cost                                          	aa:1,nucl:2
+Zdrop                                                       	40
+Threads                                                     	24
+Compressed                                                  	0
+Verbosity                                                   	3
+Seed substitution matrix                                    	aa:VTML80.out,nucl:nucleotide.out
+Sensitivity                                                 	6
+k-mer length                                                	0
+Target search mode                                          	0
+k-score                                                     	seq:2147483647,prof:2147483647
+Alphabet size                                               	aa:21,nucl:5
+Max results per query                                       	300
+Split database                                              	0
+Split mode                                                  	2
+Split memory limit                                          	0
+Diagonal scoring                                            	true
+Exact k-mer matching                                        	0
+Mask residues                                               	1
+Mask residues probability                                   	0.9
+Mask lower case residues                                    	0
+Minimum diagonal score                                      	15
+Selected taxa                                               	
+Spaced k-mers                                               	1
+Spaced k-mer pattern                                        	
+Local temporary path                                        	
+Rescore mode                                                	0
+Remove hits by seq. id. and coverage                        	false
+Sort results                                                	0
+Mask profile                                                	1
+Profile E-value threshold                                   	0.001
+Global sequence weighting                                   	false
+Allow deletions                                             	false
+Filter MSA                                                  	1
+Use filter only at N seqs                                   	0
+Maximum seq. id. threshold                                  	0.9
+Minimum seq. id.                                            	0.0
+Minimum score per column                                    	-20
+Minimum coverage                                            	0
+Select N most diverse seqs                                  	1000
+Pseudo count mode                                           	0
+Min codons in orf                                           	15
+Max codons in length                                        	32734
+Max orf gaps                                                	2147483647
+Contig start mode                                           	2
+Contig end mode                                             	2
+Orf start mode                                              	1
+Forward frames                                              	1,2,3
+Reverse frames                                              	1,2,3
+Translation table                                           	1
+Translate orf                                               	0
+Use all table starts                                        	false
+Offset of numeric ids                                       	0
+Create lookup                                               	0
+Overlap between sequences                                   	0
+Sequence split mode                                         	1
+Header split mode                                           	0
+Chain overlapping alignments                                	0
+Merge query                                                 	1
+Search type                                                 	0
+Start sensitivity                                           	4
+Search steps                                                	1
+Prefilter mode                                              	0
+Exhaustive search mode                                      	false
+Filter results during exhaustive search                     	0
+Strand selection                                            	1
+LCA search mode                                             	false
+Disk space limit                                            	0
+MPI runner                                                  	
+Force restart with latest tmp                               	false
+Remove temporary files                                      	true
+maximal combined evalue of an optimal set                   	0.001
+minimal length ratio between combined optimal set and target	0.5
+Maximal intron length                                       	130000
+Minimal intron length                                       	5
+Minimal exon length aa                                      	15
+Maximal overlap of exons                                    	15
+Maximal number of exon sets                                 	1
+Gap open penalty                                            	-1
+Gap extend penalty                                          	-1
+Reverse AA Fragments                                        	0
+allow same-strand overlaps                                  	1
+translate codons to AAs                                     	0
+write target key instead of accession                       	0
+write fragment contig coords                                	0
+length to scan for start codon                              	0
+
+
+Time for merging to contigs_h: 0h 0m 0s 371ms
+Time for merging to contigs: 0h 0m 0s 266ms
+Database type: Nucleotide
+The input files have no entry:  - /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/BRACO_1817600_1/JBDOHQ010010591.1_1.fasta
+Please check your input files. Only files in fasta/fastq[.gz|bz2] are supported
+Error: contigs createdb died
+Error: contigs createdb died
+
+Time for merging to contigs_h: 0h 0m 0s 215ms
+Time for merging to contigs: 0h 0m 0s 91ms
+Database type: Nucleotide
+The input files have no entry:  - /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/BRAOD_1564500_1/JAFDOW010000598.1_1.fasta
+Please check your input files. Only files in fasta/fastq[.gz|bz2] are supported
+Error: contigs createdb died
+
+Time for merging to contigs_h: 0h 0m 0s 213ms
+Time for merging to contigs: 0h 0m 0s 91ms
+Database type: Nucleotide
+The input files have no entry:  - /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/TRISP_1260884_1/JANVCI010223208.1_1.fasta
+Please check your input files. Only files in fasta/fastq[.gz|bz2] are supported
+Error: contigs createdb died
+createdb /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/PHYFL_1260839_1/JANTFA010007453.1_1.fasta /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/PHYFL_1260839_1//metaeuk/7794121050750546518/contigs --dbtype 2 --compressed 0 -v 3 
+
+Converting sequences
+File JANTFA010007453.1_1.fasta is empty or invalid and was ignored
+createdb /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/BRAIM_335710_1/OZ247434.1_1.fasta /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/BRAIM_335710_1//metaeuk/13548543462386617484/contigs --dbtype 2 --compressed 0 -v 3 
+
+Converting sequences
+File OZ247434.1_1.fasta is empty or invalid and was ignored
+createdb /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/PSEHY_35572_1/CM055406.1_1.fasta /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/PSEHY_35572_1//metaeuk/15546458376262299136/contigs --dbtype 2 --compressed 0 -v 3 
+
+Converting sequences
+File CM055406.1_1.fasta is empty or invalid and was ignored
+
+Time for merging to contigs_h: 0h 0m 0s 103ms
+Time for merging to contigs: 0h 0m 0s 144ms
+Database type: Nucleotide
+The input files have no entry:  - /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/BRAIM_335710_1/OZ247434.1_1.fasta
+Please check your input files. Only files in fasta/fastq[.gz|bz2] are supported
+Error: contigs createdb died
+
+Time for merging to contigs_h: 0h 0m 0s 95ms
+Time for merging to contigs: 0h 0m 0s 162ms
+Database type: Nucleotide
+The input files have no entry:  - /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/PHYFL_1260839_1/JANTFA010007453.1_1.fasta
+Please check your input files. Only files in fasta/fastq[.gz|bz2] are supported
+Error: contigs createdb died
+easy-predict /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/BRAIM_335710_1/OZ247434.1_2.fasta /share/gluster/NOTLOESUNG/freya/uniref100/uniref100 /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/BRAIM_335710_1/OZ247434.1_2 /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/BRAIM_335710_1//metaeuk --max-intron 130000 --max-seq-len 160000 --min-exon-aa 15 --max-overlap 15 --min-intron 5 --overlap 1 -s 6 --split 0 --remove-tmp-files 
+
+MMseqs Version:                                             	7.bba0d80
+Substitution matrix                                         	aa:blosum62.out,nucl:nucleotide.out
+Add backtrace                                               	false
+Alignment mode                                              	2
+Alignment mode                                              	0
+Allow wrapped scoring                                       	false
+E-value threshold                                           	100
+Seq. id. threshold                                          	0
+Min alignment length                                        	0
+Seq. id. mode                                               	0
+Alternative alignments                                      	0
+Coverage threshold                                          	0
+Coverage mode                                               	0
+Max sequence length                                         	160000
+Compositional bias                                          	1
+Compositional bias                                          	1
+Max reject                                                  	2147483647
+Max accept                                                  	2147483647
+Include identical seq. id.                                  	false
+Preload mode                                                	0
+Pseudo count a                                              	substitution:1.100,context:1.400
+Pseudo count b                                              	substitution:4.100,context:5.800
+Score bias                                                  	0
+Realign hits                                                	false
+Realign score bias                                          	-0.2
+Realign max seqs                                            	2147483647
+Correlation score weight                                    	0
+Gap open cost                                               	aa:11,nucl:5
+Gap extension cost                                          	aa:1,nucl:2
+Zdrop                                                       	40
+Threads                                                     	24
+Compressed                                                  	0
+Verbosity                                                   	3
+Seed substitution matrix                                    	aa:VTML80.out,nucl:nucleotide.out
+Sensitivity                                                 	6
+k-mer length                                                	0
+Target search mode                                          	0
+k-score                                                     	seq:2147483647,prof:2147483647
+Alphabet size                                               	aa:21,nucl:5
+Max results per query                                       	300
+Split database                                              	0
+Split mode                                                  	2
+Split memory limit                                          	0
+Diagonal scoring                                            	true
+Exact k-mer matching                                        	0
+Mask residues                                               	1
+Mask residues probability                                   	0.9
+Mask lower case residues                                    	0
+Minimum diagonal score                                      	15
+Selected taxa                                               	
+Spaced k-mers                                               	1
+Spaced k-mer pattern                                        	
+Local temporary path                                        	
+Rescore mode                                                	0
+Remove hits by seq. id. and coverage                        	false
+Sort results                                                	0
+Mask profile                                                	1
+Profile E-value threshold                                   	0.001
+Global sequence weighting                                   	false
+Allow deletions                                             	false
+Filter MSA                                                  	1
+Use filter only at N seqs                                   	0
+Maximum seq. id. threshold                                  	0.9
+Minimum seq. id.                                            	0.0
+Minimum score per column                                    	-20
+Minimum coverage                                            	0
+Select N most diverse seqs                                  	1000
+Pseudo count mode                                           	0
+Min codons in orf                                           	15
+Max codons in length                                        	32734
+Max orf gaps                                                	2147483647
+Contig start mode                                           	2
+Contig end mode                                             	2
+Orf start mode                                              	1
+Forward frames                                              	1,2,3
+Reverse frames                                              	1,2,3
+Translation table                                           	1
+Translate orf                                               	0
+Use all table starts                                        	false
+Offset of numeric ids                                       	0
+Create lookup                                               	0
+Overlap between sequences                                   	0
+Sequence split mode                                         	1
+Header split mode                                           	0
+Chain overlapping alignments                                	0
+Merge query                                                 	1
+Search type                                                 	0
+Start sensitivity                                           	4
+Search steps                                                	1
+Prefilter mode                                              	0
+Exhaustive search mode                                      	false
+Filter results during exhaustive search                     	0
+Strand selection                                            	1
+LCA search mode                                             	false
+Disk space limit                                            	0
+MPI runner                                                  	
+Force restart with latest tmp                               	false
+Remove temporary files                                      	true
+maximal combined evalue of an optimal set                   	0.001
+minimal length ratio between combined optimal set and target	0.5
+Maximal intron length                                       	130000
+Minimal intron length                                       	5
+Minimal exon length aa                                      	15
+Maximal overlap of exons                                    	15
+Maximal number of exon sets                                 	1
+Gap open penalty                                            	-1
+Gap extend penalty                                          	-1
+Reverse AA Fragments                                        	0
+allow same-strand overlaps                                  	1
+translate codons to AAs                                     	0
+write target key instead of accession                       	0
+write fragment contig coords                                	0
+length to scan for start codon                              	0
+
+
+Time for merging to contigs_h: 0h 0m 0s 137ms
+Time for merging to contigs: 0h 0m 0s 142ms
+Database type: Nucleotide
+The input files have no entry:  - /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/PSEHY_35572_1/CM055406.1_1.fasta
+Please check your input files. Only files in fasta/fastq[.gz|bz2] are supported
+Error: contigs createdb died
+createdb /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/BRAIM_335710_1/OZ247434.1_2.fasta /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/BRAIM_335710_1//metaeuk/2863788774070056237/contigs --dbtype 2 --compressed 0 -v 3 
+
+Converting sequences
+File OZ247434.1_2.fasta is empty or invalid and was ignored
+BLAST Database error: Database memory map file error
+BLAST Database error: Database memory map file error
+BLAST Database error: Database memory map file error
+BLAST Database error: Database memory map file error
+BLAST Database error: Database memory map file error
+BLAST Database error: Database memory map file error
+BLAST Database error: Database memory map file error
+BLAST Database error: Database memory map file error
+BLAST Database error: Database memory map file error
+BLAST Database error: Database memory map file error
+BLAST Database error: Database memory map file error
+ 15%|█▌        | 2/13 [00:17<01:47,  9.74s/it]
+Time for merging to contigs_h: 0h 0m 0s 101ms
+Time for merging to contigs: 0h 0m 0s 76ms
+Database type: Nucleotide
+The input files have no entry:  - /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/BRAIM_335710_1/OZ247434.1_2.fasta
+Please check your input files. Only files in fasta/fastq[.gz|bz2] are supported
+Error: contigs createdb died
+easy-predict /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/BRAIM_335710_1/OZ247434.1_3.fasta /share/gluster/NOTLOESUNG/freya/uniref100/uniref100 /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/BRAIM_335710_1/OZ247434.1_3 /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/BRAIM_335710_1//metaeuk --max-intron 130000 --max-seq-len 160000 --min-exon-aa 15 --max-overlap 15 --min-intron 5 --overlap 1 -s 6 --split 0 --remove-tmp-files 
+
+MMseqs Version:                                             	7.bba0d80
+Substitution matrix                                         	aa:blosum62.out,nucl:nucleotide.out
+Add backtrace                                               	false
+Alignment mode                                              	2
+Alignment mode                                              	0
+Allow wrapped scoring                                       	false
+E-value threshold                                           	100
+Seq. id. threshold                                          	0
+Min alignment length                                        	0
+Seq. id. mode                                               	0
+Alternative alignments                                      	0
+Coverage threshold                                          	0
+Coverage mode                                               	0
+Max sequence length                                         	160000
+Compositional bias                                          	1
+Compositional bias                                          	1
+Max reject                                                  	2147483647
+Max accept                                                  	2147483647
+Include identical seq. id.                                  	false
+Preload mode                                                	0
+Pseudo count a                                              	substitution:1.100,context:1.400
+Pseudo count b                                              	substitution:4.100,context:5.800
+Score bias                                                  	0
+Realign hits                                                	false
+Realign score bias                                          	-0.2
+Realign max seqs                                            	2147483647
+Correlation score weight                                    	0
+Gap open cost                                               	aa:11,nucl:5
+Gap extension cost                                          	aa:1,nucl:2
+Zdrop                                                       	40
+Threads                                                     	24
+Compressed                                                  	0
+Verbosity                                                   	3
+Seed substitution matrix                                    	aa:VTML80.out,nucl:nucleotide.out
+Sensitivity                                                 	6
+k-mer length                                                	0
+Target search mode                                          	0
+k-score                                                     	seq:2147483647,prof:2147483647
+Alphabet size                                               	aa:21,nucl:5
+Max results per query                                       	300
+Split database                                              	0
+Split mode                                                  	2
+Split memory limit                                          	0
+Diagonal scoring                                            	true
+Exact k-mer matching                                        	0
+Mask residues                                               	1
+Mask residues probability                                   	0.9
+Mask lower case residues                                    	0
+Minimum diagonal score                                      	15
+Selected taxa                                               	
+Spaced k-mers                                               	1
+Spaced k-mer pattern                                        	
+Local temporary path                                        	
+Rescore mode                                                	0
+Remove hits by seq. id. and coverage                        	false
+Sort results                                                	0
+Mask profile                                                	1
+Profile E-value threshold                                   	0.001
+Global sequence weighting                                   	false
+Allow deletions                                             	false
+Filter MSA                                                  	1
+Use filter only at N seqs                                   	0
+Maximum seq. id. threshold                                  	0.9
+Minimum seq. id.                                            	0.0
+Minimum score per column                                    	-20
+Minimum coverage                                            	0
+Select N most diverse seqs                                  	1000
+Pseudo count mode                                           	0
+Min codons in orf                                           	15
+Max codons in length                                        	32734
+Max orf gaps                                                	2147483647
+Contig start mode                                           	2
+Contig end mode                                             	2
+Orf start mode                                              	1
+Forward frames                                              	1,2,3
+Reverse frames                                              	1,2,3
+Translation table                                           	1
+Translate orf                                               	0
+Use all table starts                                        	false
+Offset of numeric ids                                       	0
+Create lookup                                               	0
+Overlap between sequences                                   	0
+Sequence split mode                                         	1
+Header split mode                                           	0
+Chain overlapping alignments                                	0
+Merge query                                                 	1
+Search type                                                 	0
+Start sensitivity                                           	4
+Search steps                                                	1
+Prefilter mode                                              	0
+Exhaustive search mode                                      	false
+Filter results during exhaustive search                     	0
+Strand selection                                            	1
+LCA search mode                                             	false
+Disk space limit                                            	0
+MPI runner                                                  	
+Force restart with latest tmp                               	false
+Remove temporary files                                      	true
+maximal combined evalue of an optimal set                   	0.001
+minimal length ratio between combined optimal set and target	0.5
+Maximal intron length                                       	130000
+Minimal intron length                                       	5
+Minimal exon length aa                                      	15
+Maximal overlap of exons                                    	15
+Maximal number of exon sets                                 	1
+Gap open penalty                                            	-1
+Gap extend penalty                                          	-1
+Reverse AA Fragments                                        	0
+allow same-strand overlaps                                  	1
+translate codons to AAs                                     	0
+write target key instead of accession                       	0
+write fragment contig coords                                	0
+length to scan for start codon                              	0
+
+createdb /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/BRAIM_335710_1/OZ247434.1_3.fasta /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/BRAIM_335710_1//metaeuk/10625778159463046606/contigs --dbtype 2 --compressed 0 -v 3 
+
+Converting sequences
+File OZ247434.1_3.fasta is empty or invalid and was ignored
+
+Time for merging to contigs_h: 0h 0m 0s 104ms
+Time for merging to contigs: 0h 0m 0s 90ms
+Database type: Nucleotide
+The input files have no entry:  - /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/BRAIM_335710_1/OZ247434.1_3.fasta
+Please check your input files. Only files in fasta/fastq[.gz|bz2] are supported
+Error: contigs createdb died
+easy-predict /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/BRAIM_335710_1/OZ247436.1_1.fasta /share/gluster/NOTLOESUNG/freya/uniref100/uniref100 /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/BRAIM_335710_1/OZ247436.1_1 /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/BRAIM_335710_1//metaeuk --max-intron 130000 --max-seq-len 160000 --min-exon-aa 15 --max-overlap 15 --min-intron 5 --overlap 1 -s 6 --split 0 --remove-tmp-files 
+
+MMseqs Version:                                             	7.bba0d80
+Substitution matrix                                         	aa:blosum62.out,nucl:nucleotide.out
+Add backtrace                                               	false
+Alignment mode                                              	2
+Alignment mode                                              	0
+Allow wrapped scoring                                       	false
+E-value threshold                                           	100
+Seq. id. threshold                                          	0
+Min alignment length                                        	0
+Seq. id. mode                                               	0
+Alternative alignments                                      	0
+Coverage threshold                                          	0
+Coverage mode                                               	0
+Max sequence length                                         	160000
+Compositional bias                                          	1
+Compositional bias                                          	1
+Max reject                                                  	2147483647
+Max accept                                                  	2147483647
+Include identical seq. id.                                  	false
+Preload mode                                                	0
+Pseudo count a                                              	substitution:1.100,context:1.400
+Pseudo count b                                              	substitution:4.100,context:5.800
+Score bias                                                  	0
+Realign hits                                                	false
+Realign score bias                                          	-0.2
+Realign max seqs                                            	2147483647
+Correlation score weight                                    	0
+Gap open cost                                               	aa:11,nucl:5
+Gap extension cost                                          	aa:1,nucl:2
+Zdrop                                                       	40
+Threads                                                     	24
+Compressed                                                  	0
+Verbosity                                                   	3
+Seed substitution matrix                                    	aa:VTML80.out,nucl:nucleotide.out
+Sensitivity                                                 	6
+k-mer length                                                	0
+Target search mode                                          	0
+k-score                                                     	seq:2147483647,prof:2147483647
+Alphabet size                                               	aa:21,nucl:5
+Max results per query                                       	300
+Split database                                              	0
+Split mode                                                  	2
+Split memory limit                                          	0
+Diagonal scoring                                            	true
+Exact k-mer matching                                        	0
+Mask residues                                               	1
+Mask residues probability                                   	0.9
+Mask lower case residues                                    	0
+Minimum diagonal score                                      	15
+Selected taxa                                               	
+Spaced k-mers                                               	1
+Spaced k-mer pattern                                        	
+Local temporary path                                        	
+Rescore mode                                                	0
+Remove hits by seq. id. and coverage                        	false
+Sort results                                                	0
+Mask profile                                                	1
+Profile E-value threshold                                   	0.001
+Global sequence weighting                                   	false
+Allow deletions                                             	false
+Filter MSA                                                  	1
+Use filter only at N seqs                                   	0
+Maximum seq. id. threshold                                  	0.9
+Minimum seq. id.                                            	0.0
+Minimum score per column                                    	-20
+Minimum coverage                                            	0
+Select N most diverse seqs                                  	1000
+Pseudo count mode                                           	0
+Min codons in orf                                           	15
+Max codons in length                                        	32734
+Max orf gaps                                                	2147483647
+Contig start mode                                           	2
+Contig end mode                                             	2
+Orf start mode                                              	1
+Forward frames                                              	1,2,3
+Reverse frames                                              	1,2,3
+Translation table                                           	1
+Translate orf                                               	0
+Use all table starts                                        	false
+Offset of numeric ids                                       	0
+Create lookup                                               	0
+Overlap between sequences                                   	0
+Sequence split mode                                         	1
+Header split mode                                           	0
+Chain overlapping alignments                                	0
+Merge query                                                 	1
+Search type                                                 	0
+Start sensitivity                                           	4
+Search steps                                                	1
+Prefilter mode                                              	0
+Exhaustive search mode                                      	false
+Filter results during exhaustive search                     	0
+Strand selection                                            	1
+LCA search mode                                             	false
+Disk space limit                                            	0
+MPI runner                                                  	
+Force restart with latest tmp                               	false
+Remove temporary files                                      	true
+maximal combined evalue of an optimal set                   	0.001
+minimal length ratio between combined optimal set and target	0.5
+Maximal intron length                                       	130000
+Minimal intron length                                       	5
+Minimal exon length aa                                      	15
+Maximal overlap of exons                                    	15
+Maximal number of exon sets                                 	1
+Gap open penalty                                            	-1
+Gap extend penalty                                          	-1
+Reverse AA Fragments                                        	0
+allow same-strand overlaps                                  	1
+translate codons to AAs                                     	0
+write target key instead of accession                       	0
+write fragment contig coords                                	0
+length to scan for start codon                              	0
+
+createdb /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/BRAIM_335710_1/OZ247436.1_1.fasta /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/BRAIM_335710_1//metaeuk/6882534480523951566/contigs --dbtype 2 --compressed 0 -v 3 
+
+Converting sequences
+File OZ247436.1_1.fasta is empty or invalid and was ignored
+
+Time for merging to contigs_h: 0h 0m 0s 93ms
+Time for merging to contigs: 0h 0m 0s 97ms
+Database type: Nucleotide
+The input files have no entry:  - /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/tmp/BRAIM_335710_1/OZ247436.1_1.fasta
+Please check your input files. Only files in fasta/fastq[.gz|bz2] are supported
+Error: contigs createdb died
+BLAST Database error: Database memory map file error
+100%|██████████| 13/13 [00:20<00:00,  1.16s/it]100%|██████████| 13/13 [00:20<00:00,  1.56s/it]
+Searching in species RHISO@456999@v1
+
+Time miniprot 3.814488172531128 in species RHISO@456999@v1
+No candidate region found for species RHISO@456999@v1!
+
+Searching in species BRAPE@1817611@1
+
+Time miniprot 11.779470205307007 in species BRAPE@1817611@1
+1 candiate region(s) were found for species BRAPE@1817611@1.
+
+Time metaeuk: 4.121466875076294 species BRAPE@1817611@1 
+
+No ortholog fulfilled the reciprocity criteria for species BRAPE@1817611@1.
+
+Searching in species LYCIN@767460@1
+
+Time miniprot 13.55192255973816 in species LYCIN@767460@1
+1 candiate region(s) were found for species LYCIN@767460@1.
+
+Time metaeuk: 2.7137057781219482 species LYCIN@767460@1 
+
+No ortholog fulfilled the reciprocity criteria for species LYCIN@767460@1.
+
+Searching in species TRISP@1260884@1
+
+Time miniprot 14.738287687301636 in species TRISP@1260884@1
+1 candiate region(s) were found for species TRISP@1260884@1.
+
+Time metaeuk: 1.367391586303711 species TRISP@1260884@1 
+
+No ortholog fulfilled the reciprocity criteria for species TRISP@1260884@1.
+
+Searching in species BRAOD@1564500@1
+
+Time miniprot 14.270780563354492 in species BRAOD@1564500@1
+1 candiate region(s) were found for species BRAOD@1564500@1.
+
+Time metaeuk: 1.320012092590332 species BRAOD@1564500@1 
+
+No ortholog fulfilled the reciprocity criteria for species BRAOD@1564500@1.
+
+Searching in species BRACO@1817600@1
+
+Time miniprot 13.117150068283081 in species BRACO@1817600@1
+1 candiate region(s) were found for species BRACO@1817600@1.
+
+Time metaeuk: 2.7343039512634277 species BRACO@1817600@1 
+
+No ortholog fulfilled the reciprocity criteria for species BRACO@1817600@1.
+
+Searching in species PHYFL@1260839@1
+
+Time miniprot 15.396909952163696 in species PHYFL@1260839@1
+1 candiate region(s) were found for species PHYFL@1260839@1.
+
+Time metaeuk: 0.9707670211791992 species PHYFL@1260839@1 
+
+No ortholog fulfilled the reciprocity criteria for species PHYFL@1260839@1.
+
+Searching in species BRAAL@1260807@1
+
+Time miniprot 11.432076930999756 in species BRAAL@1260807@1
+1 candiate region(s) were found for species BRAAL@1260807@1.
+
+Time metaeuk: 4.13031005859375 species BRAAL@1260807@1 
+
+No ortholog fulfilled the reciprocity criteria for species BRAAL@1260807@1.
+
+Searching in species LYCAG@1887995@1
+
+Time miniprot 9.69558835029602 in species LYCAG@1887995@1
+1 candiate region(s) were found for species LYCAG@1887995@1.
+
+Time metaeuk: 5.492936372756958 species LYCAG@1887995@1 
+
+No ortholog fulfilled the reciprocity criteria for species LYCAG@1887995@1.
+
+Searching in species BRADE@3151524@1
+
+Time miniprot 12.21934461593628 in species BRADE@3151524@1
+1 candiate region(s) were found for species BRADE@3151524@1.
+
+Time metaeuk: 3.8010878562927246 species BRADE@3151524@1 
+
+No ortholog fulfilled the reciprocity criteria for species BRADE@3151524@1.
+
+Searching in species PSEHY@35572@1
+
+Time miniprot 15.95880675315857 in species PSEHY@35572@1
+1 candiate region(s) were found for species PSEHY@35572@1.
+
+Time metaeuk: 0.8195281028747559 species PSEHY@35572@1 
+
+No ortholog fulfilled the reciprocity criteria for species PSEHY@35572@1.
+
+Searching in species BRAOC@1260802@1
+
+Time miniprot 12.970649003982544 in species BRAOC@1260802@1
+1 candiate region(s) were found for species BRAOC@1260802@1.
+
+Time metaeuk: 2.6798219680786133 species BRAOC@1260802@1 
+
+No ortholog fulfilled the reciprocity criteria for species BRAOC@1260802@1.
+
+Searching in species BRAIM@335710@1
+
+Time miniprot 14.697001218795776 in species BRAIM@335710@1
+4 candiate region(s) were found for species BRAIM@335710@1.
+
+Time metaeuk: 2.856813430786133 species BRAIM@335710@1 
+
+No ortholog fulfilled the reciprocity criteria for species BRAIM@335710@1.
+
+	 ...finished 
+
+Calculating FAS scores ...
+	 ...finished 
+
+Error during gene prediction with metaeuk, using miniprot predictions for species BRAPE@1817611@1
+No gene predicted with augustus or metaeuk, using miniprot predictions for species BRAPE@1817611@1
+Error during gene prediction with metaeuk, using miniprot predictions for species LYCIN@767460@1
+No gene predicted with augustus or metaeuk, using miniprot predictions for species LYCIN@767460@1
+Error during gene prediction with metaeuk, using miniprot predictions for species TRISP@1260884@1
+No gene predicted with augustus or metaeuk, using miniprot predictions for species TRISP@1260884@1
+Error during gene prediction with metaeuk, using miniprot predictions for species BRAOD@1564500@1
+No gene predicted with augustus or metaeuk, using miniprot predictions for species BRAOD@1564500@1
+Error during gene prediction with metaeuk, using miniprot predictions for species BRACO@1817600@1
+No gene predicted with augustus or metaeuk, using miniprot predictions for species BRACO@1817600@1
+Error during gene prediction with metaeuk, using miniprot predictions for species PHYFL@1260839@1
+No gene predicted with augustus or metaeuk, using miniprot predictions for species PHYFL@1260839@1
+fDOG-Assembly finished completely in 32.93s ( Group preparation: 0.05s 	Ortholog search: 20.41s 	FAS: 12.42s)
+Outputs are saved at /share/project/mieke/fdog_neighbor_regions/output_debug/XP_037025795_1_LOC119067126_337/

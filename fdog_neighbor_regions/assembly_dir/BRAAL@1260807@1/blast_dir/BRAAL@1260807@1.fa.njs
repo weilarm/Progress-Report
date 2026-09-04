@@ -1,0 +1,24 @@
+{
+  "version": "1.2",
+  "dbname": "BRAAL@1260807@1.fa",
+  "dbtype": "Nucleotide",
+  "db-version": 5,
+  "description": "/share/project/mieke/fdog_neighbor_regions/assembly_dir//BRAAL@1260807@1/BRAAL@1260807@1.fa",
+  "number-of-letters": 241875384,
+  "number-of-sequences": 224417,
+  "last-updated": "2026-09-01T09:54:00",
+  "number-of-volumes": 1,
+  "bytes-total": 126531608,
+  "bytes-to-cache": 63329815,
+  "files": [
+    "BRAAL@1260807@1.fa.ndb",
+    "BRAAL@1260807@1.fa.nhr",
+    "BRAAL@1260807@1.fa.nin",
+    "BRAAL@1260807@1.fa.nog",
+    "BRAAL@1260807@1.fa.nos",
+    "BRAAL@1260807@1.fa.not",
+    "BRAAL@1260807@1.fa.nsq",
+    "BRAAL@1260807@1.fa.ntf",
+    "BRAAL@1260807@1.fa.nto"
+  ]
+}

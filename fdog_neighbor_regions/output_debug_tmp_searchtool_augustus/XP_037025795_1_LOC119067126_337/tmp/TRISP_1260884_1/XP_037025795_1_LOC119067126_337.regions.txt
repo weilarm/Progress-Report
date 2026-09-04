@@ -1,0 +1,2 @@
+Contig/scaffold	start	end	Tool
+JANVCI010223208.1	0	21806	

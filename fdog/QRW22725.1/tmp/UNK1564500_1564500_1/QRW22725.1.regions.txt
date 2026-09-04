@@ -1,0 +1,2 @@
+Contig/scaffold	start	end	Tool
+JAFDOW010000370.1	68016	109231	MetaEuk

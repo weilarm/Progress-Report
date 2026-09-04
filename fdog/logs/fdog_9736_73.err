@@ -1,0 +1,2 @@
+  0%|          | 0/12 [00:00<?, ?it/s]  8%|▊         | 1/12 [6:40:37<73:26:53, 24037.56s/it] 17%|█▋        | 2/12 [13:11:53<65:51:12, 23707.21s/it] 25%|██▌       | 3/12 [19:53:05<59:41:02, 23873.62s/it] 33%|███▎      | 4/12 [26:29:34<52:58:41, 23840.20s/it] 42%|████▏     | 5/12 [33:02:09<46:09:22, 23737.55s/it]Bus error
+/var/spool/slurm/slurmd/job19358/slurm_script: line 16: 896098 Bus error               fdog.assembly --gene "$INPUT" --refSpec RHISO@456999@016906535_1 --metaeukDb /share/gluster/NOTLOESUNG/freya/uniref100/uniref100 --dataPath /share/project/mieke/fdog

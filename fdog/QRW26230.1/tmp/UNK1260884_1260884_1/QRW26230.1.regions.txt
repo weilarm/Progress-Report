@@ -1,0 +1,3 @@
+Contig/scaffold	start	end	Tool
+JANVCI010213089.1	0	2484	MetaEuk
+JANVCI010055669.1	0	7284	MetaEuk

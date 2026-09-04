@@ -1,0 +1,8 @@
+c_name,num_of_genes,lca,lcaID,percentage_target,most_abundant_taxon,target_bitscore_mean,target_bitscore_sd,target_evalue_mean,target_evalue_sd,other_bitscore_mean,other_bitscore_sd,other_evalue_mean,other_evalue_sd
+contig_983,1,Nematocera,7148,1.0,Nematocera,51.2,,0.000738,,,,,
+contig_283,2,cellular organisms,131567,0.5,cellular organisms,73.9,,9.19e-15,,49.7,,1.02e-06,
+contig_455,3,Terrabacteria group,1783272,0,Microbacterium,,,,,178.2,191.22,5.743333333333334e-10,9.407424372979745e-10
+contig_1746,4,Bacteroidota,976,0,Bacteroidota,,,,,182.25,47.3,1.285e-27,2.5699999999999998e-27
+contig_289,2,cellular organisms,131567,0.5,Escherichia coli,100.0,,7.37e-26,,70.5,,9.55e-15,
+contig_290,9,root,1,0.4444444444444444,cellular organisms,135.52,128.66,1.6628475000784998e-10,3.324768397850229e-10,128.0,48.01,4.1999999999999997e-16,9.391485505499115e-16
+contig_291,22,cellular organisms,131567,0.5454545454545454,Neoptera,204.23,136.55,3.73117241666667e-10,1.290185219262522e-09,132.01,111.05,4.816100000030982e-07,1.5208424306201025e-06

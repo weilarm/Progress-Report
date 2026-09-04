@@ -1,0 +1,28 @@
+Gene: QRW27037.1
+fDOG reference species: RHISO@456999@016906535_1 
+
+Building a consensus sequence
+	 ...finished
+
+Checking candidate regions...
+Checking candidate regions...
+Checking candidate regions...
+[INFO] No gene prediction for UNK1887995@1887995@1 JBDOHN010108410.1:0-20683 — falling back to Miniprot
+[INFO] Added Miniprot fallback: QRW27037.1|UNK1887995@1887995@1|MP000001
+Error during gene prediction with metaeuk, using miniprot predictions for species UNK1564500@1564500@1
+Checking candidate regions...
+[INFO] No gene prediction for UNK1564500@1564500@1 JAFDOW010000809.1:52266-99987 — falling back to Miniprot
+[INFO] Added Miniprot fallback: QRW27037.1|UNK1564500@1564500@1|MP000003
+Checking candidate regions...
+[INFO] No gene prediction for UNK35572@35572@1 WJQU01004528.1:0-22660 — falling back to Miniprot
+[INFO] Added Miniprot fallback: QRW27037.1|UNK35572@35572@1|MP000001
+Checking candidate regions...
+[INFO] No gene prediction for UNK1817611@1817611@1 JBDOHP010000628.1:0-28900 — falling back to Miniprot
+[INFO] Added Miniprot fallback: QRW27037.1|UNK1817611@1817611@1|MP000001
+Error during gene prediction with metaeuk, using miniprot predictions for species UNK767460@767460@1
+No gene predicted with augustus or metaeuk, using miniprot predictions for species UNK767460@767460@1
+Calculating FAS scores ...
+	 ...finished 
+
+fDOG-Assembly finished completely in 164310.95s ( Group preparation: 0.05s 	Ortholog search: 164293.44s 	FAS: 17.19s)
+Outputs are saved at /share/project/mieke/fdog/QRW27037.1/

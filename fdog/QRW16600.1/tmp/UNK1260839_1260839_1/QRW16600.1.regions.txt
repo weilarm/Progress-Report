@@ -1,0 +1,3 @@
+Contig/scaffold	start	end	Tool
+JANTFA010119470.1	0	5148	MetaEuk
+JANTFA010001899.1	0	7538	MetaEuk

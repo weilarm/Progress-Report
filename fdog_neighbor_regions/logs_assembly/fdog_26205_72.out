@@ -1,0 +1,34 @@
+QRW27021.1	XP_037043383.1	XP_037043413.1	LOC119079533	NW_023503584.1	3074989	3076270	True	XP_037043413.1|LOC119079533|251
+True
+XP_037043383.1
+XP_037043413.1
+XP_037043413.1|LOC119079533|251
+XP_037043413_1_LOC119079533_251
+Gene: XP_037043413_1_LOC119079533_251
+fDOG reference species: BRACO@38358@014529535_1 
+
+Building a consensus sequence
+	 ...finished
+
+Searching for orthologs ...
+	 ...finished 
+
+Calculating FAS scores ...
+	 ...finished 
+
+Error during gene prediction with metaeuk, using miniprot predictions for species BRAAL@1260807@1
+No gene predicted with augustus or metaeuk, using miniprot predictions for species BRAAL@1260807@1
+Error during gene prediction with metaeuk, using miniprot predictions for species TRISP@1260884@1
+No gene predicted with augustus or metaeuk, using miniprot predictions for species TRISP@1260884@1
+Error during gene prediction with metaeuk, using miniprot predictions for species LYCAG@1887995@1
+No gene predicted with augustus or metaeuk, using miniprot predictions for species LYCAG@1887995@1
+Error during gene prediction with metaeuk, using miniprot predictions for species BRACO@1817600@1
+No gene predicted with augustus or metaeuk, using miniprot predictions for species BRACO@1817600@1
+Error during gene prediction with metaeuk, using miniprot predictions for species PSEHY@35572@1
+No gene predicted with augustus or metaeuk, using miniprot predictions for species PSEHY@35572@1
+Error during gene prediction with metaeuk, using miniprot predictions for species BRAOC@1260802@1
+No gene predicted with augustus or metaeuk, using miniprot predictions for species BRAOC@1260802@1
+Error during gene prediction with metaeuk, using miniprot predictions for species BRAIM@335710@1
+No gene predicted with augustus or metaeuk, using miniprot predictions for species BRAIM@335710@1
+fDOG-Assembly finished completely in 18.08s ( Group preparation: 0.04s 	Ortholog search: 5.1s 	FAS: 12.88s)
+Outputs are saved at /share/project/mieke/fdog_neighbor_regions/XP_037043383.1/output/XP_037043413_1_LOC119079533_251/

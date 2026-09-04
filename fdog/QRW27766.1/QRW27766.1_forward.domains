@@ -1,0 +1,2 @@
+# pairID	orthoID	seqLen	feature	fStart	fEnd	fWeight	fPath	interProID	e-value	bitScore	pStart	pEnd	pLen
+QRW27766.1#QRW27766.1|RHISO@456999@016906535_1|XP_043188003.1	QRW27766.1|RHISO@456999@016906535_1|XP_043188003.1	325	pfam_Glyco_hydro_28	12	321	1.0	Y	PF00295	1.8e-65	207.1	30	313	325

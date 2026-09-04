@@ -1,0 +1,43 @@
+# Metadata file generated automatically by FAS
+FAS_version: 1.19.7
+command_line: /share/gluster/Projects/vinh/conda_envs/fdog_latest/bin/fas.run --seed /share/project/mieke/fdog/core_orthologs//QRW22317.1/QRW22317.1.fa --query /share/project/mieke/fdog/QRW22317.1//QRW22317.1_og.fa --annotation_dir /share/project/mieke/fdog/QRW22317.1//tmp/anno_dir --bidirectional --tsv --phyloprofile /share/project/mieke/fdog/QRW22317.1//tmp/QRW22317.1.mapping.txt --seed_id QRW22317.1|RHISO@456999@016906535_1|XP_043182554.1 --out_dir /share/project/mieke/fdog/QRW22317.1/ --out_name QRW22317.1
+seed: /share/project/mieke/fdog/core_orthologs/QRW22317.1/QRW22317.1.fa
+query: /share/project/mieke/fdog/QRW22317.1/QRW22317.1_og.fa
+annotation_dir: /share/project/mieke/fdog/QRW22317.1/tmp/anno_dir
+out_dir: /share/project/mieke/fdog/QRW22317.1
+bidirectional: True
+cpus: 0
+forceAnno: False
+eFeature: 0.001
+eInstance: 0.01
+eFlps: 1e-07
+org: euk
+toolPath: 
+ref_proteome: None
+ref_2: None
+weight_correction: loge
+weight_constraints: None
+query_id: None
+seed_id: ['QRW22317.1|RHISO@456999@016906535_1|XP_043182554.1']
+pairwise: None
+oldJson: 
+featuretypes: 
+extra_annotation: None
+out_name: QRW22317.1
+raw: False
+tsv: True
+json: False
+phyloprofile: /share/project/mieke/fdog/QRW22317.1/tmp/QRW22317.1.mapping.txt
+domain: True
+config: True
+force: False
+silent: False
+max_overlap: 0
+max_overlap_percentage: 0.4
+priority_threshold: 30
+max_cardinality: 500
+paths_limit: 0
+priority_mode: True
+timelimit: 3600
+score_weights: [0.7, 0.0, 0.3]
+empty_as_1: False

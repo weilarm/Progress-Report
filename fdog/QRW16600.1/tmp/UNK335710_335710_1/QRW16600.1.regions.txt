@@ -1,0 +1,2 @@
+Contig/scaffold	start	end	Tool
+OZ247438.1	19452502	19494634	MetaEuk

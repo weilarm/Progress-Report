@@ -1,0 +1,2 @@
+# pairID	orthoID	seqLen	feature	fStart	fEnd	fWeight	fPath	interProID	e-value	bitScore	pStart	pEnd	pLen
+QRW15720.1#QRW15720.1|RHISO@456999@016906535_1|XP_043175957.1	QRW15720.1|RHISO@456999@016906535_1|XP_043175957.1	480	signalp_SIGNALP	1	17	1.0	Y	NA	NA	NA	NA	NA	NA

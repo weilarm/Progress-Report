@@ -1,0 +1,139 @@
+Query taxon: Bradysia coprophila (NCBI ID: 38358)
+Assigend label for query: Eumetazoa
+
+Total number of distinct taxonomic assignments: 601
+Taxonomic assignments not in target lineage: 582 (96.84%)
+
+Following taxa for rank "superkingdom" are present in the assembly ("taxon"	"gene count"):
+Eukaryota:	34243
+Bacteria:	218
+Archaea:	5
+Viruses:	3
+Following taxa for rank "kingdom" are present in the assembly ("taxon"	"gene count"):
+Metazoa:	33889
+Fungi:	170
+Viridiplantae:	75
+Heunggongvirae:	1
+Orthornavirae:	1
+Bamfordvirae:	1
+Following taxa for rank "phylum" are present in the assembly ("taxon"	"gene count"):
+Arthropoda:	33374
+Rotifera:	75
+Chordata:	106
+Nematoda:	56
+Mollusca:	53
+Tardigrada:	41
+Pseudomonadota:	68
+Bacteroidota:	36
+Ascomycota:	103
+Zoopagomycota:	15
+Streptophyta:	72
+Platyhelminthes:	29
+Mucoromycota:	19
+Actinomycetota:	19
+Olpidiomycota:	4
+Basidiomycota:	9
+Oomycota:	14
+Ciliophora:	3
+Mycoplasmatota:	3
+Cnidaria:	6
+Chytridiomycota:	5
+Evosea:	3
+Chlorophyta:	2
+Chloroflexota:	2
+Euryarchaeota:	3
+Apicomplexa:	3
+Bacillota:	7
+Parabasalia:	1
+Annelida:	1
+Candidatus Micrarchaeota:	1
+Uroviricota:	1
+Candidatus Moranbacteria:	1
+Euglenozoa:	2
+Candidatus Rokubacteria:	1
+Candidatus Thermoplasmatota:	1
+Synergistota:	1
+Myxococcota:	1
+Blastocladiomycota:	1
+Duplornaviricota:	1
+Nucleocytoviricota:	1
+Rhodophyta:	1
+Echinodermata:	1
+Following taxa for rank "class" are present in the assembly ("taxon"	"gene count"):
+Insecta:	32774
+Collembola:	239
+Eurotatoria:	75
+Actinopteri:	71
+Enoplea:	43
+Bivalvia:	42
+Malacostraca:	32
+Eutardigrada:	41
+Arachnida:	142
+Gammaproteobacteria:	46
+Flavobacteriia:	18
+Saccharomycetes:	42
+Harpellomycetes:	14
+Leotiomycetes:	12
+Magnoliopsida:	62
+Trematoda:	25
+Sphingobacteriia:	9
+Amphibia:	10
+Branchiopoda:	10
+Alphaproteobacteria:	16
+Gastropoda:	9
+Endogonomycetes:	8
+Chromadorea:	13
+Actinomycetes:	17
+Sordariomycetes:	21
+Olpidiomycetes:	4
+Mucoromycetes:	5
+Agaricomycetes:	5
+Mortierellomycetes:	4
+Spirotrichea:	3
+Mollicutes:	3
+Mammalia:	13
+Cestoda:	4
+Wallemiomycetes:	2
+Dothideomycetes:	5
+Anthozoa:	4
+Chytridiomycetes:	4
+Eumycetozoa:	3
+Betaproteobacteria:	2
+Chlorophyceae:	2
+Hexanauplia:	4
+Marchantiopsida:	2
+Aconoidasida:	3
+Bacilli:	4
+Myxozoa:	1
+Clitellata:	1
+Aves:	5
+Deltaproteobacteria:	2
+Microbotryomycetes:	2
+Cephalopoda:	1
+Bryopsida:	1
+Pneumocystomycetes:	2
+Bacteroidia:	1
+Candidatus Micrarchaeia:	1
+Caudoviricetes:	1
+Eurotiomycetes:	2
+Basidiobolomycetes:	1
+Hydrozoa:	1
+Kinetoplastea:	2
+Methanomicrobia:	1
+Thermoplasmata:	1
+Chitinophagia:	1
+Pezizomycetes:	1
+Myxococcia:	1
+Orbiliomycetes:	1
+Umbelopsidomycetes:	1
+Pycnogonida:	1
+Polypodiopsida:	1
+Blastocladiomycetes:	1
+Chrymotiviricetes:	1
+Neocallimastigomycetes:	1
+Megaviricetes:	1
+Pelagophyceae:	1
+Bangiophyceae:	1
+Lycopodiopsida:	1
+Holothuroidea:	1
+Glomeromycetes:	1

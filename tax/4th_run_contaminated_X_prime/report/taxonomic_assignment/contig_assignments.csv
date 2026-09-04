@@ -1,0 +1,2 @@
+c_name,num_of_genes,lca,lcaID,percentage_target,most_abundant_taxon,target_bitscore_mean,target_bitscore_sd,target_evalue_mean,target_evalue_sd,other_bitscore_mean,other_bitscore_sd,other_evalue_mean,other_evalue_sd
+JASKUS010000001.1,4731,root,1,0.7370534770661594,Bradysia,256.96,250.56,3.1212529898055988e-06,4.007408768985192e-05,171.84,191.08,1.2168736456676647e-05,7.283599643893264e-05

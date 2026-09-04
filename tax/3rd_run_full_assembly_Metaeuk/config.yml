@@ -1,0 +1,7 @@
+fasta_path: "/share/project/mieke/tax/3rd_run_full_assembly_Metaeuk/assembly.fasta"
+gff_path: "/share/project/mieke/tax/3rd_run_full_assembly_Metaeuk/metaeuk_full_assembly.gff"
+output_path: "./report/"
+taxon_id: "38358"
+extract_proteins: True
+target_exclude: True
+force: True

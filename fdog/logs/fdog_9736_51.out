@@ -1,0 +1,12 @@
+Gene: QRW25009.1
+fDOG reference species: RHISO@456999@016906535_1 
+
+Building a consensus sequence
+	 ...finished
+
+No gene predicted with augustus or metaeuk, using miniprot predictions for species UNK1260884@1260884@1
+Calculating FAS scores ...
+	 ...finished 
+
+fDOG-Assembly finished completely in 23078.42s ( Group preparation: 0.08s 	Ortholog search: 23066.0s 	FAS: 12.14s)
+Outputs are saved at /share/project/mieke/fdog/QRW25009.1/

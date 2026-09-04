@@ -1,0 +1,22 @@
+QRW19682.1	XP_037035063.1	XP_037035016.1	LOC119073565	NW_023503409.1	2902442	2904705	True	XP_037035016.1|LOC119073565|376
+True
+XP_037035063.1
+XP_037035016.1
+XP_037035016.1|LOC119073565|376
+XP_037035016_1_LOC119073565_376
+Gene: XP_037035016_1_LOC119073565_376
+fDOG reference species: BRACO@38358@014529535_1 
+
+Building a consensus sequence
+	 ...finished
+
+Searching for orthologs ...
+	 ...finished 
+
+Calculating FAS scores ...
+	 ...finished 
+
+Error during gene prediction with metaeuk, using miniprot predictions for species BRADE@3151524@1
+No gene predicted with augustus or metaeuk, using miniprot predictions for species BRADE@3151524@1
+fDOG-Assembly finished completely in 21.6s ( Group preparation: 0.05s 	Ortholog search: 9.54s 	FAS: 11.95s)
+Outputs are saved at /share/project/mieke/fdog_neighbor_regions/XP_037035063.1/output/XP_037035016_1_LOC119073565_376/

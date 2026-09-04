@@ -1,0 +1,35 @@
+QRW27021.1	XP_037043383.1	XP_037043383.1	LOC119079522	NW_023503584.1	3117695	3118897	True	XP_037043383.1|LOC119079522|334
+True
+XP_037043383.1
+XP_037043383.1
+XP_037043383.1|LOC119079522|334
+XP_037043383_1_LOC119079522_334
+Gene: XP_037043383_1_LOC119079522_334
+fDOG reference species: BRACO@38358@014529535_1 
+
+Building a consensus sequence
+	 ...finished
+
+Searching for orthologs ...
+	 ...finished 
+
+Calculating FAS scores ...
+	 ...finished 
+
+Error during gene prediction with metaeuk, using miniprot predictions for species BRAAL@1260807@1
+No gene predicted with augustus or metaeuk, using miniprot predictions for species BRAAL@1260807@1
+Error during gene prediction with metaeuk, using miniprot predictions for species BRAOD@1564500@1
+No gene predicted with augustus or metaeuk, using miniprot predictions for species BRAOD@1564500@1
+Error during gene prediction with metaeuk, using miniprot predictions for species BRAIM@335710@1
+No gene predicted with augustus or metaeuk, using miniprot predictions for species BRAIM@335710@1
+Error during gene prediction with metaeuk, using miniprot predictions for species PSEHY@35572@1
+No gene predicted with augustus or metaeuk, using miniprot predictions for species PSEHY@35572@1
+Error during gene prediction with metaeuk, using miniprot predictions for species TRISP@1260884@1
+No gene predicted with augustus or metaeuk, using miniprot predictions for species TRISP@1260884@1
+Error during gene prediction with metaeuk, using miniprot predictions for species BRACO@1817600@1
+No gene predicted with augustus or metaeuk, using miniprot predictions for species BRACO@1817600@1
+Error during gene prediction with metaeuk, using miniprot predictions for species LYCAG@1887995@1
+Error during gene prediction with metaeuk, using miniprot predictions for species LYCAG@1887995@1
+No gene predicted with augustus or metaeuk, using miniprot predictions for species LYCAG@1887995@1
+fDOG-Assembly finished completely in 17.7s ( Group preparation: 0.04s 	Ortholog search: 5.91s 	FAS: 11.7s)
+Outputs are saved at /share/project/mieke/fdog_neighbor_regions/XP_037043383.1/output/XP_037043383_1_LOC119079522_334/

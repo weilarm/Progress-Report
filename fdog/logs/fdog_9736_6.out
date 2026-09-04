@@ -1,0 +1,14 @@
+Gene: QRW27021.1
+fDOG reference species: RHISO@456999@016906535_1 
+
+Building a consensus sequence
+	 ...finished
+
+Checking candidate regions...
+[INFO] No gene prediction for UNK1260884@1260884@1 JANVCI010213297.1:0-20161 — falling back to Miniprot
+[INFO] Added Miniprot fallback: QRW27021.1|UNK1260884@1260884@1|MP000001
+Calculating FAS scores ...
+	 ...finished 
+
+fDOG-Assembly finished completely in 24450.38s ( Group preparation: 0.09s 	Ortholog search: 24432.61s 	FAS: 17.55s)
+Outputs are saved at /share/project/mieke/fdog/QRW27021.1/

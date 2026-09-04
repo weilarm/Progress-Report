@@ -1,0 +1,8 @@
+##### PREPARING & CHECKING #####
+==> Preparation finished in 5.393s
+PID 3507732 - Jobname fdog-core
+==> Sort seed files finished in 5.395s
+##### COMPILING CORE ORTHOLOG GROUPS #####
+Preparing core compilation jobs...
+... file contains jobs found (/share/project/mieke/fdog_neighbor_regions/XP_037028856.1/core_orthologs/fdog-core_core_jobs.list)
+==> 7 jobs will be run. Preparing finished in 0.001s

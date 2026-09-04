@@ -1,0 +1,32 @@
+QRW23661.1, QRW26843.1	XP_037032572.1	XP_037032561.1	LOC119071684	NW_023503374.1	8508520	8510297	True	XP_037032561.1|LOC119071684|535
+True
+XP_037032572.1
+XP_037032561.1
+XP_037032561.1|LOC119071684|535
+XP_037032561_1_LOC119071684_535
+Gene: XP_037032561_1_LOC119071684_535
+fDOG reference species: BRACO@38358@014529535_1 
+
+Building a consensus sequence
+	 ...finished
+
+Searching for orthologs ...
+	 ...finished 
+
+Calculating FAS scores ...
+	 ...finished 
+
+Error during gene prediction with metaeuk, using miniprot predictions for species LYCAG@1887995@1
+Error during gene prediction with metaeuk, using miniprot predictions for species LYCAG@1887995@1
+No gene predicted with augustus or metaeuk, using miniprot predictions for species LYCAG@1887995@1
+Error during gene prediction with metaeuk, using miniprot predictions for species BRAOC@1260802@1
+Error during gene prediction with metaeuk, using miniprot predictions for species BRAOC@1260802@1
+No gene predicted with augustus or metaeuk, using miniprot predictions for species BRAOC@1260802@1
+Error during gene prediction with metaeuk, using miniprot predictions for species BRAOD@1564500@1
+Error during gene prediction with metaeuk, using miniprot predictions for species BRAOD@1564500@1
+No gene predicted with augustus or metaeuk, using miniprot predictions for species BRAOD@1564500@1
+Error during gene prediction with metaeuk, using miniprot predictions for species BRAAL@1260807@1
+Error during gene prediction with metaeuk, using miniprot predictions for species BRAAL@1260807@1
+No gene predicted with augustus or metaeuk, using miniprot predictions for species BRAAL@1260807@1
+fDOG-Assembly finished completely in 23.37s ( Group preparation: 0.08s 	Ortholog search: 10.83s 	FAS: 12.4s)
+Outputs are saved at /share/project/mieke/fdog_neighbor_regions/XP_037032572.1/output/XP_037032561_1_LOC119071684_535/

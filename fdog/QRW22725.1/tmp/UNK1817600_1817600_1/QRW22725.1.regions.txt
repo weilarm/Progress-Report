@@ -1,0 +1,2 @@
+Contig/scaffold	start	end	Tool
+JBDOHQ010007309.1	0	7941	MetaEuk

@@ -1,0 +1,36 @@
+QRW18479.1	XP_037028856.1	XP_037028676.1	LOC119068915	NC_050735.1	6104602	6107780	True	XP_037028676.1|LOC119068915|903
+True
+XP_037028856.1
+XP_037028676.1
+XP_037028676.1|LOC119068915|903
+XP_037028676_1_LOC119068915_903
+Gene: XP_037028676_1_LOC119068915_903
+fDOG reference species: BRACO@38358@014529535_1 
+
+Building a consensus sequence
+	 ...finished
+
+Searching for orthologs ...
+	 ...finished 
+
+Calculating FAS scores ...
+	 ...finished 
+
+Error during gene prediction with metaeuk, using miniprot predictions for species RHISO@456999@v1
+No gene predicted with augustus or metaeuk, using miniprot predictions for species RHISO@456999@v1
+Error during gene prediction with metaeuk, using miniprot predictions for species BRAAL@1260807@1
+No gene predicted with augustus or metaeuk, using miniprot predictions for species BRAAL@1260807@1
+Error during gene prediction with metaeuk, using miniprot predictions for species BRADE@3151524@1
+No gene predicted with augustus or metaeuk, using miniprot predictions for species BRADE@3151524@1
+Error during gene prediction with metaeuk, using miniprot predictions for species BRAPE@1817611@1
+No gene predicted with augustus or metaeuk, using miniprot predictions for species BRAPE@1817611@1
+Error during gene prediction with metaeuk, using miniprot predictions for species LYCAG@1887995@1
+No gene predicted with augustus or metaeuk, using miniprot predictions for species LYCAG@1887995@1
+Error during gene prediction with metaeuk, using miniprot predictions for species BRAOC@1260802@1
+No gene predicted with augustus or metaeuk, using miniprot predictions for species BRAOC@1260802@1
+Error during gene prediction with metaeuk, using miniprot predictions for species PHYFL@1260839@1
+No gene predicted with augustus or metaeuk, using miniprot predictions for species PHYFL@1260839@1
+Error during gene prediction with metaeuk, using miniprot predictions for species TRISP@1260884@1
+No gene predicted with augustus or metaeuk, using miniprot predictions for species TRISP@1260884@1
+fDOG-Assembly finished completely in 33.79s ( Group preparation: 0.78s 	Ortholog search: 18.16s 	FAS: 13.6s)
+Outputs are saved at /share/project/mieke/fdog_neighbor_regions/XP_037028856.1/output/XP_037028676_1_LOC119068915_903/

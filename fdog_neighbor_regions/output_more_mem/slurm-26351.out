@@ -1,0 +1,6 @@
+Output folder for group XP_037025810_1_LOC119067131_1302 exists already. Please choose --force or --append.
+Bus error
+Error: Prefilter died
+Error: search step died
+Error: predictexons step died
+/var/spool/slurm/slurmd/job26351/slurm_script: line 16: 584620 Bus error               fdog.assembly --gene XP_037025810_1_LOC119067131_1302 --refSpec BRACO@38358@014529535_1 --dataPath /share/project/mieke/fdog_neighbor_regions --metaeukDb /share/gluster/NOTLOESUNG/freya/uniref90/UniRef90 --parallel --debug --tmp --out ./output_more_mem

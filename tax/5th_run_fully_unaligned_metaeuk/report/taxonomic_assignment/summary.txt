@@ -1,0 +1,27 @@
+Query taxon: Bradysia coprophila (NCBI ID: 38358)
+Assigend label for query: Nematocera
+
+Total number of distinct taxonomic assignments: 21
+Taxonomic assignments not in target lineage: 16 (76.19%)
+
+Following taxa for rank "superkingdom" are present in the assembly ("taxon"	"gene count"):
+Eukaryota:	13
+Bacteria:	23
+Viruses:	1
+Following taxa for rank "kingdom" are present in the assembly ("taxon"	"gene count"):
+Metazoa:	11
+Heunggongvirae:	1
+Following taxa for rank "phylum" are present in the assembly ("taxon"	"gene count"):
+Arthropoda:	11
+Bacteroidota:	4
+Pseudomonadota:	10
+Actinomycetota:	2
+Bacillota:	1
+Uroviricota:	1
+Following taxa for rank "class" are present in the assembly ("taxon"	"gene count"):
+Insecta:	9
+Gammaproteobacteria:	10
+Chitinophagia:	1
+Actinomycetes:	1
+Bacilli:	1
+Caudoviricetes:	1

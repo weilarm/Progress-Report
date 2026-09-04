@@ -1,0 +1,51 @@
+Query taxon: Bradysia coprophila (NCBI ID: 38358)
+Assigend label for query: Eumetazoa
+
+Total number of distinct taxonomic assignments: 125
+Taxonomic assignments not in target lineage: 111 (88.8%)
+
+Following taxa for rank "superkingdom" are present in the assembly ("taxon"	"gene count"):
+Bacteria:	1152
+Eukaryota:	633
+Viruses:	5
+Following taxa for rank "kingdom" are present in the assembly ("taxon"	"gene count"):
+Metazoa:	526
+Fungi:	70
+Viridiplantae:	7
+Heunggongvirae:	1
+Following taxa for rank "phylum" are present in the assembly ("taxon"	"gene count"):
+Pseudomonadota:	984
+Arthropoda:	460
+Mucoromycota:	66
+Rotifera:	9
+Bacteroidota:	6
+Streptophyta:	7
+Nematoda:	3
+Uroviricota:	1
+Ascomycota:	3
+Bacillota:	2
+Chlamydiota:	2
+Candidatus Riflebacteria:	1
+Verrucomicrobiota:	1
+Cyanobacteriota:	1
+Myxococcota:	1
+Following taxa for rank "class" are present in the assembly ("taxon"	"gene count"):
+Alphaproteobacteria:	884
+Insecta:	365
+Mucoromycetes:	66
+Gammaproteobacteria:	52
+Eurotatoria:	9
+Sphingobacteriia:	4
+Betaproteobacteria:	10
+Magnoliopsida:	7
+Chromadorea:	3
+Caudoviricetes:	1
+Eurotiomycetes:	1
+Bacilli:	1
+Chlamydiia:	1
+Clostridia:	1
+Cyanophyceae:	1
+Sordariomycetes:	1
+Dothideomycetes:	1
+Cytophagia:	1
+Myxococcia:	1

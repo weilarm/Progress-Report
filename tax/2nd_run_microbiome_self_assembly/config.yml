@@ -1,0 +1,7 @@
+fasta_path: "/share/project/mieke/assembly/prokka_annotation/PROKKA_07132026/PROKKA_07132026.fna"
+gff_path: "/share/project/mieke/assembly/prokka_annotation/PROKKA_07132026/genes.gff"
+output_path: "./report/"
+taxon_id: "2"
+extract_proteins: True
+target_exclude: False
+force: True

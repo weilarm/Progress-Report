@@ -1,0 +1,2 @@
+Contig/scaffold	start	end	Tool
+JBLNJJ010000484.1	0	39611	

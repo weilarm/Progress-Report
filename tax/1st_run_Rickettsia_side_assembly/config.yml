@@ -1,0 +1,21 @@
+
+## Input and output options ##
+# this section is the minimum information that is required and must be stated
+fasta_path: "/share/project/mieke/tax/prokka_output/PROKKA_07022026.fna" # path to assembly FASTA
+gff_path: "/share/project/mieke/tax/prokka_output/final_genes.gff" # path to GFF
+output_path: "/home/mieke/taxaminer_results/output" # directory to save results to
+taxon_id: "38358" # NCBI Taxon ID of query species
+#bam_path_1: "" # path to BAM file; to add multiple duplicate the parameter and increase the number in the suffix
+
+## Taxonomic assignment options ##
+taxon_exclude: "TRUE" # exclude query taxon from taxonomic assignment [TRUE/FALSE]
+assignment_mode: "exhaustive" # mode for taxonomic assignment [exhaustive/quick]; see Documentation for details
+
+## PCA options ##
+# gene descriptors to be used in the PCA; see Documentation for details on options
+input_variables: "c_name,c_num_of_genes,c_len,c_genelenm,c_genelensd,g_len,g_lendev_c,g_abspos,g_terminal,c_cov,c_covsd,g_cov,g_covsd,g_covdev_c,c_pearson_r,g_pearson_r_o,g_pearson_r_c"
+
+## Plot output options ##
+update_plots: "FALSE" # only update the plots (use if you changed settings below) [TRUE/FALSE]
+num_groups_plot: "25" # number of taxa to display in plot (taxa are automatically merged at higher ranks) [X/all]
+merging_labels: [] # influence the merging of taxa; see Documentation for details on options

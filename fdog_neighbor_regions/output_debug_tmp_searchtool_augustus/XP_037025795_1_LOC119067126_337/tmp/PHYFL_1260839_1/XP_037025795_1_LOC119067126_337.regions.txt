@@ -1,0 +1,2 @@
+Contig/scaffold	start	end	Tool
+JANTFA010007453.1	0	33762	

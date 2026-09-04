@@ -1,0 +1,689 @@
+[14:07:57] This is prokka 1.13
+[14:07:57] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[14:07:57] Homepage is https://github.com/tseemann/prokka
+[14:07:57] Local time is Mon Jul 13 14:07:57 2026
+[14:07:57] You are mieke
+[14:07:57] Operating system is linux
+[14:07:57] You have BioPerl 1.007002
+[14:07:57] System has 12 cores.
+[14:07:57] Will use maximum of 8 cores.
+[14:07:57] Annotating as >>> Bacteria <<<
+[14:07:57] Generating locus_tag from '../unaligned_contigs.fasta' contents.
+[14:07:59] Setting --locustag LONINKCB from MD5 587274cbba39ab3137c00a6461ba59dc
+[14:07:59] Creating new output folder: PROKKA_07132026
+[14:07:59] Running: mkdir -p PROKKA_07132026
+[14:07:59] Using filename prefix: PROKKA_07132026.XXX
+[14:07:59] Setting HMMER_NCPU=1
+[14:07:59] Writing log to: PROKKA_07132026/PROKKA_07132026.log
+[14:07:59] Command: /home/mieke/miniconda3/envs/prokka/bin/prokka ../unaligned_contigs.fasta
+[14:07:59] Appending to PATH: /home/mieke/miniconda3/envs/prokka/bin
+[14:07:59] Looking for 'aragorn' - found /home/mieke/miniconda3/envs/prokka/bin/aragorn
+[14:07:59] Determined aragorn version is 1.2
+[14:07:59] Looking for 'barrnap' - found /home/mieke/miniconda3/envs/prokka/bin/barrnap
+[14:07:59] Determined barrnap version is 0.9
+[14:07:59] Looking for 'blastp' - found /home/mieke/miniconda3/envs/prokka/bin/blastp
+[14:08:00] Determined blastp version is 2.9
+[14:08:00] Looking for 'cmpress' - found /home/mieke/miniconda3/envs/prokka/bin/cmpress
+[14:08:00] Determined cmpress version is 1.1
+[14:08:00] Looking for 'cmscan' - found /home/mieke/miniconda3/envs/prokka/bin/cmscan
+[14:08:00] Determined cmscan version is 1.1
+[14:08:00] Looking for 'egrep' - found /usr/bin/egrep
+[14:08:00] Looking for 'find' - found /usr/bin/find
+[14:08:00] Looking for 'grep' - found /usr/bin/grep
+[14:08:00] Looking for 'hmmpress' - found /home/mieke/miniconda3/envs/prokka/bin/hmmpress
+[14:08:00] Determined hmmpress version is 3.4
+[14:08:00] Looking for 'hmmscan' - found /home/mieke/miniconda3/envs/prokka/bin/hmmscan
+[14:08:00] Determined hmmscan version is 3.4
+[14:08:00] Looking for 'java' - found /home/mieke/miniconda3/envs/prokka/bin/java
+[14:08:00] Looking for 'less' - found /usr/bin/less
+[14:08:00] Looking for 'makeblastdb' - found /home/mieke/miniconda3/envs/prokka/bin/makeblastdb
+[14:08:01] Determined makeblastdb version is 2.9
+[14:08:01] Looking for 'minced' - found /home/mieke/miniconda3/envs/prokka/bin/minced
+[14:08:01] Determined minced version is 4.2
+[14:08:01] Looking for 'parallel' - found /home/mieke/miniconda3/envs/prokka/bin/parallel
+[14:08:02] Determined parallel version is 20160622
+[14:08:02] Looking for 'prodigal' - found /home/mieke/miniconda3/envs/prokka/bin/prodigal
+[14:08:02] Determined prodigal version is 2.6
+[14:08:02] Looking for 'prokka-genbank_to_fasta_db' - found /home/mieke/miniconda3/envs/prokka/bin/prokka-genbank_to_fasta_db
+[14:08:02] Looking for 'sed' - found /usr/bin/sed
+[14:08:02] Looking for 'tbl2asn' - found /home/mieke/miniconda3/envs/prokka/bin/tbl2asn
+[14:08:02] Determined tbl2asn version is 25.8
+[14:08:02] Using genetic code table 11.
+[14:08:02] Loading and checking input file: ../unaligned_contigs.fasta
+[14:08:07] Wrote 587 contigs totalling 265502206 bp.
+[14:08:07] Predicting tRNAs and tmRNAs
+[14:08:07] Running: aragorn -l -gc11  -w PROKKA_07132026\/PROKKA_07132026\.fna
+[14:08:22] 1 tRNA-Trp [93088,93161] 34 (cca)
+[14:08:22] 1 tRNA-Gly c[102105,102198] 38 (tcc)
+[14:08:22] 1 tRNA-Ser [348513,348606] 37 (cga)
+[14:08:22] 1 tRNA-Ala c[249085,249160] 36 (agc)
+[14:08:22] 1 tRNA-His [99365,99436] 34 (gtg)
+[14:08:22] 2 tRNA-His c[118179,118250] 34 (gtg)
+[14:08:22] 1 tRNA-Ala c[2227,2300] 34 (ggc)
+[14:08:22] 1 tRNA-Ser c[658761,658835] 35 (gga)
+[14:08:22] 2 tRNA-Glu [989988,990059] 34 (ttc)
+[14:08:22] 3 tRNA-Glu [990255,990326] 34 (ttc)
+[14:08:22] 4 tRNA-Glu [990523,990594] 34 (ttc)
+[14:08:22] tRNA [1116532,1116604] is a pseudo/wacky gene - skipping.
+[14:08:22] 6 tRNA-Ala c[2252465,2252539] 35 (agc)
+[14:08:22] 7 tRNA-Ala [2287610,2287684] 35 (agc)
+[14:08:22] tRNA [3002823,3002895] is a pseudo/wacky gene - skipping.
+[14:08:22] tRNA [3673289,3673361] is a pseudo/wacky gene - skipping.
+[14:08:22] 10 tRNA-Val [5025065,5025138] 35 (aac)
+[14:08:22] 11 tRNA-Val [5027459,5027531] 34 (tac)
+[14:08:22] 12 tRNA-Val c[5028279,5028351] 34 (tac)
+[14:08:22] 13 tRNA-Val c[5028504,5028578] 35 (cac)
+[14:08:22] 14 tRNA-Val c[5033019,5033092] 35 (aac)
+[14:08:22] 15 tRNA-SeC [5129519,5129606] 36 (tca)
+[14:08:22] 16 tRNA-Val c[5324587,5324661] 35 (aac)
+[14:08:22] 17 tRNA-Thr c[5325082,5325156] 35 (agt)
+[14:08:22] 18 tRNA-Ala c[6020736,6020811] 36 (ggc)
+[14:08:22] tRNA c[6167205,6167277] is a pseudo/wacky gene - skipping.
+[14:08:22] 20 tRNA-Ser [6427864,6427946] 35 (tga)
+[14:08:22] 21 tRNA-Ala c[9469788,9469864] 35 (ggc)
+[14:08:22] tRNA c[9930759,9930831] is a pseudo/wacky gene - skipping.
+[14:08:22] 23 tRNA-Ala c[10022172,10022266] 38 (cgc)
+[14:08:22] 24 tRNA-Gly c[10084130,10084204] 35 (ccc)
+[14:08:22] 25 tRNA-Gly [10526328,10526397] 33 (gcc)
+[14:08:22] 26 tRNA-Ala c[11358538,11358613] 36 (ggc)
+[14:08:22] 27 tRNA-Ala c[11358922,11358997] 36 (ggc)
+[14:08:22] 28 tRNA-Met [11733185,11733257] 34 (cat)
+[14:08:22] 29 tRNA-Met [11733454,11733526] 34 (cat)
+[14:08:22] 30 tRNA-Met [11781673,11781745] 34 (cat)
+[14:08:22] 31 tRNA-Met [11782436,11782510] 35 (cat)
+[14:08:22] 32 tRNA-Phe [12306911,12306999] 36 (aaa)
+[14:08:22] 33 tRNA-Ser c[12607259,12607333] 35 (gga)
+[14:08:22] 34 tRNA-Ser c[12607691,12607765] 35 (gga)
+[14:08:22] 35 tRNA-Ser c[12608123,12608197] 35 (gga)
+[14:08:22] 36 tRNA-Ser c[12608555,12608629] 35 (gga)
+[14:08:22] tRNA c[12696889,12696961] is a pseudo/wacky gene - skipping.
+[14:08:24] 38 tRNA-Thr [14539733,14539819] 36 (cgt)
+[14:08:24] 39 tRNA-Met c[14841982,14842057] 35 (cat)
+[14:08:24] 40 tRNA-Ser [16193181,16193263] 35 (gct)
+[14:08:24] 41 tRNA-Ser [16197621,16197705] 36 (gct)
+[14:08:24] 42 tRNA-Ser c[16205777,16205861] 36 (gct)
+[14:08:24] 43 tRNA-Met c[17075534,17075624] 40 (cat)
+[14:08:24] 44 tRNA-Ala c[20697458,20697531] 34 (tgc)
+[14:08:24] 45 tRNA-Met c[21027038,21027109] 34 (cat)
+[14:08:24] 46 tRNA-Ala [22101084,22101158] 35 (agc)
+[14:08:24] 47 tRNA-Ala [22101338,22101412] 35 (agc)
+[14:08:24] 48 tRNA-Ala [22101583,22101657] 35 (agc)
+[14:08:24] 49 tRNA-Ala c[23378833,23378906] 34 (ggc)
+[14:08:24] 50 tRNA-Val [23870216,23870290] 35 (aac)
+[14:08:24] 51 tRNA-Val c[23870411,23870485] 35 (aac)
+[14:08:24] 52 tRNA-Asp c[24375448,24375519] 34 (gtc)
+[14:08:24] 53 tRNA-Ala c[26070103,26070178] 36 (ggc)
+[14:08:24] 54 tRNA-Ala [27133862,27133938] 35 (ggc)
+[14:08:24] 55 tRNA-Arg c[27472310,27472383] 34 (cct)
+[14:08:24] 56 tRNA-Ala c[29033611,29033686] 36 (ggc)
+[14:08:24] 57 tRNA-Ala [29067539,29067629] 35 (tgc)
+[14:08:24] 58 tRNA-Asn [29074902,29074977] 36 (gtt)
+[14:08:24] 59 tRNA-Asn [29075204,29075277] 35 (gtt)
+[14:08:24] tRNA c[30715977,30716049] is a pseudo/wacky gene - skipping.
+[14:08:24] 61 tRNA-Ser [31324915,31324989] 35 (gga)
+[14:08:24] 62 tRNA-Ala [31335478,31335551] 34 (ggc)
+[14:08:24] 63 tRNA-Met c[32210156,32210230] 35 (cat)
+[14:08:24] 64 tRNA-Asn [32871235,32871308] 35 (gtt)
+[14:08:24] 65 tRNA-Asn c[32871409,32871482] 35 (gtt)
+[14:08:24] 66 tRNA-Cys [33124495,33124569] 35 (gca)
+[14:08:24] 67 tRNA-Cys [33124937,33125011] 34 (gca)
+[14:08:24] 68 tRNA-Cys [33125393,33125466] 34 (gca)
+[14:08:24] 69 tRNA-Cys [33127279,33127350] 33 (gca)
+[14:08:24] 70 tRNA-Cys [33128096,33128169] 34 (gca)
+[14:08:24] 71 tRNA-Ala [33571328,33571403] 36 (ggc)
+[14:08:24] 72 tRNA-Ala c[35510402,35510476] 35 (ggc)
+[14:08:24] 73 tRNA-Phe [36341071,36341143] 34 (gaa)
+[14:08:24] 74 tRNA-Ser c[36746573,36746656] 35 (cga)
+[14:08:24] 75 tRNA-His [36751150,36751241] 33 (atg)
+[14:08:24] tRNA [39313793,39313865] is a pseudo/wacky gene - skipping.
+[14:08:24] 77 tRNA-Val [40106756,40106828] 34 (aac)
+[14:08:24] tRNA [40625688,40625760] is a pseudo/wacky gene - skipping.
+[14:08:24] 79 tRNA-Trp c[40724398,40724471] 34 (cca)
+[14:08:24] 80 tRNA-Val [41110415,41110487] 34 (cac)
+[14:08:24] 81 tRNA-Ala c[41541757,41541830] 34 (ggc)
+[14:08:24] 82 tRNA-Ala [42181913,42181986] 34 (ggc)
+[14:08:24] 1 tRNA-Ala c[635298,635371] 34 (ggc)
+[14:08:24] 1 tRNA-Ala [466653,466731] 37 (agc)
+[14:08:24] 1 tRNA-Lys [21246,21335] 33 (ttt)
+[14:08:24] tRNA c[1118617,1118706] is a pseudo/wacky gene - skipping.
+[14:08:24] 3 tRNA-Lys [2269248,2269336] 32 (ttt)
+[14:08:24] 4 tRNA-Asn c[2415447,2415527] 32 (att)
+[14:08:24] 5 tRNA-Thr c[2572238,2572332] 34 (cgt)
+[14:08:24] 6 tRNA-SeC c[2621488,2621571] 37 (tca)
+[14:08:24] 1 tRNA-Ala c[47206,47279] 34 (ggc)
+[14:08:24] 1 tRNA-Ala c[535651,535726] 36 (ggc)
+[14:08:24] 2 tRNA-Ala [660174,660247] 34 (ggc)
+[14:08:30] 1 tRNA-Trp [24767,24839] 33 (cca)
+[14:08:30] 2 tRNA-Trp c[28531,28603] 33 (cca)
+[14:08:30] 3 tRNA-Trp c[33594,33666] 33 (cca)
+[14:08:30] 4 tRNA-Trp c[35432,35504] 33 (cca)
+[14:08:30] 1 tRNA-Ala [141034,141110] 35 (ggc)
+[14:08:30] 1 tRNA-Ala c[1122836,1122909] 34 (ggc)
+[14:08:30] 2 tRNA-Asp c[1552460,1552531] 34 (gtc)
+[14:08:30] 3 tRNA-Gly [1553018,1553088] 33 (gcc)
+[14:08:30] 4 tRNA-Asp [1564449,1564520] 34 (gtc)
+[14:08:30] 5 tRNA-Asp c[1580096,1580167] 34 (gtc)
+[14:08:30] 6 tRNA-Gly c[1580239,1580309] 33 (gcc)
+[14:08:30] 7 tRNA-Glu c[1580491,1580562] 34 (ctc)
+[14:08:30] 8 tRNA-Glu c[1581704,1581775] 34 (ttc)
+[14:08:30] 9 tRNA-Glu [1582215,1582286] 34 (ttc)
+[14:08:30] 10 tRNA-Glu c[1583855,1583926] 34 (ttc)
+[14:08:30] 11 tRNA-Glu [1584260,1584331] 34 (ttc)
+[14:08:30] 1 tRNA-Ala c[215919,215992] 34 (ggc)
+[14:08:30] 1 tRNA-Lys [242593,242668] 34 (ctt)
+[14:08:30] 2 tRNA-Thr c[695822,695896] 35 (agt)
+[14:08:30] 3 tRNA-Val c[702403,702475] 34 (tac)
+[14:08:30] 4 tRNA-Val c[702672,702744] 34 (aac)
+[14:08:30] 5 tRNA-Val c[703254,703328] 35 (aac)
+[14:08:30] 6 tRNA-Thr c[703781,703853] 34 (agt)
+[14:08:30] 7 tRNA-Ile [736075,736147] 33 (aat)
+[14:08:30] 8 tRNA-Thr c[894179,894253] 35 (agt)
+[14:08:30] 9 tRNA-Gly [1005355,1005426] 34 (tcc)
+[14:08:30] 10 tRNA-Ser [1122518,1122592] 35 (gga)
+[14:08:30] 11 tRNA-Ala [1528116,1528190] 35 (agc)
+[14:08:30] 1 tRNA-Thr c[5480482,5480580] 39 (cgt)
+[14:08:30] 2 tRNA-Arg [5695871,5695945] 35 (tcg)
+[14:08:30] 1 tRNA-Met c[2290026,2290100] 35 (cat)
+[14:08:30] 2 tRNA-Ser c[2541001,2541075] 35 (gga)
+[14:08:30] 3 tRNA-Gly [2847966,2848035] 33 (gcc)
+[14:08:30] 4 tRNA-Asp [2848113,2848184] 34 (gtc)
+[14:08:30] 5 tRNA-Gly [2848801,2848870] 33 (gcc)
+[14:08:30] 6 tRNA-Asp [2848947,2849018] 34 (gtc)
+[14:08:30] 7 tRNA-Gly [2896404,2896475] 33 (gcc)
+[14:08:30] 8 tRNA-Asp [2896550,2896620] 34 (gtc)
+[14:08:30] tRNA [3050280,3050352] is a pseudo/wacky gene - skipping.
+[14:08:30] 10 tRNA-Gly c[3925824,3925896] 34 (tcc)
+[14:08:30] 11 tRNA-Leu c[5012742,5012824] 30 (gag)
+[14:08:30] 12 tRNA-Thr c[5309300,5309374] 35 (ggt)
+[14:08:30] 13 tRNA-Met [5359916,5359987] 33 (cat)
+[14:08:30] 14 tRNA-Met [5362717,5362788] 33 (cat)
+[14:08:30] tRNA c[5561804,5561876] is a pseudo/wacky gene - skipping.
+[14:08:30] 16 tRNA-Leu c[6719681,6719762] 35 (aag)
+[14:08:30] 17 tRNA-Leu c[6720022,6720103] 35 (aag)
+[14:08:30] 18 tRNA-Leu c[6720342,6720423] 35 (aag)
+[14:08:30] 19 tRNA-Gly c[6909889,6909958] 33 (gcc)
+[14:08:30] 20 tRNA-Gly c[6910473,6910543] 33 (gcc)
+[14:08:36] 21 tRNA-Gly c[6911024,6911094] 33 (gcc)
+[14:08:36] 22 tRNA-Gly c[6913099,6913169] 33 (gcc)
+[14:08:36] 23 tRNA-Gly c[6955856,6955926] 33 (gcc)
+[14:08:36] tRNA c[7529914,7530005] is a pseudo/wacky gene - skipping.
+[14:08:36] 25 tRNA-Arg c[7689839,7689912] 35 (cct)
+[14:08:36] 26 tRNA-Arg c[7690797,7690870] 35 (cct)
+[14:08:36] 27 tRNA-Ala c[7876100,7876173] 34 (ggc)
+[14:08:36] 28 tRNA-Gln [9009466,9009542] 34 (ttg)
+[14:08:36] 29 tRNA-Ala c[9388281,9388354] 34 (ggc)
+[14:08:36] 30 tRNA-Pro c[9523387,9523458] 33 (agg)
+[14:08:36] 31 tRNA-Pro [9523711,9523782] 33 (cgg)
+[14:08:36] 32 tRNA-Met c[10076098,10076170] 34 (cat)
+[14:08:36] 1 tRNA-Ala [112705,112780] 36 (ggc)
+[14:08:36] 1 tRNA-Ala [128254,128327] 34 (ggc)
+[14:08:36] 1 tRNA-Cys [119313,119386] 34 (gca)
+[14:08:36] 2 tRNA-Leu c[167958,168038] 35 (tag)
+[14:08:36] 1 tRNA-Ser [162948,163022] 35 (gga)
+[14:08:36] 2 tRNA-Ala [931615,931691] 35 (ggc)
+[14:08:36] 3 tRNA-Ala c[1032883,1032958] 36 (ggc)
+[14:08:36] 4 tRNA-Ala c[1033267,1033342] 36 (ggc)
+[14:08:36] 5 tRNA-Arg c[5914847,5914919] 34 (tct)
+[14:08:36] 1 tRNA-Asn [214647,214722] 36 (gtt)
+[14:08:36] 2 tRNA-Asn c[215323,215397] 36 (gtt)
+[14:08:36] 3 tRNA-Asn c[215624,215698] 36 (gtt)
+[14:08:36] 4 tRNA-Ala c[277335,277412] 36 (ggc)
+[14:08:36] 5 tRNA-Ala [367625,367698] 34 (ggc)
+[14:08:36] 6 tRNA-Ser c[407967,408041] 35 (gga)
+[14:08:36] 7 tRNA-Ala c[978557,978630] 34 (ggc)
+[14:08:36] 8 tRNA-Ala [1635350,1635426] 35 (ggc)
+[14:08:36] 9 tRNA-Arg c[2101134,2101224] 36 (cct)
+[14:08:36] tRNA [2942834,2942908] is a pseudo/wacky gene - skipping.
+[14:08:36] 1 tRNA-Ala [8683,8758] 36 (ggc)
+[14:08:36] 1 tRNA-Ala [466008,466081] 35 (ggc)
+[14:08:36] 2 tRNA-Ser [722570,722644] 35 (gga)
+[14:08:36] 3 tRNA-Ser c[827798,827872] 35 (aga)
+[14:08:36] 4 tRNA-Val c[1409757,1409829] 34 (cac)
+[14:08:36] 1 tRNA-Ser [261539,261613] 35 (gga)
+[14:08:36] 2 tRNA-Ala [872544,872617] 34 (ggc)
+[14:08:36] 3 tRNA-Cys c[1256026,1256097] 33 (gca)
+[14:08:36] 4 tRNA-Ala c[1444682,1444757] 36 (ggc)
+[14:08:36] tRNA c[1548779,1548871] is a pseudo/wacky gene - skipping.
+[14:08:36] 6 tRNA-Ala [1664215,1664290] 36 (ggc)
+[14:08:36] 7 tRNA-Ser [1926061,1926135] 35 (gga)
+[14:08:36] 1 tRNA-Ala [494631,494706] 36 (ggc)
+[14:08:36] 2 tRNA-Pro c[910334,910408] 33 (tgg)
+[14:08:36] 1 tRNA-Ser [138171,138242] 33 (gga)
+[14:08:36] 2 tRNA-Ser [139385,139456] 33 (gga)
+[14:08:36] 1 tRNA-Ala c[203879,203957] 33 (agc)
+[14:08:42] 1 tRNA-Ala c[886455,886528] 34 (ggc)
+[14:08:42] 2 tRNA-Ala c[1045265,1045340] 36 (ggc)
+[14:08:42] 3 tRNA-Ala [1045720,1045795] 36 (ggc)
+[14:08:42] 4 tRNA-Arg c[1068990,1069079] 36 (tcg)
+[14:08:42] 5 tRNA-Ser c[2438980,2439062] 35 (aga)
+[14:08:42] 6 tRNA-Ser [2441812,2441894] 35 (aga)
+[14:08:42] 1 tRNA-Met c[37944,38016] 34 (cat)
+[14:08:42] 1 tRNA-Leu c[330391,330475] 36 (aag)
+[14:08:42] 1 tRNA-Met [353582,353654] 34 (cat)
+[14:08:42] 1 tRNA-Cys c[58520,58591] 33 (gca)
+[14:08:42] 1 tRNA-Gln c[47646,47717] 34 (ttg)
+[14:08:42] 1 tRNA-His [433774,433845] 34 (gtg)
+[14:08:42] 1 tRNA-Gln c[507792,507891] 38 (ctg)
+[14:08:42] 2 tRNA-Asn [1611268,1611342] 36 (gtt)
+[14:08:42] 3 tRNA-Ala c[2539973,2540048] 36 (ggc)
+[14:08:42] 4 tRNA-Ala c[3365164,3365240] 35 (ggc)
+[14:08:42] 5 tRNA-Val [4088417,4088489] 34 (cac)
+[14:08:42] 6 tRNA-Ala [5375744,5375819] 36 (ggc)
+[14:08:42] 7 tRNA-Thr [5897229,5897303] 35 (ggt)
+[14:08:42] 8 tRNA-Leu c[6184452,6184535] 36 (aag)
+[14:08:42] 9 tRNA-Val c[7236058,7236130] 34 (cac)
+[14:08:42] 10 tRNA-Thr c[9009383,9009473] 35 (agt)
+[14:08:42] 11 tRNA-Ala c[9991603,9991678] 36 (ggc)
+[14:08:42] tRNA [10681825,10681897] is a pseudo/wacky gene - skipping.
+[14:08:42] 13 tRNA-Phe [10890556,10890629] 34 (gaa)
+[14:08:42] 14 tRNA-Phe [10891010,10891083] 34 (gaa)
+[14:08:42] 15 tRNA-Phe [10891161,10891233] 34 (gaa)
+[14:08:42] 16 tRNA-Phe c[10892071,10892144] 34 (gaa)
+[14:08:42] 17 tRNA-Ala [11586464,11586539] 36 (ggc)
+[14:08:42] 18 tRNA-Ala c[11979572,11979647] 36 (ggc)
+[14:08:42] 19 tRNA-Ala [11979783,11979858] 36 (ggc)
+[14:08:42] 20 tRNA-Ala [11980163,11980238] 36 (ggc)
+[14:08:42] 21 tRNA-Ala [13593072,13593145] 34 (ggc)
+[14:08:42] 22 tRNA-Leu [15314764,15314847] 36 (cag)
+[14:08:42] 23 tRNA-Pro [15730093,15730164] 33 (tgg)
+[14:08:42] 24 tRNA-Pro [15730604,15730674] 33 (agg)
+[14:08:42] 25 tRNA-Pro [15730965,15731036] 33 (cgg)
+[14:08:42] 26 tRNA-Pro [15731182,15731253] 33 (tgg)
+[14:08:42] 27 tRNA-Pro [15731661,15731732] 33 (tgg)
+[14:08:42] 28 tRNA-Ala c[17257569,17257644] 36 (ggc)
+[14:08:42] 29 tRNA-Ala [17593587,17593662] 36 (tgc)
+[14:08:42] tRNA c[100767,100858] is a pseudo/wacky gene - skipping.
+[14:08:50] 1 tRNA-Ala c[973041,973114] 35 (ggc)
+[14:08:50] 2 tRNA-Leu c[1569841,1569926] 36 (taa)
+[14:08:50] 3 tRNA-Leu c[1580807,1580889] 35 (aag)
+[14:08:50] 4 tRNA-Leu c[1582732,1582813] 36 (tag)
+[14:08:50] 5 tRNA-Leu c[1588119,1588200] 35 (aag)
+[14:08:50] 6 tRNA-Leu c[1588619,1588700] 35 (aag)
+[14:08:50] 1 tRNA-Arg [48226,48310] 37 (ccg)
+[14:08:50] 1 tRNA-Leu c[338186,338269] 36 (aag)
+[14:08:50] 1 tRNA-Val c[898016,898089] 34 (gac)
+[14:08:50] 2 tRNA-Ser [4700074,4700147] 36 (gga)
+[14:08:50] 3 tRNA-Ala [5353544,5353619] 36 (ggc)
+[14:08:50] 4 tRNA-Asn c[5723461,5723534] 35 (gtt)
+[14:08:50] 5 tRNA-Ala [7194866,7194942] 35 (ggc)
+[14:08:50] 6 tRNA-Phe [7306966,7307056] 34 (gaa)
+[14:08:50] 7 tRNA-Ile [7928800,7928877] 32 (tat)
+[14:08:50] tRNA [227023,227095] is a pseudo/wacky gene - skipping.
+[14:08:50] 1 tRNA-Ser [400325,400420] 38 (cga)
+[14:08:50] 2 tRNA-Ser [1589049,1589131] 35 (aga)
+[14:08:50] 1 tRNA-Stop c[845779,845857] 35 (tta)
+[14:08:50] 2 tRNA-Ala [2583119,2583190] 33 (tgc)
+[14:08:50] 3 tRNA-Ala [2583662,2583733] 33 (tgc)
+[14:08:50] 4 tRNA-Ala [2584036,2584108] 33 (tgc)
+[14:08:50] 5 tRNA-Ala [3445159,3445232] 34 (ggc)
+[14:08:50] 6 tRNA-Ala c[4238244,4238320] 35 (ggc)
+[14:08:50] 7 tRNA-Ala [4240399,4240475] 35 (ggc)
+[14:08:50] 8 tRNA-Ser [4443155,4443229] 35 (gga)
+[14:08:50] 9 tRNA-Ala c[4481700,4481776] 35 (ggc)
+[14:08:50] tRNA [71672,71743] is a pseudo/wacky gene - skipping.
+[14:08:50] 1 tRNA-Phe [126012,126086] 35 (gaa)
+[14:08:50] 2 tRNA-Phe c[143120,143194] 35 (gaa)
+[14:08:50] tRNA [78394,78466] is a pseudo/wacky gene - skipping.
+[14:08:50] 1 tRNA-Leu c[359659,359750] 38 (tag)
+[14:08:50] 2 tRNA-Ala [771993,772069] 35 (ggc)
+[14:08:50] 1 tRNA-Thr [7369,7442] 34 (tgt)
+[14:08:50] 2 tRNA-Thr [9026,9099] 34 (tgt)
+[14:08:50] 1 tRNA-Ser c[105292,105375] 35 (gct)
+[14:08:50] 2 tRNA-Ser [112601,112684] 35 (gct)
+[14:08:50] 1 tRNA-Ala c[163307,163382] 36 (ggc)
+[14:08:50] 1 tRNA-Ala [46047,46120] 35 (ggc)
+[14:08:50] 1 tRNA-Lys c[43390,43467] 36 (ctt)
+[14:08:50] 1 tRNA-Pyl c[51293,51363] 35 (cta)
+[14:08:55] 1 tRNA-Lys [588051,588124] 34 (ctt)
+[14:08:55] 1 tRNA-Ala c[280280,280353] 34 (agc)
+[14:08:55] 1 tRNA-Gln [40701,40772] 34 (ttg)
+[14:08:55] 1 tRNA-Ser c[85055,85129] 35 (gga)
+[14:08:55] 1 tRNA-His [13594,13665] 34 (gtg)
+[14:08:55] 2 tRNA-His c[28104,28175] 34 (gtg)
+[14:08:55] 1 tRNA-Val [280261,280339] 36 (gac)
+[14:08:55] 1 tRNA-Ala [76984,77057] 34 (ggc)
+[14:08:55] 1 tRNA-Ala [73795,73868] 34 (ggc)
+[14:08:55] 1 tRNA-Leu [23756,23837] 36 (tag)
+[14:08:55] 1 tRNA-Asn [17023,17097] 35 (gtt)
+[14:08:55] 1 tRNA-Gln c[23405,23476] 34 (ctg)
+[14:08:55] 2 tRNA-Gln c[25970,26041] 34 (ctg)
+[14:08:55] 3 tRNA-Gln [26393,26466] 35 (ttg)
+[14:08:55] 4 tRNA-Gln [30900,30971] 34 (ttg)
+[14:08:55] 5 tRNA-Gln c[31502,31573] 34 (ctg)
+[14:08:55] 1 tRNA-Ala [139588,139663] 36 (ggc)
+[14:08:55] 2 tRNA-Ala [143361,143436] 36 (ggc)
+[14:08:55] 1 tRNA-Thr [269160,269234] 35 (ggt)
+[14:08:55] 1 tRNA-Arg c[40943,41016] 34 (tct)
+[14:09:01] 1 tRNA-Ala c[332,405] 35 (ggc)
+[14:09:01] 1 tRNA-Ala c[339327,339399] 33 (tgc)
+[14:09:01] 2 tRNA-Ala c[671563,671636] 34 (ggc)
+[14:09:01] 1 tRNA-Ala c[88546,88619] 34 (ggc)
+[14:09:01] 2 tRNA-Ser [526524,526598] 35 (gga)
+[14:09:01] 3 tRNA-Ser [526956,527030] 35 (gga)
+[14:09:01] 4 tRNA-Ser [527388,527462] 35 (gga)
+[14:09:01] 5 tRNA-Ser [527820,527894] 35 (gga)
+[14:09:01] 6 tRNA-Ser [528303,528377] 35 (gga)
+[14:09:01] 7 tRNA-Ser [528736,528810] 35 (gga)
+[14:09:01] 8 tRNA-Ser [529169,529243] 35 (gga)
+[14:09:01] 9 tRNA-Ser [529602,529676] 35 (gga)
+[14:09:01] 10 tRNA-Ser [530035,530109] 35 (gga)
+[14:09:01] 11 tRNA-Ser [530468,530542] 35 (gga)
+[14:09:01] 12 tRNA-Ser [530901,530975] 35 (gga)
+[14:09:01] 13 tRNA-Ser [531334,531408] 35 (gga)
+[14:09:01] 14 tRNA-Ser [531767,531841] 35 (gga)
+[14:09:01] 1 tRNA-Arg [695647,695719] 34 (cct)
+[14:09:01] 2 tRNA-Arg [786789,786862] 34 (cct)
+[14:09:01] 3 tRNA-Ala [2095863,2095936] 34 (ggc)
+[14:09:01] 1 tRNA-Leu c[2329948,2330032] 36 (taa)
+[14:09:01] 1 tRNA-Ser c[421977,422068] 35 (gga)
+[14:09:01] 2 tRNA-Lys [910141,910214] 34 (ttt)
+[14:09:01] 3 tRNA-Lys [910279,910352] 34 (ttt)
+[14:09:01] tRNA [910514,910607] is a pseudo/wacky gene - skipping.
+[14:09:01] 5 tRNA-Asp c[919529,919600] 34 (gtc)
+[14:09:01] 6 tRNA-Asp c[920120,920190] 34 (gtc)
+[14:09:01] 7 tRNA-Arg c[920910,920984] 35 (tcg)
+[14:09:01] 8 tRNA-Arg c[921507,921581] 35 (tcg)
+[14:09:01] 9 tRNA-Gly [922147,922219] 34 (tcc)
+[14:09:01] 10 tRNA-Gly [922447,922519] 34 (tcc)
+[14:09:01] 11 tRNA-Arg c[925195,925269] 35 (tcg)
+[14:09:01] 12 tRNA-Arg [965992,966065] 34 (tct)
+[14:09:01] 13 tRNA-Arg [966555,966631] 35 (tct)
+[14:09:01] 14 tRNA-Ala [1272889,1272964] 36 (ggc)
+[14:09:01] 15 tRNA-Ala [2411763,2411838] 36 (ggc)
+[14:09:01] 16 tRNA-Ala [2794523,2794598] 36 (ggc)
+[14:09:01] 17 tRNA-Ser c[3725774,3725856] 34 (aga)
+[14:09:01] 18 tRNA-Ser c[3729209,3729291] 34 (aga)
+[14:09:01] 1 tRNA-Arg c[171727,171801] 35 (tct)
+[14:09:01] 2 tRNA-Arg c[172737,172811] 35 (tct)
+[14:09:01] 3 tRNA-Arg c[173023,173096] 35 (tct)
+[14:09:01] 4 tRNA-Ala c[1505966,1506039] 34 (ggc)
+[14:09:01] 5 tRNA-Gly [1976684,1976756] 34 (tcc)
+[14:09:01] 6 tRNA-Gly [2150409,2150481] 34 (tcc)
+[14:09:01] 7 tRNA-Gly [2150700,2150772] 34 (tcc)
+[14:09:01] 8 tRNA-Pro [3100069,3100139] 33 (cgg)
+[14:09:01] 9 tRNA-Val [3151400,3151470] 32 (cac)
+[14:09:01] tRNA [4191709,4191781] is a pseudo/wacky gene - skipping.
+[14:09:01] 11 tRNA-Met c[4404374,4404446] 34 (cat)
+[14:09:01] 12 tRNA-Ser c[6326625,6326707] 35 (aga)
+[14:09:01] 13 tRNA-Met c[8300675,8300747] 33 (cat)
+[14:09:01] 1 tRNA-His c[25013,25084] 34 (gtg)
+[14:09:01] 1 tRNA-Trp c[226583,226656] 34 (cca)
+[14:09:07] 1 tRNA-Ala c[2343051,2343124] 34 (ggc)
+[14:09:07] 2 tRNA-Ser c[6468348,6468422] 35 (gga)
+[14:09:07] tRNA [7358391,7358482] is a pseudo/wacky gene - skipping.
+[14:09:07] 4 tRNA-Leu [7522039,7522122] 35 (cag)
+[14:09:07] 5 tRNA-Trp c[7590532,7590605] 34 (cca)
+[14:09:07] tRNA [7721987,7722059] is a pseudo/wacky gene - skipping.
+[14:09:07] 7 tRNA-Ile c[9441920,9441995] 36 (aat)
+[14:09:07] tRNA [9599271,9599361] is a pseudo/wacky gene - skipping.
+[14:09:07] 9 tRNA-Glu c[10498717,10498788] 34 (ttc)
+[14:09:07] 10 tRNA-Ile c[10754738,10754813] 36 (aat)
+[14:09:07] 11 tRNA-Thr [10756423,10756496] 35 (agt)
+[14:09:07] 12 tRNA-Thr c[10756610,10756683] 35 (agt)
+[14:09:07] 13 tRNA-Glu c[10760777,10760848] 34 (ctc)
+[14:09:07] 14 tRNA-Glu c[10761177,10761248] 34 (ttc)
+[14:09:07] 15 tRNA-Ser c[10799880,10799963] 35 (tga)
+[14:09:07] 16 tRNA-Ser c[10805632,10805722] 36 (aga)
+[14:09:07] 17 tRNA-Lys [10806274,10806346] 34 (ttt)
+[14:09:07] tRNA c[10807371,10807463] is a pseudo/wacky gene - skipping.
+[14:09:07] 19 tRNA-Lys c[10807594,10807668] 35 (ttt)
+[14:09:07] 20 tRNA-Lys [10808058,10808131] 34 (ttt)
+[14:09:07] 21 tRNA-Ile c[10812080,10812155] 36 (aat)
+[14:09:07] 22 tRNA-Ile [10822672,10822747] 36 (aat)
+[14:09:07] 23 tRNA-Ala [10825474,10825548] 35 (agc)
+[14:09:07] 1 tRNA-Trp [93504,93577] 34 (cca)
+[14:09:07] 1 tRNA-Lys c[328333,328405] 34 (ctt)
+[14:09:07] 1 tRNA-Leu [51531,51607] 36 (caa)
+[14:09:07] 1 tRNA-Met c[15536,15608] 34 (cat)
+[14:09:07] 1 tRNA-Phe [28073,28146] 34 (gaa)
+[14:09:07] 1 tRNA-Phe [157415,157488] 34 (gaa)
+[14:09:07] 1 tRNA-Met c[29477,29548] 33 (cat)
+[14:09:07] 2 tRNA-Met c[30757,30828] 33 (cat)
+[14:09:07] 3 tRNA-Met c[31329,31400] 33 (cat)
+[14:09:07] 4 tRNA-Cys [47515,47586] 33 (gca)
+[14:09:07] 5 tRNA-Cys [53314,53385] 33 (gca)
+[14:09:07] 6 tRNA-Pro c[144456,144527] 33 (tgg)
+[14:09:07] 7 tRNA-Pro [144816,144887] 33 (agg)
+[14:09:07] tRNA [585009,585095] is a pseudo/wacky gene - skipping.
+[14:09:07] 9 tRNA-Leu [586332,586424] 35 (tag)
+[14:09:07] 10 tRNA-Ala c[659422,659495] 34 (ggc)
+[14:09:07] 11 tRNA-Ser c[698828,698900] 33 (gga)
+[14:09:07] 12 tRNA-Ser c[703580,703652] 33 (gga)
+[14:09:07] 13 tRNA-Ala [1039797,1039872] 36 (ggc)
+[14:09:07] 14 tRNA-Ala c[1193622,1193698] 35 (ggc)
+[14:09:07] 15 tRNA-Ala c[1194128,1194204] 35 (ggc)
+[14:09:07] 16 tRNA-Ala c[1551141,1551214] 34 (ggc)
+[14:09:07] 17 tRNA-Lys c[3414016,3414099] 31 (ttt)
+[14:09:07] 1 tRNA-Thr c[78544,78616] 33 (cgt)
+[14:09:07] 2 tRNA-Ser c[83325,83409] 36 (gct)
+[14:09:07] 3 tRNA-Thr [84400,84471] 33 (tgt)
+[14:09:07] 4 tRNA-Thr [84866,84937] 33 (tgt)
+[14:09:07] 5 tRNA-Thr [183203,183274] 33 (cgt)
+[14:09:07] 6 tRNA-Ser [190594,190678] 36 (gct)
+[14:09:07] 1 tRNA-Lys c[95142,95214] 34 (ctt)
+[14:09:07] 2 tRNA-Lys c[99812,99884] 34 (ctt)
+[14:09:07] 3 tRNA-Lys c[103935,104007] 34 (ctt)
+[14:09:07] tRNA c[104269,104340] is a pseudo/wacky gene - skipping.
+[14:09:07] 5 tRNA-Lys c[104462,104534] 34 (ctt)
+[14:09:07] 6 tRNA-Lys c[104656,104728] 34 (ctt)
+[14:09:12] 7 tRNA-Lys c[104853,104925] 34 (ctt)
+[14:09:12] 8 tRNA-Lys c[105049,105121] 34 (ctt)
+[14:09:12] 1 tRNA-Thr c[430707,430781] 35 (ggt)
+[14:09:12] 2 tRNA-Thr c[2287525,2287614] 34 (tgt)
+[14:09:12] 3 tRNA-Ala [2345870,2345946] 35 (ggc)
+[14:09:12] 4 tRNA-Met c[3158397,3158487] 34 (cat)
+[14:09:12] 5 tRNA-Met [3861030,3861102] 34 (cat)
+[14:09:12] 6 tRNA-Ser [4637315,4637390] 35 (act)
+[14:09:12] 7 tRNA-Gly c[6051399,6051469] 33 (gcc)
+[14:09:12] 8 tRNA-Ala [6585832,6585908] 35 (ggc)
+[14:09:12] tRNA c[7463861,7463933] is a pseudo/wacky gene - skipping.
+[14:09:12] 10 tRNA-Ser [9426455,9426529] 35 (gga)
+[14:09:12] 11 tRNA-Met c[10955580,10955654] 35 (cat)
+[14:09:12] tRNA [12108463,12108538] is a pseudo/wacky gene - skipping.
+[14:09:12] 13 tRNA-Glu c[12692121,12692195] 35 (ctc)
+[14:09:12] 14 tRNA-Ser [12903154,12903228] 35 (gga)
+[14:09:12] 15 tRNA-Gln [13537637,13537708] 34 (ttg)
+[14:09:12] 1 tRNA-Pro c[133347,133417] 33 (agg)
+[14:09:12] 2 tRNA-Pro [133654,133725] 33 (tgg)
+[14:09:12] 1 tRNA-Ala c[281684,281762] 33 (agc)
+[14:09:12] 1 tRNA-Gln c[1035831,1035902] 34 (ttg)
+[14:09:12] 1 tRNA-Ser [488258,488342] 36 (gct)
+[14:09:12] 2 tRNA-Lys c[860258,860348] 35 (ttt)
+[14:09:12] 3 tRNA-Met c[1985117,1985189] 34 (cat)
+[14:09:12] tRNA c[248206,248278] is a pseudo/wacky gene - skipping.
+[14:09:12] 1 tRNA-Ala [80706,80781] 36 (ggc)
+[14:09:12] Found 408 tRNAs
+[14:09:12] Predicting Ribosomal RNAs
+[14:09:12] Running Barrnap with 8 threads
+[14:09:38] 1 contig_116 40692410 5S ribosomal RNA
+[14:09:38] 2 contig_116 40695129 5S ribosomal RNA
+[14:09:38] 3 contig_116 40695976 5S ribosomal RNA
+[14:09:38] 4 contig_116 40696666 5S ribosomal RNA
+[14:09:38] 5 contig_116 40703339 5S ribosomal RNA
+[14:09:38] 6 contig_116 40703674 5S ribosomal RNA
+[14:09:38] 7 contig_116 40704352 5S ribosomal RNA
+[14:09:38] 8 contig_116 40704700 5S ribosomal RNA
+[14:09:38] 9 contig_116 40705379 5S ribosomal RNA
+[14:09:38] 10 contig_116 40705752 5S ribosomal RNA
+[14:09:38] 11 contig_116 40708513 5S ribosomal RNA
+[14:09:38] 12 contig_116 40708874 5S ribosomal RNA
+[14:09:38] 13 contig_116 40714150 5S ribosomal RNA
+[14:09:38] 14 contig_116 40714505 5S ribosomal RNA
+[14:09:38] 15 contig_116 40715064 5S ribosomal RNA
+[14:09:38] 16 contig_116 40715423 5S ribosomal RNA
+[14:09:38] 17 contig_116 40715926 5S ribosomal RNA
+[14:09:38] 18 contig_123 1274754 5S ribosomal RNA
+[14:09:38] 19 contig_136 1510258 5S ribosomal RNA
+[14:09:38] 20 contig_136 1528491 5S ribosomal RNA
+[14:09:38] 21 contig_136 1528810 5S ribosomal RNA
+[14:09:38] 22 contig_153 550514 5S ribosomal RNA
+[14:09:38] 23 contig_153 553873 5S ribosomal RNA
+[14:09:38] 24 contig_153 554421 5S ribosomal RNA
+[14:09:38] 25 contig_3 11581 16S ribosomal RNA (partial)
+[14:09:38] 26 contig_4 525672 16S ribosomal RNA (partial)
+[14:09:38] 27 contig_4 605182 23S ribosomal RNA (partial)
+[14:09:38] 28 contig_4 608349 16S ribosomal RNA (partial)
+[14:09:38] 29 contig_4 1288486 16S ribosomal RNA (partial)
+[14:09:38] 30 contig_4 1306654 23S ribosomal RNA (partial)
+[14:09:38] 31 contig_4 1322786 16S ribosomal RNA (partial)
+[14:09:38] 32 contig_4 1325528 23S ribosomal RNA (partial)
+[14:09:38] 33 contig_4 1326976 23S ribosomal RNA
+[14:09:38] 34 contig_80 7582660 5S ribosomal RNA
+[14:09:38] 35 contig_80 7582995 5S ribosomal RNA
+[14:09:38] 36 contig_80 7584319 5S ribosomal RNA
+[14:09:38] 37 contig_80 7584704 5S ribosomal RNA
+[14:09:38] 38 contig_80 7585316 5S ribosomal RNA (partial)
+[14:09:38] 39 contig_80 7588800 5S ribosomal RNA (partial)
+[14:09:38] 40 contig_80 7589106 5S ribosomal RNA
+[14:09:38] 41 contig_80 7589542 5S ribosomal RNA
+[14:09:38] 42 contig_80 7589862 5S ribosomal RNA
+[14:09:38] 43 contig_80 7590498 5S ribosomal RNA
+[14:09:38] 44 contig_80 7591220 5S ribosomal RNA
+[14:09:38] 45 contig_80 7591557 5S ribosomal RNA
+[14:09:38] 46 contig_80 7591991 5S ribosomal RNA
+[14:09:38] 47 contig_80 7592729 5S ribosomal RNA
+[14:09:38] 48 contig_80 7595081 5S ribosomal RNA
+[14:09:38] 49 contig_80 7597601 5S ribosomal RNA
+[14:09:38] 50 contig_80 7597981 5S ribosomal RNA
+[14:09:38] 51 contig_80 7598316 5S ribosomal RNA
+[14:09:38] 52 contig_80 7598747 5S ribosomal RNA
+[14:09:38] 53 contig_80 7599466 5S ribosomal RNA
+[14:09:38] 54 contig_80 7599804 5S ribosomal RNA
+[14:09:38] 55 contig_83 10755571 5S ribosomal RNA
+[14:09:38] 56 contig_83 10773015 5S ribosomal RNA
+[14:09:38] 57 contig_83 10773350 5S ribosomal RNA
+[14:09:38] 58 contig_83 10773815 5S ribosomal RNA
+[14:09:38] 59 contig_83 10821775 5S ribosomal RNA
+[14:09:38] 60 contig_83 10822117 5S ribosomal RNA
+[14:09:38] 61 contig_83 10825793 5S ribosomal RNA
+[14:09:38] 62 contig_83 10828196 5S ribosomal RNA
+[14:09:38] 63 contig_83 10829438 5S ribosomal RNA
+[14:09:38] 64 contig_840 327697 5S ribosomal RNA
+[14:09:38] 65 contig_840 328866 5S ribosomal RNA
+[14:09:38] 66 contig_840 329334 5S ribosomal RNA
+[14:09:38] 67 contig_910 69501 5S ribosomal RNA
+[14:09:38] Found 67 rRNAs
+[14:09:38] Skipping ncRNA search, enable with --rfam if desired.
+[14:09:38] Total of 475 tRNA + rRNA features
+[14:09:38] Searching for CRISPR repeats
+[14:09:51] Found 0 CRISPRs
+[14:09:51] Predicting coding sequences
+[14:09:51] Contigs total 265502206 bp, so using single mode
+[14:09:51] Running: prodigal -i PROKKA_07132026\/PROKKA_07132026\.fna -c -m -g 11 -p single -f sco -q
+[14:10:33] Excluding CDS which overlaps existing RNA (tRNA) at contig_1031:101849..102118 on + strand
+[14:10:33] Excluding CDS which overlaps existing RNA (tRNA) at contig_1031:102061..102453 on + strand
+[14:10:35] Excluding CDS which overlaps existing RNA (tRNA) at contig_1110:2296..2529 on + strand
+[14:10:36] Found 9244 CDS
+[14:10:36] Connecting features back to sequences
+[14:10:36] Not using genus-specific database. Try --usegenus to enable it.
+[14:10:36] Annotating CDS, please be patient.
+[14:10:36] Will use 8 CPUs for similarity searching.
+[14:10:38] There are still 9244 unannotated CDS left (started with 9244)
+[14:10:38] Will use blast to search against /home/mieke/miniconda3/envs/prokka/bin/../db/kingdom/Bacteria/sprot with 8 CPUs
+[14:10:38] Running: cat PROKKA_07132026\/sprot\.faa | parallel --gnu --plain -j 8 --block 55111 --recstart '>' --pipe blastp -query - -db /home/mieke/miniconda3/envs/prokka/bin/../db/kingdom/Bacteria/sprot -evalue 1e-06 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > PROKKA_07132026\/sprot\.blast 2> /dev/null
+[14:10:57] Modify product: Putative multidrug export ATP-binding/permease protein SA1683 => Putative multidrug export ATP-binding/permease protein
+[14:10:57] Modify product: Uncharacterized ABC transporter ATP-binding protein TM_0288 => putative ABC transporter ATP-binding protein
+[14:10:57] Modify product: Putative multidrug export ATP-binding/permease protein SA1683 => Putative multidrug export ATP-binding/permease protein
+[14:10:58] Modify product: Putative cystathionine beta-synthase Rv1077 => Putative cystathionine beta-synthase
+[14:10:58] Modify product: Probable sulfate transporter Rv1739c => putative sulfate transporter
+[14:10:58] Modify product: Uncharacterized GMC-type oxidoreductase Rv1279 => putative GMC-type oxidoreductase
+[14:10:58] Modify product: Uncharacterized GMC-type oxidoreductase Rv1279 => putative GMC-type oxidoreductase
+[14:10:58] Modify product: Uncharacterized GMC-type oxidoreductase Rv1279 => putative GMC-type oxidoreductase
+[14:10:58] Modify product: Uncharacterized GMC-type oxidoreductase Rv1279 => putative GMC-type oxidoreductase
+[14:10:58] Modify product: Uncharacterized GMC-type oxidoreductase Rv1279 => putative GMC-type oxidoreductase
+[14:10:58] Modify product: Uncharacterized GMC-type oxidoreductase Rv1279 => putative GMC-type oxidoreductase
+[14:10:58] Modify product: Uncharacterized GMC-type oxidoreductase Rv1279 => putative GMC-type oxidoreductase
+[14:10:58] Modify product: Uncharacterized GMC-type oxidoreductase Rv1279 => putative GMC-type oxidoreductase
+[14:10:58] Modify product: Uncharacterized GMC-type oxidoreductase Rv1279 => putative GMC-type oxidoreductase
+[14:10:58] Modify product: Uncharacterized GMC-type oxidoreductase Rv1279 => putative GMC-type oxidoreductase
+[14:10:59] Modify product: Uncharacterized oxidoreductase Rv2750 => putative oxidoreductase
+[14:10:59] Modify product: Uncharacterized MFS-type transporter YhjX => putative MFS-type transporter YhjX
+[14:10:59] Modify product: Probable multidrug ABC transporter permease YbhR => putative multidrug ABC transporter permease YbhR
+[14:10:59] Cleaned 18 /product names
+[14:10:59] Deleting unwanted file: PROKKA_07132026/sprot.faa
+[14:11:00] Deleting unwanted file: PROKKA_07132026/sprot.blast
+[14:11:01] There are still 9133 unannotated CDS left (started with 9244)
+[14:11:01] Will use hmmer3 to search against /home/mieke/miniconda3/envs/prokka/bin/../db/hmm/HAMAP.hmm with 8 CPUs
+[14:11:01] Running: cat PROKKA_07132026\/HAMAP\.hmm\.faa | parallel --gnu --plain -j 8 --block 53995 --recstart '>' --pipe hmmscan --noali --notextw --acc -E 1e-06 --cpu 1 /home/mieke/miniconda3/envs/prokka/bin/../db/hmm/HAMAP.hmm /dev/stdin > PROKKA_07132026\/HAMAP\.hmm\.hmmer3 2> /dev/null
+[14:13:02] Deleting unwanted file: PROKKA_07132026/HAMAP.hmm.faa
+[14:13:02] Deleting unwanted file: PROKKA_07132026/HAMAP.hmm.hmmer3
+[14:13:02] Labelling remaining 9113 proteins as 'hypothetical protein'
+[14:13:02] Possible /pseudo 'putative GMC-type oxidoreductase' at contig_1026 position 126778
+[14:13:02] Possible /pseudo 'putative GMC-type oxidoreductase' at contig_1026 position 136639
+[14:13:02] Possible /pseudo 'putative GMC-type oxidoreductase' at contig_1026 position 146941
+[14:13:02] Possible /pseudo 'putative GMC-type oxidoreductase' at contig_1027 position 22029
+[14:13:02] Possible /pseudo 'Ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE' at contig_1034 position 135052
+[14:13:02] Possible /pseudo 'Ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE' at contig_1034 position 135435
+[14:13:02] Possible /pseudo 'NAD(P) transhydrogenase subunit beta' at contig_1056 position 160328
+[14:13:02] Possible /pseudo 'NAD(P) transhydrogenase subunit alpha' at contig_1056 position 161904
+[14:13:02] Possible /pseudo 'NAD(P) transhydrogenase subunit alpha' at contig_1056 position 163048
+[14:13:02] Possible /pseudo 'Isocitrate dehydrogenase [NADP]' at contig_1056 position 187268
+[14:13:02] Possible /pseudo 'Cysteine synthase' at contig_1056 position 244268
+[14:13:02] Possible /pseudo 'Glutathione hydrolase proenzyme' at contig_1065 position 565579
+[14:13:02] Possible /pseudo 'Isoaspartyl peptidase' at contig_1065 position 605111
+[14:13:02] Possible /pseudo 'Para-nitrobenzyl esterase' at contig_1066 position 24690
+[14:13:02] Possible /pseudo 'Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex' at contig_1066 position 203509
+[14:13:02] Possible /pseudo 'Protoporphyrinogen oxidase' at contig_1066 position 325675
+[14:13:02] Possible /pseudo 'Protoporphyrinogen oxidase' at contig_1066 position 326355
+[14:13:02] Possible /pseudo 'Aminopeptidase N' at contig_1066 position 359206
+[14:13:02] Possible /pseudo 'Thymidylate synthase' at contig_1071 position 608
+[14:13:02] Possible /pseudo 'tRNA-specific adenosine deaminase' at contig_110 position 299667
+[14:13:02] Possible /pseudo 'Extracellular xylan exo-alpha-(1->2)-glucuronosidase' at contig_1111 position 92477
+[14:13:02] Possible /pseudo 'Extracellular xylan exo-alpha-(1->2)-glucuronosidase' at contig_1111 position 92943
+[14:13:02] Possible /pseudo 'NAD-dependent malic enzyme' at contig_1127 position 42228
+[14:13:02] Found 67 unique /gene codes.
+[14:13:02] Fixed 2 duplicate /gene - pnbA_1 pnbA_2
+[14:13:02] Fixed 3 duplicate /gene - ubiE_1 ubiE_2 ubiE_3
+[14:13:02] Fixed 3 duplicate /gene - iaaA_1 iaaA_2 iaaA_3
+[14:13:02] Fixed 2 duplicate /gene - sucB_1 sucB_2
+[14:13:02] Fixed 6 duplicate /gene - ggt_1 ggt_2 ggt_3 ggt_4 ggt_5 ggt_6
+[14:13:02] Fixed 2 duplicate /gene - drrA_1 drrA_2
+[14:13:02] Fixed 2 duplicate /gene - thyA_1 thyA_2
+[14:13:02] Fixed 4 duplicate /gene - pntA_1 pntA_2 pntA_3 pntA_4
+[14:13:02] Fixed 2 duplicate /gene - icd_1 icd_2
+[14:13:02] Fixed 4 duplicate /gene - betA_1 betA_2 betA_3 betA_4
+[14:13:02] Fixed 2 duplicate /gene - maeA_1 maeA_2
+[14:13:02] Fixed 3 duplicate /gene - hemY_1 hemY_2 hemY_3
+[14:13:02] Fixed 3 duplicate /gene - bglA_1 bglA_2 bglA_3
+[14:13:02] Fixed 4 duplicate /gene - cetZ_1 cetZ_2 cetZ_3 cetZ_4
+[14:13:02] Fixed 3 duplicate /gene - pepN_1 pepN_2 pepN_3
+[14:13:02] Fixed 3 duplicate /gene - smc_1 smc_2 smc_3
+[14:13:02] Fixed 2 duplicate /gene - topA_1 topA_2
+[14:13:02] Fixed 2 duplicate /gene - tadA_1 tadA_2
+[14:13:02] Fixed 7 duplicate /gene - alkJ_1 alkJ_2 alkJ_3 alkJ_4 alkJ_5 alkJ_6 alkJ_7
+[14:13:02] Fixed 2 duplicate /gene - pigC_1 pigC_2
+[14:13:02] Fixed 2 duplicate /gene - pntB_1 pntB_2
+[14:13:02] Fixed 21 colliding /gene names.
+[14:13:02] Adding /locus_tag identifiers
+[14:13:02] Assigned 9719 locus_tags to CDS and RNA features.
+[14:13:02] Writing outputs to PROKKA_07132026/
+[14:13:10] Generating annotation statistics file
+[14:13:10] Generating Genbank and Sequin files
+[14:13:10] Running: tbl2asn -V b -a r10k -l paired-ends -M n -N 1 -y 'Annotated using prokka 1.13 from https://github.com/tseemann/prokka' -Z PROKKA_07132026\/PROKKA_07132026\.err -i PROKKA_07132026\/PROKKA_07132026\.fsa 2> /dev/null
+[14:14:36] Deleting unwanted file: PROKKA_07132026/errorsummary.val
+[14:14:36] Deleting unwanted file: PROKKA_07132026/PROKKA_07132026.dr
+[14:14:36] Deleting unwanted file: PROKKA_07132026/PROKKA_07132026.fixedproducts
+[14:14:36] Deleting unwanted file: PROKKA_07132026/PROKKA_07132026.ecn
+[14:14:36] Deleting unwanted file: PROKKA_07132026/PROKKA_07132026.val
+[14:14:36] Repairing broken .GBK output that tbl2asn produces...
+[14:14:36] Running: sed 's/COORDINATES: profile/COORDINATES:profile/' < PROKKA_07132026\/PROKKA_07132026\.gbf > PROKKA_07132026\/PROKKA_07132026\.gbk
+[14:14:40] Deleting unwanted file: PROKKA_07132026/PROKKA_07132026.gbf
+[14:14:40] Output files:
+[14:14:40] PROKKA_07132026/PROKKA_07132026.err
+[14:14:40] PROKKA_07132026/PROKKA_07132026.ffn
+[14:14:40] PROKKA_07132026/PROKKA_07132026.fna
+[14:14:40] PROKKA_07132026/PROKKA_07132026.gbk
+[14:14:40] PROKKA_07132026/PROKKA_07132026.gff
+[14:14:40] PROKKA_07132026/PROKKA_07132026.txt
+[14:14:40] PROKKA_07132026/PROKKA_07132026.fsa
+[14:14:40] PROKKA_07132026/PROKKA_07132026.faa
+[14:14:40] PROKKA_07132026/PROKKA_07132026.sqn
+[14:14:40] PROKKA_07132026/PROKKA_07132026.log
+[14:14:40] PROKKA_07132026/PROKKA_07132026.tbl
+[14:14:40] PROKKA_07132026/PROKKA_07132026.tsv
+[14:14:40] Annotation finished successfully.
+[14:14:40] Walltime used: 6.72 minutes
+[14:14:40] If you use this result please cite the Prokka paper:
+[14:14:40] Seemann T (2014) Prokka: rapid prokaryotic genome annotation. Bioinformatics. 30(14):2068-9.
+[14:14:40] Type 'prokka --citation' for more details.
+[14:14:40] Share and enjoy!

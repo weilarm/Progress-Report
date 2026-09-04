@@ -1,0 +1,13 @@
+  0%|          | 0/13 [00:00<?, ?it/s]  8%|▊         | 1/13 [00:00<00:08,  1.39it/s] 15%|█▌        | 2/13 [00:01<00:05,  2.05it/s] 38%|███▊      | 5/13 [00:01<00:01,  5.00it/s] 46%|████▌     | 6/13 [00:01<00:01,  5.49it/s] 69%|██████▉   | 9/13 [00:01<00:00,  8.48it/s]BLAST Database error: Database memory map file error
+BLAST Database error: Database memory map file error
+BLAST Database error: Database memory map file error
+The input files have no entry:  - /share/project/mieke/fdog_neighbor_regions/XP_037025833.1/output/XP_037025836_1_LOC119067144_275/tmp/BRAOD_1564500_1/JAFDOW010000598.1_1.fasta
+Please check your input files. Only files in fasta/fastq[.gz|bz2] are supported
+The input files have no entry:  - /share/project/mieke/fdog_neighbor_regions/XP_037025833.1/output/XP_037025836_1_LOC119067144_275/tmp/BRAIM_335710_1/OZ247436.1_1.fasta
+Please check your input files. Only files in fasta/fastq[.gz|bz2] are supported
+The input files have no entry:  - /share/project/mieke/fdog_neighbor_regions/XP_037025833.1/output/XP_037025836_1_LOC119067144_275/tmp/BRAOC_1260802_1/JBLNJI010000251.1_1.fasta
+Please check your input files. Only files in fasta/fastq[.gz|bz2] are supported
+BLAST Database error: Database memory map file error
+BLAST Database error: Database memory map file error
+ 85%|████████▍ | 11/13 [00:07<00:02,  1.06s/it]BLAST Database error: Database memory map file error
+100%|██████████| 13/13 [00:07<00:00,  1.31it/s]100%|██████████| 13/13 [00:07<00:00,  1.67it/s]

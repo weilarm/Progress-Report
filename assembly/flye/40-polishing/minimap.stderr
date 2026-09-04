@@ -1,0 +1,25 @@
+[samfaipath] build FASTA index...
+[M::mm_idx_gen::8.976*1.68] collected minimizers
+[M::mm_idx_gen::9.337*2.50] sorted minimizers
+[M::main::9.337*2.50] loaded/built the index for 1304 target sequence(s)
+[M::mm_mapopt_update::10.148*2.38] mid_occ = 199
+[M::mm_idx_stat] kmer size: 17; skip: 10; is_hpc: 0; #seq: 1304
+[M::mm_idx_stat::10.626*2.31] distinct minimizers: 38933225 (79.12% are singletons); average occurrences: 1.603; average spacing: 5.493; total length: 342934088
+[E::bam_tag2cigar] edge_17 encodes a CIGAR with 208919 operators at the CG tag
+[E::bam_tag2cigar] edge_80 encodes a CIGAR with 103249 operators at the CG tag
+[E::bam_tag2cigar] edge_82 encodes a CIGAR with 85801 operators at the CG tag
+[E::bam_tag2cigar] edge_83 encodes a CIGAR with 139273 operators at the CG tag
+[E::bam_tag2cigar] edge_90 encodes a CIGAR with 69195 operators at the CG tag
+[E::bam_tag2cigar] edge_92 encodes a CIGAR with 165407 operators at the CG tag
+[E::bam_tag2cigar] edge_116 encodes a CIGAR with 484941 operators at the CG tag
+[E::bam_tag2cigar] edge_137 encodes a CIGAR with 69437 operators at the CG tag
+[E::bam_tag2cigar] edge_138 encodes a CIGAR with 123961 operators at the CG tag
+[E::bam_tag2cigar] edge_145 encodes a CIGAR with 83855 operators at the CG tag
+[E::bam_tag2cigar] edge_148 encodes a CIGAR with 69858 operators at the CG tag
+[E::bam_tag2cigar] edge_250 encodes a CIGAR with 105823 operators at the CG tag
+[E::bam_tag2cigar] edge_277 encodes a CIGAR with 77133 operators at the CG tag
+[M::worker_pipeline::244.536*8.09] mapped 1876 sequences
+[M::main] Version: 2.24-r1155-dirty
+[M::main] CMD: flye-minimap2 -x map-ont -t 24 -k 17 -a -p 0.5 -N 10 --sam-hit-only -L -K 5G -z 1000 -Q --secondary-seq -I 64G /share/project/mieke/assembly/flye/40-polishing/filtered_contigs.fasta /share/project/mieke/assembly/flye/30-contigger/graph_final.fasta
+[M::main] Real time: 244.847 sec; CPU: 1978.729 sec; Peak RSS: 23.190 GB
+[bam_sort_core] merging from 0 files and 4 in-memory blocks...
